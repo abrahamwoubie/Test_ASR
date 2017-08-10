@@ -2,8 +2,7 @@
 
 # The scripts and outputs of the decoding are found in Decoding folder
 
-1. Generate_Lattice.sh # It generates a lattice and writes the generated lattice file (i.e., lat.1.gz) to 
-/home/abraham/Speech_Recognition/kaldi/egs/SoapBox/exp/DNN/decode/
+1. Generate_Lattice.sh # It generates a lattice and writes the generated lattice file (i.e., lat.1.gz) to ./exp/DNN/decode/
 
 2. Use the following script to compute the WER
 	
