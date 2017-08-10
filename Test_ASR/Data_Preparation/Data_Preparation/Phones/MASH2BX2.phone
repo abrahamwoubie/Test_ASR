@@ -1,0 +1,16 @@
+mash2bx2:phone> SILb 0.00 10.00 -1622490
+mash2bx2:phone> P(SIL,IY)b 11.00 21.00 -1786709
+mash2bx2:phone> IY(P,P) 22.00 30.00 -1124984
+mash2bx2:phone> P(IY,AX) 31.00 37.00 -1185448
+mash2bx2:phone> AX(P,L) 38.00 44.00 -926763
+mash2bx2:phone> L(AX,G)e 45.00 50.00 -823907
+mash2bx2:phone> G(L,AA) 51.00 56.00 -1111755
+mash2bx2:phone> AA 57.00 68.00 -2015041
+mash2bx2:phone> TD 69.00 72.00 -862837
+mash2bx2:phone> SIL 73.00 75.00 -616936
+mash2bx2:phone> S(SIL,IH)b 76.00 92.00 -2436130
+mash2bx2:phone> IH 93.00 102.00 -1924434
+mash2bx2:phone> KD(IH,SIL)e 103.00 107.00 -1335188
+mash2bx2:phone> SIL 108.00 115.00 -1667606
+mash2bx2:phone> +RUSTLE+ 116.00 124.00 -1718871
+mash2bx2:phone> SILe 125.00 652.00 -65011379

@@ -1,0 +1,16 @@
+<s>	silb	
+[begin_noise]	sil	
+macaws	m(sil,ax)b	ax(m,k)	k(ax,ao)	ao(k,z)	z(ao,l)e	
+like	l(z,ay)b	ay(l,kd)	kd(ay,sil)e	
+[end_noise]	sil	
+birds	b(sil,er)b	er	d(er,z)	z(d,dh)e	
+that	dh(z,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+like	l(sil,ay)b	ay(l,kd)	kd(ay,sil)e	
+sil	sil	
+look	l(sil,uh)b	uh(l,kd)	kd(uh,l)e	
+like	l(kd,ay)b	ay(l,kd)	kd(ay,sil)e	
+sil	sil	
+parrots	p(sil,eh)b	eh(p,r)	r(eh,ax)	ax	ts(ax,sil)e	
+[sil]	sil	
+</s>	sile	

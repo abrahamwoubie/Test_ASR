@@ -1,0 +1,32 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+on(2)	ao(sil,n)b	n(ao,t)e	
+top(2)	t(n,ao)b	ao(t,pd)	pd(ao,sil)e	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+/ih/	ih	
+sil	sil	
+/ts/	ts	
+colors	k(ts,ah)b	ah(k,l)	l	axr(l,z)	z(axr,aa)e	
+are	aa(z,r)b	r(aa,sil)e	
+[begin_noise]	sil	
+/b	b	
+r(/r/)	r	
+ay/	ay(r,sil)s	
+sil	sil	
+[end_noise]	sil	
+/ts/	ts	
+[begin_noise]	sil	
+on	aa(sil,n)b	n(aa,t)e	
+top(2)	t(n,ao)b	ao(t,pd)	pd(ao,sil)e	
+[end_noise]	sil	
+its	ih(sil,ts)b	ts(ih,k)e	
+colors	k(ts,ah)b	ah(k,l)	l	axr(l,z)	z(axr,aa)e	
+are	aa(z,r)b	r(aa,b)e	
+/b	b	
+r(/r/)	r	
+sil	sil	
+ay/	ay(sil,sil)s	
+</s>	sile	

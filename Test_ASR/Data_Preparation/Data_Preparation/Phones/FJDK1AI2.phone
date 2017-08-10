@@ -1,0 +1,16 @@
+fjdk1ai2:phone> SILb 0.00 3.00 -783304
+fjdk1ai2:phone> SIL 4.00 28.00 -3373910
+fjdk1ai2:phone> S(SIL,T)b 29.00 61.00 -5186914
+fjdk1ai2:phone> T(S,EY) 62.00 71.00 -1601756
+fjdk1ai2:phone> EY(T,SIL)e 72.00 133.00 -8901286
+fjdk1ai2:phone> SIL 134.00 137.00 -841203
+fjdk1ai2:phone> AX(SIL,W)b 138.00 153.00 -3004256
+fjdk1ai2:phone> W(AX,EY) 154.00 177.00 -3223656
+fjdk1ai2:phone> EY(W,SIL)e 178.00 224.00 -6722445
+fjdk1ai2:phone> SIL 225.00 227.00 -634344
+fjdk1ai2:phone> F(SIL,AXR)b 228.00 253.00 -3651512
+fjdk1ai2:phone> AXR(F,M) 254.00 283.00 -4599290
+fjdk1ai2:phone> M 284.00 296.00 -2469354
+fjdk1ai2:phone> SIL 297.00 304.00 -1256986
+fjdk1ai2:phone> SIL 305.00 459.00 -19570286
+fjdk1ai2:phone> SILe 460.00 750.00 -36871337

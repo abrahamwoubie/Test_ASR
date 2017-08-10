@@ -1,0 +1,15 @@
+fkmm1au2:word>                  <s>    0   11        -1655480
+fkmm1au2:word>                TO(3)   12  110       -16698650
+fkmm1au2:word>    [NOISE](+RUSTLE+)  111  118        -1542866
+fkmm1au2:word>                  SIL  119  255       -16939764
+fkmm1au2:word>                   /D  256  263        -1614542
+fkmm1au2:word>                  IY/  264  276        -2029306
+fkmm1au2:word>                 </s>  277  280         -955611
+fkmm1au2:phone>                 SILb    0   11        -1655480
+fkmm1au2:phone>           T(SIL,UW)b   12   43        -6440013
+fkmm1au2:phone>           UW(T,SIL)e   44  110       -10258637
+fkmm1au2:phone>             +RUSTLE+  111  118        -1542866
+fkmm1au2:phone>                  SIL  119  255       -16939764
+fkmm1au2:phone>                    D  256  263        -1614542
+fkmm1au2:phone>           IY(D,SIL)e  264  276        -2029306
+fkmm1au2:phone>                 SILe  277  280         -955611

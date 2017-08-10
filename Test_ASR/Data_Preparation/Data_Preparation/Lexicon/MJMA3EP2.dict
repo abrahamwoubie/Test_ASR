@@ -1,0 +1,21 @@
+<s>	silb	
+/t	t	
+uw/	uw(t,p)e	
+people	p(uw,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,ix)e	
+in(2)	ix(l,n)b	n(ix,y)e	
+your	y(n,ao)b	ao(y,r)	r(ao,sil)e	
+sil	sil	
+family(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,eh)e	
+ever	eh(iy,v)b	v(eh,axr)	axr(v,ae)e	
+/ae	ae	
+k(/k/)	k(ae,s)	
+s/	s(k,w)e	
+what(2)	w(s,ah)b	ah(w,td)	td(ah,y)e	
+you	y(td,uw)b	uw(y,d)e	
+did	d(uw,ih)b	ih(d,dd)	dd(ih,ix)e	
+in(2)	ix(dd,n)b	n(ix,s)e	
+school	s(n,k)b	k(s,uw)	uw(k,l)	l(uw,t)e	
+today	t(l,ax)b	ax(t,d)	d(ax,ey)	ey(d,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

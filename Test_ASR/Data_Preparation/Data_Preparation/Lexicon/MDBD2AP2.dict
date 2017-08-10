@@ -1,0 +1,21 @@
+<s>	silb	
+[noise]	sil	
+after	ae(sil,f)b	f(ae,t)	t(f,axr)	axr(t,ax)e	
+a	ax(axr,w)s	
+while(2)	w(ax,ay)b	ay(w,l)	l(ay,sil)e	
+sil	sil	
+new	n(sil,uw)b	uw(n,b)e	
+/b	b	
+l(/l/)	l	
+ah(/ah/)	ah	
+dx(/dx/)	dx(ah,axr)	
+axr(/axr/)	axr(dx,f)e	
+f(/f/)	f	
+l(/l/)	l(f,ay)	
+ay	ay(l,z)s	
+z/	z(ay,sil)e	
+sil	sil	
+form	f(sil,ao)b	ao(f,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

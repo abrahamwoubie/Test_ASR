@@ -1,0 +1,14 @@
+mbwk2br2:word> <s> 0.00 2.00 -1331589
+mbwk2br2:word> /AH/ 3.00 5.00 -979463
+mbwk2br2:word> SIL 6.00 10.00 -906573
+mbwk2br2:word> PLANES 11.00 88.00 -10546730
+mbwk2br2:word> CARRY(2) 89.00 141.00 -7651494
+mbwk2br2:word> SIL 142.00 145.00 -644418
+mbwk2br2:word> DOCTORS 146.00 217.00 -11605533
+mbwk2br2:word> SIL 218.00 220.00 -656872
+mbwk2br2:word> AND(2) 221.00 261.00 -6784016
+mbwk2br2:word> SIL 262.00 264.00 -725480
+mbwk2br2:word> NURSES(2) 265.00 355.00 -15728951
+mbwk2br2:word> SIL 356.00 462.00 -13191517
+mbwk2br2:word> [CROSSTALK](+RUSTLE+) 463.00 473.00 -1885522
+mbwk2br2:word> </s> 474.00 684.00 -24935879

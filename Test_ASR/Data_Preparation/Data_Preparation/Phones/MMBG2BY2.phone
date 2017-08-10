@@ -1,0 +1,15 @@
+mmbg2by2:phone> SILb 0.00 21.00 -2863650
+mmbg2by2:phone> M(SIL,EH)b 22.00 33.00 -1574553
+mmbg2by2:phone> EH(M,N) 34.00 41.00 -1262148
+mmbg2by2:phone> N(EH,IY) 42.00 49.00 -982148
+mmbg2by2:phone> IY(N,P)e 50.00 63.00 -2180353
+mmbg2by2:phone> P(IY,IY)b 64.00 78.00 -2482557
+mmbg2by2:phone> IY(P,P) 79.00 88.00 -1257928
+mmbg2by2:phone> P(IY,AX) 89.00 97.00 -1153891
+mmbg2by2:phone> AX(P,L) 98.00 108.00 -1441630
+mmbg2by2:phone> L(AX,D)e 109.00 114.00 -698281
+mmbg2by2:phone> D(L,AY)b 115.00 128.00 -2308501
+mmbg2by2:phone> AY 129.00 168.00 -5854487
+mmbg2by2:phone> DD(AY,SIL)e 169.00 179.00 -1754363
+mmbg2by2:phone> +NOISE+ 180.00 182.00 -727410
+mmbg2by2:phone> SILe 183.00 366.00 -22054973

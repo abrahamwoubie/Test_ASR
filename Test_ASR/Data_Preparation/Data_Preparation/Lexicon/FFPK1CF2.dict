@@ -1,0 +1,23 @@
+<s>	silb	
+[begin_noise]	sil	
+otters	aa	dx	axr(dx,z)	z(axr,s)e	
+/s	s	
+w(/w/)	w	
+ih(/ih/)	ih	
+m(/m/)	m(ih,sil)e	
+pd(/pd/)	pd	
+s/	s	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,dh)e	
+the	dh(n,ah)b	ah(dh,b)e	
+backs	b(ah,ae)b	ae	k(ae,s)	s(k,sil)e	
+sil	sil	
+[crosstalk](+noise+)	+noise+	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,sil)e	
+sil	sil	
+their	dh(sil,eh)b	eh(dh,r)	r(eh,b)e	
+backs	b(r,ae)b	ae	k(ae,s)	s(k,sil)e	
+sil	sil	
+[end_noise]	sil	
+</s>	sile	

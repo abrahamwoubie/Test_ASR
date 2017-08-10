@@ -1,0 +1,59 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+are	aa(sil,r)b	r(aa,f)e	
+/f	f	
+iy(/iy/)	iy(f,n)e	
+n(/n/)	n(iy,d)e	
+d(/d/)	d(n,ih)	
+ih(/ih/)	ih	
+ng/	ng(ih,n)e	
+new	n(ng,uw)b	uw(n,p)e	
+/p	p	
+l(/l/)	l(p,ae)	
+ae(/ae/)	ae(l,n)	
+n(/n/)	n(ae,t)e	
+t(/t/)	t	
+s/	s	
+sil	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,ae)e	
+/ae	ae	
+sil	sil	
+n	eh(sil,n)b	n(eh,ih)e	
+ih(/ih/)	ih	
+m(/m/)	m(ih,aa)e	
+ah	aa	
+l(/l/)	l(aa,s)e	
+s/	s(l,dh)e	
+that	dh(s,ae)b	ae(dh,td)	td(ae,sil)e	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+tall	t(sil,ao)b	ao	l(ao,sil)e	
+sil	sil	
+/t	t	
+r(/r/)	r	
+sil	sil	
+iy(/iy/)	iy(sil,s)s	
+s/	s(iy,sil)e	
+sil	sil	
+/t	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,sil)s	
+sil	sil	
+t(/t/)	t	
+aa(/aa/)	aa(t,sil)e	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+sil	sil	
+</s>	sile	

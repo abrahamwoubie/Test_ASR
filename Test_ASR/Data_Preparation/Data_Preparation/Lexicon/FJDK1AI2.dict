@@ -1,0 +1,10 @@
+<s>	silb	
+[noise]	sil	
+stay	s(sil,t)b	t(s,ey)	ey(t,sil)e	
+sil	sil	
+away	ax(sil,w)b	w(ax,ey)	ey(w,sil)e	
+sil	sil	
+from	f(sil,axr)b	axr(f,m)	m	
+[sil]	sil	
+[noise]	sil	
+</s>	sile	

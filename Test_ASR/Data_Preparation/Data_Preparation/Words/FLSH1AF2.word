@@ -1,0 +1,13 @@
+flsh1af2:word> <s> 0.00 3.00 -1253098
+flsh1af2:word> [NOISE](+INHALE+) 4.00 6.00 -581306
+flsh1af2:word> [BEGIN_NOISE] 7.00 28.00 -3161968
+flsh1af2:word> STAY 29.00 58.00 -5015571
+flsh1af2:word> SIL 59.00 114.00 -6840878
+flsh1af2:word> AWAY 115.00 161.00 -8451089
+flsh1af2:word> [END_NOISE] 162.00 164.00 -773608
+flsh1af2:word> FROM(2) 165.00 201.00 -7932264
+flsh1af2:word> LIGHTNING 202.00 366.00 -34039517
+flsh1af2:word> SIL 367.00 401.00 -4674743
+flsh1af2:word> [CROSSTALK](+EXHALE+) 402.00 404.00 -524959
+flsh1af2:word> SIL 405.00 440.00 -5205419
+flsh1af2:word> </s> 441.00 720.00 -33820585

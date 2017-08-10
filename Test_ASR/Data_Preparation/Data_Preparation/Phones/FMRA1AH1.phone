@@ -1,0 +1,12 @@
+fmra1ah1:phone> SILb 0.00 38.00 -5078091
+fmra1ah1:phone> G(SIL,OW)b 39.00 47.00 -1790853
+fmra1ah1:phone> OW(G,SIL)e 48.00 101.00 -8826062
+fmra1ah1:phone> SIL 102.00 146.00 -5441587
+fmra1ah1:phone> IH(SIL,N)b 147.00 180.00 -5166368
+fmra1ah1:phone> N(IH,D) 181.00 189.00 -1253448
+fmra1ah1:phone> D 190.00 192.00 -633416
+fmra1ah1:phone> AO(D,R) 193.00 195.00 -1041522
+fmra1ah1:phone> R(AO,Z) 196.00 198.00 -1058939
+fmra1ah1:phone> Z(R,SIL)e 199.00 201.00 -992863
+fmra1ah1:phone> SIL 202.00 233.00 -3979161
+fmra1ah1:phone> SILe 234.00 660.00 -56537436

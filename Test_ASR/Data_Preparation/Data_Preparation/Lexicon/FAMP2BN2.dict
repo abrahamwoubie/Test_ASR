@@ -1,0 +1,19 @@
+<s>	silb	
+/w	w	
+ah/	ah	
+sil	sil	
+on	aa(sil,n)b	n(aa,sil)e	
+[begin_noise]	sil	
+top(2)	t(sil,ao)b	ao(t,pd)	pd(ao,sil)e	
+sil	sil	
+[end_noise]	sil	
+its(2)	ix(sil,ts)b	ts(ix,k)e	
+colors	k(ts,ah)b	ah(k,l)	l	axr(l,z)	z(axr,aa)e	
+are	aa(z,r)b	r(aa,b)e	
+/b	b	
+r(/r/)	r	
+ay	ay(r,sil)s	
+sil	sil	
+dd/	dd	
+sil	sil	
+</s>	sile	

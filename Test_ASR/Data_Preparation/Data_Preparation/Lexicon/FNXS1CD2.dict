@@ -1,0 +1,15 @@
+<s>	silb	
+/d	d	
+ax/	ax	
+[sil]	sil	
+/w	w	
+ey(/ey/)	ey(w,l)e	
+l/	l(ey,sil)e	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+small	s(sil,m)b	m(s,ao)	ao(m,l)	l(ao,f)e	
+fish	f(l,ih)b	ih(f,sh)	sh(ih,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

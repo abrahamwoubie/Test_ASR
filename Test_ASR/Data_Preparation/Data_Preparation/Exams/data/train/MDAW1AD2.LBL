@@ -1,0 +1,9 @@
+mdaw1ad2:word>                  <s>    0    2         -640746
+mdaw1ad2:word>                HELLO    3   58       -10846011
+mdaw1ad2:word>                 </s>   59  368       -38270523
+mdaw1ad2:phone>                 SILb    0    2         -640746
+mdaw1ad2:phone>          HH(SIL,AX)b    3   18        -3126604
+mdaw1ad2:phone>             AX(HH,L)   19   37        -3519859
+mdaw1ad2:phone>             L(AX,OW)   38   40         -717299
+mdaw1ad2:phone>           OW(L,SIL)e   41   58        -3482249
+mdaw1ad2:phone>                 SILe   59  368       -38270523

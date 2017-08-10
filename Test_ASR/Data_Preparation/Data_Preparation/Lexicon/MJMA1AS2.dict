@@ -1,0 +1,18 @@
+<s>	silb	
+[begin_noise]	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+hard	hh(sil,aa)b	aa(hh,r)	r	dd(r,sil)e	
+[end_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,s)e	
+see	s(uw,iy)b	iy(s,sil)e	
+[begin_noise]	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+[end_noise]	sil	
+/d	d	
+ah(/ah/)	ah	
+s/	s(ah,s)e	
+storms	s(s,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

@@ -1,0 +1,27 @@
+<s>	silb	
+/k	k	
+r(/r/)	r	
+ey(/ey/)	ey	
+bd/	bd	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+/b	b	
+iy(/iy/)	iy(b,sil)e	
+td(/td/)	td(iy,er)e	
+er/	er	
+seals	s(er,iy)b	iy	l(iy,z)	z(l,sil)e	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+are	aa(sil,r)b	r(aa,dh)e	
+the(2)	dh(r,ax)b	ax(dh,f)e	
+fastest	f(ax,ae)b	ae(f,s)	s(ae,t)	t(s,ax)	ax	s(ax,td)	td(s,s)e	
+seals	s(td,iy)b	iy	l(iy,z)	z(l,ao)e	
+on(2)	ao(z,n)b	n(ao,dh)e	
+the(2)	dh(n,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+land	l(sil,ae)b	ae(l,n)	n(ae,dd)	dd(n,sil)e	
+[end_noise]	sil	
+[noise](+smack+)	+smack+	
+[sil]	sil	
+</s>	sile	

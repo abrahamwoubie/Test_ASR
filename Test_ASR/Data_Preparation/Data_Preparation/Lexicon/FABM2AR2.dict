@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,k)e	
+keep	k(ey,iy)b	iy(k,pd)	pd(iy,ax)e	
+a	ax(pd,sil)s	
+[begin_noise]	sil	
+/f	f	
+l(/l/)	l	
+uw/	uw(l,sil)e	
+[end_noise]	sil	
+few	f(sil,y)b	y(f,uw)	uw(y,sil)e	
+[begin_noise]	sil	
+butterflies	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,sil)e	
+[end_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,k)e	
+cages	k(n,ey)b	ey	jh(ey,ix)	ix(jh,z)	z(ix,t)e	
+to	t(z,ax)b	ax(t,sil)e	
+[begin_noise]	sil	
+lay	l(sil,ey)b	ey(l,sil)e	
+[end_noise]	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,eh)e	
+/eh	eh(r,k)	
+k(/k/)	k(eh,s)	
+s/	s(k,sil)e	
+</s>	sile	

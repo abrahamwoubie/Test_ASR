@@ -1,0 +1,26 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+/s	s	
+ay	ay(s,aa)s	
+ah	aa	
+n	eh(aa,n)b	n(eh,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,sil)e	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+learning	l	er	n(er,ix)	ix(n,ng)	ng(ix,n)e	
+new(2)	n(ng,y)b	y(n,uw)	uw(y,th)e	
+things	th(uw,ih)b	ih(th,ng)	ng(ih,z)	z(ng,ax)e	
+about	ax(z,b)b	b(ax,aw)	aw(b,td)	td(aw,sil)e	
+sil	sil	
+dinosaurs	d(sil,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,z)	z(r,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

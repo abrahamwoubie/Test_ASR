@@ -1,0 +1,14 @@
+fdnc1ah2:phone> SILb 0.00 32.00 -5232878
+fdnc1ah2:phone> +NOISE+ 33.00 35.00 -500082
+fdnc1ah2:phone> G(SIL,OW)b 36.00 47.00 -2604664
+fdnc1ah2:phone> OW(G,SIL)e 48.00 92.00 -8275273
+fdnc1ah2:phone> SIL 93.00 113.00 -3023951
+fdnc1ah2:phone> IH(SIL,N)b 114.00 135.00 -3480736
+fdnc1ah2:phone> N(IH,D) 136.00 151.00 -2688873
+fdnc1ah2:phone> D 152.00 161.00 -2071461
+fdnc1ah2:phone> AO(D,R) 162.00 186.00 -5093399
+fdnc1ah2:phone> R(AO,Z) 187.00 195.00 -1622411
+fdnc1ah2:phone> Z(R,SIL)e 196.00 198.00 -912288
+fdnc1ah2:phone> SIL 199.00 214.00 -3016405
+fdnc1ah2:phone> +RUSTLE+ 215.00 237.00 -4557352
+fdnc1ah2:phone> SILe 238.00 600.00 -45537010

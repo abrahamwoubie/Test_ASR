@@ -1,0 +1,15 @@
+mmxh1ac2:phone> SILb 0.00 2.00 -607943
+mmxh1ac2:phone> SIL 3.00 11.00 -1405444
+mmxh1ac2:phone> G 12.00 25.00 -2592958
+mmxh1ac2:phone> AA(G,R) 26.00 37.00 -1948824
+mmxh1ac2:phone> R(AA,AW)e 38.00 40.00 -493691
+mmxh1ac2:phone> AW(R,SIL)e 41.00 80.00 -5450847
+mmxh1ac2:phone> SIL 81.00 116.00 -4982319
+mmxh1ac2:phone> +EXHALE+ 117.00 119.00 -518815
+mmxh1ac2:phone> SIL 120.00 199.00 -10277224
+mmxh1ac2:phone> +NOISE+ 200.00 202.00 -479602
+mmxh1ac2:phone> SIL 203.00 310.00 -15713829
+mmxh1ac2:phone> +NOISE+ 311.00 313.00 -483698
+mmxh1ac2:phone> +NOISE+ 314.00 317.00 -687035
+mmxh1ac2:phone> SIL 318.00 342.00 -3641201
+mmxh1ac2:phone> SILe 343.00 520.00 -23097677

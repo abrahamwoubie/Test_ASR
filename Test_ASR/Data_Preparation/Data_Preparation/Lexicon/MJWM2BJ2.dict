@@ -1,0 +1,31 @@
+<s>	silb	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+caterpillar	k(sil,ae)b	ae(k,dx)	dx(ae,ax)	ax(dx,p)	p(ax,ih)	ih	l	axr(l,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+with(4)	w(sil,ix)b	ix(w,th)	th(ix,ey)e	
+a(2)	ey(th,sh)s	
+shell	sh	eh	l(eh,ax)e	
+/ax	ax(l,w)s	
+w(/w/)	w	
+aw(/aw/)	aw(w,n)e	
+n(/n/)	n(aw,dd)	
+dd/	dd(n,ih)e	
+/ih	ih	
+dd/	dd(ih,ih)e	
+is	ih(dd,z)b	z(ih,k)e	
+called	k(z,ao)b	ao(k,l)	l(ao,dd)	dd(l,ax)e	
+a	ax(dd,p)s	
+/p	p	
+y(/y/)	y(p,uw)	
+uw(/uw/)	uw(y,sil)e	
+sil	sil	
+p(/p/)	p	
+ah/	ah	
+[sil]	sil	
+</s>	sile	

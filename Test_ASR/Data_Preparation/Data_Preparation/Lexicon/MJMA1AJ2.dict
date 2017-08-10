@@ -1,0 +1,14 @@
+<s>	silb	
+[noise]	sil	
+do	d(sil,uw)b	uw(d,n)e	
+not	n	aa	td	
+sil	sil	
+use	y(sil,uw)b	uw(y,s)	s(uw,ix)e	
+it(2)	ix(s,td)b	td(ix,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,t)e	
+telephone	t(ax,eh)b	eh(t,l)	l(eh,ax)	ax(l,f)	f(ax,ow)	ow(f,n)	n(ow,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+[sil]	sil	
+</s>	sile	

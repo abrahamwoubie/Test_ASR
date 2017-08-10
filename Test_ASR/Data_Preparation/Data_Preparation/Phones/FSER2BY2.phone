@@ -1,0 +1,16 @@
+fser2by2:phone> SILb 0.00 7.00 -1158274
+fser2by2:phone> +SMACK+ 8.00 18.00 -1906083
+fser2by2:phone> SIL 19.00 35.00 -2522342
+fser2by2:phone> M(SIL,EH)b 36.00 48.00 -1778002
+fser2by2:phone> EH(M,N) 49.00 55.00 -1050944
+fser2by2:phone> N(EH,IY) 56.00 61.00 -887843
+fser2by2:phone> IY(N,P)e 62.00 69.00 -1256433
+fser2by2:phone> P(IY,IY)b 70.00 76.00 -1283430
+fser2by2:phone> IY(P,P) 77.00 83.00 -956364
+fser2by2:phone> P(IY,AX) 84.00 89.00 -837971
+fser2by2:phone> AX(P,L) 90.00 92.00 -458804
+fser2by2:phone> L(AX,D)e 93.00 99.00 -1051273
+fser2by2:phone> D(L,AY)b 100.00 106.00 -1151061
+fser2by2:phone> AY 107.00 133.00 -3668398
+fser2by2:phone> DD(AY,SIL)e 134.00 142.00 -1457908
+fser2by2:phone> SILe 143.00 316.00 -20271717

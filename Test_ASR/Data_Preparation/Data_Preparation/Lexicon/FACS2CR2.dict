@@ -1,0 +1,30 @@
+<s>	silb	
+an	ae(sil,n)b	n(ae,sil)e	
+[begin_noise]	sil	
+emperor	eh(sil,m)b	m(eh,p)	p	axr	axr(axr,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_noise]	sil	
+penguin	p(sil,eh)b	eh	ng	g	w	ax(w,n)	n(ax,sil)e	
+[end_noise]	sil	
+mothers	m(sil,ah)b	ah(m,dh)	dh(ah,axr)	axr(dh,z)	z(axr,l)e	
+lay	l(z,ey)b	ey(l,sil)e	
+sil	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+sil	sil	
+an(2)	ax(sil,n)b	n(ax,eh)e	
+egg	eh	gd(eh,ix)e	
+in(2)	ix(gd,n)b	n(ix,sil)e	
+sil	sil	
+winter	w(sil,ih)b	ih(w,n)	n(ih,t)	t(n,axr)	axr(t,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

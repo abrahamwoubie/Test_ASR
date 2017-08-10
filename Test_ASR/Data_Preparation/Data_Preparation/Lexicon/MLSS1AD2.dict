@@ -1,0 +1,31 @@
+<s>	silb	
+[noise](+swallow+)	+swallow+	
+/l	l	
+ay	ay(l,td)	
+td(/td/)	td(ay,sil)e	
+sil	sil	
+n(/n/)	n	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+[begin_noise]	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+hurt	hh(sil,er)b	er	td	
+sil	sil	
+hurt	hh(sil,er)b	er	td	
+sil	sil	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[crosstalk]	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+[begin_noise]	sil	
+[end_noise]	sil	
+</s>	sile	

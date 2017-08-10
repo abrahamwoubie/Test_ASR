@@ -1,0 +1,44 @@
+<s>	silb	
+it	ih(sil,td)b	td(ih,sil)e	
+sil	sil	
+[begin_noise]	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+/hh	hh	
+er(/er/)	er(hh,m)e	
+m/	m(er,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+[whisper]	sil	
+sil	sil	
+/t	t	
+r(/r/)	r(t,iy)	
+iy/	iy(r,sil)s	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+[begin_noise]	sil	
+/b	b	
+ih(/ih/)	ih(b,l)	
+l(/l/)	l(ih,sil)e	
+sil	sil	
+d	d(sil,iy)b	iy(d,ih)e	
+ih(/ih/)	ih	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+k(/k/)	k	
+s/	s(k,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+</s>	sile	

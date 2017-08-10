@@ -1,0 +1,20 @@
+<s>	silb	
+once	w(sil,ah)b	ah(w,n)	n(ah,s)	s(n,sil)e	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+blue	b(sil,l)b	l	uw(l,b)e	
+butterflies	b(uw,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,sil)e	
+sil	sil	
+lived(2)	l(sil,ih)b	ih(l,v)	v	dd(v,ix)e	
+in(2)	ix(dd,n)b	n(ix,sil)e	
+[end_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,l)	
+l(/l/)	l(ae,ih)e	
+ih(/ih/)	ih	
+f(/f/)	f(ih,ao)e	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,n)e	
+n/	n(r,sil)e	
+</s>	sile	

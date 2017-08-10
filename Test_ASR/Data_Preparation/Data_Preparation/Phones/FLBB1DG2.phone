@@ -1,0 +1,17 @@
+flbb1dg2:phone> SILb 0.00 2.00 -1135338
+flbb1dg2:phone> DH(SIL,EY)b 3.00 5.00 -1090545
+flbb1dg2:phone> EY(DH,HH)e 6.00 12.00 -1197182
+flbb1dg2:phone> HH(EY,AE)b 13.00 20.00 -949987
+flbb1dg2:phone> AE(HH,V) 21.00 31.00 -1611511
+flbb1dg2:phone> V(AE,L)e 32.00 47.00 -2602155
+flbb1dg2:phone> L 48.00 53.00 -1053446
+flbb1dg2:phone> ER 54.00 68.00 -2495106
+flbb1dg2:phone> N 69.00 75.00 -1194238
+flbb1dg2:phone> DD(N,S)e 76.00 78.00 -456558
+flbb1dg2:phone> S(DD,AH)b 79.00 90.00 -2192543
+flbb1dg2:phone> AH(S,M) 91.00 99.00 -1114580
+flbb1dg2:phone> M(AH,TH) 100.00 109.00 -1484111
+flbb1dg2:phone> TH(M,IX) 110.00 126.00 -3045837
+flbb1dg2:phone> IX(TH,NG) 127.00 130.00 -609873
+flbb1dg2:phone> NG(IX,SIL)e 131.00 136.00 -813516
+flbb1dg2:phone> SILe 137.00 140.00 -772315

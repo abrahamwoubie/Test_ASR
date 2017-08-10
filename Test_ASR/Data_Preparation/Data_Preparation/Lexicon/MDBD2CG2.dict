@@ -1,0 +1,25 @@
+<s>	silb	
+[noise]	sil	
+school	s(sil,k)b	k(s,uw)	uw(k,l)	l(uw,ih)e	
+in	ih(l,n)b	n(ih,sil)e	
+sil	sil	
+/r	r	
+uw(/uw/)	uw(r,w)e	
+w(/w/)	w	
+aa(/aa/)	aa(w,n)	
+n(/n/)	n(aa,d)e	
+d(/d/)	d(n,ax)	
+ax/	ax	
+did	d(ax,ih)b	ih(d,dd)	dd(ih,n)e	
+not	n	aa	td	
+have	hh(td,ae)b	ae(hh,v)	v(ae,sil)e	
+sil	sil	
+room	r(sil,uw)b	uw(r,m)	m(uw,f)e	
+for	f(m,ao)b	ao(f,r)	r(ao,ao)e	
+all	ao(r,l)b	l(ao,dh)e	
+the(2)	dh(l,ax)b	ax(dh,ch)e	
+children	ch(ax,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

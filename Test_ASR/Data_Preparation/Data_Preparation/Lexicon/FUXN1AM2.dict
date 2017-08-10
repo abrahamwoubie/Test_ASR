@@ -1,0 +1,25 @@
+<s>	silb	
+[noise]	sil	
+/t	t	
+er	axr(t,n)e	
+n(/n/)	n(axr,ey)e	
+ey(/ey/)	ey(n,d)s	
+d	d(ey,iy)b	iy(d,ow)e	
+ow	ow(iy,z)s	
+z/	z(ow,sil)e	
+[begin_noise]	sil	
+bring	b(sil,r)b	r(b,ih)	ih(r,ng)	ng(ih,sil)e	
+[end_noise]	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,ae)e	
+and	ae(n,n)b	n(ae,dd)	dd(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,sil)e	
+[end_noise]	sil	
+winds(2)	w(sil,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

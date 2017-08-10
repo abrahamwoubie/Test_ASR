@@ -1,0 +1,29 @@
+<s>	silb	
+sil	sil	
+[noise](+smack+)	+smack+	
+/s	s	
+ay	ay(s,eh)s	
+s	eh(ay,s)b	s(eh,sil)e	
+sil	sil	
+n(/n/)	n	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,s)e	
+/s	s	
+ao(/ao/)	ao(s,t)e	
+t/	t	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+all	ao(sil,l)b	l(ao,ah)e	
+of	ah(l,v)b	v(ah,dh)e	
+the	dh(v,ah)b	ah(dh,b)e	
+blue	b(ah,l)b	l	uw(l,b)e	
+butterflies	b(uw,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,sil)e	
+[begin_noise]	sil	
+had	hh(sil,ae)b	ae(hh,dd)	dd(ae,sil)e	
+[end_noise]	sil	
+died	d(sil,ay)b	ay	dd(ay,sil)e	
+[sil]	sil	
+</s>	sile	

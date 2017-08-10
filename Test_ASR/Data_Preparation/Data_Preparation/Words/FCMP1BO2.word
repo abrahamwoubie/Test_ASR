@@ -1,0 +1,11 @@
+fcmp1bo2:word> <s> 0.00 13.00 -2211808
+fcmp1bo2:word> [NOISE](+INHALE+) 14.00 20.00 -1156002
+fcmp1bo2:word> THEN 21.00 54.00 -4904989
+fcmp1bo2:word> [BEGIN_NOISE] 55.00 57.00 -849384
+fcmp1bo2:word> MORE 58.00 95.00 -5585066
+fcmp1bo2:word> [END_NOISE] 96.00 98.00 -689640
+fcmp1bo2:word> PEOPLE 99.00 142.00 -6137475
+fcmp1bo2:word> USE 143.00 183.00 -4736258
+fcmp1bo2:word> THEM 184.00 215.00 -4749049
+fcmp1bo2:word> [NOISE](+EXHALE+) 216.00 218.00 -560255
+fcmp1bo2:word> </s> 219.00 354.00 -17616114

@@ -1,0 +1,18 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,l)e	
+land	l(ax,ae)b	ae(l,n)	n(ae,dd)	dd(n,ix)e	
+is(2)	ix(dd,z)b	z(ix,ax)e	
+a	ax(z,r)s	
+rocky	r(ax,aa)b	aa	k	iy(k,sil)e	
+[end_noise]	sil	
+/ae	ae	
+n/	n(ae,hh)e	
+has	hh(n,ae)b	ae(hh,z)	z(ae,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,hh)e	
+hills	hh(iy,ih)b	ih(hh,l)	l	z(l,sil)e	
+</s>	sile	

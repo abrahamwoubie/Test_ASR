@@ -1,0 +1,13 @@
+<s>	silb	
+/ax/	ax(sil,w)s	
+whales(2)	w(ax,ey)b	ey	l(ey,z)	z(l,sil)e	
+[begin_noise]	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+[end_noise]	sil	
+small	s(sil,m)b	m(s,ao)	ao(m,l)	l(ao,sil)e	
+sil	sil	
+fish	f(sil,ih)b	ih(f,sh)	sh(ih,sil)e	
+[human_noise](+exhale+)	+exhale+	
+[begin_noise]	sil	
+[end_noise]	sil	
+</s>	sile	

@@ -1,0 +1,23 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+now	n(sil,aw)b	aw(n,sil)e	
+sil	sil	
+a	ax(sil,l)s	
+lot(2)	l(ax,ao)b	ao(l,td)	td(ao,sil)e	
+[begin_noise]	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,p)e	
+people	p(r,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+sil	sil	
+cans	k(sil,ae)b	ae(k,n)	n(ae,z)	z(n,b)e	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,ae)e	
+/ae	ae	
+n/	n(ae,sil)e	
+[begin_noise]	sil	
+paper	p(sil,ey)b	ey	p	axr(p,sil)e	
+sil	sil	
+[end_noise]	sil	
+[crosstalk](+rustle+)	+rustle+	
+</s>	sile	

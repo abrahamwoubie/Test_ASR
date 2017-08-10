@@ -1,0 +1,23 @@
+<s>	silb	
+sil	sil	
+a	ax(sil,sil)s	
+[begin_noise]	sil	
+blue	b(sil,l)b	l	uw(l,b)e	
+butterfly	b(uw,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,sil)e	
+[end_noise]	sil	
+/f	f	
+sil	sil	
+l(/l/)	l	
+r(/r/)	r	
+sil	sil	
+uw/	uw	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+flew	f(sil,l)b	l	uw(l,b)e	
+by	b(uw,ay)b	ay(b,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+</s>	sile	

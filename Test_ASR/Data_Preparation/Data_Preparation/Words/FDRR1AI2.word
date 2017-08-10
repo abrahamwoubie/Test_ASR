@@ -1,0 +1,15 @@
+fdrr1ai2:word> <s> 0.00 38.00 -5858665
+fdrr1ai2:word> SIL 39.00 52.00 -2859789
+fdrr1ai2:word> [WHISPER](+INHALE+) 53.00 97.00 -8893775
+fdrr1ai2:word> SIL 98.00 154.00 -10668359
+fdrr1ai2:word> SAY 155.00 241.00 -14005386
+fdrr1ai2:word> [NOISE](+RUSTLE+) 242.00 258.00 -3419091
+fdrr1ai2:word> SIL 259.00 270.00 -2418738
+fdrr1ai2:word> AWAY 271.00 322.00 -7786051
+fdrr1ai2:word> SIL 323.00 328.00 -1002663
+fdrr1ai2:word> [NOISE](+INHALE+) 329.00 333.00 -846654
+fdrr1ai2:word> SIL 334.00 357.00 -3366740
+fdrr1ai2:word> FROM(2) 358.00 413.00 -8194347
+fdrr1ai2:word> SIL 414.00 423.00 -1683662
+fdrr1ai2:word> AWAY 424.00 487.00 -10288812
+fdrr1ai2:word> </s> 488.00 870.00 -47282027

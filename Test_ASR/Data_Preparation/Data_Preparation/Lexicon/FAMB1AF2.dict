@@ -1,0 +1,20 @@
+<s>	silb	
+[noise]	sil	
+stay	s(sil,t)b	t(s,ey)	ey(t,sil)e	
+sil	sil	
+/ey	ey(sil,w)s	
+w(/w/)	w	
+ey/	ey(w,sil)e	
+[begin_noise]	sil	
+from(2)	f(sil,r)b	r(f,ah)	ah(r,m)	m(ah,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+/l	l	
+ay	ay(l,sil)e	
+dx(/dx/)	dx	
+sil	sil	
+n(/n/)	n	
+iy/	iy(n,sil)e	
+[noise](+exhale+)	+exhale+	
+[crosstalk]	sil	
+</s>	sile	

@@ -1,0 +1,20 @@
+<s>	silb	
+a	ax(sil,s)s	
+scientist	s(ax,ay)b	ay	ax(ay,n)	n(ax,t)	t(n,ix)	ix(t,s)	s(ix,td)	td(s,sil)e	
+sil	sil	
+studied	s(sil,t)b	t(s,ah)	ah(t,dx)	dx(ah,iy)	iy	dd(iy,sil)e	
+sil	sil	
+emperor	eh(sil,m)b	m(eh,p)	p	axr	axr(axr,p)e	
+penguins	p(axr,eh)b	eh	ng	g	w	ax(w,n)	n(ax,z)	z(n,ix)e	
+in(2)	ix(z,n)b	n(ix,ax)e	
+/ax	ax(n,n)s	
+n(/n/)	n(ax,aa)e	
+aa(/aa/)	aa(n,r)	
+r(/r/)	r(aa,sil)e	
+sil	sil	
+t(/t/)	t	
+ix(/ix/)	ix	
+sil	sil	
+k(/k/)	k	
+ah/	ah	
+</s>	sile	

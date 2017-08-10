@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+before(2)	b(sil,iy)b	iy(b,f)	f(iy,ao)	ao(f,r)	r(ao,dh)e	
+the(2)	dh(r,ax)b	ax(dh,w)e	
+war	w(ax,ao)b	ao(w,r)	r(ao,m)e	
+many	m(r,eh)b	eh(m,n)	n(eh,iy)	iy(n,ch)e	
+children	ch(iy,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,k)e	
+could	k(n,uh)b	uh(k,dd)	dd(uh,n)e	
+not	n	aa	td	
+sil	sil	
+go	g(sil,ow)b	ow(g,t)e	
+to	t(ow,ax)b	ax(t,s)e	
+school	s(ax,k)b	k(s,uw)	uw(k,l)	l(uw,sil)e	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,20 @@
+<s>	silb	
+[noise]	sil	
+doctors	d(sil,aa)b	aa	kd	t(kd,axr)	axr(t,z)	z(axr,sil)e	
+sil	sil	
+use(2)	y(sil,uw)b	uw(y,z)	z(uw,dh)e	
+the(2)	dh(z,ax)b	ax(dh,m)e	
+money	m(ax,ah)b	ah(m,n)	n(ah,iy)	iy(n,t)e	
+to(2)	t	ix	
+/f/	f(ix,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,m)e	
+money	m(ax,ah)b	ah(m,n)	n(ah,iy)	iy(n,t)e	
+to	t(iy,ax)b	ax(t,f)e	
+find	f(ax,ay)b	ay(f,n)	n(ay,dd)	dd(n,aw)e	
+out	aw(dd,td)b	td(aw,m)e	
+more	m(td,ao)b	ao(m,r)	r(ao,ax)e	
+about	ax(r,b)b	b(ax,aw)	aw(b,td)	td(aw,hh)e	
+hearts	hh(td,aa)b	aa(hh,r)	r(aa,ts)	ts(r,sil)e	
+[noise](+noise+)	+noise+	
+</s>	sile	

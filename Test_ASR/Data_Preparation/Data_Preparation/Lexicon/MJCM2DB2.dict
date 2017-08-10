@@ -1,0 +1,31 @@
+<s>	silb	
+only	ow(sil,n)b	n(ow,l)	l(n,iy)	iy(l,sil)e	
+[begin_noise]	sil	
+a(2)	ey(sil,sil)s	
+[end_noise]	sil	
+few	f(sil,y)b	y(f,uw)	uw(y,sil)e	
+[begin_noise]	sil	
+/p	p	
+iy(/iy/)	iy(p,l)e	
+l(/l/)	l(iy,ae)e	
+ae(/ae/)	ae(l,n)	
+n(/n/)	n(ae,t)e	
+t(/t/)	t	
+s/	s	
+[end_noise]	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,sil)e	
+[begin_noise]	sil	
+insects	ih(sil,n)b	n(ih,s)	s(n,eh)	eh	kd(eh,ts)	ts(kd,l)e	
+live(2)	l(ts,ih)b	ih(l,v)	v(ih,sil)e	
+[end_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,m)e	
+middle	m(ax,ih)b	ih(m,dx)	dx(ih,ax)	ax(dx,l)	l(ax,ax)e	
+of(2)	ax(l,v)b	v(ax,dh)e	
+the	dh(v,ah)b	ah(dh,sil)e	
+sil	sil	
+cold	k(sil,ow)b	ow(k,l)	l(ow,dd)	dd(l,k)e	
+continent	k(dd,aa)b	aa(k,n)	n	t(n,ax)	ax(t,n)	n(ax,ax)	ax(n,n)	n(ax,td)	td(n,sil)e	
+sil	sil	
+[sil]	sil	
+</s>	sile	

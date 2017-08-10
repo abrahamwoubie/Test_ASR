@@ -1,0 +1,24 @@
+<s>	silb	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,l)e	
+learn	l	er	n(er,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,ax)e	
+about	ax(r,b)b	b(ax,aw)	aw(b,td)	td(aw,sil)e	
+[begin_noise]	sil	
+dinosaurs	d(sil,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,z)	z(r,sil)e	
+[end_noise]	sil	
+from(2)	f(sil,r)b	r(f,ah)	ah(r,m)	m(ah,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,b)e	
+bones	b(ah,ow)b	ow	n(ow,z)	z(n,sil)e	
+sil	sil	
+[noise]	sil	
+[human_noise](+noise+)	+noise+	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

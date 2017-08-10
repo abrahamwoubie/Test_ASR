@@ -1,0 +1,8 @@
+fadf1ah2:phone> SILb 0.00 2.00 -1146602
+fadf1ah2:phone> +RUSTLE+ 3.00 5.00 -1002802
+fadf1ah2:phone> D(SIL,AO)b 6.00 8.00 -1098312
+fadf1ah2:phone> AO(D,R) 9.00 25.00 -2935053
+fadf1ah2:phone> R(AO,Z) 26.00 36.00 -1534523
+fadf1ah2:phone> Z(R,SIL)e 37.00 51.00 -2477233
+fadf1ah2:phone> +NOISE+ 52.00 54.00 -602482
+fadf1ah2:phone> SILe 55.00 390.00 -37752615

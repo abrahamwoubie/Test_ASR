@@ -1,0 +1,13 @@
+fajb1ah2:phone> SILb 0.00 12.00 -1751233
+fajb1ah2:phone> SIL 13.00 21.00 -1648132
+fajb1ah2:phone> G(SIL,OW)b 22.00 46.00 -4126703
+fajb1ah2:phone> OW(G,SIL)e 47.00 71.00 -4053232
+fajb1ah2:phone> SIL 72.00 82.00 -2242605
+fajb1ah2:phone> IH(SIL,N)b 83.00 99.00 -2946741
+fajb1ah2:phone> N(IH,D) 100.00 115.00 -2493300
+fajb1ah2:phone> D 116.00 122.00 -1260021
+fajb1ah2:phone> AO(D,R) 123.00 145.00 -4396258
+fajb1ah2:phone> R(AO,Z) 146.00 159.00 -2230496
+fajb1ah2:phone> Z(R,SIL)e 160.00 200.00 -6641106
+fajb1ah2:phone> +EXHALE+ 201.00 203.00 -573567
+fajb1ah2:phone> SILe 204.00 550.00 -41701007

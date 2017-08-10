@@ -1,0 +1,22 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+covers	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,ih)e	
+it	ih(z,td)b	td(ih,sil)e	
+sil	sil	
+with(2)	w(sil,ih)b	ih(w,th)	th(ih,sil)e	
+sil	sil	
+a	ax(sil,b)s	
+big	b(ax,ih)b	ih(b,gd)	gd(ih,r)e	
+roll	r(gd,ow)b	ow(r,l)	l(ow,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+[begin_noise]	sil	
+belly	b(sil,eh)b	eh(b,l)	l(eh,iy)	iy(l,f)e	
+fat	f(iy,ae)b	ae	td(ae,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

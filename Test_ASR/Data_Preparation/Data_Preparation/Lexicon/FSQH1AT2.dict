@@ -1,0 +1,20 @@
+<s>	silb	
+heavy	hh(sil,eh)b	eh(hh,v)	v(eh,iy)	iy(v,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+/f	f	
+iy(/iy/)	iy(f,ix)e	
+ix(/ix/)	ix	
+l	eh(ix,l)b	l(eh,s)e	
+s/	s(l,sil)e	
+sil	sil	
+rivers	r(sil,ih)b	ih(r,v)	v(ih,axr)	axr(v,z)	z(axr,sil)e	
+sil	sil	
+with(3)	w(sil,ix)b	ix(w,dh)	dh(ix,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[sil]	sil	
+</s>	sile	

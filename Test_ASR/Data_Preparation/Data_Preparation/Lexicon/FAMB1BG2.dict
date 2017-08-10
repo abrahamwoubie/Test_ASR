@@ -1,0 +1,22 @@
+<s>	silb	
+smell	s(sil,m)b	m	eh	l(eh,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,y)e	
+/y	y	
+uw(/uw/)	uw(y,z)e	
+z(/z/)	z(uw,d)e	
+d	d(z,iy)b	iy(d,ih)e	
+ih(/ih/)	ih	
+sil	sil	
+dd/	dd	
+to(3)	t(dd,uw)b	uw(t,sil)e	
+[begin_noise]	sil	
+help	hh(sil,eh)b	eh(hh,l)	l(eh,pd)	pd(l,sil)e	
+sil	sil	
+[end_noise]	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+sil	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

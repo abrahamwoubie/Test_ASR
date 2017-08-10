@@ -1,0 +1,10 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+planes	p(sil,l)b	l(p,ey)	ey(l,n)	n(ey,z)	z(n,sil)e	
+[end_noise]	sil	
+fly	f(sil,l)b	l(f,ay)	ay(l,t)e	
+to(2)	t	ix	
+africa(2)	ae(ix,f)b	f(ae,r)	r(f,ix)	ix(r,k)	k(ix,ax)	ax(k,sil)e	
+</s>	sile	

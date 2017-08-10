@@ -1,0 +1,14 @@
+<s>	silb	
+soon	s(sil,uw)b	uw(s,n)	n(uw,dh)e	
+they	dh(n,ey)b	ey(dh,r)e	
+ran	r(ey,ae)b	ae(r,n)	n(ae,aw)e	
+out	aw(n,td)b	td(aw,ax)e	
+of(2)	ax(td,v)b	v(ax,f)e	
+food	f(v,uw)b	uw(f,dd)	dd(uw,ae)e	
+/ae	ae	
+n/	n(ae,sil)e	
+[begin_noise]	sil	
+clean	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,w)e	
+water	w(n,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[end_noise]	sil	
+</s>	sile	

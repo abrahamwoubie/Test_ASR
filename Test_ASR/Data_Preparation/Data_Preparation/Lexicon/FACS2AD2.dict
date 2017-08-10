@@ -1,0 +1,20 @@
+<s>	silb	
+he	hh(sil,iy)b	iy(hh,hh)e	
+had	hh(iy,ae)b	ae(hh,dd)	dd(ae,sil)e	
+sil	sil	
+thought	th(sil,ao)b	ao(th,td)	td(ao,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+blue	b(sil,l)b	l	uw(l,b)e	
+butterfly	b(uw,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,sil)e	
+[end_noise]	sil	
+was	w	aa	z(aa,sil)e	
+sil	sil	
+excited(2)	ix(sil,k)b	k(ix,s)	s(k,ay)	ay(s,dx)	dx(ay,ix)	ix(dx,dd)	dd(ix,sil)e	
+sil	sil	
+extinct	ix(sil,k)b	k(ix,s)	s(k,t)	t(s,ih)	ih	ng(ih,kd)	kd	td(kd,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+</s>	sile	

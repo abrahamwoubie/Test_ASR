@@ -1,0 +1,27 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+[begin_noise]	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,l)e	
+long	l(v,ao)b	ao(l,ng)	ng(ao,sil)e	
+[end_noise]	sil	
+in	ih(sil,n)b	n(ih,dh)e	
+the	dh(n,ah)b	ah(dh,sil)e	
+sil	sil	
+coast	k(sil,ow)b	ow(k,s)	s(ow,td)	td(s,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,sil)e	
+sil	sil	
+/ih/	ih	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,n)e	
+nearby	n(n,ih)b	ih(n,r)	r(ih,b)	b(r,ay)	ay(b,sil)e	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+oceans	ow	sh(ow,ax)	ax(sh,n)	n(ax,z)	z(n,sil)e	
+[human_noise](+rustle+)	+rustle+	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+penguin	p(sil,eh)b	eh	ng	g	w	ax(w,n)	n(ax,sil)e	
+[end_noise]	sil	
+fathers	f(sil,aa)b	aa(f,dh)	dh(aa,axr)	axr(dh,z)	z(axr,sil)e	
+sil	sil	
+gather	g(sil,ae)b	ae	dh(ae,axr)	axr(dh,ix)e	
+in(2)	ix(axr,n)b	n(ix,ax)e	
+a	ax(n,b)s	
+big	b(ax,ih)b	ih(b,gd)	gd(ih,s)e	
+circle	s(gd,er)b	er	k	ax(k,l)	l(ax,sil)e	
+[sil]	sil	
+</s>	sile	

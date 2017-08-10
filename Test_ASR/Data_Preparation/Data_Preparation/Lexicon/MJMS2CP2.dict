@@ -1,0 +1,23 @@
+<s>	silb	
+sil	sil	
+a	ax(sil,s)s	
+scientist	s(ax,ay)b	ay	ax(ay,n)	n(ax,t)	t(n,ix)	ix(t,s)	s(ix,td)	td(s,sil)e	
+sil	sil	
+studied	s(sil,t)b	t(s,ah)	ah(t,dx)	dx(ah,iy)	iy	dd(iy,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+emperor	eh(sil,m)b	m(eh,p)	p	axr	axr(axr,p)e	
+penguins	p(axr,eh)b	eh	ng	g	w	ax(w,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+sil	sil	
+/ae	ae	
+n(/n/)	n(ae,aa)e	
+aa(/aa/)	aa(n,r)	
+r(/r/)	r(aa,dx)	
+dx(/dx/)	dx(r,ix)	
+ix(/ix/)	ix(dx,k)	
+k(/k/)	k(ix,ah)	
+ah/	ah	
+</s>	sile	

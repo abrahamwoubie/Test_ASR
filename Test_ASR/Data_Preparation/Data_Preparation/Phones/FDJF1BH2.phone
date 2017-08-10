@@ -1,0 +1,16 @@
+fdjf1bh2:phone> SILb 0.00 2.00 -1565418
+fdjf1bh2:phone> P 3.00 5.00 -822211
+fdjf1bh2:phone> AO(P,R) 6.00 8.00 -939122
+fdjf1bh2:phone> R(AO,IX)e 9.00 11.00 -1055867
+fdjf1bh2:phone> IX(R,N) 12.00 14.00 -813965
+fdjf1bh2:phone> N(IX,SIL)e 15.00 27.00 -2269087
+fdjf1bh2:phone> SIL 28.00 30.00 -742888
+fdjf1bh2:phone> S(SIL,AY)b 31.00 77.00 -6977472
+fdjf1bh2:phone> AY(S,N) 78.00 108.00 -4807306
+fdjf1bh2:phone> N(AY,AO)e 109.00 117.00 -1526005
+fdjf1bh2:phone> AO(N,N)b 118.00 136.00 -3896390
+fdjf1bh2:phone> N(AO,IH)e 137.00 142.00 -924284
+fdjf1bh2:phone> IH(N,TD)b 143.00 156.00 -2364920
+fdjf1bh2:phone> TD(IH,SIL)e 157.00 161.00 -1013766
+fdjf1bh2:phone> SIL 162.00 179.00 -2747797
+fdjf1bh2:phone> SILe 180.00 330.00 -17984430

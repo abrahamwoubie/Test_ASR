@@ -1,0 +1,29 @@
+<s>	silb	
+[noise](+exhale+)	+exhale+	
+/s	s	
+ah	aa	
+m(/m/)	m	
+t	t(m,iy)b	iy(t,ay)e	
+ay	ay(iy,m)s	
+m/	m(ay,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,hh)e	
+/hh	hh	
+aa(/aa/)	aa(hh,r)e	
+r/	r(aa,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+see	s(sil,iy)b	iy(s,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+dust	d(sil,ah)b	ah	s(ah,td)	td(s,sil)e	
+sil	sil	
+storms	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+[human_noise](+exhale+)	+exhale+	
+</s>	sile	

@@ -1,0 +1,28 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+a	ax(sil,k)s	
+/k	k	
+[noise](+rustle+)	+rustle+	
+dx(/dx/)	dx	
+axr(/axr/)	axr(dx,p)e	
+p(/p/)	p	
+ih(/ih/)	ih	
+l(/l/)	l(ih,axr)e	
+axr(/axr/)	axr(l,hh)e	
+hh(/hh/)	hh	
+[noise](+rustle+)	+rustle+	
+ch(/ch/)	ch	
+ix(/ix/)	ix(ch,z)	
+z/	z(ix,f)e	
+from(2)	f(z,r)b	r(f,ah)	ah(r,m)	m(ah,sil)e	
+sil	sil	
+one	w(sil,ah)b	ah(w,n)	n(ah,sil)e	
+sil	sil	
+each	iy(sil,ch)b	ch(iy,sil)e	
+sil	sil	
+egg	eh	gd(eh,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,24 @@
+<s>	silb	
+use	y(sil,uw)b	uw(y,s)	s(uw,sil)e	
+[begin_noise]	sil	
+worms	w(sil,er)b	er	m(er,z)	z(m,sil)e	
+[end_noise]	sil	
+to	t(sil,ax)b	ax(t,sil)e	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+the	dh(sil,ah)b	ah(dh,f)e	
+food	f(ah,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,dh)e	
+the	dh(n,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+[crosstalk](+rustle+)	+rustle+	
+[noise]	sil	
+</s>	sile	

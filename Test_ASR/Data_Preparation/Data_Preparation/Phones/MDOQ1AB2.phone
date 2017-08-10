@@ -1,0 +1,8 @@
+mdoq1ab2:phone> SILb 0.00 2.00 -821994
+mdoq1ab2:phone> M(SIL,UW)b 3.00 8.00 -1049373
+mdoq1ab2:phone> UW(M,V) 9.00 39.00 -5483234
+mdoq1ab2:phone> V 40.00 42.00 -610282
+mdoq1ab2:phone> Z(V,SIL)e 43.00 45.00 -758688
+mdoq1ab2:phone> +RUSTLE+ 46.00 50.00 -1030587
+mdoq1ab2:phone> +RUSTLE+ 51.00 54.00 -872060
+mdoq1ab2:phone> SILe 55.00 228.00 -23939665

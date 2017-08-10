@@ -1,0 +1,19 @@
+<s>	silb	
+sil	sil	
+[begin_noise]	sil	
+on	aa(sil,n)b	n(aa,t)e	
+top(2)	t(n,ao)b	ao(t,pd)	pd(ao,ax)e	
+of(2)	ax(pd,v)b	v(ax,dh)e	
+the(2)	dh(v,ax)b	ax(dh,sil)e	
+sil	sil	
+/k	k	
+aa(/aa/)	aa	
+l(/l/)	l(aa,ax)e	
+ax(/ax/)	ax(l,s)s	
+s/	s(ax,sil)e	
+[end_noise]	sil	
+/aa/	aa	
+[begin_noise]	sil	
+bright	b(sil,r)b	r	ay(r,td)	td(ay,sil)e	
+[end_noise]	sil	
+</s>	sile	

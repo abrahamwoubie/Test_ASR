@@ -1,0 +1,17 @@
+mglp1ai1:phone> SILb 0.00 24.00 -3312621
+mglp1ai1:phone> SIL 25.00 37.00 -2431220
+mglp1ai1:phone> S(SIL,T)b 38.00 56.00 -3050926
+mglp1ai1:phone> T(S,EY) 57.00 65.00 -1552504
+mglp1ai1:phone> EY(T,AX)e 66.00 85.00 -3192496
+mglp1ai1:phone> AX(EY,W)b 86.00 92.00 -1195104
+mglp1ai1:phone> W(AX,EY) 93.00 104.00 -1260702
+mglp1ai1:phone> EY(W,F)e 105.00 115.00 -1400143
+mglp1ai1:phone> F(EY,R)b 116.00 127.00 -1854144
+mglp1ai1:phone> R(F,AH) 128.00 132.00 -766390
+mglp1ai1:phone> AH(R,M) 133.00 139.00 -997068
+mglp1ai1:phone> M(AH,W)e 140.00 143.00 -812636
+mglp1ai1:phone> W(M,AO)b 144.00 162.00 -3313408
+mglp1ai1:phone> AO(W,DX) 163.00 174.00 -1426259
+mglp1ai1:phone> DX(AO,AXR) 175.00 179.00 -938940
+mglp1ai1:phone> AXR(DX,SIL)e 180.00 194.00 -2260590
+mglp1ai1:phone> SILe 195.00 530.00 -41020095

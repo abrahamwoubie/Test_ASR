@@ -1,0 +1,19 @@
+<s>	silb	
+sticky	s(sil,t)b	t(s,ih)	ih(t,k)	k	iy(k,jh)e	
+juice	jh(iy,uw)b	uw	s(uw,k)e	
+comes	k(s,ah)b	ah(k,m)	m(ah,z)	z(m,aw)e	
+out	aw(z,td)b	td(aw,ax)e	
+of(2)	ax(td,v)b	v(ax,dh)e	
+the(3)	dh(v,iy)b	iy(dh,sil)e	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,dx)	
+dx(/dx/)	dx(ae,axr)	
+axr(/axr/)	axr(dx,sil)e	
+sil	sil	
+p(/p/)	p	
+ih(/ih/)	ih	
+l(/l/)	l(ih,axr)e	
+axr/	axr(l,sil)e	
+[end_noise]	sil	
+</s>	sile	

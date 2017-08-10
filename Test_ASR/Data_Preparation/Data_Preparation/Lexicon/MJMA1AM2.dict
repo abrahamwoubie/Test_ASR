@@ -1,0 +1,18 @@
+<s>	silb	
+[noise]	sil	
+/t	t	
+ao(/ao/)	ao(t,r)e	
+r(/r/)	r(ao,n)e	
+n(/n/)	n(r,ey)e	
+ey(/ey/)	ey(n,d)s	
+d(/d/)	d	
+ah(/ah/)	ah(d,z)	
+z/	z(ah,b)e	
+bring	b(z,r)b	r(b,ih)	ih(r,ng)	ng(ih,r)e	
+rain	r(ng,ey)b	ey(r,n)	n(ey,ax)e	
+and(2)	ax(n,n)b	n(ax,dd)	dd(n,b)e	
+big	b(dd,ih)b	ih(b,gd)	gd(ih,sil)e	
+sil	sil	
+winds	w(sil,ay)b	ay(w,n)	n(ay,d)	d(n,z)	z(d,sil)e	
+[noise]	sil	
+</s>	sile	

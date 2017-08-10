@@ -1,0 +1,16 @@
+fnxs1ce2:word>                  <s>    0    2        -1097450
+fnxs1ce2:word>                 /AX/    3    6         -984450
+fnxs1ce2:word>                  /OW    7   20        -3193716
+fnxs1ce2:word>             SH(/SH/)   21   44        -4526404
+fnxs1ce2:word>             IH(/IH/)   45   59        -2883236
+fnxs1ce2:word>                   N/   60   68        -1499061
+fnxs1ce2:word>              [NOISE]   69   72         -670195
+fnxs1ce2:word>                 </s>   73  420       -39287859
+fnxs1ce2:phone>                 SILb    0    2        -1097450
+fnxs1ce2:phone>          AX(SIL,OW)s    3    6         -984450
+fnxs1ce2:phone>           OW(AX,SH)s    7   20        -3193716
+fnxs1ce2:phone>                   SH   21   44        -4526404
+fnxs1ce2:phone>                   IH   45   59        -2883236
+fnxs1ce2:phone>           N(IH,SIL)e   60   68        -1499061
+fnxs1ce2:phone>                  SIL   69   72         -670195
+fnxs1ce2:phone>                 SILe   73  420       -39287859

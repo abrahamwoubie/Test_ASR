@@ -1,0 +1,39 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+when(3)	w(sil,eh)b	eh(w,n)	n(eh,w)e	
+water	w(n,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,k)e	
+covers	k(axr,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+streets	s(sil,t)b	t(s,r)	r(t,iy)	iy	ts(iy,sil)e	
+sil	sil	
+/ae	ae	
+n/	n(ae,g)e	
+goes	g(n,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,hh)e	
+houses(2)	hh(uw,aw)b	aw(hh,s)	s(aw,ix)	ix(s,z)	z(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+/k	k	
+ao(/ao/)	ao(k,l)	
+l/	l(ao,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+[human_noise]	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+sil	sil	
+[begin_noise]	sil	
+a(2)	ey(sil,f)s	
+flood	f(ey,l)b	l	ah	dd	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,40 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+sil	sil	
+/dh	dh	
+ey(/ey/)	ey(dh,ey)s	
+h	ey(ey,ch)b	ch(ey,g)e	
+g/	g	
+[sil]	sil	
+the	dh(sil,ah)b	ah(dh,hh)e	
+hard	hh(ah,aa)b	aa(hh,r)	r	dd(r,sil)e	
+[sil]	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+plates	p(sil,l)b	l(p,ey)	ey(l,ts)	ts(ey,sil)e	
+sil	sil	
+on	aa(sil,n)b	n(aa,ih)e	
+its	ih(n,ts)b	ts(ih,b)e	
+back	b(ts,ae)b	ae(b,kd)	kd(ae,sil)e	
+sil	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,n)e	
+not	n	aa	td	
+sil	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+[sil]	sil	
+[begin_noise]	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,t)e	
+two	t(n,uw)b	uw(t,r)e	
+/r	r	
+ax/	ax(r,sil)s	
+[sil]	sil	
+even	iy(sil,v)b	v(iy,ax)	ax(v,n)	n(ax,r)e	
+rows	r(n,ow)b	ow(r,z)	z(ow,sil)e	
+[sil]	sil	
+</s>	sile	

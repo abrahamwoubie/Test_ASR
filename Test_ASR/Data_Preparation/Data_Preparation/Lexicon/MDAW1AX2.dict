@@ -1,0 +1,19 @@
+<s>	silb	
+/n	n	
+iy/	iy(n,sil)s	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+/r	r	
+iy(/iy/)	iy(r,sil)s	
+sil	sil	
+s(/s/)	s	
+s(/s/)	s	
+ay	ay(s,sil)s	
+sil	sil	
+k(/k/)	k	
+ah(/ah/)	ah(k,l)	
+l(/l/)	l(ah,ih)e	
+ih(/ih/)	ih(l,ng)	
+ng/	ng(ih,sil)e	
+</s>	sile	

@@ -1,0 +1,15 @@
+mdaw1bt2:word>                  <s>    0    2         -680682
+mdaw1bt2:word>                OCEAN    3   65       -11290418
+mdaw1bt2:word>                  SIL   66  320       -31212062
+mdaw1bt2:word>    [NOISE](+RUSTLE+)  321  327        -1277891
+mdaw1bt2:word>                  SIL  328  338        -2283627
+mdaw1bt2:word>                 </s>  339  398        -6875549
+mdaw1bt2:phone>                 SILb    0    2         -680682
+mdaw1bt2:phone>                   OW    3   22        -3957197
+mdaw1bt2:phone>            SH(OW,AX)   23   40        -2790100
+mdaw1bt2:phone>             AX(SH,N)   41   54        -2641262
+mdaw1bt2:phone>           N(AX,SIL)e   55   65        -1901859
+mdaw1bt2:phone>                  SIL   66  320       -31212062
+mdaw1bt2:phone>             +RUSTLE+  321  327        -1277891
+mdaw1bt2:phone>                  SIL  328  338        -2283627
+mdaw1bt2:phone>                 SILe  339  398        -6875549

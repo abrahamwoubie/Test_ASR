@@ -1,0 +1,28 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+the	dh(sil,ah)b	ah(dh,w)e	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n(/n/)	n(ih,d)e	
+d/	d	
+/b	b	
+l(/l/)	l	
+uw/	uw(l,sil)e	
+[end_noise]	sil	
+[noise](+smack+)	+smack+	
+[begin_noise]	sil	
+dust	d(sil,ah)b	ah	s(ah,td)	td(s,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+[begin_noise]	sil	
+dirt	d(sil,er)b	er	td	
+sil	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+[noise]	sil	
+[noise]	sil	
+</s>	sile	

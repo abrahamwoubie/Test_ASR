@@ -1,0 +1,32 @@
+<s>	silb	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+covered	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,dd)	dd(axr,sil)e	
+[begin_noise]	sil	
+/d	d	
+ih(/ih/)	ih	
+m/	m(ih,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+covered	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,dd)	dd(axr,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+them	dh(sil,eh)b	eh(dh,m)	m(eh,sil)e	
+sil	sil	
+with(2)	w(sil,ih)b	ih(w,th)	th(ih,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[end_noise]	sil	
+dirt	d(sil,er)b	er	td	
+sil	sil	
+or	ao(sil,r)b	r(ao,sil)e	
+[begin_noise]	sil	
+plants	p(sil,l)b	l(p,ae)	ae(l,n)	n	ts(n,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,27 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+spring	s(sil,p)b	p(s,r)	r(p,ih)	ih(r,ng)	ng(ih,sil)e	
+sil	sil	
+/b	b	
+r(/r/)	r(b,ih)	
+ih(/ih/)	ih(r,ng)	
+ng/	ng(ih,m)e	
+/m/	m	
+sil	sil	
+/m/	m	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+kids	k(sil,ih)b	ih(k,d)	d(ih,z)	z(d,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,w)e	
+weather	w(v,eh)b	eh(w,dh)	dh(eh,axr)	axr(dh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[noise]	sil	
+[human_noise]	sil	
+</s>	sile	

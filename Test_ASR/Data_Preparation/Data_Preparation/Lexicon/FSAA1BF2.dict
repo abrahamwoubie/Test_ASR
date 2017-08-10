@@ -1,0 +1,35 @@
+<s>	silb	
+/er	er	
+m	eh(er,m)b	m(eh,z)e	
+z/	z(m,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/dh	dh	
+ey(/ey/)	ey(dh,r)s	
+r(/r/)	r	
+n/	n(r,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,f)e	
+food	f(ah,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+into	ih(sil,n)b	n(ih,t)	t(n,uw)	uw(t,sil)e	
+sil	sil	
+a	ax	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+[begin_noise]	sil	
+special	s(sil,p)b	p(s,eh)	eh(p,sh)	sh(eh,ax)	ax(sh,l)	l(ax,sil)e	
+[end_noise]	sil	
+kid	k(sil,ih)b	ih	dd(ih,sil)e	
+sil	sil	
+of	ah(sil,v)b	v(ah,sil)e	
+sil	sil	
+soil	s	oy	l	
+sil	sil	
+[sil]	sil	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

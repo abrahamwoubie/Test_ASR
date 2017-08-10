@@ -1,0 +1,10 @@
+<s>	silb	
+/ao	ao	
+r/	r(ao,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+use(2)	y(sil,uw)b	uw(y,z)	z(uw,dh)e	
+them	dh(z,eh)b	eh(dh,m)	m(eh,sil)e	
+[sil]	sil	
+</s>	sile	

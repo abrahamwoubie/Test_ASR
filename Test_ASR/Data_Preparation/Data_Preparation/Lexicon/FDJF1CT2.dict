@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+/b	b	
+ah(/ah/)	ah	
+g/	g	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,f)e	
+forest(2)	f(n,ao)b	ao(f,r)	r(ao,ix)	ix(r,s)	s(ix,td)	td(s,sil)e	
+[begin_noise]	sil	
+[end_noise]	sil	
+</s>	sile	

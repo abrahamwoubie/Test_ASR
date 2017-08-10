@@ -1,0 +1,40 @@
+<s>	silb	
+a(2)	ey(sil,sil)s	
+sil	sil	
+/t	t	
+er(/er/)	er(t,m)	
+m(/m/)	m(er,p)e	
+p(/p/)	p	
+ih(/ih/)	ih	
+d(/d/)	d(ih,ax)	
+ax(/ax/)	ax	
+l/	l(ax,sil)e	
+sil	sil	
+a(2)	ey(sil,t)s	
+/t	t	
+er(/er/)	er(t,m)	
+m(/m/)	m(er,ih)e	
+ih(/ih/)	ih(m,n)	
+n(/n/)	n(ih,ax)e	
+ax(/ax/)	ax(n,l)s	
+l/	l(ax,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ix)e	
+ix(/ix/)	ix(r,s)	
+s/	s(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+warm	w(sil,ao)b	ao(w,r)	r(ao,m)	m(r,w)e	
+wet	w(m,eh)b	eh	td(eh,sil)e	
+sil	sil	
+place	p(sil,l)b	l(p,ey)	ey(l,s)	s(ey,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+</s>	sile	

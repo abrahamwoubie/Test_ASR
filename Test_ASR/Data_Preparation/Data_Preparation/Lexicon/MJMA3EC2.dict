@@ -1,0 +1,36 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+noises	n	oy(n,z)	z	ix(z,z)	z(ix,k)e	
+/k	k	
+ih(/ih/)	ih	
+n/	n(ih,hh)e	
+harm	hh(n,aa)b	aa(hh,r)	r	m(r,sil)e	
+[human_noise]	sil	
+their	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+harm	hh(sil,aa)b	aa(hh,r)	r	m(r,hh)e	
+hairs	hh(m,eh)b	eh(hh,r)	r(eh,z)	z(r,sil)e	
+sil	sil	
+deep	d(sil,iy)b	iy	pd(iy,ih)e	
+inside	ih(pd,n)b	n(ih,s)	s(n,ay)	ay(s,dd)	dd(ay,y)e	
+your(2)	y(dd,uh)b	uh(y,r)	r(uh,sil)e	
+sil	sil	
+[begin_noise]	sil	
+ears	ih	r(ih,z)	z(r,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,s)e	
+same	s(ax,ey)b	ey(s,m)	m(ey,w)e	
+way	w(m,ey)b	ey(w,hh)e	
+hurricane(2)	hh(ey,er)b	er	ax	k(ax,ey)	ey	n(ey,w)e	
+winds(2)	w(n,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,hh)e	
+harm	hh(z,aa)b	aa(hh,r)	r	m(r,t)e	
+/t	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,sil)s	
+sil	sil	
+s/	s	
+</s>	sile	

@@ -1,0 +1,24 @@
+<s>	silb	
+stay	s(sil,t)b	t(s,ey)	ey(t,ah)e	
+/ah	ah	
+f(/f/)	f(ah,r)e	
+r(/r/)	r(f,ey)	
+ey/	ey(r,sil)s	
+sil	sil	
+stay	s(sil,t)b	t(s,ey)	ey(t,ax)e	
+away	ax(ey,w)b	w(ax,ey)	ey(w,f)e	
+from(2)	f(ey,r)b	r(f,ah)	ah(r,m)	m(ah,l)e	
+/l	l	
+ay	ay(l,sil)s	
+sil	sil	
+l(/l/)	l	
+ih(/ih/)	ih(l,ng)	
+ng/	ng(ih,sil)e	
+sil	sil	
+i	ay(sil,m)s	
+mean	m(ay,iy)b	iy(m,n)	n(iy,sil)e	
+sil	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[human_noise]	sil	
+[crosstalk]	sil	
+</s>	sile	

@@ -1,0 +1,49 @@
+<s>	silb	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+good	g(sil,uh)b	uh(g,dd)	dd(uh,sil)e	
+sil	sil	
+[sil]	sil	
+/b	b	
+ah/	ah	
+sil	sil	
+/b	b	
+ow	ow(b,th)e	
+th/	th(ow,sil)e	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+recycling	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,ix)	ix(l,ng)	ng(ix,sil)e	
+sil	sil	
+happens	hh(sil,ae)b	ae(hh,p)	p(ae,ax)	ax(p,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,er)e	
+earth	er	th(er,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+clean	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,sil)e	
+sil	sil	
+[see_transcript](+exhale+)	+exhale+	
+/er/	er	
+[end_whisper]	sil	
+/k	k	
+l(/l/)	l(k,iy)	
+iy(/iy/)	iy(l,r)s	
+r/	r	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+clear	k(sil,l)b	l(k,ih)	ih(l,r)	r(ih,sil)e	
+sil	sil	
+clean	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+</s>	sile	

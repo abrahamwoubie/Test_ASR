@@ -1,0 +1,10 @@
+<s>	silb	
+[noise]	sil	
+storms	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,s)e	
+spring	s(n,p)b	p(s,r)	r(p,ih)	ih(r,ng)	ng(ih,k)e	
+can	k(ng,ae)b	ae(k,n)	n(ae,b)e	
+bring	b(n,r)b	r(b,ih)	ih(r,ng)	ng(ih,l)e	
+lightning	l(ng,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+</s>	sile	

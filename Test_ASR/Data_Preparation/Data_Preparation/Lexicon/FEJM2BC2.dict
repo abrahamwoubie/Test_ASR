@@ -1,0 +1,27 @@
+<s>	silb	
+[noise]	sil	
+a(2)	ey(sil,b)s	
+/b	b	
+ah(/ah/)	ah	
+dh(/dh/)	dh(ah,axr)	
+er	axr(dh,f)e	
+f(/f/)	f	
+l(/l/)	l(f,ay)	
+ay/	ay(l,sil)s	
+sil	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,l)e	
+lay	l(n,ey)b	ey(l,sil)e	
+sil	sil	
+[human_noise]	sil	
+/t	t	
+uw/	uw(t,hh)e	
+/hh	hh	
+ah	aa(hh,n)e	
+n(/n/)	n(aa,d)e	
+d(/d/)	d(n,r)	
+r(/r/)	r	
+eh	eh	
+d/	d	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

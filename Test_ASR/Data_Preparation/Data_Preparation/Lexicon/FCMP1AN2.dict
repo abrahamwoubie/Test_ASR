@@ -1,0 +1,17 @@
+<s>	silb	
+the	dh(sil,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n(/n/)	n(ih,d)e	
+d/	d	
+spin	s(sil,p)b	p	ih(p,n)	n(ih,sil)e	
+[end_noise]	sil	
+[begin_noise]	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+[end_noise]	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,axr)e	
+around	axr(dd,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+[noise](+smack+)	+smack+	
+[sil]	sil	
+</s>	sile	

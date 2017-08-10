@@ -1,0 +1,26 @@
+<s>	silb	
+/t	t	
+sil	sil	
+ao(/ao/)	ao	
+r/	r(ao,sil)e	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+tornadoes	t(sil,ao)b	ao(t,r)	r(ao,n)	n	ey(n,dx)	dx(ey,ow)	ow	z(ow,sil)e	
+sil	sil	
+bring	b(sil,r)b	r(b,ih)	ih(r,ng)	ng(ih,r)e	
+rain	r(ng,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,sil)e	
+sil	sil	
+[human_noise]	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,w)e	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n/	n(ih,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

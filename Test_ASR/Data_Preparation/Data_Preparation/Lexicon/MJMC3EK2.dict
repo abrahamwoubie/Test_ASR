@@ -1,0 +1,36 @@
+<s>	silb	
+/d	d	
+ax/	ax	
+[begin_noise]	sil	
+bone	b(sil,ow)b	ow	n(ow,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+/hh	hh	
+ae	ey(hh,z)e	
+z/	z(ey,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+huge	hh(sil,y)b	y(hh,uw)	uw	jh	
+sil	sil	
+[begin_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+tooth	t(sil,uw)b	uw	th	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+marks	m(sil,aa)b	aa(m,r)	r(aa,k)	k(r,s)	s(k,sil)e	
+sil	sil	
+[human_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,ix)e	
+it(2)	ix(n,td)b	td(ix,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

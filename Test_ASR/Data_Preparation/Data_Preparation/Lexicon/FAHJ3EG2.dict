@@ -1,0 +1,81 @@
+<s>	silb	
+for(2)	f(sil,axr)b	axr(f,m)e	
+many	m(axr,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+for(2)	f(sil,axr)b	axr(f,m)e	
+many	m(axr,eh)b	eh(m,n)	n(eh,iy)	iy(n,y)e	
+years	y(iy,ih)b	ih(y,r)	r(ih,z)	z(r,s)e	
+/s	s	
+ay	ay(s,ax)s	
+ax(/ax/)	ax(ay,n)s	
+n(/n/)	n(ax,t)e	
+t(/t/)	t(n,ix)	
+ix(/ix/)	ix(t,s)	
+s/	s(ix,sil)e	
+sil	sil	
+/w	w	
+ah(/ah/)	ah(w,n)	
+n(/n/)	n(ah,d)e	
+d(/d/)	d	
+er/	er	
+[human_noise]	sil	
+if	ih(sil,f)b	f(ih,m)e	
+/m	m	
+iy/	iy(m,sil)s	
+sil	sil	
+/iy	iy	
+dd(/dd/)	dd(iy,ih)e	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/t	t	
+r(/r/)	r(t,ay)	
+ay	ay(r,s)s	
+s(/s/)	s(ay,eh)e	
+eh	eh(s,r)	
+r(/r/)	r(eh,ax)e	
+ax(/ax/)	ax(r,t)s	
+t(/t/)	t	
+aa(/aa/)	aa(t,p)e	
+p/	p	
+sil	sil	
+rex	r(sil,eh)b	eh(r,k)	k(eh,s)	s(k,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+had	hh(sil,ae)b	ae(hh,dd)	dd(ae,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+ever	eh(sil,v)b	v(eh,axr)	axr(v,iy)e	
+/iy	iy(axr,sil)e	
+dd(/dd/)	dd(iy,ih)e	
+ih(/ih/)	ih	
+ng/	ng(ih,t)e	
+/t	t	
+r(/r/)	r(t,ix)	
+ix/	ix	
+sil	sil	
+eaten	iy	t	ax(t,n)	n(ax,t)e	
+/t	t(n,r)	
+r(/r/)	r(t,ay)	
+ay/	ay(r,sil)s	
+sil	sil	
+/t	t	
+r(/r/)	r(t,ih)	
+ih/	ih	
+sil	sil	
+/t	t	
+eh	eh(t,r)	
+r(/r/)	r(eh,ax)e	
+ax(/ax/)	ax(r,t)s	
+t(/t/)	t	
+aa(/aa/)	aa(t,sil)e	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

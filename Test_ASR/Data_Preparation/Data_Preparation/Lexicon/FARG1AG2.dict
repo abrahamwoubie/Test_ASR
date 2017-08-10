@@ -1,0 +1,48 @@
+<s>	silb	
+if	ih(sil,f)b	f(ih,sil)e	
+sil	sil	
+a	ax(sil,sil)s	
+sil	sil	
+/l/	l	
+sil	sil	
+if(2)	ix(sil,f)b	f(ix,sil)e	
+sil	sil	
+a(2)	ey(sil,l)s	
+/l	l(ey,ey)e	
+ay(2)	ey(l,td)	
+td(/td/)	td(ey,n)e	
+n(/n/)	n	
+ix(/ix/)	ix	
+n(/n/)	n(ix,sil)e	
+kd/	kd	
+storm	s(kd,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+comes	k(sil,ah)b	ah(k,m)	m(ah,z)	z(m,sil)e	
+sil	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+are	aa(sil,r)b	r(aa,f)e	
+four	f(r,ao)b	ao(f,r)	r(ao,th)e	
+things	th(r,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+sil	sil	
+[noise]	sil	
+you	y(sil,uw)b	uw(y,sil)e	
+sil	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,sil)e	
+sil	sil	
+do	d(sil,uw)b	uw(d,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,s)e	
+stay	s(uw,t)b	t(s,ey)	ey(t,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+safe	s(sil,ey)b	ey(s,f)	f(ey,sil)e	
+sil	sil	
+</s>	sile	

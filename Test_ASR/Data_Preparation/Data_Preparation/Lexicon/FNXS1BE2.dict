@@ -1,0 +1,34 @@
+<s>	silb	
+/d	d	
+eh	eh	
+y/	y	
+use(2)	y(sil,uw)b	uw(y,z)	z(uw,sil)e	
+[begin_noise]	sil	
+/p	p	
+w(/w/)	w	
+er(/er/)	er(w,m)e	
+m(/m/)	m(er,z)e	
+z/	z(m,sil)e	
+[end_noise]	sil	
+to(2)	t	ix	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+[sil]	sil	
+/d	d	
+ax/	ax	
+food	f(ax,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,g)e	
+/g	g	
+aa(/aa/)	aa	
+r	aa(aa,r)b	r(aa,b)e	
+b	b(r,iy)b	iy(b,ih)e	
+ih(/ih/)	ih	
+sil	sil	
+ch/	ch	
+sil	sil	
+bag	b(sil,ae)b	ae(b,gd)	gd(ae,sil)e	
+sil	sil	
+</s>	sile	

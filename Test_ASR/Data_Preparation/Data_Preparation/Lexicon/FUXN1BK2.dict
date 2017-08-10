@@ -1,0 +1,28 @@
+<s>	silb	
+[noise]	sil	
+workers	w(sil,er)b	er(w,k)	k	axr	z(axr,n)e	
+/n	n	
+y(/y/)	y(n,uw)	
+uw(/uw/)	uw(y,z)e	
+z/	z(uw,sil)e	
+[begin_noise]	sil	
+parts	p(sil,aa)b	aa(p,r)	r(aa,ts)	ts(r,sil)e	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,dh)e	
+the	dh(v,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+/b	b	
+aa(/aa/)	aa	
+dx(/dx/)	dx	
+ah(/ah/)	ah	
+l/	l(ah,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,m)e	
+make	m(uw,ey)b	ey(m,kd)	kd(ey,sil)e	
+sil	sil	
+clothing	k(sil,l)b	l(k,ow)	ow	dh	ix	ng(ix,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

@@ -1,0 +1,25 @@
+<s>	silb	
+lots	l(sil,aa)b	aa	ts	
+sil	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,p)e	
+people	p(r,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+recycled	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,dd)	dd(l,sil)e	
+sil	sil	
+/k/	k	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+cans	k(sil,ae)b	ae(k,n)	n(ae,z)	z(n,sil)e	
+sil	sil	
+[human_noise]	sil	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+paper	p(sil,ey)b	ey	p	axr(p,sil)e	
+[crosstalk](+inhale+)	+inhale+	
+</s>	sile	

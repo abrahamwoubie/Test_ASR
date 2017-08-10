@@ -1,0 +1,24 @@
+<s>	silb	
+not	n	aa	td	
+sil	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,ax)e	
+ago	ax(ng,g)b	g(ax,ow)	ow(g,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+/s	s	
+ay	ay(s,ix)s	
+ix(/ix/)	ix	
+n(/n/)	n(ix,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,sil)e	
+sil	sil	
+found	f(sil,aw)b	aw(f,n)	n(aw,dd)	dd(n,ey)e	
+a(2)	ey(dd,d)s	
+dinosaur	d(ey,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,eh)e	
+egg	eh	gd(eh,sil)e	
+sil	sil	
+[sil]	sil	
+</s>	sile	

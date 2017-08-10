@@ -1,0 +1,12 @@
+fkmm1am2:word>                  <s>    0    9        -1580790
+fkmm1am2:word> [HUMAN_NOISE](+RUSTLE+)   10   31        -4908703
+fkmm1am2:word>    [NOISE](+RUSTLE+)   32   55        -4753406
+fkmm1am2:word>                  SIL   56   98        -6177553
+fkmm1am2:word>    [NOISE](+RUSTLE+)   99  104        -1181828
+fkmm1am2:word>                 </s>  105  300       -30313616
+fkmm1am2:phone>                 SILb    0    9        -1580790
+fkmm1am2:phone>             +RUSTLE+   10   31        -4908703
+fkmm1am2:phone>             +RUSTLE+   32   55        -4753406
+fkmm1am2:phone>                  SIL   56   98        -6177553
+fkmm1am2:phone>             +RUSTLE+   99  104        -1181828
+fkmm1am2:phone>                 SILe  105  300       -30313616

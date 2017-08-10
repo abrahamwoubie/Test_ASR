@@ -1,0 +1,48 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+if	ih(sil,f)b	f(ih,ax)e	
+another	ax(f,n)b	n(ax,ah)	ah(n,dh)	dh(ah,axr)	axr(dh,sil)e	
+sil	sil	
+person	p(sil,er)b	er(p,s)	s(er,ax)	ax(s,n)	n(ax,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,hh)e	
+hear	hh(n,ih)b	ih(hh,r)	r(ih,sil)e	
+[see_transcript](+noise+)	+noise+	
+music	m(sil,y)b	y(m,uw)	uw(y,z)	z(uw,ix)	ix	kd(ix,sil)e	
+sil	sil	
+[see_transcript](+inhale+)	+inhale+	
+[human_noise](+rustle+)	+rustle+	
+[begin_noise]	sil	
+from(2)	f(sil,r)b	r(f,ah)	ah(r,m)	m(ah,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+a(2)	ey	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/hh	hh	
+eh	eh	
+sil	sil	
+d/	d	
+sil	sil	
+headset	hh(sil,eh)b	eh	d	s	eh(s,td)	td(eh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+you	y(sil,uw)b	uw(y,sil)e	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,16 @@
+famp2cb2:word> <s> 0.00 35.00 -5486477
+famp2cb2:word> SIL 36.00 42.00 -1056592
+famp2cb2:word> [HUMAN_NOISE](+NOISE+) 43.00 45.00 -479602
+famp2cb2:word> /M 46.00 52.00 -1305358
+famp2cb2:word> OW 53.00 63.00 -1628020
+famp2cb2:word> S/ 64.00 83.00 -3382395
+famp2cb2:word> [BEGIN_NOISE] 84.00 86.00 -543208
+famp2cb2:word> PEOPLE 87.00 124.00 -5911588
+famp2cb2:word> IN(2) 125.00 139.00 -2341348
+famp2cb2:word> [END_NOISE] 140.00 142.00 -974312
+famp2cb2:word> RWANDA(2) 143.00 208.00 -11147316
+famp2cb2:word> ARE 209.00 227.00 -2620918
+famp2cb2:word> FARMERS 228.00 312.00 -12783066
+famp2cb2:word> SIL 313.00 315.00 -565736
+famp2cb2:word> [NOISE](+SMACK+) 316.00 322.00 -1242810
+famp2cb2:word> </s> 323.00 560.00 -27264847

@@ -1,0 +1,20 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+[whisper](+inhale+)	+inhale+	
+sil	sil	
+/dh	dh	
+ax(/ax/)	ax(dh,s)s	
+s/	s(ax,sil)e	
+sil	sil	
+sea	s(sil,iy)b	iy(s,aa)e	
+otters	aa	dx	axr(dx,z)	z(axr,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,dh)e	
+the(3)	dh(n,iy)b	iy(dh,ow)e	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+</s>	sile	

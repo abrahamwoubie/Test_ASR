@@ -1,0 +1,15 @@
+<s>	silb	
+[begin_noise]	sil	
+dolphin	d(sil,aa)b	aa	l	f(l,ax)	ax(f,n)	n(ax,sil)e	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the(3)	dh(sil,iy)b	iy(dh,sil)e	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+[end_noise]	sil	
+</s>	sile	

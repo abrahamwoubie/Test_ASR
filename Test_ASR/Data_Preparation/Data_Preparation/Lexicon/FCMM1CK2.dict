@@ -1,0 +1,17 @@
+<s>	silb	
+/k	k	
+ax(/ax/)	ax(k,l)e	
+l/	l(ax,r)e	
+rain	r(l,ey)b	ey(r,n)	n(ey,f)e	
+forest(2)	f(n,ao)b	ao(f,r)	r(ao,ix)	ix(r,s)	s(ix,td)	td(s,sil)e	
+sil	sil	
+has	hh(sil,ae)b	ae(hh,z)	z(ae,m)e	
+many	m(z,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+tall	t(sil,ao)b	ao	l(ao,sil)e	
+[begin_noise]	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+[end_noise]	sil	
+</s>	sile	

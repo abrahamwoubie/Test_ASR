@@ -1,0 +1,17 @@
+<s>	silb	
+[noise]	sil	
+doctors	d(sil,aa)b	aa	kd	t(kd,axr)	axr(t,z)	z(axr,s)e	
+say	s(z,ey)b	ey(s,k)e	
+kids	k(ey,ih)b	ih(k,d)	d(ih,z)	z(d,n)e	
+need	n(z,iy)b	iy(n,dd)	dd(iy,t)e	
+to	t(dd,ax)b	ax(t,g)e	
+get(2)	g(ax,ih)b	ih	td(ih,sil)e	
+sil	sil	
+up	ah(sil,pd)b	pd(ah,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,m)e	
+move	m(dd,uw)b	uw(m,v)	v(uw,ax)e	
+about	ax(v,b)b	b(ax,aw)	aw(b,td)	td(aw,sil)e	
+[noise]	sil	
+</s>	sile	

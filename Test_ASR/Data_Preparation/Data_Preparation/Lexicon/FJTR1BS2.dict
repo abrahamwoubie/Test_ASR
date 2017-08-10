@@ -1,0 +1,27 @@
+<s>	silb	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to	t(sil,ax)b	ax(t,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+/s	s	
+iy(/iy/)	iy(s,eh)s	
+l	eh(iy,l)b	l(eh,z)e	
+z/	z(l,hh)e	
+homes	hh(z,ow)b	ow(hh,m)	m	z(m,sil)e	
+[human_noise]	sil	
+[begin_noise]	sil	
+clean	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,sil)e	
+[end_noise]	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+[begin_noise]	sil	
+safe	s(sil,ey)b	ey(s,f)	f(ey,sil)e	
+[end_noise]	sil	
+[noise](+noise+)	+noise+	
+[crosstalk](+noise+)	+noise+	
+[noise](+noise+)	+noise+	
+</s>	sile	

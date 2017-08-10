@@ -1,0 +1,13 @@
+<s>	silb	
+sil	sil	
+[noise]	sil	
+sil	sil	
+dolphins	d(sil,aa)b	aa	l	f(l,ax)	ax(f,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+live	l(sil,ay)b	ay(l,v)	v(ay,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,dh)e	
+the	dh(n,ah)b	ah(dh,ow)e	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+[sil]	sil	
+</s>	sile	

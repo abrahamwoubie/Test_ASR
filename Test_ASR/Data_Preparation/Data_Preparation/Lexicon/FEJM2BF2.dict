@@ -1,0 +1,23 @@
+<s>	silb	
+[noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,f)e	
+first	f(ax,er)b	er(f,s)	s(er,td)	td(s,sil)e	
+[begin_noise]	sil	
+thing	th(sil,ih)b	ih(th,ng)	ng(ih,sil)e	
+[end_noise]	sil	
+the(3)	dh(sil,iy)b	iy(dh,k)e	
+caterpillar	k(iy,ae)b	ae(k,dx)	dx(ae,ax)	ax(dx,p)	p(ax,ih)	ih	l	axr(l,sil)e	
+[begin_noise]	sil	
+eats	iy	ts(iy,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+is(2)	ix(sil,z)b	z(ix,ih)e	
+its	ih(z,ts)b	ts(ih,sil)e	
+[end_noise]	sil	
+own	ow(sil,n)b	n(ow,sil)e	
+[begin_noise]	sil	
+eggshell	eh(sil,g)b	g	sh	eh	l(eh,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,53 @@
+<s>	silb	
+[begin_noise]	sil	
+if(2)	ix(sil,f)b	f(ix,sil)e	
+[end_noise]	sil	
+the	dh(sil,ah)b	ah(dh,r)e	
+/r	r	
+ih(/ih/)	ih(r,v)	
+v(/v/)	v(ih,er)e	
+er(/er/)	er	
+z/	z(er,sil)e	
+sil	sil	
+[human_noise]	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+get	g(sil,eh)b	eh(g,td)	td(eh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+[begin_noise]	sil	
+deep	d(sil,iy)b	iy	pd(iy,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+/w/	w	
+/w	w	
+aa/	aa	
+sil	sil	
+/w	w	
+er/	er(w,sil)e	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+[begin_noise]	sil	
+/g	g	
+eh/	eh	
+sil	sil	
+/g	g	
+ih(/ih/)	ih	
+s/	s(ih,sil)e	
+sil	sil	
+onto	aa(sil,n)b	n	t(n,uw)	uw(t,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,l)e	
+/l	l(ah,hh)e	
+hh/	hh	
+sil	sil	
+land	l(sil,ae)b	ae(l,n)	n(ae,dd)	dd(n,sil)e	
+</s>	sile	

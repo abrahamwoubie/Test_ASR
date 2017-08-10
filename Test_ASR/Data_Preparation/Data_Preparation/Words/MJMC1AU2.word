@@ -1,0 +1,17 @@
+mjmc1au2:word> <s> 0.00 2.00 -1274602
+mjmc1au2:word> /IH 3.00 5.00 -1144809
+mjmc1au2:word> S/ 6.00 23.00 -2650962
+mjmc1au2:word> SIL 24.00 33.00 -1530718
+mjmc1au2:word> TOO 34.00 75.00 -6979857
+mjmc1au2:word> SIL 76.00 87.00 -1768949
+mjmc1au2:word> DEEP 88.00 143.00 -8883108
+mjmc1au2:word> SIL 144.00 206.00 -9333091
+mjmc1au2:word> [HUMAN_NOISE](+INHALE+) 207.00 238.00 -5277146
+mjmc1au2:word> [BEGIN_NOISE] 239.00 297.00 -8058759
+mjmc1au2:word> /DH/ 298.00 301.00 -838185
+mjmc1au2:word> [END_NOISE] 302.00 332.00 -4400532
+mjmc1au2:word> IF(2) 333.00 351.00 -3725870
+mjmc1au2:word> SIL 352.00 362.00 -1769610
+mjmc1au2:word> /D 363.00 370.00 -1642761
+mjmc1au2:word> AH/ 371.00 396.00 -5331010
+mjmc1au2:word> </s> 397.00 400.00 -832731

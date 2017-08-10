@@ -1,0 +1,16 @@
+<s>	silb	
+[begin_noise]	sil	
+/s	s	
+sil	sil	
+t/	t	
+[end_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,s)e	
+storms	s(ax,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+[begin_noise]	sil	
+have	hh(sil,ae)b	ae(hh,v)	v(ae,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,w)e	
+winds(2)	w(gd,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+[sil]	sil	
+</s>	sile	

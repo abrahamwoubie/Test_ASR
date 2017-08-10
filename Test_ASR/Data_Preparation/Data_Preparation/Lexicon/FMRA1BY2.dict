@@ -1,0 +1,23 @@
+<s>	silb	
+/d	d	
+aa(/aa/)	aa	
+sil	sil	
+p/	p	
+[sil]	sil	
+/p	p	
+r	aa(p,r)	r(aa,ih)e	
+ih(/ih/)	ih(r,n)	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+t(/t/)	t	
+s/	s	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+sil	sil	
+</s>	sile	

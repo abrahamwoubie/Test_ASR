@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,l)e	
+live(2)	l(z,ih)b	ih(l,v)	v(ih,ax)e	
+along	ax(v,l)b	l(ax,ao)	ao(l,ng)	ng(ao,dh)e	
+the(2)	dh(ng,ax)b	ax(dh,k)e	
+coast	k(ax,ow)b	ow(k,s)	s(ow,td)	td(s,ae)e	
+and	ae(td,n)b	n(ae,dd)	dd(n,ih)e	
+in	ih(dd,n)b	n(ih,n)e	
+nearby	n(n,ih)b	ih(n,r)	r(ih,b)	b(r,ay)	ay(b,ow)e	
+oceans	ow	sh(ow,ax)	ax(sh,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

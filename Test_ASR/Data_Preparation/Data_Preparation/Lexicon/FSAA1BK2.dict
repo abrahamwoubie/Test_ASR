@@ -1,0 +1,28 @@
+<s>	silb	
+/er	er	
+sil	sil	
+k(/k/)	k	
+s/	s(k,sil)e	
+[sil]	sil	
+us	ah(sil,s)b	s(ah,sil)e	
+[begin_noise]	sil	
+/p	p	
+aa/	aa	
+sil	sil	
+parts	p(sil,aa)b	aa(p,r)	r(aa,ts)	ts(r,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,dh)e	
+the	dh(v,ah)b	ah(dh,sil)e	
+sil	sil	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+[human_noise]	sil	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,sil)e	
+[end_noise]	sil	
+</s>	sile	

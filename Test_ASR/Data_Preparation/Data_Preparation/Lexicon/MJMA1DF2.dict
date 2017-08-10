@@ -1,0 +1,27 @@
+<s>	silb	
+/s	s	
+ay	ay(s,ax)s	
+ax(/ax/)	ax(ay,n)s	
+n(/n/)	n(ax,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,k)e	
+keep	k(s,iy)b	iy(k,pd)	pd(iy,l)e	
+learning	l	er	n(er,ix)	ix(n,ng)	ng(ix,sil)e	
+[human_noise]	sil	
+new	n(sil,uw)b	uw(n,th)e	
+things	th(uw,ih)b	ih(th,ng)	ng(ih,z)	z(ng,ax)e	
+about	ax(z,b)b	b(ax,aw)	aw(b,td)	td(aw,sil)e	
+sil	sil	
+/d	d	
+ay	ay(d,n)	
+n(/n/)	n(ay,ax)e	
+ax(/ax/)	ax(n,s)s	
+s(/s/)	s(ax,ao)e	
+ao(/ao/)	ao(s,sil)e	
+sil	sil	
+r(/r/)	r	
+s/	s(r,sil)e	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,41 @@
+<s>	silb	
+until	ax(sil,n)b	n(ax,t)	t(n,ih)	ih(t,l)	l(ih,n)e	
+now	n(l,aw)b	aw(n,s)e	
+/s	s(aw,ay)e	
+ay	ay(s,aa)s	
+ah	aa	
+n	eh(aa,n)b	n(eh,t)e	
+t	t(n,iy)b	iy(t,ix)e	
+ix(/ix/)	ix(iy,s)	
+s/	s(ix,w)e	
+/w	w	
+ow	ow	
+l/	l(ow,sil)e	
+sil	sil	
+not	n	aa	td	
+sil	sil	
+[noise]	sil	
+/ix/	ix	
+[begin_whisper]	sil	
+/ix/	ix	
+[end_whisper]	sil	
+explain	ix(sil,k)b	k(ix,s)	s(k,p)	p(s,l)	l(p,ey)	ey(l,n)	n(ey,sil)e	
+sil	sil	
+[human_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[sil]	sil	
+/d	d	
+ax/	ax	
+tops	t	aa	p	s(p,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+/d	d	
+ax/	ax	
+trees	t(ax,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

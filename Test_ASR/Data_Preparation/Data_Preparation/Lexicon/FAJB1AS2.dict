@@ -1,0 +1,28 @@
+<s>	silb	
+[noise]	sil	
+sometimes(2)	s(sil,ax)b	ax(s,m)	m	t(m,ay)	ay(t,m)	m(ay,z)	z(m,sil)e	
+[begin_noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+[end_noise]	sil	
+is(2)	ix(sil,z)b	z(ix,hh)e	
+hard	hh(z,aa)b	aa(hh,r)	r	dd(r,t)e	
+to(3)	t(dd,uw)b	uw(t,s)e	
+see	s(uw,iy)b	iy(s,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+[begin_noise]	sil	
+dust	d(sil,ah)b	ah	s(ah,td)	td(s,sil)e	
+sil	sil	
+/s	s	
+sil	sil	
+t(/t/)	t	
+ao(/ao/)	ao(t,r)e	
+r(/r/)	r(ao,m)e	
+m(/m/)	m(r,sil)e	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

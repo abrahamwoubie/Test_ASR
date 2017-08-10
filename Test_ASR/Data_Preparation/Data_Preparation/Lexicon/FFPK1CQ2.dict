@@ -1,0 +1,31 @@
+<s>	silb	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,sil)e	
+[human_noise]	sil	
+/p	p	
+l(/l/)	l(p,ey)	
+ey(/ey/)	ey(l,n)s	
+n(/n/)	n(ey,z)e	
+z/	z(n,sil)e	
+[begin_noise]	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+[end_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,r)e	
+rain	r(ah,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ix)e	
+ix(/ix/)	ix(r,s)	
+s/	s(ix,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

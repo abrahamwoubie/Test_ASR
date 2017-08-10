@@ -1,0 +1,25 @@
+<s>	silb	
+[noise]	sil	
+/d	d	
+ey/	ey(d,f)e	
+fix	f(ey,ih)b	ih(f,k)	k(ih,s)	s(k,sil)e	
+sil	sil	
+up	ah(sil,pd)b	pd(ah,sil)e	
+sil	sil	
+all	ao(sil,l)b	l(ao,b)e	
+bikes	b(l,ay)b	ay	k	s(k,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,l)e	
+let	l(dd,eh)b	eh(l,td)	td(eh,sil)e	
+sil	sil	
+other's	ah(sil,dh)b	dh(ah,axr)	axr(dh,z)	z(axr,p)e	
+peoples	p(z,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,z)	z(l,y)e	
+use(2)	y(z,uw)b	uw(y,z)	z(uw,d)e	
+/d	d	
+ax(/ax/)	ax	
+sil	sil	
+m/	m	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+</s>	sile	

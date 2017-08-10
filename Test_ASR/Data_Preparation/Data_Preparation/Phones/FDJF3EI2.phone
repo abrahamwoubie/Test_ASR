@@ -1,0 +1,16 @@
+fdjf3ei2:phone> SILb 0.00 17.00 -2785708
+fdjf3ei2:phone> +NOISE+ 18.00 20.00 -464822
+fdjf3ei2:phone> SIL 21.00 24.00 -838978
+fdjf3ei2:phone> N(SIL,AW)b 25.00 37.00 -2013058
+fdjf3ei2:phone> AW(N,DH)e 38.00 70.00 -4472284
+fdjf3ei2:phone> DH(AW,EY)b 71.00 81.00 -1990784
+fdjf3ei2:phone> EY(DH,HH)e 82.00 104.00 -3194489
+fdjf3ei2:phone> HH(EY,AE)b 105.00 116.00 -1884506
+fdjf3ei2:phone> AE(HH,V) 117.00 144.00 -3901091
+fdjf3ei2:phone> V(AE,SIL)e 145.00 154.00 -1650335
+fdjf3ei2:phone> SIL 155.00 167.00 -2173837
+fdjf3ei2:phone> P(SIL,R)b 168.00 180.00 -2186756
+fdjf3ei2:phone> R 181.00 187.00 -1300232
+fdjf3ei2:phone> UW 188.00 208.00 -3418238
+fdjf3ei2:phone> F 209.00 232.00 -4490766
+fdjf3ei2:phone> SILe 233.00 570.00 -39178695

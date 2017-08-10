@@ -1,0 +1,16 @@
+<s>	silb	
+sil	sil	
+/s	s	
+p(/p/)	p(s,r)	
+r(/r/)	r(p,ih)	
+ih(/ih/)	ih(r,ng)	
+ng/	ng(ih,b)e	
+brings	b(ng,r)b	r(b,ih)	ih(r,ng)	ng(ih,z)	z(ng,sil)e	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,k)e	
+kinds	k(iy,ay)b	ay(k,n)	n(ay,d)	d(n,z)	z(d,ah)e	
+of	ah(z,v)b	v(ah,w)e	
+weather	w(v,eh)b	eh(w,dh)	dh(eh,axr)	axr(dh,sil)e	
+[noise](+exhale+)	+exhale+	
+[sil]	sil	
+</s>	sile	

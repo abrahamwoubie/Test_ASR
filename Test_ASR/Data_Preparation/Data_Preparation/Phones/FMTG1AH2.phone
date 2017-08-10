@@ -1,0 +1,11 @@
+fmtg1ah2:phone> SILb 0.00 93.00 -12765652
+fmtg1ah2:phone> SIL 94.00 147.00 -6952964
+fmtg1ah2:phone> G(SIL,OW)b 148.00 155.00 -1381725
+fmtg1ah2:phone> OW(G,IH)e 156.00 177.00 -2745146
+fmtg1ah2:phone> IH(OW,N)b 178.00 193.00 -2611978
+fmtg1ah2:phone> N(IH,D) 194.00 203.00 -1421734
+fmtg1ah2:phone> D 204.00 210.00 -1163230
+fmtg1ah2:phone> AO(D,R) 211.00 226.00 -2868048
+fmtg1ah2:phone> R(AO,Z) 227.00 251.00 -4869029
+fmtg1ah2:phone> Z(R,SIL)e 252.00 284.00 -5615979
+fmtg1ah2:phone> SILe 285.00 662.00 -42013321

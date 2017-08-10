@@ -1,0 +1,35 @@
+<s>	silb	
+when(4)	w(sil,ih)b	ih(w,n)	n(ih,w)e	
+/w	w	
+ao(/ao/)	ao	
+sil	sil	
+t(/t/)	t	
+er/	er	
+sil	sil	
+covers	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,sil)e	
+[human_noise]	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+does	d(sil,ah)b	ah(d,z)	z(ah,sil)e	
+sil	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,hh)e	
+house	hh(uw,aw)b	aw(hh,s)	s(aw,sil)e	
+sil	sil	
+/ih	ih	
+z/	z(ih,sil)e	
+[human_noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,k)e	
+/k	k	
+ao/	ao	
+sil	sil	
+a	ax(sil,f)s	
+flood	f(ax,l)b	l	ah	dd	
+sil	sil	
+</s>	sile	

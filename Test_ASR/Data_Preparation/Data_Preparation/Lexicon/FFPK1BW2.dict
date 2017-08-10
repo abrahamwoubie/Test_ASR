@@ -1,0 +1,39 @@
+<s>	silb	
+[begin_noise]	sil	
+[noise](+exhale+)	+exhale+	
+mother	m(sil,ah)b	ah(m,dh)	dh(ah,axr)	axr(dh,s)e	
+sea	s(axr,iy)b	iy(s,sil)e	
+sil	sil	
+/t	t	
+er(/er/)	er(t,m)	
+m(/m/)	m(er,ix)e	
+ix(/ix/)	ix(m,n)	
+n(/n/)	n(ix,ah)e	
+ah(/ah/)	ah(n,l)	
+l(/l/)	l(ah,z)e	
+z/	z(l,s)e	
+/s	s	
+w(/w/)	w	
+ih(/ih/)	ih	
+m	eh(sil,m)b	m(eh,z)e	
+z/	z(m,sil)e	
+[human_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/l	l	
+ae/	ae	
+[begin_noise]	sil	
+land	l(sil,ae)b	ae(l,n)	n(ae,dd)	dd(n,sil)e	
+[end_noise]	sil	
+only	ow(sil,n)b	n(ow,l)	l(n,iy)	iy(l,t)e	
+to(3)	t(iy,uw)b	uw(t,l)e	
+lay	l(uw,ey)b	ey(l,sil)e	
+sil	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+</s>	sile	

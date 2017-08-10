@@ -1,0 +1,13 @@
+farg1ah2:word>                  <s>    0    2        -1293034
+farg1ah2:word>                 /OW/    3    6         -721394
+farg1ah2:word>              INDOORS    7   96       -14917040
+farg1ah2:word>                 </s>   97  498       -46227141
+farg1ah2:phone>                 SILb    0    2        -1293034
+farg1ah2:phone>          OW(SIL,IH)s    3    6         -721394
+farg1ah2:phone>            IH(OW,N)b    7   16        -1491802
+farg1ah2:phone>              N(IH,D)   17   29        -2098131
+farg1ah2:phone>                    D   30   36        -1019484
+farg1ah2:phone>              AO(D,R)   37   47        -1706717
+farg1ah2:phone>              R(AO,Z)   48   62        -3152387
+farg1ah2:phone>            Z(R,SIL)e   63   96        -5448519
+farg1ah2:phone>                 SILe   97  498       -46227141

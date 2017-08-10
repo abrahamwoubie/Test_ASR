@@ -1,0 +1,16 @@
+fabm2de1:phone> SILb 0.00 11.00 -1772584
+fabm2de1:phone> B(SIL,AX)b 12.00 16.00 -959845
+fabm2de1:phone> AX(B,TD) 17.00 19.00 -566324
+fabm2de1:phone> TD(AX,DH)e 20.00 26.00 -944291
+fabm2de1:phone> DH(TD,EY)b 27.00 31.00 -767064
+fabm2de1:phone> EY(DH,K)e 32.00 42.00 -1553534
+fabm2de1:phone> K(EY,AX)b 43.00 51.00 -1595839
+fabm2de1:phone> AX(K,N) 52.00 54.00 -623695
+fabm2de1:phone> N(AX,N)e 55.00 58.00 -622204
+fabm2de1:phone> N 59.00 64.00 -1186245
+fabm2de1:phone> AA 65.00 74.00 -1966491
+fabm2de1:phone> TD 75.00 80.00 -1448277
+fabm2de1:phone> F(TD,L)b 81.00 95.00 -2455376
+fabm2de1:phone> L(F,AY) 96.00 102.00 -881925
+fabm2de1:phone> AY(L,SIL)e 103.00 126.00 -3039517
+fabm2de1:phone> SILe 127.00 168.00 -4935931

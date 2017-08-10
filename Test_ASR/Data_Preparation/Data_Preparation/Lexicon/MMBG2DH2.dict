@@ -1,0 +1,19 @@
+<s>	silb	
+sil	sil	
+sh(/sh/)	sh	
+iy(/iy/)	iy(sh,dh)e	
+dh(/dh/)	dh	
+b(/b/)	b	
+ih(/ih/)	ih(b,l)	
+l(/l/)	l(ih,d)e	
+d(/d/)	d(l,z)	
+z/	z(d,sil)e	
+sil	sil	
+line	l(sil,ay)b	ay(l,n)	n(ay,ao)e	
+on(2)	ao(n,n)b	n(ao,ae)e	
+antarctica(2)	ae(n,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,sil)e	
+sil	sil	
+during(2)	d(sil,y)b	y	uh(y,r)	r(uh,ix)	ix(r,ng)	ng(ix,dh)e	
+the(2)	dh(ng,ax)b	ax(dh,s)e	
+summer	s(ax,ah)b	ah(s,m)	m(ah,axr)	axr(m,sil)e	
+</s>	sile	

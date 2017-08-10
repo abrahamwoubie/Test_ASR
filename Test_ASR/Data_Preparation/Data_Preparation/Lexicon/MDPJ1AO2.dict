@@ -1,0 +1,40 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+[begin_noise]	sil	
+blow	b(sil,l)b	l(b,ow)	ow(l,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+a	ax	
+sil	sil	
+[noise]	sil	
+sil	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+/k	k	
+l(/l/)	l	
+sil	sil	
+ow	ow(sil,sil)s	
+sil	sil	
+d/	d	
+sil	sil	
+[noise](+swallow+)	+swallow+	
+sil	sil	
+down	d(sil,aw)b	aw(d,n)	n(aw,sil)e	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+to(2)	t	ix	
+sil	sil	
+[end_noise]	sil	
+[begin_noise]	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+[end_noise]	sil	
+[noise](+noise+)	+noise+	
+ground	g(sil,r)b	r(g,aw)	aw(r,n)	n(aw,dd)	dd(n,sil)e	
+</s>	sile	

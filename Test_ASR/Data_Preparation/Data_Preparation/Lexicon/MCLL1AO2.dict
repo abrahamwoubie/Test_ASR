@@ -1,0 +1,47 @@
+<s>	silb	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+/b	b	
+r(/r/)	r	
+ow/	ow(r,sil)s	
+sil	sil	
+[begin_whisper]	sil	
+you	y(sil,uw)b	uw(y,sil)e	
+sil	sil	
+go	g(sil,ow)b	ow(g,ax)e	
+a	ax(ow,sil)s	
+sil	sil	
+[end_whisper]	sil	
+[human_noise](+noise+)	+noise+	
+/b	b	
+r(/r/)	r	
+ow/	ow(r,sil)s	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+sil	sil	
+/dh	dh	
+ih(/ih/)	ih(dh,n)	
+n/	n(ih,sil)e	
+sil	sil	
+cloud	k(sil,l)b	l	aw(l,dd)	dd(aw,k)e	
+/k	k	
+ao(/ao/)	ao	
+sil	sil	
+l(/l/)	l	
+sil	sil	
+d/	d	
+/b	b	
+r(/r/)	r(b,ey)	
+ey(/ey/)	ey(r,n)s	
+n/	n(ey,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,g)e	
+ground	g(ah,r)b	r(g,aw)	aw(r,n)	n(aw,dd)	dd(n,sil)e	
+</s>	sile	

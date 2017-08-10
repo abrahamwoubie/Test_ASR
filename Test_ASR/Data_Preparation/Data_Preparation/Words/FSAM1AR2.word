@@ -1,0 +1,16 @@
+fsam1ar2:word> <s> 0.00 3.00 -653256
+fsam1ar2:word> [NOISE] 4.00 54.00 -6403550
+fsam1ar2:word> THE(2) 55.00 65.00 -1837778
+fsam1ar2:word> WINDS(2) 66.00 141.00 -10979323
+fsam1ar2:word> [SIL] 142.00 169.00 -3616472
+fsam1ar2:word> BLOW 170.00 227.00 -7825114
+fsam1ar2:word> [BEGIN_NOISE] 228.00 235.00 -1277964
+fsam1ar2:word> DUST 236.00 291.00 -9315242
+fsam1ar2:word> [END_NOISE] 292.00 315.00 -3540432
+fsam1ar2:word> /AE 316.00 338.00 -3850832
+fsam1ar2:word> N/ 339.00 354.00 -2216826
+fsam1ar2:word> DIRT 355.00 391.00 -6893764
+fsam1ar2:word> SIL 392.00 395.00 -823618
+fsam1ar2:word> AROUND 396.00 472.00 -14093458
+fsam1ar2:word> [SIL] 473.00 481.00 -1558639
+fsam1ar2:word> </s> 482.00 658.00 -19729226

@@ -1,0 +1,35 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+only	ow(sil,n)b	n(ow,l)	l(n,iy)	iy(l,ey)e	
+a(2)	ey(iy,f)s	
+/f	f(ey,l)e	
+l(/l/)	l	
+uw/	uw(l,sil)e	
+sil	sil	
+few	f(sil,y)b	y(f,uw)	uw(y,sil)e	
+[begin_noise]	sil	
+planets	p(sil,l)b	l(p,ae)	ae(l,n)	n(ae,ax)	ax	ts(ax,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,sil)e	
+[begin_noise]	sil	
+insects	ih(sil,n)b	n(ih,s)	s(n,eh)	eh	kd(eh,ts)	ts(kd,l)e	
+live(2)	l(ts,ih)b	ih(l,v)	v(ih,sil)e	
+[end_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,m)e	
+middle	m(ax,ih)b	ih(m,dx)	dx(ih,ax)	ax(dx,l)	l(ax,sil)e	
+[sil]	sil	
+/ax/	ax(sil,dh)s	
+the(2)	dh(ax,ax)b	ax(dh,k)e	
+/k	k(ax,ow)	
+ow	ow(k,l)e	
+l/	l(ow,k)e	
+continent	k(l,aa)b	aa(k,n)	n	t(n,ax)	ax(t,n)	n(ax,ax)	ax(n,n)	n(ax,td)	td(n,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,56 @@
+<s>	silb	
+[begin_noise]	sil	
+then	dh(sil,eh)b	eh(dh,n)	n(eh,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+not	n	aa	td	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+as	ae(sil,z)b	z(ae,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[sil]	sil	
+sil	sil	
+/m	m	
+ah(/ah/)	ah(m,s)	
+s/	s(ah,sil)e	
+sil	sil	
+/m	m	
+ah(/ah/)	ah(m,s)	
+s/	s(ah,sil)e	
+sil	sil	
+trash	t(sil,r)b	r(t,ae)	ae	sh(ae,sil)e	
+sil	sil	
+[begin_whisper]	sil	
+/p	p	
+ao(/ao/)	ao	
+l	eh(ao,l)b	l(eh,z)e	
+z/	z(l,sil)e	
+[end_whisper]	sil	
+/p	p	
+ao(/ao/)	ao	
+l	eh(ao,l)b	l(eh,z)e	
+z/	z(l,sil)e	
+sil	sil	
+up	ah(sil,pd)b	pd(ah,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,k)e	
+christal	k(dd,r)b	r(k,ih)	ih(r,s)	s(ih,t)	t(s,ax)	ax(t,l)	l(ax,sil)e	
+sil	sil	
+get(2)	g(sil,ih)b	ih	td(ih,w)e	
+one	w(td,ah)b	ah(w,n)	n(ah,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

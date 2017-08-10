@@ -1,0 +1,43 @@
+<s>	silb	
+kids	k(sil,ih)b	ih(k,d)	d(ih,z)	z(d,k)e	
+can	k(z,ae)b	ae(k,n)	n(ae,g)e	
+/g	g	
+y(/y/)	y	
+uw(/uw/)	uw(y,z)e	
+z/	z(uw,dh)e	
+the	dh(z,ah)b	ah(dh,hh)e	
+/hh	hh	
+ow	ow(hh,m)	
+m(/m/)	m(ow,s)e	
+s(/s/)	s	
+k(/k/)	k	
+uh(/uh/)	uh	
+l/	l(uh,sil)e	
+sil	sil	
+computer	k(sil,ax)b	ax(k,m)	m(ax,p)	p(m,y)	y(p,uw)	uw(y,dx)	dx(uw,axr)	axr(dx,t)e	
+to(3)	t(axr,uw)b	uw(t,s)e	
+send	s(uw,eh)b	eh(s,n)	n(eh,dd)	dd(n,g)e	
+/g	g	
+ih(/ih/)	ih	
+sil	sil	
+td/	td	
+sil	sil	
+/g	g	
+eh	eh(g,td)	
+td(/td/)	td(eh,w)e	
+w(/w/)	w	
+eh	eh(w,l)	
+l/	l(eh,m)e	
+messages(2)	m(l,eh)b	eh(m,s)	s(eh,ix)	ix(s,jh)	jh(ix,ix)	ix(jh,z)	z(ix,t)e	
+to(3)	t(z,uw)b	uw(t,s)e	
+sick	s(uw,ih)b	ih	kd(ih,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+classmates	k(sil,l)b	l(k,ae)	ae(l,s)	s	m	ey	ts(ey,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+at	ae(sil,td)b	td(ae,hh)e	
+home	hh(td,ow)b	ow(hh,m)	m(ow,t)e	
+too	t(m,uw)b	uw(t,sil)e	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,28 @@
+<s>	silb	
+[noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+good	g(sil,uh)b	uh(g,dd)	dd(uh,b)e	
+because	b(dd,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+recording(2)	r(sil,ix)b	ix(r,k)	k(ix,ao)	ao(k,r)	r(ao,dx)	dx(r,ix)	ix(dx,ng)	ng(ix,hh)e	
+helps	hh(ng,eh)b	eh(hh,l)	l	p	s(p,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/er	er	
+f/	f	
+sil	sil	
+/k	k	
+l(/l/)	l(k,iy)	
+iy(/iy/)	iy(l,r)s	
+r/	r	
+[noise](+exhale+)	+exhale+	
+[crosstalk]	sil	
+</s>	sile	

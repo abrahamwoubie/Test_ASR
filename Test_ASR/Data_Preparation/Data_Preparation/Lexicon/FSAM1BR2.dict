@@ -1,0 +1,19 @@
+<s>	silb	
+/s/	s	
+sil	sil	
+/s/	s	
+sil	sil	
+seals	s(sil,iy)b	iy	l(iy,z)	z(l,sil)e	
+[begin_noise]	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the	dh(n,ah)b	ah(dh,sil)e	
+sil	sil	
+oceans	ow	sh(ow,ax)	ax(sh,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+[sil]	sil	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,16 @@
+fclj1bc2:phone> SILb 0.00 2.00 -1173226
+fclj1bc2:phone> EH 3.00 5.00 -916784
+fclj1bc2:phone> Z(EH,M)e 6.00 8.00 -1024928
+fclj1bc2:phone> M(Z,AH)b 9.00 11.00 -805332
+fclj1bc2:phone> AH(M,CH) 12.00 29.00 -2567016
+fclj1bc2:phone> CH(AH,SIL)e 30.00 50.00 -4090679
+fclj1bc2:phone> SIL 51.00 71.00 -3737059
+fclj1bc2:phone> T(SIL,R)b 72.00 84.00 -2390401
+fclj1bc2:phone> R(T,AE) 85.00 89.00 -690844
+fclj1bc2:phone> AE 90.00 120.00 -5063370
+fclj1bc2:phone> SH(AE,SIL)e 121.00 143.00 -4958125
+fclj1bc2:phone> SIL 144.00 473.00 -41800094
+fclj1bc2:phone> P(SIL,IH)b 474.00 479.00 -1371385
+fclj1bc2:phone> IH 480.00 504.00 -4020008
+fclj1bc2:phone> L(IH,SIL)e 505.00 520.00 -2371703
+fclj1bc2:phone> SILe 521.00 550.00 -3654773

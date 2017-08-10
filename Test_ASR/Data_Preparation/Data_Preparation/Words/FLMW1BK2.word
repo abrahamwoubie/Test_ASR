@@ -1,0 +1,16 @@
+flmw1bk2:word> <s> 0.00 30.00 -4538162
+flmw1bk2:word> SIL 31.00 35.00 -875853
+flmw1bk2:word> /K 36.00 42.00 -1236497
+flmw1bk2:word> S/ 43.00 76.00 -4992020
+flmw1bk2:word> SIL 77.00 110.00 -5880915
+flmw1bk2:word> USE 111.00 180.00 -10796085
+flmw1bk2:word> SIL 181.00 216.00 -5633295
+flmw1bk2:word> [NOISE] 217.00 252.00 -5208045
+flmw1bk2:word> /P 253.00 255.00 -695235
+flmw1bk2:word> L(/L/) 256.00 258.00 -786931
+flmw1bk2:word> AA/ 259.00 261.00 -753794
+flmw1bk2:word> PLANTS 262.00 396.00 -25143546
+flmw1bk2:word> SIL 397.00 493.00 -14771408
+flmw1bk2:word> [HUMAN_NOISE](+RUSTLE+) 494.00 541.00 -11155916
+flmw1bk2:word> SIL 542.00 626.00 -14143586
+flmw1bk2:word> </s> 627.00 630.00 -680155

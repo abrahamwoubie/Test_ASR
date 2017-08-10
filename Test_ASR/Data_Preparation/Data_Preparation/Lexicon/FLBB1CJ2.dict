@@ -1,0 +1,21 @@
+<s>	silb	
+[noise]	sil	
+sometimes(2)	s(sil,ax)b	ax(s,m)	m	t(m,ay)	ay(t,m)	m(ay,z)	z(m,ah)e	
+other	ah(z,dh)b	dh(ah,axr)	axr(dh,f)e	
+fish	f(axr,ih)b	ih(f,sh)	sh(ih,w)e	
+will	w(sh,ax)b	ax(w,l)	l(ax,n)e	
+not	n	aa	td	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+fish	f(sil,ih)b	ih(f,sh)	sh(ih,b)e	
+because	b(sh,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,ih)e	
+it	ih(z,td)b	td(ih,sil)e	
+sil	sil	
+tastes	t(sil,ey)b	ey	s	ts(s,b)e	
+bad	b(ts,ae)b	ae(b,dd)	dd(ae,sil)e	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+</s>	sile	

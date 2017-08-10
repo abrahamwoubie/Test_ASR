@@ -1,0 +1,37 @@
+<s>	silb	
+sil	sil	
+[noise](+smack+)	+smack+	
+[begin_noise]	sil	
+/sh	sh	
+iy(/iy/)	iy(sh,th)e	
+th(/th/)	th	
+sil	sil	
+b(/b/)	b	
+ih(/ih/)	ih(b,l)	
+l(/l/)	l(ih,z)e	
+z/	z(l,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+have	hh(sil,ae)b	ae(hh,v)	v(ae,ax)e	
+a	ax(v,hh)s	
+/hh	hh(ax,aa)	
+aa(/aa/)	aa(hh,r)e	
+r(/r/)	r(aa,sil)e	
+dd/	dd(r,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[noise](+smack+)	+smack+	
+covering	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,ix)	ix(axr,ng)	ng(ix,sil)e	
+sil	sil	
+or	ao(sil,r)b	r(ao,sil)e	
+sil	sil	
+a	ax(sil,sh)s	
+sheath	sh(ax,iy)b	iy	th	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,sil)e	
+sil	sil	
+their	dh(sil,eh)b	eh(dh,r)	r(eh,b)e	
+bills	b(r,ih)b	ih(b,l)	l	z(l,sil)e	
+</s>	sile	

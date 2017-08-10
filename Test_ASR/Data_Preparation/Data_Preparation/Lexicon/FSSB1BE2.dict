@@ -1,0 +1,32 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,y)e	
+use	y(ey,uw)b	uw(y,s)	s(uw,w)e	
+/w	w	
+aa(/aa/)	aa(w,r)	
+r(/r/)	r(aa,m)e	
+m(/m/)	m(r,p)e	
+p(/p/)	p	
+s/	s(p,sil)e	
+[begin_noise]	sil	
+to	t(sil,ax)b	ax(t,sil)e	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,f)e	
+food	f(ax,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+bag	b(sil,ae)b	ae(b,gd)	gd(ae,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

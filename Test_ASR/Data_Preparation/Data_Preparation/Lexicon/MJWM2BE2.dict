@@ -1,0 +1,25 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+a(2)	ey(sil,sil)s	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,dx)	
+dx(/dx/)	dx(ae,axr)	
+er	axr(dx,p)e	
+p(/p/)	p	
+ih(/ih/)	ih	
+l(/l/)	l(ih,ax)e	
+ax/	ax(l,sil)s	
+[end_noise]	sil	
+eats	iy	ts(iy,ao)e	
+all	ao(ts,l)b	l(ao,dh)e	
+the(2)	dh(l,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+time	t(sil,ay)b	ay(t,m)	m(ay,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[sil]	sil	
+sil	sil	
+</s>	sile	

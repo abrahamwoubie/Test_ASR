@@ -1,0 +1,34 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+/s	s	
+sil	sil	
+ay	ay(sil,ix)s	
+ix(/ix/)	ix	
+n(/n/)	n(ix,t)e	
+t(/t/)	t(n,eh)	
+eh	eh(t,n)	
+n(/n/)	n(eh,s)e	
+s/	s(n,sil)e	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+/l	l	
+ah	aa(l,r)	
+r(/r/)	r(aa,n)e	
+n(/n/)	n(r,ix)e	
+ix(/ix/)	ix(n,ng)	
+ng/	ng(ix,sil)e	
+[noise]	sil	
+new	n(sil,uw)b	uw(n,sil)e	
+sil	sil	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,ax)e	
+about	ax(z,b)b	b(ax,aw)	aw(b,td)	td(aw,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+dinosaurs	d(sil,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,z)	z(r,sil)e	
+[sil]	sil	
+</s>	sile	

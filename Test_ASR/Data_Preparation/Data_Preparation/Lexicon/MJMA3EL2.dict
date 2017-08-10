@@ -1,0 +1,29 @@
+<s>	silb	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,s)e	
+/s	s(ax,ay)e	
+ay	ay(s,aa)s	
+ah	aa	
+n(/n/)	n(aa,s)e	
+s(/s/)	s(n,ih)e	
+ih(/ih/)	ih(s,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,s)e	
+say	s(s,ey)b	ey(s,sil)e	
+[human_noise]	sil	
+said	s(sil,eh)b	eh(s,dd)	dd(eh,ey)e	
+a(2)	ey(dd,t)s	
+/t	t(ey,iy)	
+iy/	iy(t,r)e	
+/r	r	
+eh	eh(r,k)	
+k(/k/)	k(eh,s)	
+s/	s(k,hh)e	
+had	hh(s,ae)b	ae(hh,dd)	dd(ae,sil)e	
+[begin_noise]	sil	
+made	m(sil,ey)b	ey(m,dd)	dd(ey,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,m)e	
+marks	m(ax,aa)b	aa(m,r)	r(aa,k)	k(r,s)	s(k,sil)e	
+[end_noise]	sil	
+</s>	sile	

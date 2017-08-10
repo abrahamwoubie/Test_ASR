@@ -1,0 +1,62 @@
+<s>	silb	
+[noise]	sil	
+music	m(sil,y)b	y(m,uw)	uw(y,z)	z(uw,ix)	ix	kd(ix,sh)e	
+should	sh(kd,uh)b	uh(sh,dd)	dd(uh,n)e	
+not	n	aa	td	
+sil	sil	
+be	b(sil,iy)b	iy(b,p)e	
+played	p(iy,l)b	l(p,ey)	ey(l,dd)	dd(ey,s)e	
+so	s(dd,ow)b	ow(s,sil)e	
+sil	sil	
+/l	l	
+ah/	ah	
+that(2)	dh(ah,ax)b	ax	td(ax,y)e	
+you	y(td,uw)b	uw(y,sil)e	
+sil	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+hear	hh(sil,ih)b	ih(hh,r)	r(ih,ax)e	
+a	ax(r,f)s	
+friend	f(ax,r)b	r(f,eh)	eh(r,n)	n(eh,dd)	dd(n,sil)e	
+sil	sil	
+/t	t	
+ax/	ax(t,sil)e	
+sil	sil	
+you	y(sil,uw)b	uw(y,sil)e	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,n)	
+n(/n/)	n(ae,n)e	
+n(/n/)	n	
+ao(/ao/)	ao(n,td)	
+td/	td(ao,sil)e	
+[end_noise]	sil	
+[human_noise]	sil	
+you	y(sil,uw)b	uw(y,sil)e	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,n)	
+n(/n/)	n(ae,td)	
+td/	td(n,sil)e	
+[end_noise]	sil	
+hear	hh(sil,ih)b	ih(hh,r)	r(ih,ey)e	
+a(2)	ey(r,sil)s	
+[begin_noise]	sil	
+/v	v	
+r(/r/)	r	
+eh	eh(r,n)	
+n(/n/)	n(eh,dd)	
+dd/	dd(n,t)e	
+talk	t(dd,ao)b	ao(t,kd)	kd(ao,sil)e	
+[end_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,ey)e	
+a(2)	ey(n,n)s	
+normal	n(ey,ao)b	ao(n,r)	r(ao,m)	m(r,ax)	ax(m,l)	l(ax,sil)e	
+sil	sil	
+voice	v	oy	s(oy,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

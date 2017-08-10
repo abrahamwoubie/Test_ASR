@@ -1,0 +1,47 @@
+<s>	silb	
+/w	w	
+er(/er/)	er(w,k)e	
+k(/k/)	k(er,s)	
+s/	s(k,sil)e	
+sil	sil	
+use	y(sil,uw)b	uw(y,s)	s(uw,sil)e	
+sil	sil	
+[begin_whisper]	sil	
+/p	p	
+ey(/ey/)	ey(p,sil)e	
+sil	sil	
+n/	n	
+[end_whisper]	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+parts	p(sil,aa)b	aa(p,r)	r(aa,ts)	ts(r,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,d)e	
+/d	d	
+ax/	ax	
+sil	sil	
+/b	b	
+aa(/aa/)	aa	
+dx(/dx/)	dx(aa,ax)	
+ax(/ax/)	ax(dx,l)e	
+l/	l(ax,sil)e	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+[begin_noise]	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,sil)e	
+sil	sil	
+/k	k	
+l(/l/)	l(k,iy)	
+iy(/iy/)	iy(l,n)s	
+n(/n/)	n(iy,iy)e	
+iy(/iy/)	iy(n,sil)e	
+ng/	ng	
+[end_noise]	sil	
+/k	k	
+l(/l/)	l	
+aa/	aa	
+sil	sil	
+clothing	k(sil,l)b	l(k,ow)	ow	dh	ix	ng(ix,sil)e	
+[crosstalk]	sil	
+</s>	sile	

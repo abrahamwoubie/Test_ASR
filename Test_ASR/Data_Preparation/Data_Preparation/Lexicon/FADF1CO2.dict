@@ -1,0 +1,18 @@
+<s>	silb	
+[noise]	sil	
+a	ax(sil,sil)s	
+sil	sil	
+tropical	t(sil,r)b	r	aa	p	ix	k(ix,ax)	ax(k,l)	l(ax,r)e	
+rain	r(l,ey)b	ey(r,n)	n(ey,f)e	
+forest(2)	f(n,ao)b	ao(f,r)	r(ao,ix)	ix(r,s)	s(ix,td)	td(s,ix)e	
+is(2)	ix(td,z)b	z(ix,sil)e	
+sil	sil	
+a	ax(sil,w)s	
+warm	w(ax,ao)b	ao(w,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+wet	w(sil,eh)b	eh	td(eh,sil)e	
+sil	sil	
+place	p(sil,l)b	l(p,ey)	ey(l,s)	s(ey,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

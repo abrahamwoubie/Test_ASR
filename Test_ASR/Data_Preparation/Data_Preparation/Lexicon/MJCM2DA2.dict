@@ -1,0 +1,21 @@
+<s>	silb	
+/ih	ih	
+k/	k	
+ice	ay	s(ay,ax)e	
+and(2)	ax(s,n)b	n(ax,dd)	dd(n,s)e	
+snow	s(dd,n)b	n	ow(n,k)e	
+cover	k(ow,ah)b	ah(k,v)	v(ah,axr)	axr(v,ae)e	
+/ae	ae	
+n(/n/)	n(ae,aa)e	
+aa(/aa/)	aa(n,r)	
+r/	r(aa,sil)e	
+[noise]	sil	
+[begin_noise]	sil	
+antarctica(2)	ae(sil,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,sil)e	
+sil	sil	
+all	ao(sil,l)b	l(ao,dh)e	
+the(2)	dh(l,ax)b	ax(dh,t)e	
+time	t(ax,ay)b	ay(t,m)	m(ay,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

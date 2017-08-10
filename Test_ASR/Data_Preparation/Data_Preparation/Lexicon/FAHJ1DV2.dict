@@ -1,0 +1,21 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+/s/	s	
+sil	sil	
+in	ih(sil,n)b	n(ih,s)e	
+some	s(n,ah)b	ah(s,m)	m(ah,z)e	
+zoos	z	uw	z(uw,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+cooks	k(sil,uh)b	uh	k(uh,s)	s(k,f)e	
+fix	f(s,ih)b	ih(f,k)	k(ih,s)	s(k,sil)e	
+sil	sil	
+food	f(sil,uw)b	uw(f,dd)	dd(uw,f)e	
+for(2)	f(dd,axr)b	axr(f,sil)e	
+[end_noise]	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

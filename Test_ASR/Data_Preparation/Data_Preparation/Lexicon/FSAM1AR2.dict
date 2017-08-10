@@ -1,0 +1,16 @@
+<s>	silb	
+[noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,w)e	
+winds(2)	w(ax,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+[sil]	sil	
+blow	b(sil,l)b	l(b,ow)	ow(l,sil)e	
+[begin_noise]	sil	
+dust	d(sil,ah)b	ah	s(ah,td)	td(s,sil)e	
+[end_noise]	sil	
+/ae	ae	
+n/	n(ae,d)e	
+dirt	d(n,er)b	er	td	
+sil	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+[sil]	sil	
+</s>	sile	

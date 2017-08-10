@@ -1,0 +1,21 @@
+<s>	silb	
+[begin_noise]	sil	
+workers	w(sil,er)b	er(w,k)	k	axr	z(axr,sil)e	
+sil	sil	
+use(2)	y(sil,uw)b	uw(y,z)	z(uw,sil)e	
+sil	sil	
+parts	p(sil,aa)b	aa(p,r)	r(aa,ts)	ts(r,sil)e	
+[end_noise]	sil	
+of	ah(sil,v)b	v(ah,dh)e	
+the	dh(v,ah)b	ah(dh,b)e	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+[begin_noise]	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,sil)e	
+sil	sil	
+clothing	k(sil,l)b	l(k,ow)	ow	dh	ix	ng(ix,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

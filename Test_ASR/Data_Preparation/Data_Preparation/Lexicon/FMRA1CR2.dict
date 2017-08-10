@@ -1,0 +1,27 @@
+<s>	silb	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,ae)e	
+animals	ae(iy,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,l)e	
+like	l(z,ay)b	ay(l,kd)	kd(ay,t)e	
+to(3)	t(kd,uw)b	uw(t,sil)e	
+sil	sil	
+[sil]	sil	
+like	l(sil,ay)b	ay(l,kd)	kd(ay,f)e	
+/f	f	
+r(/r/)	r	
+aa/	aa	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,f)e	
+/f	f	
+r(/r/)	r	
+aa(/aa/)	aa	
+sil	sil	
+k(/k/)	k	
+s/	s(k,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,t)e	
+too	t(r,uw)b	uw(t,sil)e	
+</s>	sile	

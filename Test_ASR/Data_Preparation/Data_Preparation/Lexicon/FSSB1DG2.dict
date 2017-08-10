@@ -1,0 +1,39 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,hh)e	
+have	hh(ey,ae)b	ae(hh,v)	v(ae,l)e	
+learned	l	er	n	dd(n,sil)e	
+sil	sil	
+something	s(sil,ah)b	ah(s,m)	m(ah,th)	th(m,ix)	ix(th,ng)	ng(ix,n)e	
+new	n(ng,uw)b	uw(n,ax)e	
+about	ax(uw,b)b	b(ax,aw)	aw(b,td)	td(aw,dh)e	
+the	dh(td,ah)b	ah(dh,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+[sil]	sil	
+[begin_whisper]	sil	
+/s	s	
+t(/t/)	t(s,eh)	
+eh	eh	
+g(/g/)	g	
+ah(/ah/)	ah	
+s(/s/)	s(ah,ao)e	
+ao(/ao/)	ao(s,r)e	
+r(/r/)	r(ao,sil)e	
+sil	sil	
+ax(/ax/)	ax(sil,s)s	
+s/	s(ax,sil)e	
+[end_whisper]	sil	
+/s	s	
+t(/t/)	t(s,eh)	
+eh	eh	
+g(/g/)	g	
+ax(/ax/)	ax(g,s)e	
+s(/s/)	s(ax,ao)e	
+ao(/ao/)	ao(s,r)e	
+r(/r/)	r(ao,ax)e	
+ax(/ax/)	ax(r,s)s	
+s/	s(ax,sil)e	
+[sil]	sil	
+</s>	sile	

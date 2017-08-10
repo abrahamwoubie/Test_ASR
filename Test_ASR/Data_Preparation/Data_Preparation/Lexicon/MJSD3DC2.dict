@@ -1,0 +1,31 @@
+<s>	silb	
+when(4)	w(sil,ih)b	ih(w,n)	n(ih,dh)e	
+the(2)	dh(n,ax)b	ax(dh,s)e	
+station	s(ax,t)b	t(s,ey)	ey(t,sh)	sh(ey,ax)	ax(sh,n)	n(ax,ix)e	
+is(2)	ix(n,z)b	z(ix,f)e	
+/f	f	
+ih(/ih/)	ih(f,n)	
+n(/n/)	n(ih,ix)e	
+ix(/ix/)	ix(n,s)	
+s(/s/)	s(ix,t)e	
+t/	t	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+six	s(sil,ih)b	ih(s,k)	k(ih,s)	s(k,sil)e	
+sil	sil	
+astronauts	ae(sil,s)b	s(ae,t)	t(s,r)	r(t,ax)	ax(r,n)	n(ax,ao)	ao	ts(ao,sil)e	
+sil	sil	
+will	w(sil,ax)b	ax(w,l)	l(ax,b)e	
+be	b(l,iy)b	iy(b,sil)e	
+sil	sil	
+able	ey(sil,b)b	b(ey,ax)	ax(b,l)	l(ax,t)e	
+to	t(l,ax)b	ax(t,l)e	
+live(2)	l(ax,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+at	ae(sil,td)b	td(ae,w)e	
+one	w(td,ah)b	ah(w,n)	n(ah,t)e	
+time	t(n,ay)b	ay(t,m)	m(ay,sil)e	
+</s>	sile	

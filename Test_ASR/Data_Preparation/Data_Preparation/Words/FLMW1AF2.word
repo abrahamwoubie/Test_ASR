@@ -1,0 +1,15 @@
+flmw1af2:word> <s> 0.00 2.00 -758506
+flmw1af2:word> [NOISE](+INHALE+) 3.00 14.00 -2011324
+flmw1af2:word> SIL 15.00 30.00 -2506276
+flmw1af2:word> /S/ 31.00 35.00 -1097727
+flmw1af2:word> /S/ 36.00 68.00 -5501016
+flmw1af2:word> SIL 69.00 73.00 -897534
+flmw1af2:word> STAY 74.00 108.00 -5928023
+flmw1af2:word> SIL 109.00 114.00 -1133912
+flmw1af2:word> AWAY 115.00 158.00 -5693108
+flmw1af2:word> FROM(2) 159.00 211.00 -8703290
+flmw1af2:word> SIL 212.00 218.00 -1145680
+flmw1af2:word> LIGHTNING 219.00 276.00 -11579758
+flmw1af2:word> SIL 277.00 405.00 -18562199
+flmw1af2:word> [NOISE](+INHALE+) 406.00 415.00 -1647685
+flmw1af2:word> </s> 416.00 600.00 -24552886

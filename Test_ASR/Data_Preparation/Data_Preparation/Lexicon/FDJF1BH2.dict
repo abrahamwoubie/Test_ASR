@@ -1,0 +1,12 @@
+<s>	silb	
+/p	p	
+ao(/ao/)	ao(p,r)	
+r(/r/)	r(ao,ix)e	
+ix(/ix/)	ix(r,n)	
+n/	n(ix,sil)e	
+sil	sil	
+sign	s(sil,ay)b	ay(s,n)	n(ay,ao)e	
+on(2)	ao(n,n)b	n(ao,ih)e	
+it	ih(n,td)b	td(ih,sil)e	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,29 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,hh)e	
+have	hh(ey,ae)b	ae(hh,v)	v(ae,sh)e	
+sharp	sh(v,aa)b	aa(sh,r)	r	pd	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+bills	b(sil,ih)b	ih(b,l)	l	z(l,sil)e	
+[end_noise]	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,aa)e	
+are	aa(td,r)b	r(aa,y)e	
+used	y(r,uw)b	uw(y,z)	z(uw,dd)	dd(z,t)e	
+to(3)	t(dd,uw)b	uw(t,k)e	
+crack	k(uw,r)b	r(k,ae)	ae	kd(ae,s)e	
+seeds	s(kd,iy)b	iy	d(iy,z)	z(d,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+/f	f	
+r(/r/)	r(f,uw)	
+uw/	uw(r,sil)e	
+[end_noise]	sil	
+[crosstalk](+noise+)	+noise+	
+</s>	sile	

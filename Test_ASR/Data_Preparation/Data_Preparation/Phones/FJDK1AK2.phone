@@ -1,0 +1,15 @@
+fjdk1ak2:phone> SILb 0.00 17.00 -2599870
+fjdk1ak2:phone> SIL 18.00 39.00 -3384726
+fjdk1ak2:phone> T(SIL,ER)b 40.00 48.00 -2020522
+fjdk1ak2:phone> ER(T,N) 49.00 103.00 -9018190
+fjdk1ak2:phone> N(ER,SIL)e 104.00 106.00 -661727
+fjdk1ak2:phone> SIL 107.00 201.00 -13247035
+fjdk1ak2:phone> AO(SIL,F)b 202.00 248.00 -5728956
+fjdk1ak2:phone> F(AO,SIL)e 249.00 270.00 -4257818
+fjdk1ak2:phone> SIL 271.00 292.00 -3199090
+fjdk1ak2:phone> DH(SIL,AH)b 293.00 315.00 -4056316
+fjdk1ak2:phone> AH(DH,SIL)e 316.00 356.00 -6302498
+fjdk1ak2:phone> SIL 357.00 597.00 -32537558
+fjdk1ak2:phone> T 598.00 605.00 -1562103
+fjdk1ak2:phone> SIL 606.00 609.00 -949747
+fjdk1ak2:phone> SILe 610.00 810.00 -25680704

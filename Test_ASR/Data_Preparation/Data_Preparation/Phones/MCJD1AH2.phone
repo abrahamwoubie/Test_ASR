@@ -1,0 +1,12 @@
+mcjd1ah2:phone> SILb 0.00 12.00 -2091926
+mcjd1ah2:phone> SIL 13.00 23.00 -1958660
+mcjd1ah2:phone> G(SIL,OW)b 24.00 33.00 -1494688
+mcjd1ah2:phone> OW(G,SIL)e 34.00 74.00 -6064721
+mcjd1ah2:phone> SIL 75.00 80.00 -1200118
+mcjd1ah2:phone> IH 81.00 91.00 -2337017
+mcjd1ah2:phone> N(IH,D)e 92.00 107.00 -2362441
+mcjd1ah2:phone> D 108.00 112.00 -872647
+mcjd1ah2:phone> UH 113.00 141.00 -5177953
+mcjd1ah2:phone> S 142.00 162.00 -3396097
+mcjd1ah2:phone> SIL 163.00 168.00 -1005151
+mcjd1ah2:phone> SILe 169.00 430.00 -29713951

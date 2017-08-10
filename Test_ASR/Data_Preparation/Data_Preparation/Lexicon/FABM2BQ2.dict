@@ -1,0 +1,11 @@
+<s>	silb	
+sil	sil	
+planes	p(sil,l)b	l(p,ey)	ey(l,n)	n(ey,z)	z(n,sil)e	
+sil	sil	
+fly	f(sil,l)b	l(f,ay)	ay(l,t)e	
+to(2)	t	ix	
+/ae	ae	
+f(/f/)	f(ae,r)e	
+r(/r/)	r(f,ih)	
+ih/	ih	
+</s>	sile	

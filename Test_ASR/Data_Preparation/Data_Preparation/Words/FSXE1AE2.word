@@ -1,0 +1,12 @@
+fsxe1ae2:word> <s> 0.00 5.00 -1140148
+fsxe1ae2:word> [BEGIN_NOISE] 6.00 31.00 -4506178
+fsxe1ae2:word> IT(2) 32.00 60.00 -4821322
+fsxe1ae2:word> SIL 61.00 74.00 -2039996
+fsxe1ae2:word> CAN 75.00 132.00 -9800533
+fsxe1ae2:word> SIL 133.00 138.00 -913398
+fsxe1ae2:word> [END_NOISE] 139.00 219.00 -11128927
+fsxe1ae2:word> SIL 220.00 228.00 -1408224
+fsxe1ae2:word> HARM 229.00 305.00 -12508916
+fsxe1ae2:word> SIL 306.00 451.00 -18168850
+fsxe1ae2:word> [NOISE](+INHALE+) 452.00 461.00 -1640674
+fsxe1ae2:word> </s> 462.00 490.00 -3427034

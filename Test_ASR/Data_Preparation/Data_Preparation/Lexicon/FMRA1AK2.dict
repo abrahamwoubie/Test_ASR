@@ -1,0 +1,23 @@
+<s>	silb	
+/n/	n	
+sil	sil	
+off	ao(sil,f)b	f(ao,dh)e	
+the(2)	dh(f,ax)b	ax(dh,t)e	
+television	t(ax,eh)b	eh(t,l)	l(eh,ax)	ax(l,v)	v(ax,ih)	ih	zh(ih,ax)	ax(zh,n)	n(ax,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+or	ao(sil,r)b	r(ao,sil)e	
+[begin_noise]	sil	
+/k	k	
+ah(/ah/)	ah(k,m)	
+m(/m/)	m(ah,p)e	
+p(/p/)	p(m,y)	
+y(/y/)	y(p,uw)	
+uw(/uw/)	uw(y,t)e	
+t(/t/)	t	
+er	axr(t,sil)e	
+sil	sil	
+s/	s	
+[end_noise]	sil	
+</s>	sile	

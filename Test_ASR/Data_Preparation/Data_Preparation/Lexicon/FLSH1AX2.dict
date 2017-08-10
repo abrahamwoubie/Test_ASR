@@ -1,0 +1,30 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+sil	sil	
+/ey	ey(sil,g)s	
+g(/g/)	g(ey,ow)	
+ow/	ow(g,sil)e	
+sil	sil	
+not	n	aa	td	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+[begin_noise]	sil	
+/r	r	
+ih(/ih/)	ih(r,s)	
+s(/s/)	s(ih,ay)e	
+ay	ay(s,k)s	
+k(/k/)	k	
+ah(/ah/)	ah(k,l)	
+l(/l/)	l(ah,sil)e	
+sil	sil	
+d/	d	
+sil	sil	
+[end_noise]	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

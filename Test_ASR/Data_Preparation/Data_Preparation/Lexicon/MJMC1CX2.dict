@@ -1,0 +1,47 @@
+<s>	silb	
+the	dh(sil,ah)b	ah(dh,sh)e	
+/sh	sh(ah,aa)e	
+aa(/aa/)	aa(sh,r)	
+r(/r/)	r(aa,sil)e	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+sil	sil	
+[human_noise]	sil	
+they	dh(sil,ey)b	ey(dh,hh)e	
+have	hh(ey,ae)b	ae(hh,v)	v(ae,sh)e	
+/sh	sh	
+aa(/aa/)	aa(sh,r)	
+r/	r(aa,sil)e	
+sil	sil	
+bills	b(sil,ih)b	ih(b,l)	l	z(l,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+are	aa(sil,r)b	r(aa,y)e	
+/y	y	
+uw(/uw/)	uw(y,s)e	
+s/	s(uw,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+crack	k(sil,r)b	r(k,ae)	ae	kd(ae,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+seeds	s(sil,iy)b	iy	d(iy,z)	z(d,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,f)e	
+fruit	f(dd,r)b	r(f,uw)	uw(r,td)	td(uw,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+</s>	sile	

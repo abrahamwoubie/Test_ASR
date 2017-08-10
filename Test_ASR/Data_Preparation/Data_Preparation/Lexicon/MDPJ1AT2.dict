@@ -1,0 +1,31 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+heavy	hh(sil,eh)b	eh(hh,v)	v(eh,iy)	iy(v,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+fills	f(sil,ih)b	ih(f,l)	l	z(l,sil)e	
+sil	sil	
+/r	r	
+sil	sil	
+ih(/ih/)	ih	
+sil	sil	
+l(/l/)	l	
+iy/	iy(l,sil)s	
+sil	sil	
+with(2)	w(sil,ih)b	ih(w,th)	th(ih,sil)e	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+/w	w	
+ao(/ao/)	ao	
+sil	sil	
+t	t(sil,iy)b	iy(t,er)e	
+er/	er	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+</s>	sile	

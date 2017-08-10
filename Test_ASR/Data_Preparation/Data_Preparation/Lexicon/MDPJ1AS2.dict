@@ -1,0 +1,48 @@
+<s>	silb	
+sil	sil	
+/s	s	
+ah	aa	
+m(/m/)	m	
+sil	sil	
+ah/	ah	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/t	t	
+ih/	ih	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/t	t	
+ay(2)	ey(t,eh)e	
+m	eh(ey,m)b	m(eh,z)e	
+z/	z(m,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+[begin_noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+[human_noise](+noise+)	+noise+	
+hard	hh(sil,aa)b	aa(hh,r)	r	dd(r,sil)e	
+[begin_noise]	sil	
+to(2)	t	ix(t,s)	
+see	s(ix,iy)b	iy(s,sil)e	
+sil	sil	
+[end_noise]	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+[human_noise]	sil	
+[begin_noise]	sil	
+/d	d	
+sil	sil	
+ah	aa	
+sil	sil	
+n(/n/)	n	
+t/	t	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+storms	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+sil	sil	
+</s>	sile	

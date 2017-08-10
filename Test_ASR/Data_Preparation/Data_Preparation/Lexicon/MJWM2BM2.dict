@@ -1,0 +1,22 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+a(2)	ey(sil,sil)s	
+[begin_noise]	sil	
+butterfly	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,w)e	
+wing	w(ay,ih)b	ih(w,ng)	ng(ih,sil)e	
+[end_noise]	sil	
+is	ih(sil,z)b	z(ih,t)e	
+two	t(z,uw)b	uw(t,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/s/	s	
+sil	sil	
+/s	s	
+ay	ay(s,dd)	
+dd/	dd(ay,sil)e	
+[begin_noise]	sil	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

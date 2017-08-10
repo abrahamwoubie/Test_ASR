@@ -1,0 +1,12 @@
+fsam1ah2:phone> SILb 0.00 2.00 -1168106
+fsam1ah2:phone> G(SIL,OW)b 3.00 5.00 -886358
+fsam1ah2:phone> OW(G,IH)e 6.00 23.00 -2300022
+fsam1ah2:phone> IH 24.00 28.00 -991541
+fsam1ah2:phone> N(IH,D)e 29.00 39.00 -1533774
+fsam1ah2:phone> D 40.00 45.00 -865351
+fsam1ah2:phone> AO(D,R) 46.00 59.00 -2242603
+fsam1ah2:phone> R(AO,S)e 60.00 70.00 -2564943
+fsam1ah2:phone> S(R,SIL)e 71.00 88.00 -2898111
+fsam1ah2:phone> SIL 89.00 226.00 -17189294
+fsam1ah2:phone> +EXHALE+ 227.00 240.00 -2655600
+fsam1ah2:phone> SILe 241.00 408.00 -23116756

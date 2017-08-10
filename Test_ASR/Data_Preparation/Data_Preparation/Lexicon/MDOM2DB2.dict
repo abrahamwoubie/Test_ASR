@@ -1,0 +1,22 @@
+<s>	silb	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+only	ow(sil,n)b	n(ow,l)	l(n,iy)	iy(l,ax)e	
+a	ax(iy,f)s	
+few	f(ax,y)b	y(f,uw)	uw(y,p)e	
+plants	p(uw,l)b	l(p,ae)	ae(l,n)	n	ts(n,ax)e	
+and(2)	ax(ts,n)b	n(ax,dd)	dd(n,ih)e	
+insects	ih(dd,n)b	n(ih,s)	s(n,eh)	eh	kd(eh,ts)	ts(kd,l)e	
+live(2)	l(ts,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,m)e	
+middle	m(ax,ih)b	ih(m,dx)	dx(ih,ax)	ax(dx,l)	l(ax,ax)e	
+of(2)	ax(l,v)b	v(ax,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,k)e	
+cold	k(ax,ow)b	ow(k,l)	l(ow,dd)	dd(l,k)e	
+continent	k(dd,aa)b	aa(k,n)	n	t(n,ax)	ax(t,n)	n(ax,ax)	ax(n,n)	n(ax,td)	td(n,sil)e	
+[noise]	sil	
+[sil]	sil	
+</s>	sile	

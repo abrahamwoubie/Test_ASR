@@ -1,0 +1,20 @@
+<s>	silb	
+/d	d	
+iy(/iy/)	iy(d,sil)e	
+sil	sil	
+p(/p/)	p	
+ax/	ax(p,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[end_whisper]	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+sil	sil	
+[begin_whisper]	sil	
+goes	g(sil,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+[end_whisper]	sil	
+</s>	sile	

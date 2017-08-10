@@ -1,0 +1,15 @@
+fnxs1at2:phone> SILb 0.00 2.00 -1354474
+fnxs1at2:phone> R(SIL,IH)b 3.00 5.00 -910459
+fnxs1at2:phone> IH(R,V) 6.00 8.00 -802231
+fnxs1at2:phone> V(IH,AXR) 9.00 16.00 -1626112
+fnxs1at2:phone> AXR(V,Z) 17.00 30.00 -2086949
+fnxs1at2:phone> Z(AXR,W)e 31.00 38.00 -1491219
+fnxs1at2:phone> W 39.00 45.00 -1668492
+fnxs1at2:phone> IH 46.00 56.00 -2101642
+fnxs1at2:phone> F(IH,W)e 57.00 67.00 -1891246
+fnxs1at2:phone> W(F,AO)b 68.00 77.00 -1568313
+fnxs1at2:phone> AO(W,DX) 78.00 95.00 -3034653
+fnxs1at2:phone> DX(AO,AXR) 96.00 102.00 -1432418
+fnxs1at2:phone> AXR(DX,SIL)e 103.00 123.00 -3581202
+fnxs1at2:phone> +RUSTLE+ 124.00 126.00 -652594
+fnxs1at2:phone> SILe 127.00 420.00 -37411221

@@ -1,0 +1,28 @@
+<s>	silb	
+sil	sil	
+he	hh(sil,iy)b	iy(hh,hh)e	
+had	hh(iy,ae)b	ae(hh,dd)	dd(ae,th)e	
+thought	th(dd,ao)b	ao(th,td)	td(ao,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,b)e	
+blue	b(ax,l)b	l	uw(l,sil)e	
+[begin_noise]	sil	
+/b	b	
+ah(/ah/)	ah(b,dx)	
+dx(/dx/)	dx(ah,ax)	
+ax(/ax/)	ax(dx,l)e	
+l(/l/)	l(ax,f)e	
+f(/f/)	f(l,sil)e	
+sil	sil	
+l/	l	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/f	f	
+l(/l/)	l(f,ay)	
+ay/	ay(l,sil)s	
+[end_noise]	sil	
+was(2)	w(sil,ah)b	ah(w,z)	z(ah,ix)e	
+extinct	ix(z,k)b	k(ix,s)	s(k,t)	t(s,ih)	ih	ng(ih,kd)	kd	td(kd,sil)e	
+[sil]	sil	
+</s>	sile	

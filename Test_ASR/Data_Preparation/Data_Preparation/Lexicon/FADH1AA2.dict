@@ -1,0 +1,11 @@
+<s>	silb	
+[begin_microphone_noise]	sil	
+[begin_crosstalk_noise]	sil	
+[end_microphone_noise]	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[end_crosstalk_noise]	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

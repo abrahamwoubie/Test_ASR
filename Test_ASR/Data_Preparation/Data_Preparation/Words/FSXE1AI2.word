@@ -1,0 +1,10 @@
+fsxe1ai2:word> <s> 0.00 29.00 -3643114
+fsxe1ai2:word> [BEGIN_NOISE] 30.00 36.00 -1603092
+fsxe1ai2:word> STAY 37.00 129.00 -15581626
+fsxe1ai2:word> [END_NOISE] 130.00 142.00 -2284759
+fsxe1ai2:word> [HUMAN_NOISE](+INHALE+) 143.00 149.00 -1062335
+fsxe1ai2:word> SIL 150.00 177.00 -3947335
+fsxe1ai2:word> AWAY 178.00 242.00 -8250105
+fsxe1ai2:word> FROM(2) 243.00 313.00 -11479705
+fsxe1ai2:word> [SIL] 314.00 375.00 -7706621
+fsxe1ai2:word> </s> 376.00 530.00 -18004880

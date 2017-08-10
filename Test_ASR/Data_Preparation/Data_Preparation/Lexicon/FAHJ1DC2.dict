@@ -1,0 +1,25 @@
+<s>	silb	
+[noise]	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,s)e	
+scientists(2)	s(m,ay)b	ay(s,n)	n(ay,t)	t(n,ix)	ix(t,s)	s(ix,ts)	ts(s,t)e	
+talk	t(ts,ao)b	ao(t,kd)	kd(ao,t)e	
+to(3)	t(kd,uw)b	uw(t,p)e	
+people	p(uw,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[human_noise]	sil	
+[sil]	sil	
+the	dh(sil,ah)b	ah(dh,p)e	
+people	p(ah,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[sil]	sil	
+to(3)	t(sil,uw)b	uw(t,dh)e	
+the	dh(uw,ah)b	ah(dh,p)e	
+people	p(ah,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+who	hh(sil,uw)b	uw(hh,l)e	
+live(2)	l(uw,ih)b	ih(l,v)	v(ih,ih)e	
+in	ih(v,n)b	n(ih,dh)e	
+the(2)	dh(n,ax)b	ax(dh,r)e	
+rain	r(ax,ey)b	ey(r,n)	n(ey,f)e	
+forests	f(n,ao)b	ao(f,r)	r	ax(r,s)	s	ts(s,sil)e	
+[sil]	sil	
+</s>	sile	

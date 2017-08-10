@@ -1,0 +1,18 @@
+<s>	silb	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+gets(2)	g(sil,ih)b	ih	ts(ih,sil)e	
+sil	sil	
+lots	l(sil,aa)b	aa	ts	
+and(2)	ax(ts,n)b	n(ax,dd)	dd(n,l)e	
+lots	l(dd,aa)b	aa	ts	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+</s>	sile	

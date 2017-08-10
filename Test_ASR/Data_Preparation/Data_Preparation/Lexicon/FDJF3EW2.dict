@@ -1,0 +1,18 @@
+<s>	silb	
+families(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,k)e	
+can	k(z,ae)b	ae(k,n)	n(ae,ch)e	
+check	ch(n,eh)b	eh(ch,kd)	kd(eh,sil)e	
+[begin_noise]	sil	
+on(2)	ao(sil,n)b	n(ao,sil)e	
+sil	sil	
+this(2)	dh(sil,ix)b	ix(dh,s)	s(ix,sil)e	
+[end_noise]	sil	
+week's	w(sil,iy)b	iy(w,k)	k(iy,s)	s(k,s)e	
+school	s(s,k)b	k(s,uw)	uw(k,l)	l(uw,l)e	
+lunch	l(l,ah)b	ah(l,n)	n(ah,ch)	ch(n,sil)e	
+sil	sil	
+menu	m(sil,eh)b	eh(m,n)	n(eh,y)	y(n,uw)	uw(y,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,16 @@
+mjmc1ad2:word> <s> 0.00 23.00 -3377440
+mjmc1ad2:word> SIL 24.00 40.00 -2782420
+mjmc1ad2:word> /L 41.00 53.00 -2812595
+mjmc1ad2:word> AY(2) 54.00 65.00 -1932023
+mjmc1ad2:word> L(/L/) 66.00 70.00 -1198007
+mjmc1ad2:word> IH(/IH/) 71.00 81.00 -2142002
+mjmc1ad2:word> NG/ 82.00 90.00 -1889870
+mjmc1ad2:word> [BEGIN_NOISE] 91.00 93.00 -679400
+mjmc1ad2:word> CAN(2) 94.00 126.00 -5031362
+mjmc1ad2:word> [END_NOISE] 127.00 129.00 -913896
+mjmc1ad2:word> HURT 130.00 153.00 -4177716
+mjmc1ad2:word> SIL 154.00 161.00 -1167488
+mjmc1ad2:word> PEOPLE 162.00 217.00 -8551151
+mjmc1ad2:word> SIL 218.00 265.00 -6612176
+mjmc1ad2:word> [NOISE] 266.00 353.00 -11723529
+mjmc1ad2:word> </s> 354.00 540.00 -22706271

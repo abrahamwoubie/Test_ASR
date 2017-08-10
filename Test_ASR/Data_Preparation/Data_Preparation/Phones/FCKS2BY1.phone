@@ -1,0 +1,15 @@
+fcks2by1:phone> SILb 0.00 41.00 -5058070
+fcks2by1:phone> SIL 42.00 59.00 -3707533
+fcks2by1:phone> M(SIL,EH)b 60.00 69.00 -1836211
+fcks2by1:phone> EH(M,N) 70.00 76.00 -1263638
+fcks2by1:phone> N(EH,IY) 77.00 83.00 -1127143
+fcks2by1:phone> IY(N,P)e 84.00 95.00 -2486698
+fcks2by1:phone> P(IY,IY)b 96.00 102.00 -1443578
+fcks2by1:phone> IY(P,P) 103.00 111.00 -1269307
+fcks2by1:phone> P(IY,AX) 112.00 117.00 -1093649
+fcks2by1:phone> AX(P,L) 118.00 121.00 -700233
+fcks2by1:phone> L(AX,D)e 122.00 126.00 -748419
+fcks2by1:phone> D(L,AY)b 127.00 133.00 -1079900
+fcks2by1:phone> AY 134.00 155.00 -3113170
+fcks2by1:phone> DD(AY,SIL)e 156.00 165.00 -2099302
+fcks2by1:phone> SILe 166.00 330.00 -17835301

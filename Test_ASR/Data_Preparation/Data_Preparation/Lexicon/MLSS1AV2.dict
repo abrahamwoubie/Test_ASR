@@ -1,0 +1,48 @@
+<s>	silb	
+sil	sil	
+/w	w	
+ao(/ao/)	ao	
+sil	sil	
+t(/t/)	t	
+er/	er	
+sil	sil	
+[human_noise]	sil	
+/k	k	
+ah	aa	
+v(/v/)	v	
+er/	er	
+sil	sil	
+/s/	s	
+sil	sil	
+streets	s(sil,t)b	t(s,r)	r(t,iy)	iy	ts(iy,sil)e	
+sil	sil	
+[human_noise]	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+goes	g(sil,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+into	ih(sil,n)b	n(ih,t)	t(n,uw)	uw(t,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+houses	hh(sil,aw)b	aw(hh,s)	s	ax	z(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,ix)e	
+is(2)	ix(td,z)b	z(ix,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+/k	k	
+ao(/ao/)	ao	
+dd/	dd(ao,sil)e	
+[human_noise]	sil	
+a	ax(sil,sil)s	
+sil	sil	
+flood	f(sil,l)b	l	ah	dd	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

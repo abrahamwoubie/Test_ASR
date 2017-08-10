@@ -1,0 +1,34 @@
+<s>	silb	
+music	m(sil,y)b	y(m,uw)	uw(y,z)	z(uw,ix)	ix	kd(ix,sh)e	
+should	sh(kd,uh)b	uh(sh,dd)	dd(uh,n)e	
+not	n	aa	td	
+[begin_noise]	sil	
+be	b(sil,iy)b	iy(b,p)e	
+played	p(iy,l)b	l(p,ey)	ey(l,dd)	dd(ey,sil)e	
+sil	sil	
+[end_noise]	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+so	s(sil,ow)b	ow(s,l)e	
+loud	l	aw(l,dd)	dd(aw,dh)e	
+that	dh(dd,ae)b	ae(dh,td)	td(ae,y)e	
+you	y(td,uw)b	uw(y,sil)e	
+[begin_noise]	sil	
+can't	k(sil,ae)b	ae(k,n)	n(ae,td)	td(n,sil)e	
+[end_noise]	sil	
+hear	hh(sil,ih)b	ih(hh,r)	r(ih,ey)e	
+a(2)	ey(r,f)s	
+friend	f(ey,r)b	r(f,eh)	eh(r,n)	n(eh,dd)	dd(n,t)e	
+/t	t	
+ao(/ao/)	ao(t,k)e	
+k(/k/)	k(ao,iy)	
+iy(/iy/)	iy(k,sil)e	
+ng/	ng	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in	ih(sil,n)b	n(ih,ey)e	
+a(2)	ey(n,n)s	
+normal	n(ey,ao)b	ao(n,r)	r(ao,m)	m(r,ax)	ax(m,l)	l(ax,v)e	
+voice	v	oy	s(oy,sil)e	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,48 @@
+<s>	silb	
+[noise]	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,sil)e	
+[human_noise]	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+will(2)	w(sil,ih)b	ih(w,l)	l(ih,n)e	
+not	n	aa	td	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+eat	iy(sil,td)b	td(iy,d)e	
+/d	d	
+ax/	ax(d,s)	
+/s	s(ax,k)e	
+k(/k/)	k	
+ih(/ih/)	ih	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+s/	s	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+/d	d	
+ax/	ax	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,s)e	
+stink	s(ax,t)b	t(s,ih)	ih	ng(ih,kd)	kd(ng,sil)e	
+sil	sil	
+bug	b(sil,ah)b	ah	gd	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+because	b(sil,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+tastes	t(sil,ey)b	ey	s	ts(s,sil)e	
+sil	sil	
+bad	b(sil,ae)b	ae(b,dd)	dd(ae,sil)e	
+sil	sil	
+[begin_whisper]	sil	
+/y	y	
+ah	aa	
+sil	sil	
+k/	k	
+[end_whisper]	sil	
+</s>	sile	

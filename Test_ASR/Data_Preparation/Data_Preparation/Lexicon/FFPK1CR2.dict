@@ -1,0 +1,34 @@
+<s>	silb	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,ae)e	
+animals	ae(iy,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+[begin_noise]	sil	
+like	l(sil,ay)b	ay(l,kd)	kd(ay,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+[end_noise]	sil	
+/f	f	
+r(/r/)	r(f,ao)	
+ao(/ao/)	ao(r,k)	
+k/	k	
+sil	sil	
+/l	l	
+ih(/ih/)	ih	
+sil	sil	
+f/	f	
+sil	sil	
+[noise]	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+[begin_whisper]	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+[end_whisper]	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

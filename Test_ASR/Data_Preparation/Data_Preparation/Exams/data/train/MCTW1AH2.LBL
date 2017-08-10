@@ -1,0 +1,17 @@
+mctw1ah2:word>                  <s>    0    2        -1067754
+mctw1ah2:word>                 /OW/    3   12        -2106484
+mctw1ah2:word>                  SIL   13   20        -1643039
+mctw1ah2:word>              INDOORS   21  114       -15078628
+mctw1ah2:word>              [NOISE]  115  117         -535016
+mctw1ah2:word>                 </s>  118  498       -45625620
+mctw1ah2:phone>                 SILb    0    2        -1067754
+mctw1ah2:phone>         OW(SIL,SIL)s    3   12        -2106484
+mctw1ah2:phone>                  SIL   13   20        -1643039
+mctw1ah2:phone>           IH(SIL,N)b   21   39        -2787466
+mctw1ah2:phone>              N(IH,D)   40   49        -1730993
+mctw1ah2:phone>                    D   50   61        -2642439
+mctw1ah2:phone>              AO(D,R)   62   81        -2995456
+mctw1ah2:phone>              R(AO,Z)   82   91        -1132487
+mctw1ah2:phone>            Z(R,SIL)e   92  114        -3789787
+mctw1ah2:phone>                  SIL  115  117         -535016
+mctw1ah2:phone>                 SILe  118  498       -45625620

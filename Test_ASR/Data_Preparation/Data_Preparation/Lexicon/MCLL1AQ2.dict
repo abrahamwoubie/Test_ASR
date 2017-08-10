@@ -1,0 +1,16 @@
+<s>	silb	
+/ao	ao	
+r(/r/)	r(ao,sil)e	
+sil	sil	
+m(/m/)	m	
+p(/p/)	p	
+s/	s(p,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+have	hh(sil,ae)b	ae(hh,v)	v(ae,sil)e	
+sil	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,sil)e	
+sil	sil	
+/w	w	
+ey/	ey(w,sil)e	
+</s>	sile	

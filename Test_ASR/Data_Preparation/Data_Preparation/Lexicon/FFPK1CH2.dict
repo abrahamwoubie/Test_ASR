@@ -1,0 +1,32 @@
+<s>	silb	
+[begin_noise]	sil	
+/b	b	
+r(/r/)	r(b,ey)	
+ay(2)	ey(r,sil)s	
+sil	sil	
+t/	t	
+sil	sil	
+/l	l	
+iy/	iy(l,sil)s	
+sil	sil	
+/k	k	
+ah(/ah/)	ah(k,l)	
+l(/l/)	l(ah,axr)e	
+er	axr(l,sil)e	
+sil	sil	
+td/	td	
+sil	sil	
+/f	f	
+ih(/ih/)	ih	
+s/	s(ih,sil)e	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,w)e	
+/w/	w	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+[end_noise]	sil	
+</s>	sile	

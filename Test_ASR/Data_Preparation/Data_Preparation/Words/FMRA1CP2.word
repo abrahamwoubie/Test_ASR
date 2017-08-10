@@ -1,0 +1,16 @@
+fmra1cp2:word> <s> 0.00 11.00 -2078410
+fmra1cp2:word> IT(2) 12.00 18.00 -1673140
+fmra1cp2:word> SIL 19.00 26.00 -1331882
+fmra1cp2:word> GETS 27.00 85.00 -9160394
+fmra1cp2:word> SIL 86.00 123.00 -5525822
+fmra1cp2:word> [HUMAN_NOISE](+NOISE+) 124.00 126.00 -454002
+fmra1cp2:word> LOTS 127.00 195.00 -11677230
+fmra1cp2:word> SIL 196.00 209.00 -2177619
+fmra1cp2:word> /AE 210.00 249.00 -6893837
+fmra1cp2:word> N/ 250.00 262.00 -2081535
+fmra1cp2:word> LOTS 263.00 309.00 -7684348
+fmra1cp2:word> SIL 310.00 314.00 -1100286
+fmra1cp2:word> OF 315.00 344.00 -4375015
+fmra1cp2:word> RAIN 345.00 391.00 -6796178
+fmra1cp2:word> [SIL] 392.00 402.00 -1813396
+fmra1cp2:word> </s> 403.00 740.00 -40008879

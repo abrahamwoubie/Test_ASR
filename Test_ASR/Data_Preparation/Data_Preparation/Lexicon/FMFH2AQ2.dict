@@ -1,0 +1,16 @@
+<s>	silb	
+sil	sil	
+/s	s	
+ay(2)	ey(s,n)s	
+n(/n/)	n(ey,t)e	
+t(/t/)	t(n,ix)	
+ix(/ix/)	ix(t,s)	
+s/	s(ix,sil)e	
+sil	sil	
+let	l(sil,eh)b	eh(l,td)	td(eh,m)e	
+most	m(td,ow)b	ow(m,s)	s(ow,td)	td(s,ax)e	
+of(2)	ax(td,v)b	v(ax,dh)e	
+them	dh(v,eh)b	eh(dh,m)	m(eh,f)e	
+fly	f(m,l)b	l(f,ay)	ay(l,ax)e	
+away	ax(ay,w)b	w(ax,ey)	ey(w,sil)e	
+</s>	sile	

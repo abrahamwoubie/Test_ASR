@@ -1,0 +1,11 @@
+<s>	silb	
+[noise]	sil	
+then	dh(sil,eh)b	eh(dh,n)	n(eh,m)e	
+more	m(n,ao)b	ao(m,r)	r(ao,p)e	
+people	p(r,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,y)e	
+use(2)	y(l,uw)b	uw(y,z)	z(uw,dh)e	
+them	dh(z,eh)b	eh(dh,m)	m(eh,sil)e	
+[human_noise]	sil	
+[crosstalk](+noise+)	+noise+	
+[sil]	sil	
+</s>	sile	

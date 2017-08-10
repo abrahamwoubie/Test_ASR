@@ -1,0 +1,42 @@
+<s>	silb	
+it	ih(sil,td)b	td(ih,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+good	g(sil,uh)b	uh(g,dd)	dd(uh,b)e	
+because	b(dd,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+recycling	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,ix)	ix(l,ng)	ng(ix,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+helps	hh(sil,eh)b	eh(hh,l)	l	p	s(p,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+earth	er	th(er,sil)e	
+sil	sil	
+cleaner	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,axr)	axr(n,sil)e	
+[human_noise]	sil	
+[begin_noise]	sil	
+[begin_whisper]	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,ix)e	
+is(2)	ix(td,z)b	z(ix,sil)e	
+sil	sil	
+that(2)	dh(sil,ax)b	ax	td(ax,ix)e	
+is(2)	ix(td,z)b	z(ix,sil)e	
+sil	sil	
+really	r(sil,ih)b	ih	l(ih,iy)	iy(l,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+</s>	sile	

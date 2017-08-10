@@ -1,0 +1,28 @@
+<s>	silb	
+/s	s	
+iy(/iy/)	iy(s,z)e	
+z/	z(iy,sil)e	
+sil	sil	
+/l	l	
+ih(/ih/)	ih(l,v)	
+v(/v/)	v(ih,th)e	
+th/	th	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the	dh(n,ah)b	ah(dh,ow)e	
+/ow	ow(ah,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n/	n(ih,sil)e	
+[crosstalk]	sil	
+[begin_whisper]	sil	
+seals	s(sil,iy)b	iy	l(iy,z)	z(l,sil)e	
+sil	sil	
+seals	s(sil,iy)b	iy	l(iy,z)	z(l,sil)e	
+[end_whisper]	sil	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

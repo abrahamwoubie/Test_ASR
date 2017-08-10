@@ -1,0 +1,42 @@
+<s>	silb	
+[begin_noise]	sil	
+/s	s	
+ah(/ah/)	ah(s,m)	
+m(/m/)	m(ah,sil)e	
+sil	sil	
+t(/t/)	t	
+ay	ay(t,m)e	
+m(/m/)	m(ay,s)e	
+s/	s	
+other	ah(s,dh)b	dh(ah,axr)	axr(dh,sil)e	
+[end_noise]	sil	
+fish	f(sil,ih)b	ih(f,sh)	sh(ih,w)e	
+will(2)	w(sh,ih)b	ih(w,l)	l(ih,n)e	
+not	n	aa	td	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+a	ax	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+fish	f(sil,ih)b	ih(f,sh)	sh(ih,b)e	
+because	b(sh,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+[sil]	sil	
+tastes	t(sil,ey)b	ey	s	ts(s,sil)e	
+sil	sil	
+/t	t	
+ey(/ey/)	ey(t,s)e	
+s(/s/)	s(ey,sil)e	
+sil	sil	
+t(/t/)	t	
+ih(/ih/)	ih	
+z/	z(ih,sil)e	
+sil	sil	
+bad	b(sil,ae)b	ae(b,dd)	dd(ae,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,14 @@
+<s>	silb	
+[noise]	sil	
+humpback	hh(sil,ah)b	ah	m	pd	b	ae(b,kd)	kd(ae,sil)e	
+sil	sil	
+whales(2)	w(sil,ey)b	ey	l(ey,z)	z(l,l)e	
+live(2)	l(z,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the	dh(n,ah)b	ah(dh,ow)e	
+/ow	ow(ah,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n/	n(ih,sil)e	
+[sil]	sil	
+</s>	sile	

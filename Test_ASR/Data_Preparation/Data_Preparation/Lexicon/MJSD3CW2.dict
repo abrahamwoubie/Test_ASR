@@ -1,0 +1,26 @@
+<s>	silb	
+sil	sil	
+astronauts	ae(sil,s)b	s(ae,t)	t(s,r)	r(t,ax)	ax(r,n)	n(ax,ao)	ao	ts(ao,n)e	
+need	n(ts,iy)b	iy(n,dd)	dd(iy,sil)e	
+sil	sil	
+drills	d(sil,r)b	r(d,ih)	ih	l	z(l,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,aa)e	
+are	aa(td,r)b	r(aa,v)e	
+very	v(r,eh)b	eh(v,r)	r(eh,iy)	iy(r,p)e	
+/p	p	
+aw(/aw/)	aw	
+ix(/ix/)	ix	
+f(/f/)	f(ix,uw)e	
+uw(/uw/)	uw	
+l/	l(uw,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+for(2)	f(sil,axr)b	axr(f,dh)e	
+their	dh(axr,eh)b	eh(dh,r)	r(eh,w)e	
+work	w(r,er)b	er(w,kd)	kd(er,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,s)e	
+space	s(n,p)b	p(s,ey)	ey(p,s)	s(ey,sil)e	
+</s>	sile	

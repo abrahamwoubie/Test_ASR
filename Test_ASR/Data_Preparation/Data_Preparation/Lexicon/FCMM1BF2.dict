@@ -1,0 +1,33 @@
+<s>	silb	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,w)e	
+/w	w(ax,ao)	
+ao(/ao/)	ao(w,r)	
+r(/r/)	r(ao,m)e	
+m(/m/)	m(r,s)e	
+s/	s	
+sil	sil	
+/t	t	
+ao(/ao/)	ao(t,aa)e	
+r	aa(ao,r)b	r(aa,n)e	
+n/	n(r,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,f)e	
+food	f(ax,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+into	ih(sil,n)b	n(ih,t)	t(n,uw)	uw(t,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+special	s(sil,p)b	p(s,eh)	eh(p,sh)	sh(eh,ax)	ax(sh,l)	l(ax,k)e	
+kind	k(l,ay)b	ay(k,n)	n(ay,dd)	dd(n,sil)e	
+sil	sil	
+of	ah(sil,v)b	v(ah,s)e	
+soil	s	oy	l	
+[noise](+exhale+)	+exhale+	
+[sil]	sil	
+</s>	sile	

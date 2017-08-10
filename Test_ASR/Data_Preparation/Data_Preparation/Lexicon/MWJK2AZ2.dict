@@ -1,0 +1,13 @@
+<s>	silb	
+[begin_noise]	sil	
+/p	p	
+aa(/aa/)	aa	
+l(/l/)	l(aa,ix)e	
+ix(/ix/)	ix(l,n)	
+n/	n(ix,sil)e	
+[end_noise]	sil	
+helps	hh(sil,eh)b	eh(hh,l)	l	p	s(p,f)e	
+flowers	f(s,l)b	l	aw	axr(aw,z)	z(axr,m)e	
+make	m(z,ey)b	ey(m,kd)	kd(ey,s)e	
+seeds	s(kd,iy)b	iy	d(iy,z)	z(d,sil)e	
+</s>	sile	

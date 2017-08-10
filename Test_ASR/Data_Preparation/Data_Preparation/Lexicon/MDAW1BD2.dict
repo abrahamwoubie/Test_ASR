@@ -1,0 +1,24 @@
+<s>	silb	
+/ah	ah	
+m/	m(ah,p)e	
+people	p(m,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/r	r	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,ay)e	
+ay	ay(s,k)s	
+k(/k/)	k	
+ah(/ah/)	ah(k,l)	
+l(/l/)	l(ah,ih)e	
+ih/	ih	
+sil	sil	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+sil	sil	
+/f	f	
+uw/	uw	
+sil	sil	
+/g	g	
+er/	er	
+</s>	sile	

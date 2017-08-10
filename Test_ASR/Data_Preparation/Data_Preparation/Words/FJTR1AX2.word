@@ -1,0 +1,16 @@
+fjtr1ax2:word> <s> 0.00 4.00 -1116326
+fjtr1ax2:word> /N 5.00 17.00 -2377900
+fjtr1ax2:word> AO(/AO/) 18.00 32.00 -3089259
+fjtr1ax2:word> T/ 33.00 53.00 -4776596
+fjtr1ax2:word> [BEGIN_NOISE] 54.00 72.00 -2727687
+fjtr1ax2:word> MUCH 73.00 117.00 -7944802
+fjtr1ax2:word> SIL 118.00 123.00 -1082535
+fjtr1ax2:word> PEOPLE 124.00 181.00 -9800104
+fjtr1ax2:word> [END_NOISE] 182.00 184.00 -719336
+fjtr1ax2:word> RECYCLED 185.00 270.00 -14478461
+fjtr1ax2:word> SIL 271.00 283.00 -1864615
+fjtr1ax2:word> [NOISE](+EXHALE+) 284.00 286.00 -543391
+fjtr1ax2:word> SIL 287.00 349.00 -8086242
+fjtr1ax2:word> [CROSSTALK](+INHALE+) 350.00 358.00 -1401395
+fjtr1ax2:word> SIL 359.00 393.00 -4434070
+fjtr1ax2:word> </s> 394.00 750.00 -43140580

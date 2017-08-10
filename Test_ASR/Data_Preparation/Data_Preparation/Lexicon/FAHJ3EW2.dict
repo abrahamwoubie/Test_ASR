@@ -1,0 +1,23 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+families(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,sil)e	
+sil	sil	
+/s/	s	
+sil	sil	
+families(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,k)e	
+can	k(z,ae)b	ae(k,n)	n(ae,ch)e	
+check	ch(n,eh)b	eh(ch,kd)	kd(eh,sil)e	
+sil	sil	
+on	aa(sil,n)b	n(aa,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+this(2)	dh(sil,ix)b	ix(dh,s)	s(ix,w)e	
+week's	w(s,iy)b	iy(w,k)	k(iy,s)	s(k,sil)e	
+sil	sil	
+school	s(sil,k)b	k(s,uw)	uw(k,l)	l(uw,l)e	
+lunch	l(l,ah)b	ah(l,n)	n(ah,ch)	ch(n,m)e	
+menu	m(ch,eh)b	eh(m,n)	n(eh,y)	y(n,uw)	uw(y,sil)e	
+[sil]	sil	
+</s>	sile	

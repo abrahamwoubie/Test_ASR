@@ -1,0 +1,17 @@
+fnxs1aj2:phone> SILb 0.00 2.00 -1387242
+fnxs1aj2:phone> AA 3.00 5.00 -1070210
+fnxs1aj2:phone> TD 6.00 8.00 -650560
+fnxs1aj2:phone> Y(TD,UW)b 9.00 20.00 -2036890
+fnxs1aj2:phone> UW(Y,Z) 21.00 35.00 -1754927
+fnxs1aj2:phone> Z(UW,DH)e 36.00 48.00 -1897626
+fnxs1aj2:phone> DH(Z,AH)b 49.00 56.00 -1255605
+fnxs1aj2:phone> AH(DH,T)e 57.00 87.00 -4878147
+fnxs1aj2:phone> T(AH,EH)b 88.00 97.00 -1817600
+fnxs1aj2:phone> EH(T,L) 98.00 108.00 -1892384
+fnxs1aj2:phone> L(EH,AX) 109.00 115.00 -1672889
+fnxs1aj2:phone> AX(L,F) 116.00 122.00 -1423596
+fnxs1aj2:phone> F(AX,OW) 123.00 133.00 -1775692
+fnxs1aj2:phone> OW(F,N) 134.00 154.00 -4155270
+fnxs1aj2:phone> N(OW,SIL)e 155.00 165.00 -1625668
+fnxs1aj2:phone> SIL 166.00 168.00 -504296
+fnxs1aj2:phone> SILe 169.00 430.00 -29738051

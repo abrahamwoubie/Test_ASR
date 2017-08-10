@@ -1,0 +1,65 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+when(2)	hh(sil,w)b	w(hh,ih)	ih(w,n)	n(ih,sil)e	
+sil	sil	
+/w	w	
+sil	sil	
+ao(/ao/)	ao	
+t(/t/)	t	
+er/	er	
+[end_noise]	sil	
+/k	k	
+ey(/ey/)	ey(k,v)e	
+v	v(ey,iy)b	iy(v,s)e	
+s/	s(iy,sil)e	
+sil	sil	
+/s/	s	
+sil	sil	
+/sh	sh	
+r(/r/)	r(sh,iy)	
+iy(/iy/)	iy(r,sil)s	
+sil	sil	
+t/	t	
+sil	sil	
+/sh	sh	
+r(/r/)	r(sh,iy)	
+iy(/iy/)	iy(r,sil)e	
+ts/	ts(iy,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,g)e	
+goes	g(dd,ow)b	ow(g,z)	z(ow,sil)e	
+[human_noise]	sil	
+into	ih(sil,n)b	n(ih,t)	t(n,uw)	uw(t,hh)e	
+houses(2)	hh(uw,aw)b	aw(hh,s)	s(aw,ix)	ix(s,z)	z(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,k)e	
+/k	k	
+ao/	ao	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+/k	k	
+ao(/ao/)	ao	
+w/	w	
+sil	sil	
+a(2)	ey(sil,f)s	
+flood	f(ey,l)b	l	ah	dd	
+[noise]	sil	
+[begin_whisper]	sil	
+that's	dh(sil,ae)b	ae(dh,ts)	ts(ae,w)e	
+one	w(ts,ah)b	ah(w,n)	n(ah,ax)e	
+of(2)	ax(n,v)b	v(ax,m)e	
+my	m(v,ay)b	ay(m,s)e	
+spelling	s(ay,p)b	p(s,eh)	eh(p,l)	l(eh,ix)	ix(l,ng)	ng(ix,w)e	
+words	w(ng,er)b	er(w,d)	d(er,z)	z(d,sil)e	
+sil	sil	
+[end_whisper]	sil	
+[crosstalk](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

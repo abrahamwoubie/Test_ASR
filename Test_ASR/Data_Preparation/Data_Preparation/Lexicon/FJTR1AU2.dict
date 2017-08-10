@@ -1,0 +1,27 @@
+<s>	silb	
+/ih	ih	
+sil	sil	
+t(/t/)	t	
+s/	s	
+[begin_noise]	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+[end_noise]	sil	
+deep	d(sil,iy)b	iy	pd(iy,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+/w	w	
+ao(/ao/)	ao	
+sil	sil	
+t(/t/)	t	
+er/	er	
+sil	sil	
+gets(2)	g(sil,ih)b	ih	ts(ih,sil)e	
+sil	sil	
+onto(2)	ao(sil,n)b	n(ao,t)	t(n,uw)	uw(t,dh)e	
+the(2)	dh(uw,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+land	l(sil,ae)b	ae(l,n)	n(ae,dd)	dd(n,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

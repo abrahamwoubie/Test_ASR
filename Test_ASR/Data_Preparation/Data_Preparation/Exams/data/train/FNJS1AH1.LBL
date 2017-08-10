@@ -1,0 +1,16 @@
+fnjs1ah1:word>                  <s>    0   16        -2115365
+fnjs1ah1:word>                   GO   17   37        -4173787
+fnjs1ah1:word>              INDOORS   38  163       -24314565
+fnjs1ah1:word>                  SIL  164  214        -6882560
+fnjs1ah1:word>                 </s>  215  540       -36356415
+fnjs1ah1:phone>                 SILb    0   16        -2115365
+fnjs1ah1:phone>           G(SIL,OW)b   17   34        -3247686
+fnjs1ah1:phone>            OW(G,IH)e   35   37         -926101
+fnjs1ah1:phone>            IH(OW,N)b   38   74        -7663293
+fnjs1ah1:phone>              N(IH,D)   75   89        -2741628
+fnjs1ah1:phone>                    D   90   96        -1321461
+fnjs1ah1:phone>              AO(D,R)   97  114        -3650758
+fnjs1ah1:phone>              R(AO,Z)  115  137        -4258725
+fnjs1ah1:phone>            Z(R,SIL)e  138  163        -4678700
+fnjs1ah1:phone>                  SIL  164  214        -6882560
+fnjs1ah1:phone>                 SILe  215  540       -36356415

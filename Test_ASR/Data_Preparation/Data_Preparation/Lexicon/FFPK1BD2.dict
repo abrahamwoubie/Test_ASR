@@ -1,0 +1,17 @@
+<s>	silb	
+[noise]	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,p)e	
+people	p(m,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,r)e	
+record(3)	r(l,ix)b	ix(r,k)	k(ix,ao)	ao(k,r)	r(ao,dd)	dd(r,f)e	
+food	f(dd,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+/g	g	
+aa(/aa/)	aa	
+r	aa(aa,r)b	r(aa,b)e	
+b	b(r,iy)b	iy(b,ey)e	
+ae	ey(iy,sil)s	
+sil	sil	
+k(/k/)	k	
+s/	s(k,sil)e	
+[noise]	sil	
+</s>	sile	

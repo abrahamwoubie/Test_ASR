@@ -1,0 +1,12 @@
+facs2by2:word> <s> 0.00 4.00 -850086
+facs2by2:word> SIL 5.00 10.00 -1178121
+facs2by2:word> [NOISE](+INHALE+) 11.00 39.00 -4837815
+facs2by2:word> SIL 40.00 48.00 -1697432
+facs2by2:word> MANY 49.00 89.00 -7391668
+facs2by2:word> [BEGIN_NOISE] 90.00 96.00 -1863188
+facs2by2:word> PEOPLE 97.00 130.00 -6165584
+facs2by2:word> [END_NOISE] 131.00 133.00 -1040872
+facs2by2:word> DIED 134.00 170.00 -8032373
+facs2by2:word> [NOISE](+EXHALE+) 171.00 173.00 -831615
+facs2by2:word> [SIL] 174.00 177.00 -789534
+facs2by2:word> </s> 178.00 426.00 -29294992

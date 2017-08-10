@@ -1,0 +1,14 @@
+mjmc1cy2:word> <s> 0.00 2.00 -1156842
+mjmc1cy2:word> /IH 3.00 11.00 -1444005
+mjmc1cy2:word> V/ 12.00 17.00 -1048058
+mjmc1cy2:word> IN 18.00 43.00 -4782831
+mjmc1cy2:word> /D 44.00 46.00 -828074
+mjmc1cy2:word> SIL 47.00 49.00 -990696
+mjmc1cy2:word> AX/ 50.00 63.00 -2341760
+mjmc1cy2:word> RAIN 64.00 104.00 -5703559
+mjmc1cy2:word> FOREST(2) 105.00 210.00 -16734427
+mjmc1cy2:word> SIL 211.00 424.00 -29525081
+mjmc1cy2:word> [HUMAN_NOISE](+INHALE+) 425.00 435.00 -2079275
+mjmc1cy2:word> SIL 436.00 444.00 -1782314
+mjmc1cy2:word> [NOISE](+RUSTLE+) 445.00 451.00 -1231240
+mjmc1cy2:word> </s> 452.00 460.00 -1366652

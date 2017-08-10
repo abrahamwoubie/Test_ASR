@@ -1,0 +1,12 @@
+<s>	silb	
+[begin_noise]	sil	
+go	g(sil,ow)b	ow(g,sil)e	
+sil	sil	
+indoors	ih(sil,n)b	n(ih,d)	d	ao(d,r)	r(ao,z)	z(r,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+[sil]	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

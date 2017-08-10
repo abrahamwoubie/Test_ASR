@@ -1,0 +1,12 @@
+flas1ah2:phone> SILb 0.00 10.00 -1869274
+flas1ah2:phone> +INHALE+ 11.00 33.00 -3699467
+flas1ah2:phone> SIL 34.00 49.00 -2674186
+flas1ah2:phone> G(SIL,OW)b 50.00 58.00 -1572245
+flas1ah2:phone> OW(G,IH)e 59.00 75.00 -2368246
+flas1ah2:phone> IH(OW,N)b 76.00 86.00 -1698018
+flas1ah2:phone> N(IH,D) 87.00 100.00 -1982700
+flas1ah2:phone> D 101.00 107.00 -1038837
+flas1ah2:phone> AO(D,R) 108.00 121.00 -2092626
+flas1ah2:phone> R(AO,Z) 122.00 141.00 -3201069
+flas1ah2:phone> Z(R,SIL)e 142.00 181.00 -7149279
+flas1ah2:phone> SILe 182.00 510.00 -36568948

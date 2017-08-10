@@ -1,0 +1,16 @@
+<s>	silb	
+[begin_noise]	sil	
+before	b(sil,ix)b	ix(b,f)	f(ix,ao)	ao(f,r)	r(ao,dh)e	
+the	dh(r,ah)b	ah(dh,w)e	
+war	w(ah,ao)b	ao(w,r)	r(ao,sil)e	
+[end_noise]	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,ch)e	
+children	ch(iy,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,sil)e	
+[begin_noise]	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,n)e	
+not	n	aa	td	
+[end_noise]	sil	
+go	g(sil,ow)b	ow(g,t)e	
+to	t(ow,ax)b	ax(t,s)e	
+school	s(ax,k)b	k(s,uw)	uw(k,l)	l(uw,sil)e	
+</s>	sile	

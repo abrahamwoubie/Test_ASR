@@ -1,0 +1,27 @@
+<s>	silb	
+sil	sil	
+/dh	dh	
+ey(/ey/)	ey(dh,r)s	
+r(/r/)	r	
+n/	n(r,sil)e	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+off	ao(sil,f)b	f(ao,sil)e	
+sil	sil	
+[end_noise]	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+[human_noise]	sil	
+telephone	t(sil,eh)b	eh(t,l)	l(eh,ax)	ax(l,f)	f(ax,ow)	ow(f,n)	n(ow,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+/aa	aa	
+r/	r(aa,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+or	ao(sil,r)b	r(ao,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

@@ -1,0 +1,23 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+now	n(sil,aw)b	aw(n,ey)e	
+a(2)	ey(aw,sil)s	
+sil	sil	
+lot(2)	l(sil,ao)b	ao(l,td)	td(ao,sil)e	
+sil	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+cans	k(sil,ae)b	ae(k,n)	n(ae,z)	z(n,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,32 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_noise]	sil	
+/dh	dh	
+ax/	ax(dh,sil)s	
+sil	sil	
+[end_noise]	sil	
+then	dh(sil,eh)b	eh(dh,n)	n(eh,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+not	n	aa	td	
+sil	sil	
+[begin_noise]	sil	
+as(2)	eh	z(eh,sil)e	
+sil	sil	
+much	m(sil,ah)b	ah(m,ch)	ch(ah,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+trash	t(sil,r)b	r(t,ae)	ae	sh(ae,sil)e	
+[end_noise]	sil	
+piles	p	ay	l(ay,z)	z(l,sil)e	
+sil	sil	
+/ah	ah	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+[human_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[human_noise]	sil	
+</s>	sile	

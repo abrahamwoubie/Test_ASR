@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+a	ax(sil,sil)s	
+[begin_noise]	sil	
+caterpillar(2)	k(sil,ae)b	ae(k,dx)	dx(ae,axr)	axr	p	ih	l	axr(l,hh)e	
+/hh	hh	
+ae(/ae/)	ae	
+ch/	ch(ae,sil)e	
+sil	sil	
+[end_noise]	sil	
+a	ax(sil,sil)s	
+[begin_noise]	sil	
+caterpillar(2)	k(sil,ae)b	ae(k,dx)	dx(ae,axr)	axr	p	ih	l	axr(l,sil)e	
+[end_noise]	sil	
+hatches	hh(sil,ae)b	ae	ch	ix(ch,z)	z(ix,f)e	
+from(2)	f(z,r)b	r(f,ah)	ah(r,m)	m(ah,iy)e	
+each	iy(m,ch)b	ch(iy,sil)e	
+sil	sil	
+egg	eh	gd(eh,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

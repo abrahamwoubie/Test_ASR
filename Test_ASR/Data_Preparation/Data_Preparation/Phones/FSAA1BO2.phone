@@ -1,0 +1,9 @@
+fsaa1bo2:phone> SILb 0.00 2.00 -870122
+fsaa1bo2:phone> Y(SIL,UW)b 3.00 15.00 -1890847
+fsaa1bo2:phone> UW(Y,Z) 16.00 38.00 -2778604
+fsaa1bo2:phone> Z(UW,DH)e 39.00 48.00 -1422276
+fsaa1bo2:phone> DH(Z,EH)b 49.00 53.00 -885994
+fsaa1bo2:phone> EH(DH,M) 54.00 68.00 -2690955
+fsaa1bo2:phone> M(EH,SIL)e 69.00 82.00 -2219903
+fsaa1bo2:phone> +RUSTLE+ 83.00 85.00 -562482
+fsaa1bo2:phone> SILe 86.00 520.00 -53923274

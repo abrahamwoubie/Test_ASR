@@ -1,0 +1,22 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,sil)e	
+[begin_noise]	sil	
+fix	f(sil,ih)b	ih(f,k)	k(ih,s)	s(k,ah)e	
+up	ah(s,pd)b	pd(ah,sil)e	
+[end_noise]	sil	
+/ow	ow(sil,l)s	
+l/	l(ow,sil)e	
+[begin_noise]	sil	
+bikes	b(sil,ay)b	ay	k	s(k,sil)e	
+sil	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+[end_noise]	sil	
+let	l(sil,eh)b	eh(l,td)	td(eh,sil)e	
+sil	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,p)e	
+people	p(axr,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,y)e	
+use(2)	y(l,uw)b	uw(y,z)	z(uw,sil)e	
+sil	sil	
+them	dh(sil,eh)b	eh(dh,m)	m(eh,sil)e	
+</s>	sile	

@@ -1,0 +1,13 @@
+<s>	silb	
+/w	w	
+aa(/aa/)	aa(w,n)	
+n(/n/)	n(aa,d)e	
+d(/d/)	d(n,ax)	
+ax/	ax	
+is(2)	ix(ax,z)b	z(ix,ax)e	
+a	ax(z,k)s	
+country	k(ax,ah)b	ah(k,n)	n(ah,t)	t(n,r)	r(t,iy)	iy(r,ih)e	
+in	ih(iy,n)b	n(ih,ae)e	
+africa	ae(n,f)b	f(ae,r)	r(f,ax)	ax(r,k)	k(ax,ax)	ax(k,sil)e	
+[sil]	sil	
+</s>	sile	

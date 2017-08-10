@@ -1,0 +1,19 @@
+<s>	silb	
+/er	er	
+f(/f/)	f	
+l(/l/)	l(f,ay)	
+ay	ay(l,z)s	
+z/	z(ay,sil)e	
+[begin_noise]	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+almost	ao(sil,l)b	l	m	ow(m,s)	s(ow,td)	td(s,sil)e	
+sil	sil	
+everywhere	eh(sil,v)b	v(eh,r)	r(v,iy)	iy(r,w)	w(iy,eh)	eh(w,r)	r(eh,ix)e	
+in(2)	ix(r,n)b	n(ix,dh)e	
+the	dh(n,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+world	w(sil,er)b	er(w,l)	l(er,dd)	dd(l,sil)e	
+[end_noise]	sil	
+</s>	sile	

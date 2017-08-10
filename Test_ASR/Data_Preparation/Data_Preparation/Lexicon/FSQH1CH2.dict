@@ -1,0 +1,38 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+/b	b	
+r(/r/)	r(b,ey)	
+ay(2)	ey(r,td)	
+td/	td(ey,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+/l	l	
+sil	sil	
+iy(/iy/)	iy	
+ng/	ng	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/b	b	
+r(/r/)	r(b,ey)	
+ay(2)	ey(r,td)	
+td(/td/)	td(ey,sil)e	
+sil	sil	
+l(/l/)	l	
+sil	sil	
+iy(/iy/)	iy	
+ng/	ng	
+colors	k(ng,ah)b	ah(k,l)	l	axr(l,z)	z(axr,f)e	
+fish	f(z,ih)b	ih(f,sh)	sh(ih,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the(3)	dh(sil,iy)b	iy(dh,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

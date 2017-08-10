@@ -1,0 +1,29 @@
+<s>	silb	
+sil	sil	
+/d	d	
+ah(/ah/)	ah	
+s/	s(ah,sil)e	
+sil	sil	
+storms	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+happen	hh(sil,ae)b	ae(hh,p)	p(ae,ax)	ax(p,n)	n(ax,sil)e	
+sil	sil	
+[human_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+very	v(sil,eh)b	eh(v,r)	r(eh,iy)	iy(r,sil)e	
+sil	sil	
+dark	d(sil,aa)b	aa(d,r)	r(aa,kd)	kd(r,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/p	p	
+l(/l/)	l(p,ey)	
+ey(/ey/)	ey(l,s)s	
+s/	s(ey,sil)e	
+sil	sil	
+[crosstalk](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

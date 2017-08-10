@@ -1,0 +1,28 @@
+<s>	silb	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+astronauts	ae(sil,s)b	s(ae,t)	t(s,r)	r(t,ax)	ax(r,n)	n(ax,ao)	ao	ts(ao,d)e	
+drop(2)	d(ts,r)b	r(d,ao)	ao(r,pd)	pd(ao,dh)e	
+their	dh(pd,eh)b	eh(dh,r)	r(eh,f)e	
+feet	f(r,iy)b	iy	td(iy,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+to	t(sil,ax)b	ax(t,dh)e	
+the(2)	dh(ax,ax)b	ax(dh,f)e	
+floor	f(ax,l)b	l(f,ao)	ao(l,r)	r(ao,sil)e	
+[noise](+rustle+)	+rustle+	
+when	hh(sil,w)b	w(hh,eh)	eh(w,n)	n(eh,dh)e	
+they	dh(n,ey)b	ey(dh,y)e	
+use	y(ey,uw)b	uw(y,s)	s(uw,sil)e	
+[noise](+smack+)	+smack+	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,t)e	
+toilet	t	oy	l	ax(l,td)	td(ax,ao)e	
+or	ao(td,r)b	r(ao,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sh)e	
+shower	sh	aw	axr(aw,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

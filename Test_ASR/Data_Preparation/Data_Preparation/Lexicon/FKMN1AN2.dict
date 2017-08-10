@@ -1,0 +1,19 @@
+<s>	silb	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+sil	sil	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n(/n/)	n(ih,d)e	
+d/	d	
+/s	s	
+sil	sil	
+p(/p/)	p	
+ih(/ih/)	ih(p,n)	
+n(/n/)	n(ih,z)e	
+z/	z(n,axr)e	
+around	axr(z,aw)b	aw(axr,n)	n(aw,dd)	dd(n,ax)e	
+and(2)	ax(dd,n)b	n(ax,dd)	dd(n,axr)e	
+around	axr(dd,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+</s>	sile	

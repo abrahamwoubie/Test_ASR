@@ -1,0 +1,10 @@
+fmbb1ah1:phone> SILb 0.00 8.00 -1235549
+fmbb1ah1:phone> G(SIL,OW)b 9.00 17.00 -1480514
+fmbb1ah1:phone> OW(G,IH)e 18.00 38.00 -2458768
+fmbb1ah1:phone> IH(OW,N)b 39.00 55.00 -2808134
+fmbb1ah1:phone> N(IH,D) 56.00 66.00 -1575243
+fmbb1ah1:phone> D 67.00 76.00 -1945388
+fmbb1ah1:phone> AO(D,R) 77.00 89.00 -2509700
+fmbb1ah1:phone> R(AO,Z) 90.00 105.00 -3608131
+fmbb1ah1:phone> Z(R,SIL)e 106.00 137.00 -5927029
+fmbb1ah1:phone> SILe 138.00 438.00 -33035936

@@ -1,0 +1,25 @@
+<s>	silb	
+most	m(sil,ow)b	ow(m,s)	s(ow,td)	td(s,f)e	
+/f/	f	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+most	m(sil,ow)b	ow(m,s)	s(ow,td)	td(s,g)e	
+grow	g(td,r)b	r(g,ow)	ow(r,ow)e	
+only	ow(ow,n)b	n(ow,l)	l(n,iy)	iy(l,ix)e	
+enough	ix(iy,n)b	n(ix,ah)	ah(n,f)	f(ah,sil)e	
+sil	sil	
+food	f(sil,uw)b	uw(f,dd)	dd(uw,t)e	
+to	t(dd,ax)b	ax(t,f)e	
+feed	f(ax,iy)b	iy(f,dd)	dd(iy,dh)e	
+their	dh(dd,eh)b	eh(dh,r)	r(eh,ow)e	
+own	ow(r,n)b	n(ow,sil)e	
+[begin_noise]	sil	
+/f	f	
+ae(/ae/)	ae(f,m)	
+m(/m/)	m(ae,l)e	
+l(/l/)	l(m,iy)	
+iy(/iy/)	iy(l,sil)s	
+sil	sil	
+z/	z	
+[end_noise]	sil	
+</s>	sile	

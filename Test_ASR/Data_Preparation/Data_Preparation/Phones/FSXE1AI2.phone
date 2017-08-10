@@ -1,0 +1,17 @@
+fsxe1ai2:phone> SILb 0.00 29.00 -3643114
+fsxe1ai2:phone> SIL 30.00 36.00 -1603092
+fsxe1ai2:phone> S(SIL,T)b 37.00 54.00 -3254836
+fsxe1ai2:phone> T(S,EY) 55.00 79.00 -5125590
+fsxe1ai2:phone> EY(T,SIL)e 80.00 129.00 -7201200
+fsxe1ai2:phone> SIL 130.00 142.00 -2284759
+fsxe1ai2:phone> +INHALE+ 143.00 149.00 -1062335
+fsxe1ai2:phone> SIL 150.00 177.00 -3947335
+fsxe1ai2:phone> AX(SIL,W)b 178.00 193.00 -2556592
+fsxe1ai2:phone> W(AX,EY) 194.00 213.00 -2204426
+fsxe1ai2:phone> EY(W,F)e 214.00 242.00 -3489087
+fsxe1ai2:phone> F(EY,R)b 243.00 268.00 -4308529
+fsxe1ai2:phone> R(F,AH) 269.00 276.00 -1513784
+fsxe1ai2:phone> AH(R,M) 277.00 291.00 -2413289
+fsxe1ai2:phone> M(AH,SIL)e 292.00 313.00 -3244103
+fsxe1ai2:phone> SIL 314.00 375.00 -7706621
+fsxe1ai2:phone> SILe 376.00 530.00 -18004880

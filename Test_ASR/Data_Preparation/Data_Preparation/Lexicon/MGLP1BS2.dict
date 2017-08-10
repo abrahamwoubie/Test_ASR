@@ -1,0 +1,37 @@
+<s>	silb	
+/hh	hh	
+m/	m	
+sil	sil	
+[noise]	sil	
+sil	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+sil	sil	
+california	k(sil,ae)b	ae(k,l)	l(ae,ax)	ax(l,f)	f(ax,ao)	ao(f,r)	r(ao,n)	n(r,y)	y(n,ax)	ax(y,sil)e	
+[human_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,aa)e	
+are	aa(l,r)b	r(aa,sil)e	
+[sil]	sil	
+working	w(sil,er)b	er(w,k)	k(er,ix)	ix(k,ng)	ng(ix,sil)e	
+sil	sil	
+to	t(sil,ax)b	ax(t,sil)e	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,s)e	
+/s	s	
+iy(/iy/)	iy(s,l)e	
+l(/l/)	l(iy,z)e	
+z/	z(l,sil)e	
+sil	sil	
+/hh	hh	
+ow	ow	
+sil	sil	
+m/	m	
+[human_noise]	sil	
+clean	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,ae)e	
+and	ae(n,n)b	n(ae,dd)	dd(n,s)e	
+safe	s(dd,ey)b	ey(s,f)	f(ey,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

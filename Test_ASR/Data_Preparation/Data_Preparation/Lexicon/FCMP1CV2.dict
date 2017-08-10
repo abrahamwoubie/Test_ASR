@@ -1,0 +1,15 @@
+<s>	silb	
+/ao	ao	
+z/	z(ao,sil)e	
+sil	sil	
+are	aa(sil,r)b	r(aa,sil)e	
+[begin_noise]	sil	
+birds	b(sil,er)b	er	d(er,z)	z(d,dh)e	
+that	dh(z,ae)b	ae(dh,td)	td(ae,l)e	
+look	l(td,uh)b	uh(l,kd)	kd(uh,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+like	l(sil,ay)b	ay(l,kd)	kd(ay,p)e	
+parrots	p(kd,eh)b	eh(p,r)	r(eh,ax)	ax	ts(ax,sil)e	
+[sil]	sil	
+</s>	sile	

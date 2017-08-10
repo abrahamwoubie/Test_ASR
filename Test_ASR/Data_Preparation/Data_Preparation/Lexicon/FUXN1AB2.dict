@@ -1,0 +1,18 @@
+<s>	silb	
+sil	sil	
+/l	l	
+ay	ay(l,sil)e	
+dx(/dx/)	dx	
+n(/n/)	n	
+ih(/ih/)	ih	
+ng/	ng(ih,m)e	
+moves	m(ng,uw)b	uw(m,v)	v	z(v,sil)e	
+[begin_noise]	sil	
+through	th(sil,r)b	r(th,uw)	uw(r,sil)e	
+[end_noise]	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+air	eh(sil,r)b	r(eh,sil)e	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+</s>	sile	

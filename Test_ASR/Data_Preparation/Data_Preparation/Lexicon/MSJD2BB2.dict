@@ -1,0 +1,19 @@
+<s>	silb	
+/b	b	
+ah(/ah/)	ah(b,dx)	
+dx(/dx/)	dx(ah,axr)	
+er	axr(dx,f)e	
+f(/f/)	f	
+r(/r/)	r(f,ay)	
+ay/	ay(r,l)s	
+lays	l(ay,ey)b	ey(l,z)	z(ey,ax)e	
+a	ax(z,sil)s	
+[begin_noise]	sil	
+tiny	t(sil,ay)b	ay(t,n)	n	iy(n,sil)e	
+[end_noise]	sil	
+egg	eh	gd(eh,ao)e	
+on(2)	ao(gd,n)b	n(ao,ax)e	
+a	ax(n,l)s	
+leaf	l(ax,iy)b	iy	f(iy,sil)e	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,17 @@
+fnxs1bx2:word> <s> 0.00 25.00 -3682012
+fnxs1bx2:word> /D 26.00 31.00 -1043527
+fnxs1bx2:word> IH(/IH/) 32.00 52.00 -3409920
+fnxs1bx2:word> N/ 53.00 68.00 -2533361
+fnxs1bx2:word> /D 69.00 74.00 -817925
+fnxs1bx2:word> EY/ 75.00 109.00 -3905550
+fnxs1bx2:word> GO 110.00 146.00 -7078342
+fnxs1bx2:word> /B 147.00 162.00 -2903640
+fnxs1bx2:word> AE/ 163.00 190.00 -3818315
+fnxs1bx2:word> SIL 191.00 197.00 -1722900
+fnxs1bx2:word> INTO(3) 198.00 244.00 -8174770
+fnxs1bx2:word> /D 245.00 252.00 -1368096
+fnxs1bx2:word> AX/ 253.00 258.00 -1097346
+fnxs1bx2:word> WATER 259.00 320.00 -9762345
+fnxs1bx2:word> SIL 321.00 361.00 -5567585
+fnxs1bx2:word> [CROSSTALK](+INHALE+) 362.00 366.00 -855777
+fnxs1bx2:word> </s> 367.00 610.00 -31036148

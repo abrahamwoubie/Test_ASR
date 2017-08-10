@@ -1,0 +1,29 @@
+<s>	silb	
+sil	sil	
+a	ax(sil,s)s	
+/s	s(ax,ay)e	
+ay	ay(s,n)s	
+n(/n/)	n(ay,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih	
+s(/s/)	s(ih,t)e	
+t(/t/)	t	
+s/	s	
+studied	s(s,t)b	t(s,ah)	ah(t,dx)	dx(ah,iy)	iy	dd(iy,dh)e	
+the(3)	dh(dd,iy)b	iy(dh,sil)e	
+[begin_noise]	sil	
+emperor	eh(sil,m)b	m(eh,p)	p	axr	axr(axr,sil)e	
+sil	sil	
+penguins	p(sil,eh)b	eh	ng	g	w	ax(w,n)	n(ax,z)	z(n,sil)e	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,ae)e	
+ant	ae(ax,n)b	n(ae,td)	td(n,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,ae)e	
+antarctica(2)	ae(n,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,sil)e	
+sil	sil	
+[sil]	sil	
+sil	sil	
+</s>	sile	

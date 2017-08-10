@@ -1,0 +1,27 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+he	hh(sil,iy)b	iy(hh,f)e	
+found	f(iy,aw)b	aw(f,n)	n(aw,dd)	dd(n,aw)e	
+out	aw(dd,td)b	td(aw,hh)e	
+how	hh(td,aw)b	aw(hh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/b	b	
+ax(/ax/)	ax	
+r(/r/)	r	
+d(/d/)	d(r,z)	
+z/	z(d,k)e	
+kept	k(z,ae)b	ae(k,pd)	pd	td(pd,sil)e	
+[begin_noise]	sil	
+their	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+[end_noise]	sil	
+babies	b(sil,ey)b	ey	b(ey,iy)	iy	z(iy,w)e	
+warm	w(z,ao)b	ao(w,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+[sil]	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

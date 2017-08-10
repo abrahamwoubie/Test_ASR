@@ -1,0 +1,21 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+heavy	hh(sil,eh)b	eh(hh,v)	v(eh,iy)	iy(v,sil)e	
+[begin_noise]	sil	
+/r	r	
+ey/	ey(r,sil)s	
+[end_noise]	sil	
+falls	f(sil,ao)b	ao(f,l)	l(ao,z)	z(l,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+rivers	r(sil,ih)b	ih(r,v)	v(ih,axr)	axr(v,z)	z(axr,sil)e	
+[begin_noise]	sil	
+with(2)	w(sil,ih)b	ih(w,th)	th(ih,w)e	
+water	w(th,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

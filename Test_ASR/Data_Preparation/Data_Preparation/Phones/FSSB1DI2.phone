@@ -1,0 +1,14 @@
+fssb1di2:phone> SILb 0.00 2.00 -778986
+fssb1di2:phone> OW(SIL,P)b 3.00 23.00 -3263894
+fssb1di2:phone> P(OW,AX) 24.00 37.00 -2683611
+fssb1di2:phone> AX(P,N) 38.00 45.00 -1565596
+fssb1di2:phone> N(AX,SIL)e 46.00 64.00 -2827679
+fssb1di2:phone> SIL 65.00 113.00 -6443698
+fssb1di2:phone> P(SIL,L)b 114.00 122.00 -1699854
+fssb1di2:phone> L(P,EY) 123.00 125.00 -810483
+fssb1di2:phone> EY(L,S) 126.00 135.00 -1726500
+fssb1di2:phone> S(EY,IX) 136.00 151.00 -3153585
+fssb1di2:phone> IX(S,Z) 152.00 156.00 -887840
+fssb1di2:phone> Z(IX,SIL)e 157.00 162.00 -1388676
+fssb1di2:phone> SIL 163.00 178.00 -2687945
+fssb1di2:phone> SILe 179.00 440.00 -31604412

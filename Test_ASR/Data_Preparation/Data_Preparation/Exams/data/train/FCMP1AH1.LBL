@@ -1,0 +1,14 @@
+fcmp1ah1:word>                  <s>    0   27        -3446200
+fcmp1ah1:word>                   GO   28   56        -3898632
+fcmp1ah1:word>              INDOORS   57  143       -13904372
+fcmp1ah1:word>                 </s>  144  358       -25208748
+fcmp1ah1:phone>                 SILb    0   27        -3446200
+fcmp1ah1:phone>           G(SIL,OW)b   28   33        -1017875
+fcmp1ah1:phone>            OW(G,IH)e   34   56        -2880757
+fcmp1ah1:phone>            IH(OW,N)b   57   73        -3427658
+fcmp1ah1:phone>              N(IH,D)   74   84        -1653313
+fcmp1ah1:phone>                    D   85   89        -1033415
+fcmp1ah1:phone>              AO(D,R)   90  107        -2441044
+fcmp1ah1:phone>              R(AO,Z)  108  120        -2064576
+fcmp1ah1:phone>            Z(R,SIL)e  121  143        -3284366
+fcmp1ah1:phone>                 SILe  144  358       -25208748

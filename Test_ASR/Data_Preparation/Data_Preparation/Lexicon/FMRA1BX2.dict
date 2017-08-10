@@ -1,0 +1,15 @@
+<s>	silb	
+[begin_noise]	sil	
+when(4)	w(sil,ih)b	ih(w,n)	n(ih,sil)e	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+[end_noise]	sil	
+go	g(sil,ow)b	ow(g,sil)e	
+sil	sil	
+back	b(sil,ae)b	ae(b,kd)	kd(ae,sil)e	
+sil	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,dh)e	
+the(2)	dh(uw,ax)b	ax(dh,w)e	
+water	w(ax,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,19 @@
+<s>	silb	
+[noise]	sil	
+sea	s(sil,iy)b	iy(s,sil)e	
+sil	sil	
+otters	aa	dx	axr(dx,z)	z(axr,l)e	
+live(2)	l(z,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,ow)e	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+[begin_whisper]	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,ay)e	
+i	ay(n,r)s	
+read(2)	r(ay,iy)b	iy(r,dd)	dd(iy,w)e	
+one	w(dd,ah)b	ah(w,n)	n(ah,m)e	
+more	m(n,ao)b	ao(m,r)	r(ao,sil)e	
+[end_whisper]	sil	
+</s>	sile	

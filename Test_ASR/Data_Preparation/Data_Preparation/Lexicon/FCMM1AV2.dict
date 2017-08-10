@@ -1,0 +1,39 @@
+<s>	silb	
+sil	sil	
+when	hh(sil,w)b	w(hh,eh)	eh(w,n)	n(eh,w)e	
+/w	w	
+aa(/aa/)	aa	
+sil	sil	
+t(/t/)	t	
+er/	er	
+[sil]	sil	
+[crosstalk](+noise+)	+noise+	
+sil	sil	
+covers	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,sil)e	
+sil	sil	
+/s/	s	
+sil	sil	
+/t	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,sil)e	
+ts/	ts(iy,sil)e	
+sil	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,g)e	
+goes	g(dd,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,hh)e	
+houses	hh(uw,aw)b	aw(hh,s)	s	ax	z(ax,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/ih	ih	
+ts/	ts(ih,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+sil	sil	
+a(2)	ey(sil,f)s	
+/f/	f(ey,sil)e	
+sil	sil	
+flood	f(sil,l)b	l	ah	dd	
+</s>	sile	

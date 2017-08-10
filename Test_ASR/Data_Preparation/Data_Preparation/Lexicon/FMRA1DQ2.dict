@@ -1,0 +1,26 @@
+<s>	silb	
+sil	sil	
+not	n	aa	td	
+sil	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+sil	sil	
+ago	ax(sil,g)b	g(ax,ow)	ow(g,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+/s	s	
+ih(/ih/)	ih(s,n)	
+n(/n/)	n(ih,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,f)e	
+/f	f	
+aw(/aw/)	aw(f,n)	
+n/	n(aw,ax)e	
+a	ax(n,sil)s	
+sil	sil	
+dinosaur	d(sil,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,eh)e	
+egg	eh	gd(eh,sil)e	
+sil	sil	
+[sil]	sil	
+</s>	sile	

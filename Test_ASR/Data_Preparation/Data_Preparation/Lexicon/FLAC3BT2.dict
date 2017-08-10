@@ -1,0 +1,29 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+sil	sil	
+cheetah	ch(sil,iy)b	iy	dx	ax(dx,b)e	
+babies	b(ax,ey)b	ey	b(ey,iy)	iy	z(iy,aa)e	
+are	aa(z,r)b	r(aa,k)e	
+killed	k(r,ih)b	ih	l(ih,dd)	dd(l,b)e	
+by	b(dd,ay)b	ay(b,l)e	
+lions	l(ay,ay)b	ay(l,ax)	ax(ay,n)	n(ax,z)	z(n,ae)e	
+/ae	ae	
+n/	n(ae,hh)e	
+hyenas	hh(n,ay)b	ay	iy	n(iy,ax)	ax	z(ax,b)e	
+before	b(z,ix)b	ix(b,f)	f(ix,ao)	ao(f,r)	r(ao,dh)e	
+they	dh(r,ey)b	ey(dh,aa)e	
+are	aa(ey,r)b	r(aa,sil)e	
+sil	sil	
+old	ow(sil,l)b	l(ow,dd)	dd(l,ix)e	
+enough	ix(dd,n)b	n(ix,ah)	ah(n,f)	f(ah,t)e	
+to	t(f,ax)b	ax(t,d)e	
+defend	d(ax,ix)b	ix(d,f)	f	eh	n(eh,dd)	dd(n,dh)e	
+them	dh(dd,eh)b	eh(dh,m)	m(eh,s)e	
+/s	s	
+eh	eh(s,l)	
+l(/l/)	l(eh,f)e	
+f(/f/)	f(l,s)e	
+s/	s(f,sil)e	
+</s>	sile	

@@ -1,0 +1,55 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+/s	s	
+sil	sil	
+th(/th/)	th	
+ah(/ah/)	ah	
+m/	m(ah,p)e	
+people	p(m,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,r)e	
+/r	r(l,iy)	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,th)e	
+th(/th/)	th(s,ay)e	
+ay	ay(th,k)s	
+k(/k/)	k	
+ah(/ah/)	ah(k,l)	
+l/	l(ah,sil)e	
+[sil]	sil	
+[begin_whisper]	sil	
+/ah	ah	
+sil	sil	
+n/	n	
+keep	k(n,iy)b	iy(k,pd)	pd(iy,ao)e	
+on(2)	ao(pd,n)b	n(ao,r)e	
+reading(2)	r(n,iy)b	iy(r,dx)	dx(iy,ix)	ix(dx,ng)	ng(ix,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+/z	z	
+ah	aa	
+m/	m	
+people	p(m,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,r)e	
+/r	r(l,iy)	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,th)e	
+th(/th/)	th(s,ay)e	
+ay	ay(th,sil)s	
+sil	sil	
+k(/k/)	k	
+ah	aa	
+l/	l(aa,sil)e	
+[human_noise]	sil	
+/p	p	
+l(/l/)	l(p,ae)	
+ae(/ae/)	ae(l,s)	
+s(/s/)	s(ae,th)e	
+th(/th/)	th(s,sil)e	
+sil	sil	
+t(/t/)	t	
+ih(/ih/)	ih(t,k)	
+k/	k	
+sil	sil	
+balloons	b(sil,ax)b	ax(b,l)	l(ax,uw)	uw	n(uw,z)	z(n,sil)e	
+sil	sil	
+</s>	sile	

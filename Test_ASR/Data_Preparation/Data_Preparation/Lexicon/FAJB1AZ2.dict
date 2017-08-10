@@ -1,0 +1,21 @@
+<s>	silb	
+/ih	ih	
+g(/g/)	g	
+sil	sil	
+s(/s/)	s	
+sil	sil	
+p(/p/)	p	
+ey(/ey/)	ey(p,axr)e	
+axr(/axr/)	axr	
+s/	s	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+say	s(sil,ey)b	ey(s,sil)e	
+sil	sil	
+that's	dh(sil,ae)b	ae(dh,ts)	ts(ae,sil)e	
+[begin_noise]	sil	
+good	g(sil,uh)b	uh(g,dd)	dd(uh,sil)e	
+[end_noise]	sil	
+news(2)	n(sil,y)b	y(n,uw)	uw(y,z)	z(uw,sil)e	
+[sil]	sil	
+</s>	sile	

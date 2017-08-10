@@ -1,0 +1,53 @@
+<s>	silb	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+now	n(sil,aw)b	aw(n,sil)e	
+[human_noise]	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+[noise]	sil	
+lot(2)	l(sil,ao)b	ao(l,td)	td(ao,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+now	n(sil,aw)b	aw(n,sil)e	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+lot(2)	l(sil,ao)b	ao(l,td)	td(ao,sil)e	
+sil	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+record(3)	r(sil,ix)b	ix(r,k)	k(ix,ao)	ao(k,r)	r(ao,dd)	dd(r,k)e	
+/k	k	
+ey(/ey/)	ey(k,n)e	
+n(/n/)	n(ey,s)e	
+s/	s(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/b	b	
+ah(/ah/)	ah(b,t)	
+t(/t/)	t	
+uh(/uh/)	uh	
+l(/l/)	l(uh,z)e	
+z/	z(l,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,p)e	
+paper	p(dd,ey)b	ey	p	axr(p,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+[whisper](+exhale+)	+exhale+	
+sil	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,ay)e	
+i	ay(dd,m)s	
+mess	m(ay,eh)b	eh(m,s)	s(eh,sil)e	
+sil	sil	
+up	ah(sil,pd)b	pd(ah,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

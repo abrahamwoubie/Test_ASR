@@ -1,0 +1,22 @@
+<s>	silb	
+sil	sil	
+sea	s(sil,iy)b	iy(s,t)e	
+turtles	t(iy,er)b	er	dx	ax(dx,l)	l(ax,z)	z(l,l)e	
+live(2)	l(z,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,ow)e	
+/ow	ow(n,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+sil	sil	
+n/	n	
+in(2)	ix(n,n)b	n(ix,d)e	
+/d	d(n,ax)	
+ax/	ax	
+/ow	ow(ax,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n(/n/)	n(ih,z)e	
+z/	z(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

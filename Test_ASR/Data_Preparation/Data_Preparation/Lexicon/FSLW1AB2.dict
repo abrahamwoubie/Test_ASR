@@ -1,0 +1,15 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+[begin_noise]	sil	
+moves	m(sil,uw)b	uw(m,v)	v	z(v,th)e	
+through	th(z,r)b	r(th,uw)	uw(r,sil)e	
+[end_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+sil	sil	
+air	eh(sil,r)b	r(eh,sil)e	
+[human_noise]	sil	
+[crosstalk](+exhale+)	+exhale+	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

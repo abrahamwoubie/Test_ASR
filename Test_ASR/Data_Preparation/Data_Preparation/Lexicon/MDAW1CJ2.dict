@@ -1,0 +1,17 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+/s	s	
+ah(/ah/)	ah(s,m)	
+m(/m/)	m(ah,t)e	
+t(/t/)	t(m,ay)	
+ay	ay(t,m)e	
+m/	m(ay,sil)e	
+sil	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,sil)e	
+[end_noise]	sil	
+fish	f(sil,ih)b	ih(f,sh)	sh(ih,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

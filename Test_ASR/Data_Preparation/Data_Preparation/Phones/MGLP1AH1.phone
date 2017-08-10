@@ -1,0 +1,11 @@
+mglp1ah1:phone> SILb 0.00 6.00 -1075499
+mglp1ah1:phone> SIL 7.00 23.00 -2671043
+mglp1ah1:phone> G(SIL,OW)b 24.00 50.00 -5312461
+mglp1ah1:phone> OW(G,IH)e 51.00 75.00 -3813144
+mglp1ah1:phone> IH(OW,N)b 76.00 90.00 -2888954
+mglp1ah1:phone> N(IH,D) 91.00 104.00 -2247361
+mglp1ah1:phone> D 105.00 111.00 -1361916
+mglp1ah1:phone> AO(D,R) 112.00 127.00 -2988880
+mglp1ah1:phone> R(AO,Z) 128.00 144.00 -1872217
+mglp1ah1:phone> Z(R,SIL)e 145.00 170.00 -3803393
+mglp1ah1:phone> SILe 171.00 510.00 -41073169

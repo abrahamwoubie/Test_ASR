@@ -1,0 +1,21 @@
+<s>	silb	
+sea	s(sil,iy)b	iy(s,sil)e	
+sil	sil	
+[human_noise]	sil	
+/t	t	
+sil	sil	
+er(/er/)	er	
+n(/n/)	n(er,sil)e	
+sil	sil	
+ch/	ch	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+</s>	sile	

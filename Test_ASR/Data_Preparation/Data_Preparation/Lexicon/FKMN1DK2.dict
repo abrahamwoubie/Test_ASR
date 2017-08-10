@@ -1,0 +1,39 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+/s	s	
+ay	ay(s,ax)s	
+ax(/ax/)	ax(ay,n)s	
+n(/n/)	n(ax,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih	
+s/	s(ih,s)e	
+say	s(s,ey)b	ey(s,dh)e	
+that	dh(ey,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+/dh/	dh	
+sil	sil	
+/dh/	dh	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+/f/	f	
+sil	sil	
+find	f(sil,ay)b	ay(f,n)	n(ay,dd)	dd(n,d)e	
+dinosaur	d(dd,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,b)e	
+bones	b(r,ow)b	ow	n(ow,z)	z(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,g)e	
+/g	g(ax,r)	
+r(/r/)	r(g,aw)	
+aw(/aw/)	aw(r,n)e	
+n(/n/)	n(aw,sil)e	
+sil	sil	
+z/	z	
+sil	sil	
+</s>	sile	

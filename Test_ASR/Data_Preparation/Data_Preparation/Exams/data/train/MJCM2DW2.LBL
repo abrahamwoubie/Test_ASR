@@ -1,0 +1,8 @@
+mjcm2dw2:word>                  <s>    0    2         -991978
+mjcm2dw2:word>    [NOISE](+RUSTLE+)    3   11        -2165169
+mjcm2dw2:word>                [SIL]   12   21        -1858101
+mjcm2dw2:word>                 </s>   22  184       -18527840
+mjcm2dw2:phone>                 SILb    0    2         -991978
+mjcm2dw2:phone>             +RUSTLE+    3   11        -2165169
+mjcm2dw2:phone>                  SIL   12   21        -1858101
+mjcm2dw2:phone>                 SILe   22  184       -18527840

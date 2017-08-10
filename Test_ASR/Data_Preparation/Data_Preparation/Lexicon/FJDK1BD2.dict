@@ -1,0 +1,31 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_noise]	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+[begin_noise]	sil	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+[end_noise]	sil	
+/f	f	
+uw/	uw	
+sil	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_whisper]	sil	
+don't	d(sil,ow)b	ow(d,n)	n(ow,td)	td(n,w)e	
+when(3)	w(td,eh)b	eh(w,n)	n(eh,dh)e	
+that	dh(n,ae)b	ae(dh,td)	td(ae,w)e	
+one	w(td,ah)b	ah(w,n)	n(ah,sil)e	
+sil	sil	
+don't	d(sil,ow)b	ow(d,n)	n(ow,td)	td(n,w)e	
+/w/	w	
+use	y(sil,uw)b	uw(y,s)	s(uw,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[end_whisper]	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

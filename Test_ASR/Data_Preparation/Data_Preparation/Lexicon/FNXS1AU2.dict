@@ -1,0 +1,23 @@
+<s>	silb	
+goes	g(sil,ow)b	ow(g,z)	z(ow,t)e	
+too	t(z,uw)b	uw(t,d)e	
+deep	d(uw,iy)b	iy	pd(iy,sil)e	
+[begin_noise]	sil	
+/w	w	
+ao(/ao/)	ao	
+t(/t/)	t	
+er/	er	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+goes	g(sil,ow)b	ow(g,z)	z(ow,ih)e	
+into	ih(z,n)b	n(ih,t)	t(n,uw)	uw(t,d)e	
+/d	d	
+ah/	ah	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/l	l	
+ae	ey(l,n)s	
+n/	n(ey,sil)e	
+[whisper]	sil	
+</s>	sile	

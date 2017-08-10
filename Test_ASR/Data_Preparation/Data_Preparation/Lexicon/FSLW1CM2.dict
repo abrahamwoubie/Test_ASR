@@ -1,0 +1,34 @@
+<s>	silb	
+sil	sil	
+now	n(sil,aw)b	aw(n,dh)e	
+they	dh(aw,ey)b	ey(dh,y)e	
+use(2)	y(ey,uw)b	uw(y,z)	z(uw,sil)e	
+[begin_noise]	sil	
+walkways	w(sil,ao)b	ao(w,k)	k	w	ey(w,z)	z(ey,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+hang	hh(sil,ae)b	ae(hh,ng)	ng(ae,sil)e	
+[end_noise]	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+sil	sil	
+tall	t(sil,ao)b	ao	l(ao,t)e	
+/t	t	
+r/	r	
+sil	sil	
+/t	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,sil)s	
+sil	sil	
+t(/t/)	t	
+aa(/aa/)	aa(t,p)e	
+p(/p/)	p	
+s/	s(p,sil)e	
+sil	sil	
+</s>	sile	

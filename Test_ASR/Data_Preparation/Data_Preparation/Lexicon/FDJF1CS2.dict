@@ -1,0 +1,43 @@
+<s>	silb	
+/f	f	
+r(/r/)	r(f,ao)	
+ao(/ao/)	ao	
+g/	g	
+sil	sil	
+/b	b	
+sil	sil	
+r(/r/)	r	
+ay/	ay(r,sil)s	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+[noise]	sil	
+bright	b(sil,r)b	r	ay(r,td)	td(ay,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+/f	f	
+r(/r/)	r(f,ao)	
+ao(/ao/)	ao	
+g(/g/)	g	
+z/	z(g,sil)e	
+[end_noise]	sil	
+bright	b(sil,r)b	r	ay(r,td)	td(ay,k)e	
+colors	k(td,ah)b	ah(k,l)	l	axr(l,z)	z(axr,l)e	
+let	l(z,eh)b	eh(l,td)	td(eh,ah)e	
+other	ah(td,dh)b	dh(ah,axr)	axr(dh,ae)e	
+animals	ae(axr,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,n)e	
+know	n(z,ow)b	ow(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+its	ih(sil,ts)b	ts(ih,sil)e	
+sil	sil	
+skin	s(sil,k)b	k	ih	n(ih,g)e	
+gives	g(n,ih)b	ih(g,v)	v(ih,z)	z(v,sil)e	
+sil	sil	
+[noise]	sil	
+/ah	ah	
+v/	v(ah,sil)e	
+sil	sil	
+/p	p	
+oy/	oy	
+</s>	sile	

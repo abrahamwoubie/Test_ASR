@@ -1,0 +1,14 @@
+fkmm1aa2:word>                  <s>    0   27        -3716248
+fkmm1aa2:word>      [BEGIN_WHISPER]   28   30         -636392
+fkmm1aa2:word>                   /P   31   39        -2154127
+fkmm1aa2:word>             AO(/AO/)   40   46        -1501213
+fkmm1aa2:word>                   P/   47   49         -734147
+fkmm1aa2:word>        [END_WHISPER]   50   52         -585941
+fkmm1aa2:word>                 </s>   53   70        -2212713
+fkmm1aa2:phone>                 SILb    0   27        -3716248
+fkmm1aa2:phone>                  SIL   28   30         -636392
+fkmm1aa2:phone>                    P   31   39        -2154127
+fkmm1aa2:phone>              AO(P,P)   40   46        -1501213
+fkmm1aa2:phone>                    P   47   49         -734147
+fkmm1aa2:phone>                  SIL   50   52         -585941
+fkmm1aa2:phone>                 SILe   53   70        -2212713

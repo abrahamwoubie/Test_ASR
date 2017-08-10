@@ -1,0 +1,14 @@
+ffpk1bo2:word> <s> 0.00 27.00 -3750040
+ffpk1bo2:word> [BEGIN_NOISE] 28.00 30.00 -596456
+ffpk1bo2:word> THEN 31.00 72.00 -8459292
+ffpk1bo2:word> MORE 73.00 94.00 -3146261
+ffpk1bo2:word> PEOPLE 95.00 138.00 -7347807
+ffpk1bo2:word> USE 139.00 178.00 -5905845
+ffpk1bo2:word> [END_NOISE] 179.00 181.00 -594408
+ffpk1bo2:word> /DH 182.00 186.00 -828230
+ffpk1bo2:word> IH(/IH/) 187.00 197.00 -1777210
+ffpk1bo2:word> M/ 198.00 208.00 -1549292
+ffpk1bo2:word> [CROSSTALK](+INHALE+) 209.00 211.00 -510650
+ffpk1bo2:word> [NOISE] 212.00 215.00 -633322
+ffpk1bo2:word> [NOISE](+EXHALE+) 216.00 218.00 -526463
+ffpk1bo2:word> </s> 219.00 550.00 -41155619

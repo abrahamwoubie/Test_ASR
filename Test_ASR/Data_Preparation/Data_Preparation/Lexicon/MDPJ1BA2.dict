@@ -1,0 +1,56 @@
+<s>	silb	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+[begin_noise]	sil	
+good	g(sil,uh)b	uh(g,dd)	dd(uh,sil)e	
+sil	sil	
+[end_noise]	sil	
+[begin_noise]	sil	
+because(2)	b(sil,ix)b	ix(b,k)	k(ix,ao)	ao(k,z)	z(ao,sil)e	
+[end_noise]	sil	
+/r	r	
+iy(/iy/)	iy(r,sil)s	
+sil	sil	
+s(/s/)	s	
+ay	ay(s,k)s	
+k(/k/)	k	
+ah	aa	
+l/	l(aa,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/ih	ih	
+sil	sil	
+ng(2)	ih(sil,ng)b	ng(ih,sil)e	
+sil	sil	
+g/	g	
+[human_noise]	sil	
+helps	hh(sil,eh)b	eh(hh,l)	l	p	s(p,sil)e	
+sil	sil	
+[begin_noise]	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/er	er	
+sil	sil	
+f/	f	
+sil	sil	
+/k	k	
+sil	sil	
+l(/l/)	l	
+iy(/iy/)	iy(l,n)s	
+n/	n(iy,sil)e	
+[begin_whisper]	sil	
+/er/	er	
+[end_whisper]	sil	
+</s>	sile	

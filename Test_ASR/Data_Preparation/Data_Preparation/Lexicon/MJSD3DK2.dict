@@ -1,0 +1,31 @@
+<s>	silb	
+sil	sil	
+for(2)	f(sil,axr)b	axr(f,ix)e	
+example	ix(axr,g)b	g(ix,z)	z(g,ae)	ae(z,m)	m(ae,p)	p(m,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,dh)e	
+that	dh(z,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,n)e	
+noise	n	oy(n,z)	z(oy,eh)e	
+every(2)	eh(z,v)b	v(eh,r)	r(v,iy)	iy(r,d)e	
+day	d(iy,ey)b	ey(d,sil)e	
+sil	sil	
+are	aa(sil,r)b	r(aa,sil)e	
+sil	sil	
+alarm	ax(sil,l)b	l	aa(l,r)	r	m(r,k)e	
+clocks	k(m,l)b	l	aa	k	s(k,hh)e	
+hair	hh(s,eh)b	eh(hh,r)	r(eh,d)e	
+dryers	d(r,r)b	r(d,ay)	ay(r,axr)	axr(ay,z)	z(axr,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+fire	f(sil,ay)b	ay	axr(ay,t)e	
+trucks	t(axr,r)b	r(t,ah)	ah(r,k)	k(ah,s)	s(k,jh)e	
+jet	jh(s,eh)b	eh(jh,td)	td(eh,p)e	
+planes	p(td,l)b	l(p,ey)	ey(l,n)	n(ey,z)	z(n,ax)e	
+and(2)	ax(z,n)b	n(ax,dd)	dd(n,l)e	
+loud	l	aw(l,dd)	dd(aw,m)e	
+music	m(dd,y)b	y(m,uw)	uw(y,z)	z(uw,ix)	ix	kd(ix,sil)e	
+</s>	sile	

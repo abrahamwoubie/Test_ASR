@@ -1,0 +1,16 @@
+fsxe1ax2:phone> SILb 0.00 2.00 -936682
+fsxe1ax2:phone> +RUSTLE+ 3.00 14.00 -2523340
+fsxe1ax2:phone> SIL 15.00 23.00 -1816948
+fsxe1ax2:phone> R 24.00 30.00 -1416206
+fsxe1ax2:phone> IY(R,S)e 31.00 39.00 -1626092
+fsxe1ax2:phone> S(IY,AY)e 40.00 54.00 -2568096
+fsxe1ax2:phone> AY(S,K)s 55.00 68.00 -2279250
+fsxe1ax2:phone> K 69.00 81.00 -2571975
+fsxe1ax2:phone> AX(K,L)e 82.00 85.00 -873891
+fsxe1ax2:phone> L(AX,SIL)e 86.00 104.00 -2926244
+fsxe1ax2:phone> SIL 105.00 112.00 -1525126
+fsxe1ax2:phone> SIL 113.00 151.00 -5669301
+fsxe1ax2:phone> +NOISE+ 152.00 156.00 -775281
+fsxe1ax2:phone> SIL 157.00 202.00 -6790135
+fsxe1ax2:phone> +INHALE+ 203.00 245.00 -7238926
+fsxe1ax2:phone> SILe 246.00 480.00 -29174530

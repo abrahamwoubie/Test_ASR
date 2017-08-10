@@ -1,0 +1,72 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+families(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,sil)e	
+sil	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,sil)e	
+sil	sil	
+check	ch(sil,eh)b	eh(ch,kd)	kd(eh,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,ch)e	
+check	ch(n,eh)b	eh(ch,kd)	kd(eh,sil)e	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,dh)e	
+/dh/	dh	
+sil	sil	
+this(2)	dh(sil,ix)b	ix(dh,s)	s(ix,w)e	
+week	w(s,iy)b	iy(w,kd)	kd(iy,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,dh)e	
+this(2)	dh(n,ix)b	ix(dh,s)	s(ix,w)e	
+/w	w	
+iy(/iy/)	iy(w,k)e	
+k(/k/)	k(iy,s)	
+s/	s(k,s)e	
+school	s(s,k)b	k(s,uw)	uw(k,l)	l(uw,l)e	
+lunch	l(l,ah)b	ah(l,n)	n(ah,ch)	ch(n,sil)e	
+sil	sil	
+menu	m(sil,eh)b	eh(m,n)	n(eh,y)	y(n,uw)	uw(y,m)e	
+/m	m(uw,eh)e	
+eh	eh(m,n)	
+n(/n/)	n(eh,sil)e	
+sil	sil	
+y(/y/)	y	
+uw(/uw/)	uw(y,z)e	
+z/	z(uw,sil)e	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+/m	m	
+sil	sil	
+eh	eh	
+sil	sil	
+n(/n/)	n	
+sil	sil	
+y(/y/)	y	
+sil	sil	
+uw	k	p	t	
+sil	sil	
+z/	z	
+sil	sil	
+/d	d	
+sil	sil	
+ax/	ax(sil,sil)s	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[see_transcript]	sil	
+sil	sil	
+[see_transcript]	sil	
+sil	sil	
+</s>	sile	

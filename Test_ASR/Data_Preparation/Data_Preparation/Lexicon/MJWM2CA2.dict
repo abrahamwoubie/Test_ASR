@@ -1,0 +1,28 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+[noise]	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+[begin_noise]	sil	
+/w/	w	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+they	dh(sil,ey)b	ey(dh,w)e	
+went	w(ey,eh)b	eh(w,n)	n(eh,td)	td(n,sil)e	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,hh)e	
+help	hh(uw,eh)b	eh(hh,l)	l(eh,pd)	pd(l,r)e	
+rwanda	r	ax	w(ax,aa)	aa(w,n)	n	d(n,ax)	ax	
+get	g(ax,eh)b	eh(g,td)	td(eh,sil)e	
+[end_noise]	sil	
+well	w(sil,eh)b	eh(w,l)	l(eh,sil)e	
+sil	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+return	r(sil,ix)b	ix(r,t)	t(ix,er)	er(t,n)	n(er,t)e	
+to(3)	t(n,uw)b	uw(t,dh)e	
+their	dh(uw,eh)b	eh(dh,r)	r(eh,hh)e	
+homes	hh(r,ow)b	ow(hh,m)	m	z(m,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

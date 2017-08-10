@@ -1,0 +1,23 @@
+<s>	silb	
+[noise](+exhale+)	+exhale+	
+[begin_noise]	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+sil	sil	
+ago	ax(sil,g)b	g(ax,ow)	ow(g,sil)e	
+[end_noise]	sil	
+/ts/	ts	
+sil	sil	
+not	n	aa	td	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[begin_noise]	sil	
+recycled	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,dd)	dd(l,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

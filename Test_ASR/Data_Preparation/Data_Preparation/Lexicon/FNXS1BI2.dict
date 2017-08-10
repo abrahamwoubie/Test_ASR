@@ -1,0 +1,29 @@
+<s>	silb	
+/d	d	
+ax/	ax(d,s)	
+/s	s(ax,ay)e	
+ay	ay(s,n)s	
+n(/n/)	n(ay,s)e	
+s/	s(n,sh)e	
+/sh	sh	
+ow/	ow(sh,d)s	
+/d	d	
+ae(/ae/)	ae	
+t/	t	
+sil	sil	
+/d	d	
+ax/	ax	
+paper	p(ax,ey)b	ey	p	axr(p,ix)e	
+is(2)	ix(axr,z)b	z(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/m	m	
+ey/	ey(m,f)s	
+from	f(ey,axr)b	axr(f,m)	m	
+sil	sil	
+/y	y	
+uw(/uw/)	uw(y,z)e	
+z/	z(uw,p)e	
+paper	p(z,ey)b	ey	p	axr(p,sil)e	
+[sil]	sil	
+</s>	sile	

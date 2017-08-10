@@ -1,0 +1,51 @@
+<s>	silb	
+[begin_noise]	sil	
+then	dh(sil,eh)b	eh(dh,n)	n(eh,sil)e	
+sil	sil	
+[end_noise]	sil	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+blow	b(sil,l)b	l(b,ow)	ow(l,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+a	ax	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+sil	sil	
+thin	th(sil,ih)b	ih(th,n)	n(ih,sil)e	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+/k/	k	
+sil	sil	
+cloud	k(sil,l)b	l	aw(l,dd)	dd(aw,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[begin_noise]	sil	
+cloud	k(sil,l)b	l	aw(l,dd)	dd(aw,sil)e	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+[begin_noise]	sil	
+down	d(sil,aw)b	aw(d,n)	n(aw,sil)e	
+[end_noise]	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+[end_noise]	sil	
+the	dh(sil,ah)b	ah(dh,g)e	
+/g	g	
+r(/r/)	r(g,aw)	
+aw(/aw/)	aw(r,n)e	
+n/	n(aw,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+</s>	sile	

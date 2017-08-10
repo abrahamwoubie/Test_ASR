@@ -1,0 +1,31 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+zebras	z(sil,iy)b	iy	b	r(b,ax)	ax(r,z)	z(ax,iy)e	
+eat	iy(z,td)b	td(iy,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+hay	hh(sil,ey)b	ey(hh,sil)e	
+sil	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+giraffes	jh(sil,axr)b	axr	ae	f	s(f,sil)e	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+carrots(2)	k(sil,eh)b	eh(k,r)	r(eh,ax)	ax	ts(ax,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+/ch	ch	
+sil	sil	
+ih(/ih/)	ih	
+r(/r/)	r(ih,sil)e	
+sil	sil	
+iy/	iy(sil,sil)s	
+[end_whisper]	sil	
+[noise]	sil	
+</s>	sile	

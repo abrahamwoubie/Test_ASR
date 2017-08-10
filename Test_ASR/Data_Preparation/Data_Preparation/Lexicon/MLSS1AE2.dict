@@ -1,0 +1,28 @@
+<s>	silb	
+sil	sil	
+/hh	hh	
+ih(/ih/)	ih(hh,td)	
+td/	td(ih,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+[begin_noise]	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,sil)e	
+[end_noise]	sil	
+/hh	hh	
+er(/er/)	er(hh,m)e	
+m/	m(er,sil)e	
+sil	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+[begin_noise]	sil	
+buildings	b(sil,ih)b	ih(b,l)	l(ih,d)	d	ix(d,ng)	ng(ix,z)	z(ng,sil)e	
+[end_noise]	sil	
+[crosstalk](+smack+)	+smack+	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

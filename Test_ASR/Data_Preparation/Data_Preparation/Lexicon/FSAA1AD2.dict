@@ -1,0 +1,28 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+/l	l	
+ay(2)	ey(l,t)s	
+t(/t/)	t	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+[begin_noise]	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,sil)e	
+sil	sil	
+[end_noise]	sil	
+/l	l	
+ay	ay(l,td)	
+td(/td/)	td(ay,sil)e	
+sil	sil	
+n(/n/)	n	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,hh)e	
+hurt	hh(n,er)b	er	td	
+people	p(td,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[crosstalk]	sil	
+[human_noise](+exhale+)	+exhale+	
+</s>	sile	

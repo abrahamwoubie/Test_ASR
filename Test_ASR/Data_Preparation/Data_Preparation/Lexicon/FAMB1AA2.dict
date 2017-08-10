@@ -1,0 +1,29 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+/s	s	
+sil	sil	
+pd/	pd	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+storms	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+spring	s(sil,p)b	p(s,r)	r(p,ih)	ih(r,ng)	ng(ih,sil)e	
+sil	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,sil)e	
+sil	sil	
+bring	b(sil,r)b	r(b,ih)	ih(r,ng)	ng(ih,sil)e	
+[begin_noise]	sil	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+</s>	sile	

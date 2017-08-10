@@ -1,0 +1,12 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+but(2)	b(sil,ax)b	ax(b,td)	td(ax,dh)e	
+they	dh(td,ey)b	ey(dh,sil)e	
+[end_noise]	sil	
+/k	k	
+ae/	ae(k,n)	
+not	n	aa	td	
+fly	f(td,l)b	l(f,ay)	ay(l,sil)e	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

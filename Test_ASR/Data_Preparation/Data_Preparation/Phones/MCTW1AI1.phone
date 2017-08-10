@@ -1,0 +1,17 @@
+mctw1ai1:phone> SILb 0.00 23.00 -3118932
+mctw1ai1:phone> S(SIL,T)b 24.00 42.00 -2900042
+mctw1ai1:phone> T(S,EY) 43.00 58.00 -3061672
+mctw1ai1:phone> EY(T,AX)e 59.00 83.00 -3128264
+mctw1ai1:phone> AX(EY,W)b 84.00 96.00 -1730687
+mctw1ai1:phone> W(AX,EY) 97.00 111.00 -1792027
+mctw1ai1:phone> EY(W,F)e 112.00 123.00 -1596949
+mctw1ai1:phone> F(EY,R)b 124.00 141.00 -3017104
+mctw1ai1:phone> R(F,AH) 142.00 145.00 -606895
+mctw1ai1:phone> AH(R,M) 146.00 154.00 -1319613
+mctw1ai1:phone> M(AH,W)e 155.00 172.00 -2370957
+mctw1ai1:phone> W(M,AO)b 173.00 179.00 -896861
+mctw1ai1:phone> AO(W,DX) 180.00 207.00 -3348728
+mctw1ai1:phone> DX(AO,AXR) 208.00 215.00 -1312767
+mctw1ai1:phone> AXR(DX,SIL)e 216.00 226.00 -2063563
+mctw1ai1:phone> SIL 227.00 269.00 -6438965
+mctw1ai1:phone> SILe 270.00 438.00 -23156582

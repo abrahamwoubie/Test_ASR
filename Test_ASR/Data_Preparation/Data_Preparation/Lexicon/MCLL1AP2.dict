@@ -1,0 +1,32 @@
+<s>	silb	
+sil	sil	
+/d	d	
+sil	sil	
+r(/r/)	r	
+ay	ay(r,sil)s	
+sil	sil	
+s/	s	
+/s	s	
+sil	sil	
+t(/t/)	t	
+ey(/ey/)	ey(t,sil)e	
+sil	sil	
+z/	z	
+sil	sil	
+happy	hh(sil,ae)b	ae(hh,p)	p	iy(p,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+[begin_noise]	sil	
+very	v(sil,eh)b	eh(v,r)	r(eh,iy)	iy(r,sil)e	
+[end_noise]	sil	
+dry	d(sil,r)b	r(d,ay)	ay(r,sil)e	
+sil	sil	
+/p	p	
+l(/l/)	l(p,ey)	
+ey(/ey/)	ey(l,sil)s	
+sil	sil	
+s/	s	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

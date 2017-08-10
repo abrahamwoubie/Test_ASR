@@ -1,0 +1,20 @@
+<s>	silb	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[begin_noise]	sil	
+pollen	p(sil,aa)b	aa	l	ax(l,n)	n(ax,sil)e	
+[end_noise]	sil	
+helps	hh(sil,eh)b	eh(hh,l)	l	p	s(p,sil)e	
+[begin_noise]	sil	
+flowers	f(sil,l)b	l	aw	axr(aw,z)	z(axr,sil)e	
+[end_noise]	sil	
+[begin_noise]	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,sil)e	
+[end_noise]	sil	
+seeds	s(sil,iy)b	iy	d(iy,z)	z(d,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+[sil]	sil	
+[noise](+noise+)	+noise+	
+[sil]	sil	
+</s>	sile	

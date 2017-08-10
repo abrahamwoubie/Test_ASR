@@ -1,0 +1,13 @@
+<s>	silb	
+children	ch(sil,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,s)e	
+start	s(n,t)b	t(s,aa)	aa(t,r)	r(aa,td)	td(r,s)e	
+school	s(td,k)b	k(s,uw)	uw(k,l)	l(uw,w)e	
+when(3)	w(l,eh)b	eh(w,n)	n(eh,dh)e	
+they	dh(n,ey)b	ey(dh,aa)e	
+are	aa(ey,r)b	r(aa,s)e	
+seven	s(r,eh)b	eh(s,v)	v(eh,ax)	ax(v,n)	n(ax,y)e	
+years	y(n,ih)b	ih(y,r)	r(ih,z)	z(r,sil)e	
+sil	sil	
+old	ow(sil,l)b	l(ow,dd)	dd(l,sil)e	
+sil	sil	
+</s>	sile	

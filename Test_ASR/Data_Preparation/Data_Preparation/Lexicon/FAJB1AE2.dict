@@ -1,0 +1,15 @@
+<s>	silb	
+[begin_noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+[end_noise]	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,hh)e	
+harm	hh(n,aa)b	aa(hh,r)	r	m(r,sil)e	
+[human_noise]	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+buildings	b(sil,ih)b	ih(b,l)	l(ih,d)	d	ix(d,ng)	ng(ix,z)	z(ng,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

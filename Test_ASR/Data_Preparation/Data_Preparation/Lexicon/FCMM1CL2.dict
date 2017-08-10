@@ -1,0 +1,34 @@
+<s>	silb	
+/ih	ih	
+n(/n/)	n(ih,t)e	
+t	t(n,iy)b	iy(t,ih)e	
+ih(/ih/)	ih	
+l/	l(ih,n)e	
+now	n(l,aw)b	aw(n,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+/s	s	
+ay	ay(s,ix)s	
+ix(/ix/)	ix	
+n(/n/)	n(ix,t)e	
+t(/t/)	t(n,ix)	
+ix(/ix/)	ix(t,n)	
+n(/n/)	n(ix,z)e	
+z/	z(n,k)e	
+could	k(z,uh)b	uh(k,dd)	dd(uh,n)e	
+not	n	aa	td	
+sil	sil	
+exam	ix(sil,g)b	g(ix,z)	z(g,ae)	ae(z,m)	m(ae,dh)e	
+the(2)	dh(m,ax)b	ax(dh,sil)e	
+sil	sil	
+tops	t	aa	p	s(p,sil)e	
+sil	sil	
+of	ah(sil,v)b	v(ah,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,t)e	
+trees	t(ax,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

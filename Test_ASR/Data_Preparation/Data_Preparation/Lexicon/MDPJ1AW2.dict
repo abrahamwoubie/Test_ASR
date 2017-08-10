@@ -1,0 +1,36 @@
+<s>	silb	
+sil	sil	
+/r	r	
+sil	sil	
+iy/	iy(sil,sil)s	
+sil	sil	
+[sil]	sil	
+/s	s	
+ay	ay(s,k)s	
+k(/k/)	k	
+sil	sil	
+ah(/ah/)	ah	
+l(/l/)	l(ah,sil)e	
+sil	sil	
+ey(/ey/)	ey	
+ng/	ng	
+[human_noise](+rustle+)	+rustle+	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+helping	hh(sil,eh)b	eh(hh,l)	l	p	ix(p,ng)	ng(ix,sil)e	
+sil	sil	
+our(3)	aw(sil,r)b	r(aw,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[sil]	sil	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+earth	er	th(er,sil)e	
+[end_noise]	sil	
+[human_noise]	sil	
+[crosstalk](+noise+)	+noise+	
+[human_noise](+noise+)	+noise+	
+</s>	sile	

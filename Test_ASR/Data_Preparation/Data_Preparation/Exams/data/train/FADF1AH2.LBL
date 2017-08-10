@@ -1,0 +1,13 @@
+fadf1ah2:word>                  <s>    0    2        -1146602
+fadf1ah2:word>    [NOISE](+RUSTLE+)    3    5        -1002802
+fadf1ah2:word>                DOORS    6   51        -8045121
+fadf1ah2:word>     [NOISE](+NOISE+)   52   54         -602482
+fadf1ah2:word>                 </s>   55  390       -37752615
+fadf1ah2:phone>                 SILb    0    2        -1146602
+fadf1ah2:phone>             +RUSTLE+    3    5        -1002802
+fadf1ah2:phone>           D(SIL,AO)b    6    8        -1098312
+fadf1ah2:phone>              AO(D,R)    9   25        -2935053
+fadf1ah2:phone>              R(AO,Z)   26   36        -1534523
+fadf1ah2:phone>            Z(R,SIL)e   37   51        -2477233
+fadf1ah2:phone>              +NOISE+   52   54         -602482
+fadf1ah2:phone>                 SILe   55  390       -37752615

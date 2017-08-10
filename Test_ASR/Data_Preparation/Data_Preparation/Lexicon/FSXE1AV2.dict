@@ -1,0 +1,49 @@
+<s>	silb	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n/	n(ih,sil)e	
+[begin_noise]	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[end_noise]	sil	
+[human_noise]	sil	
+[sil]	sil	
+[begin_whisper]	sil	
+what's(2)	w(sil,ah)b	ah(w,ts)	ts(ah,dh)e	
+that(2)	dh(ts,ax)b	ax	td(ax,w)e	
+word	w(td,er)b	er(w,dd)	dd(er,ax)e	
+again(2)	ax(dd,g)b	g(ax,ey)	ey	n(ey,r)e	
+right	r(n,ay)b	ay(r,td)	td(ay,sil)e	
+sil	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+[end_whisper]	sil	
+covers	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+streets	s(sil,t)b	t(s,r)	r(t,iy)	iy	ts(iy,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/ae	ae	
+n/	n(ae,g)e	
+goes	g(n,ow)b	ow(g,z)	z(ow,sil)e	
+[begin_noise]	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+houses(2)	hh(sil,aw)b	aw(hh,s)	s(aw,ix)	ix(s,z)	z(ix,sil)e	
+[end_noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,k)e	
+called	k(z,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+sil	sil	
+a(2)	ey(sil,f)s	
+flood	f(ey,l)b	l	ah	dd	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

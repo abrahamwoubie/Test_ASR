@@ -1,0 +1,11 @@
+<s>	silb	
+stay	s(sil,t)b	t(s,ey)	ey(t,sil)e	
+[begin_noise]	sil	
+away	ax(sil,w)b	w(ax,ey)	ey(w,sil)e	
+[end_noise]	sil	
+from	f(sil,axr)b	axr(f,m)	m	
+[begin_noise]	sil	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+[end_noise]	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

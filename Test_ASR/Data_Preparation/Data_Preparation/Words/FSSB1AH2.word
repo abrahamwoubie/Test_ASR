@@ -1,0 +1,15 @@
+fssb1ah2:word> <s> 0.00 10.00 -1513359
+fssb1ah2:word> [BEGIN_NOISE] 11.00 23.00 -2324076
+fssb1ah2:word> GO 24.00 88.00 -8983147
+fssb1ah2:word> [END_NOISE] 89.00 91.00 -497128
+fssb1ah2:word> [HUMAN_NOISE](+EXHALE+) 92.00 94.00 -496287
+fssb1ah2:word> [BEGIN_NOISE] 95.00 98.00 -844275
+fssb1ah2:word> /IH 99.00 101.00 -943103
+fssb1ah2:word> SIL 102.00 141.00 -6229144
+fssb1ah2:word> N 142.00 166.00 -3624687
+fssb1ah2:word> D(/D/) 167.00 174.00 -1160718
+fssb1ah2:word> AO(/AO/) 175.00 197.00 -3870663
+fssb1ah2:word> R(/R/) 198.00 210.00 -2544648
+fssb1ah2:word> S/ 211.00 224.00 -2427120
+fssb1ah2:word> [END_NOISE] 225.00 268.00 -6225202
+fssb1ah2:word> </s> 269.00 530.00 -30368327

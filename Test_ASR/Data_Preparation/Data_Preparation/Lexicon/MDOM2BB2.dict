@@ -1,0 +1,20 @@
+<s>	silb	
+a	ax(sil,m)s	
+mother	m(ax,ah)b	ah(m,dh)	dh(ah,axr)	axr(dh,b)e	
+butterfly	b(axr,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,l)e	
+/l	l(ay,ax)e	
+ax(/ax/)	ax(l,hh)s	
+hh/	hh	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+lays	l(sil,ey)b	ey(l,z)	z(ey,t)e	
+tiny	t(z,ay)b	ay(t,n)	n	iy(n,eh)e	
+eggs	eh(iy,g)b	g(eh,z)	z(g,aa)e	
+on	aa(z,n)b	n(aa,ax)e	
+a	ax(n,sil)s	
+[begin_noise]	sil	
+leaf	l(sil,iy)b	iy	f(iy,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

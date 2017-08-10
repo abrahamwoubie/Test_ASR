@@ -1,0 +1,16 @@
+farg1ai1:phone> SILb 0.00 2.00 -1227141
+farg1ai1:phone> S(SIL,T)b 3.00 19.00 -2951065
+farg1ai1:phone> T(S,EY) 20.00 28.00 -1556800
+farg1ai1:phone> EY(T,AX)e 29.00 48.00 -2904362
+farg1ai1:phone> AX(EY,W)b 49.00 57.00 -908618
+farg1ai1:phone> W(AX,EY) 58.00 68.00 -1819477
+farg1ai1:phone> EY(W,F)e 69.00 81.00 -1666981
+farg1ai1:phone> F(EY,AXR)b 82.00 94.00 -2100944
+farg1ai1:phone> AXR(F,M) 95.00 104.00 -2016939
+farg1ai1:phone> M 105.00 119.00 -2436923
+farg1ai1:phone> W(M,AO)b 120.00 125.00 -870648
+farg1ai1:phone> AO(W,DX) 126.00 148.00 -3700373
+farg1ai1:phone> DX(AO,AXR) 149.00 154.00 -1233442
+farg1ai1:phone> AXR(DX,SIL)e 155.00 157.00 -869975
+farg1ai1:phone> SIL 158.00 182.00 -4375336
+farg1ai1:phone> SILe 183.00 448.00 -31368801

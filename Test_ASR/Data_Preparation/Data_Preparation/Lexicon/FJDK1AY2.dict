@@ -1,0 +1,53 @@
+<s>	silb	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+now	n(sil,aw)b	aw(n,sil)e	
+[end_whisper]	sil	
+[human_noise](+noise+)	+noise+	
+now	n(sil,aw)b	aw(n,ax)e	
+a	ax(aw,sil)s	
+sil	sil	
+[human_noise]	sil	
+lot(2)	l(sil,ao)b	ao(l,td)	td(ao,sil)e	
+sil	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,sil)e	
+sil	sil	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+/r	r	
+sil	sil	
+ax/	ax(sil,r)s	
+/r	r	
+ah/	ah	
+[begin_noise]	sil	
+/r	r	
+ah(/ah/)	ah(r,s)	
+s(/s/)	s(ah,ay)e	
+ay	ay(s,sil)s	
+sil	sil	
+k(/k/)	k	
+ah	aa	
+l/	l(aa,sil)e	
+sil	sil	
+[end_noise]	sil	
+cans	k(sil,ae)b	ae(k,n)	n(ae,z)	z(n,sil)e	
+sil	sil	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/p	p	
+aa(/aa/)	aa(p,r)	
+r(/r/)	r(aa,sil)e	
+sil	sil	
+p(/p/)	p	
+aa(/aa/)	aa(p,r)	
+r/	r(aa,sil)e	
+</s>	sile	

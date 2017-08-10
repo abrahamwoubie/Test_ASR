@@ -1,0 +1,12 @@
+flsh1ah2:word> <s> 0.00 31.00 -3885084
+flsh1ah2:word> [BEGIN_NOISE] 32.00 34.00 -606696
+flsh1ah2:word> GO 35.00 87.00 -7971581
+flsh1ah2:word> SIL 88.00 157.00 -9759777
+flsh1ah2:word> INDOORS 158.00 260.00 -17969911
+flsh1ah2:word> SIL 261.00 269.00 -1555244
+flsh1ah2:word> [END_NOISE] 270.00 308.00 -5692645
+flsh1ah2:word> SIL 309.00 506.00 -23851809
+flsh1ah2:word> [HUMAN_NOISE](+NOISE+) 507.00 510.00 -597947
+flsh1ah2:word> [SIL] 511.00 563.00 -6482960
+flsh1ah2:word> [NOISE](+INHALE+) 564.00 569.00 -1046384
+flsh1ah2:word> </s> 570.00 630.00 -7335510

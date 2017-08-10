@@ -1,0 +1,15 @@
+fjdk1ae2:phone> SILb 0.00 31.00 -4391776
+fjdk1ae2:phone> IX(SIL,TD)b 32.00 54.00 -4480823
+fjdk1ae2:phone> TD(IX,SIL)e 55.00 59.00 -956028
+fjdk1ae2:phone> SIL 60.00 64.00 -892060
+fjdk1ae2:phone> K(SIL,AX)b 65.00 75.00 -2149473
+fjdk1ae2:phone> AX(K,N) 76.00 112.00 -5882936
+fjdk1ae2:phone> N(AX,SIL)e 113.00 122.00 -1446994
+fjdk1ae2:phone> SIL 123.00 193.00 -10009245
+fjdk1ae2:phone> SIL 194.00 224.00 -4804774
+fjdk1ae2:phone> +RUSTLE+ 225.00 231.00 -1510935
+fjdk1ae2:phone> SIL 232.00 263.00 -4379928
+fjdk1ae2:phone> +EXHALE+ 264.00 267.00 -702644
+fjdk1ae2:phone> SIL 268.00 321.00 -7017030
+fjdk1ae2:phone> +SMACK+ 322.00 330.00 -1607453
+fjdk1ae2:phone> SILe 331.00 400.00 -8139807

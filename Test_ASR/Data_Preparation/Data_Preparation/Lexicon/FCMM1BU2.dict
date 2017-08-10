@@ -1,0 +1,40 @@
+<s>	silb	
+sil	sil	
+/s	s	
+ay	ay(s,ix)s	
+ix(/ix/)	ix	
+n(/n/)	n(ix,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+s/	s	
+sil	sil	
+are	aa(sil,r)b	r(aa,w)e	
+/w	w	
+ah(/ah/)	ah	
+k(/k/)	k	
+ih(/ih/)	ih(k,ng)	
+ng/	ng(ih,sil)e	
+[sil]	sil	
+to	t(sil,ax)b	ax(t,sil)e	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+protect	p(sil,r)b	r(p,ax)	ax	t(ax,eh)	eh	kd(eh,td)	td(kd,sil)e	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+kinds	k(sil,ay)b	ay(k,n)	n(ay,d)	d(n,z)	z(d,sil)e	
+sil	sil	
+of	ah(sil,v)b	v(ah,sil)e	
+sil	sil	
+oceans	ow	sh(ow,ax)	ax(sh,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+sil	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+[sil]	sil	
+</s>	sile	

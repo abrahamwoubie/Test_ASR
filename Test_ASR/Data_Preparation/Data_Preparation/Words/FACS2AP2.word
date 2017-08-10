@@ -1,0 +1,13 @@
+facs2ap2:word> <s> 0.00 2.00 -746218
+facs2ap2:word> [NOISE](+INHALE+) 3.00 12.00 -1730553
+facs2ap2:word> SIL 13.00 37.00 -3796210
+facs2ap2:word> AFTER 38.00 79.00 -7063920
+facs2ap2:word> A 80.00 82.00 -537652
+facs2ap2:word> WHILE(2) 83.00 131.00 -6696485
+facs2ap2:word> NEW(2) 132.00 152.00 -3407467
+facs2ap2:word> BUTTERFLIES 153.00 245.00 -14367184
+facs2ap2:word> FORMED 246.00 302.00 -10056790
+facs2ap2:word> SIL 303.00 311.00 -1711830
+facs2ap2:word> [HUMAN_NOISE](+NOISE+) 312.00 314.00 -644022
+facs2ap2:word> [SIL] 315.00 321.00 -1384042
+facs2ap2:word> </s> 322.00 856.00 -62328260

@@ -1,0 +1,9 @@
+<s>	silb	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,t)e	
+top(2)	t(n,ao)b	ao(t,pd)	pd(ao,ix)e	
+its(2)	ix(pd,ts)b	ts(ix,k)e	
+colors	k(ts,ah)b	ah(k,l)	l	axr(l,z)	z(axr,axr)e	
+are(2)	axr	
+bright	b(axr,r)b	r	ay(r,td)	td(ay,sil)e	
+</s>	sile	

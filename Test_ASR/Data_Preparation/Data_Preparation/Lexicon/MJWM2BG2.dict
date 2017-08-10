@@ -1,0 +1,10 @@
+<s>	silb	
+sticky	s(sil,t)b	t(s,ih)	ih(t,k)	k	iy(k,jh)e	
+juice	jh(iy,uw)b	uw	s(uw,k)e	
+comes	k(s,ah)b	ah(k,m)	m(ah,z)	z(m,f)e	
+from(2)	f(z,r)b	r(f,ah)	ah(r,m)	m(ah,dh)e	
+the(3)	dh(m,iy)b	iy(dh,k)e	
+caterpillar(2)	k(iy,ae)b	ae(k,dx)	dx(ae,axr)	axr	p	ih	l	axr(l,sil)e	
+[human_noise]	sil	
+[sil]	sil	
+</s>	sile	

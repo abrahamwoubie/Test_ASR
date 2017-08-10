@@ -1,0 +1,28 @@
+<s>	silb	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+a	ax	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+tropical	t(sil,r)b	r	aa	p	ix	k(ix,ax)	ax(k,l)	l(ax,r)e	
+rain	r(l,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ih)e	
+ih(/ih/)	ih(r,s)	
+s(/s/)	s(ih,th)e	
+th/	th(s,sil)e	
+sil	sil	
+/ih	ih	
+s	eh(sil,s)b	s(eh,th)e	
+th/	th(s,ax)e	
+a	ax	
+[human_noise](+exhale+)	+exhale+	
+warm	w(sil,ao)b	ao(w,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+wet	w(sil,eh)b	eh	td(eh,sil)e	
+sil	sil	
+place	p(sil,l)b	l(p,ey)	ey(l,s)	s(ey,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

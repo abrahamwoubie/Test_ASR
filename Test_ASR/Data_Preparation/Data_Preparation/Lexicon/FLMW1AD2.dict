@@ -1,0 +1,21 @@
+<s>	silb	
+[noise]	sil	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,hh)e	
+hit	hh(ng,ih)b	ih(hh,td)	td(ih,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+/l	l	
+aa/	aa	
+lightning	l(aa,ay)b	ay	t	n	ix(n,ng)	ng(ix,k)e	
+can	k(ng,ae)b	ae(k,n)	n(ae,hh)e	
+hit	hh(n,ih)b	ih(hh,td)	td(ih,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[crosstalk](+exhale+)	+exhale+	
+</s>	sile	

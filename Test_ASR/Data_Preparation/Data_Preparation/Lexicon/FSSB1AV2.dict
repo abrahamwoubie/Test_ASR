@@ -1,0 +1,43 @@
+<s>	silb	
+when(2)	hh(sil,w)b	w(hh,ih)	ih(w,n)	n(ih,w)e	
+water	w(n,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[human_noise]	sil	
+covers	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,s)e	
+/s	s	
+sil	sil	
+t(/t/)	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,s)e	
+s/	s(iy,ae)e	
+and	ae(s,n)b	n(ae,dd)	dd(n,g)e	
+goes	g(dd,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,hh)e	
+/hh	hh	
+aw(/aw/)	aw(hh,s)e	
+s/	s(aw,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+/hh	hh	
+aw(/aw/)	aw(hh,s)e	
+s(/s/)	s(aw,ih)e	
+ih(/ih/)	ih	
+z/	z(ih,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+[end_noise]	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+sil	sil	
+a	ax(sil,sil)s	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+/f	f	
+l(/l/)	l(f,ow)	
+ow	ow(l,d)s	
+d/	d	
+[noise]	sil	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

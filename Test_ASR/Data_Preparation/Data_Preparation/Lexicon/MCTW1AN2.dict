@@ -1,0 +1,21 @@
+<s>	silb	
+/d	d	
+ax/	ax	
+winds(2)	w(ax,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,s)e	
+spin	s(z,p)b	p	ih(p,n)	n(ih,sil)e	
+sil	sil	
+/ah	ah	
+r(/r/)	r	
+aw(/aw/)	aw(r,sil)e	
+sil	sil	
+n/	n	
+[human_noise](+rustle+)	+rustle+	
+/ih	ih	
+n/	n(ih,sil)e	
+sil	sil	
+/ah	ah	
+r(/r/)	r	
+aw(/aw/)	aw(r,n)e	
+n/	n(aw,sil)e	
+[sil]	sil	
+</s>	sile	

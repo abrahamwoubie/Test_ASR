@@ -1,0 +1,24 @@
+<s>	silb	
+zebras	z(sil,iy)b	iy	b	r(b,ax)	ax(r,z)	z(ax,sil)e	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+hay	hh(sil,ey)b	ey(hh,sil)e	
+sil	sil	
+[human_noise]	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+[begin_noise]	sil	
+giraffes	jh(sil,axr)b	axr	ae	f	s(f,sil)e	
+[end_noise]	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+carrots(2)	k(sil,eh)b	eh(k,r)	r(eh,ax)	ax	ts(ax,sil)e	
+sil	sil	
+[noise]	sil	
+[human_noise]	sil	
+</s>	sile	

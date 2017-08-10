@@ -1,0 +1,46 @@
+<s>	silb	
+a(2)	ey(sil,sil)s	
+[begin_noise]	sil	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+[end_noise]	sil	
+storm	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+comes	k(sil,ah)b	ah(k,m)	m(ah,z)	z(m,sil)e	
+sil	sil	
+[end_noise]	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+are	aa(sil,r)b	r(aa,sil)e	
+sil	sil	
+[human_noise]	sil	
+four	f(sil,ao)b	ao(f,r)	r(ao,th)e	
+things	th(r,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+sil	sil	
+you	y(sil,uw)b	uw(y,sil)e	
+sil	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,sil)e	
+sil	sil	
+do	d(sil,uw)b	uw(d,t)e	
+to	t(uw,ax)b	ax(t,s)e	
+stay	s(ax,t)b	t(s,ey)	ey(t,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+[noise](+exhale+)	+exhale+	
+[begin_whisper]	sil	
+does(2)	d(sil,ix)b	ix(d,z)	z(ix,dh)e	
+that(2)	dh(z,ax)b	ax	td(ax,sil)e	
+[noise](+exhale+)	+exhale+	
+says(2)	s(sil,ih)b	ih	z(ih,sil)e	
+[noise](+exhale+)	+exhale+	
+different	d(sil,ih)b	ih(d,f)	f(ih,axr)	axr(f,ax)	ax(axr,n)	n(ax,td)	td(n,dh)e	
+there	dh(td,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+safe	s(sil,ey)b	ey(s,f)	f(ey,sil)e	
+</s>	sile	

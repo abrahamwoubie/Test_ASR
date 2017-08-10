@@ -1,0 +1,19 @@
+<s>	silb	
+sil	sil	
+[noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,f)e	
+father	f(ax,aa)b	aa(f,dh)	dh(aa,axr)	axr(dh,sil)e	
+[begin_noise]	sil	
+puts	p(sil,uh)b	uh	ts	
+[end_noise]	sil	
+/dh	dh	
+ih(/ih/)	ih	
+z/	z(ih,eh)e	
+/eh	eh	
+g(/g/)	g(eh,z)	
+z/	z(g,aa)e	
+on	aa(z,n)b	n(aa,hh)e	
+his(2)	hh(n,ix)b	ix(hh,z)	z(ix,f)e	
+feet	f(z,iy)b	iy	td(iy,sil)e	
+sil	sil	
+</s>	sile	

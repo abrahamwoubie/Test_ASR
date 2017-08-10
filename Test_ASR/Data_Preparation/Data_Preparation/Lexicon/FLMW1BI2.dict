@@ -1,0 +1,26 @@
+<s>	silb	
+/ax/	ax(sil,sil)s	
+sil	sil	
+/s	s	
+ih/	ih	
+sil	sil	
+sign	s(sil,ay)b	ay(s,n)	n(ay,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+/s/	s	
+shows	sh(s,ow)b	ow(sh,z)	z(ow,sil)e	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,ix)e	
+is(2)	ix(l,z)b	z(ix,sil)e	
+sil	sil	
+made	m(sil,ey)b	ey(m,dd)	dd(ey,f)e	
+from(2)	f(dd,r)b	r(f,ah)	ah(r,m)	m(ah,y)e	
+used	y(m,uw)b	uw(y,z)	z(uw,dd)	dd(z,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

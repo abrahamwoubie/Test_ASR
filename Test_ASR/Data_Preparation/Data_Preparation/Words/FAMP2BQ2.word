@@ -1,0 +1,7 @@
+famp2bq2:word> <s> 0.00 2.00 -705258
+famp2bq2:word> PLANES 3.00 60.00 -8085675
+famp2bq2:word> FLY 61.00 99.00 -5353910
+famp2bq2:word> TO(3) 100.00 118.00 -3056052
+famp2bq2:word> AFRICA(2) 119.00 173.00 -9750396
+famp2bq2:word> [NOISE] 174.00 247.00 -9646460
+famp2bq2:word> </s> 248.00 430.00 -22208877

@@ -1,0 +1,30 @@
+<s>	silb	
+until	ax(sil,n)b	n(ax,t)	t(n,ih)	ih(t,l)	l(ih,n)e	
+now	n(l,aw)b	aw(n,s)e	
+/s	s(aw,ey)e	
+ay(2)	ey(s,aa)s	
+ah	aa	
+n	eh(aa,n)b	n(eh,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih	
+s/	s(ih,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+could	k(sil,uh)b	uh(k,dd)	dd(uh,n)e	
+not	n	aa	td	
+sil	sil	
+[human_noise]	sil	
+/eh	eh	
+k(/k/)	k(eh,s)	
+s/	s(k,sil)e	
+[begin_whisper]	sil	
+what(2)	w(sil,ah)b	ah(w,td)	td(ah,d)e	
+do	d(td,uw)b	uw(d,dh)e	
+that(2)	dh(uw,ax)b	ax	td(ax,s)e	
+say	s(td,ey)b	ey(s,sil)e	
+[end_whisper]	sil	
+[crosstalk](+smack+)	+smack+	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/m/	m	
+</s>	sile	

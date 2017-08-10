@@ -1,0 +1,25 @@
+<s>	silb	
+[noise]	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+carry(2)	k(sil,eh)b	eh(k,r)	r(eh,iy)	iy(r,f)e	
+food	f(iy,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,ax)e	
+and(2)	ax(axr,n)b	n(ax,dd)	dd(n,m)e	
+medicine	m(dd,eh)b	eh	dx(eh,ax)	ax(dx,s)	s	ax(s,n)	n(ax,t)e	
+to	t(n,ax)b	ax(t,dh)e	
+the(2)	dh(ax,ax)b	ax(dh,w)e	
+/w/	w	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,ax)e	
+of(2)	ax(l,v)b	v(ax,w)e	
+/w	w	
+ah	aa	
+w(/w/)	w	
+ao(/ao/)	ao(w,n)	
+n(/n/)	n(ao,sil)e	
+sil	sil	
+d(/d/)	d	
+ah/	ah	
+</s>	sile	

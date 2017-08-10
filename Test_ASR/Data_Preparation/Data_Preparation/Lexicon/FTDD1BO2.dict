@@ -1,0 +1,21 @@
+<s>	silb	
+[begin_noise]	sil	
+/dh	dh	
+ih/	ih	
+/m	m(ih,ao)e	
+ao(/ao/)	ao(m,r)	
+r/	r(ao,sil)e	
+sil	sil	
+/dh	dh	
+ih(/ih/)	ih(dh,n)	
+n/	n(ih,sil)e	
+[end_noise]	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+use	y(sil,uw)b	uw(y,s)	s(uw,sil)e	
+sil	sil	
+them	dh(sil,eh)b	eh(dh,m)	m(eh,sil)e	
+[sil]	sil	
+</s>	sile	

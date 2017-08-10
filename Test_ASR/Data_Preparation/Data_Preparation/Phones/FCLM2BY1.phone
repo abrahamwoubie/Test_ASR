@@ -1,0 +1,15 @@
+fclm2by1:phone> SILb 0.00 2.00 -660202
+fclm2by1:phone> M(SIL,EH)b 3.00 10.00 -1052863
+fclm2by1:phone> EH(M,N) 11.00 17.00 -1390178
+fclm2by1:phone> N(EH,IY) 18.00 21.00 -732765
+fclm2by1:phone> IY(N,P)e 22.00 36.00 -2255345
+fclm2by1:phone> P(IY,IY)b 37.00 48.00 -1810650
+fclm2by1:phone> IY(P,P) 49.00 54.00 -747463
+fclm2by1:phone> P(IY,AX) 55.00 62.00 -1079822
+fclm2by1:phone> AX(P,L) 63.00 65.00 -387124
+fclm2by1:phone> L(AX,D)e 66.00 74.00 -1124908
+fclm2by1:phone> D(L,AY)b 75.00 83.00 -1435413
+fclm2by1:phone> AY 84.00 123.00 -5767779
+fclm2by1:phone> DD(AY,SIL)e 124.00 131.00 -1292279
+fclm2by1:phone> SIL 132.00 154.00 -3367533
+fclm2by1:phone> SILe 155.00 470.00 -34128915

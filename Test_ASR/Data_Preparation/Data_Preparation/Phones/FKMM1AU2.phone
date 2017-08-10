@@ -1,0 +1,8 @@
+fkmm1au2:phone> SILb 0.00 11.00 -1655480
+fkmm1au2:phone> T(SIL,UW)b 12.00 43.00 -6440013
+fkmm1au2:phone> UW(T,SIL)e 44.00 110.00 -10258637
+fkmm1au2:phone> +RUSTLE+ 111.00 118.00 -1542866
+fkmm1au2:phone> SIL 119.00 255.00 -16939764
+fkmm1au2:phone> D 256.00 263.00 -1614542
+fkmm1au2:phone> IY(D,SIL)e 264.00 276.00 -2029306
+fkmm1au2:phone> SILe 277.00 280.00 -955611

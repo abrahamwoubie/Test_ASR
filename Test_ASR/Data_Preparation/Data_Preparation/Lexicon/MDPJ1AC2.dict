@@ -1,0 +1,31 @@
+<s>	silb	
+[noise]	sil	
+/s	s	
+ah	aa	
+m/	m	
+sil	sil	
+/p	p	
+sil	sil	
+hh/	hh	
+/t	t	
+sil	sil	
+ay/	ay(sil,sil)s	
+sil	sil	
+/ay	ay(sil,m)s	
+m(/m/)	m(ay,z)e	
+z/	z(m,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+/hh	hh	
+ih(/ih/)	ih	
+sil	sil	
+t/	t	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+ground	g(sil,r)b	r(g,aw)	aw(r,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+</s>	sile	

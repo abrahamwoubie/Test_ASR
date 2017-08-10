@@ -1,0 +1,26 @@
+<s>	silb	
+/eh	eh	
+k(/k/)	k(eh,s)	
+s(/s/)	s(k,p)e	
+p(/p/)	p(s,axr)	
+er	axr(p,sil)e	
+sil	sil	
+t/	t	
+say	s(sil,ey)b	ey(s,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/dh	dh	
+ae(/ae/)	ae(dh,td)	
+td/	td(ae,sil)e	
+sil	sil	
+[begin_noise]	sil	
+/g	g	
+uh(/uh/)	uh	
+td/	td(uh,sil)e	
+[end_noise]	sil	
+news	n(sil,uw)b	uw	z(uw,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

@@ -1,0 +1,15 @@
+mcjd1bc2:phone> SILb 0.00 2.00 -997098
+mcjd1bc2:phone> DH(SIL,EH)b 3.00 16.00 -2843287
+mcjd1bc2:phone> EH(DH,N) 17.00 39.00 -4406739
+mcjd1bc2:phone> N(EH,SIL)e 40.00 56.00 -2573021
+mcjd1bc2:phone> SIL 57.00 81.00 -4537605
+mcjd1bc2:phone> +NOISE+ 82.00 84.00 -422500
+mcjd1bc2:phone> N 85.00 105.00 -3890885
+mcjd1bc2:phone> AA 106.00 128.00 -3600959
+mcjd1bc2:phone> TD 129.00 134.00 -1269379
+mcjd1bc2:phone> +SMACK+ 135.00 153.00 -3683657
+mcjd1bc2:phone> SIL 154.00 188.00 -5016131
+mcjd1bc2:phone> AH 189.00 216.00 -4767712
+mcjd1bc2:phone> SIL 217.00 225.00 -1923626
+mcjd1bc2:phone> S 226.00 256.00 -5302837
+mcjd1bc2:phone> SILe 257.00 910.00 -125384955

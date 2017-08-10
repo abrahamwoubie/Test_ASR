@@ -1,0 +1,17 @@
+<s>	silb	
+[noise]	sil	
+once	w(sil,ah)b	ah(w,n)	n(ah,s)	s(n,sil)e	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,b)e	
+blue	b(iy,l)b	l	uw(l,sil)e	
+[begin_noise]	sil	
+butterflies	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+lived(2)	l(sil,ih)b	ih(l,v)	v	dd(v,ih)e	
+in	ih(dd,n)b	n(ih,sil)e	
+[begin_noise]	sil	
+california	k(sil,ae)b	ae(k,l)	l(ae,ax)	ax(l,f)	f(ax,ao)	ao(f,r)	r(ao,n)	n(r,y)	y(n,ax)	ax(y,sil)e	
+[end_noise]	sil	
+[noise]	sil	
+</s>	sile	

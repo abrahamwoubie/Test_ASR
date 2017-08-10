@@ -1,0 +1,21 @@
+<s>	silb	
+some	s(sil,ah)b	ah(s,m)	m(ah,f)e	
+farmers	f(m,aa)b	aa(f,r)	r	m	axr	z(axr,g)e	
+grow	g(z,r)b	r(g,ow)	ow(r,k)e	
+coffee(2)	k(ow,ao)b	ao(k,f)	f(ao,iy)	iy(f,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/g	g	
+r(/r/)	r(g,ow)	
+ow	ow(r,n)s	
+n/	n(ow,b)e	
+bananas	b(n,ax)b	ax(b,n)	n(ax,ae)	ae	n(ae,ax)	ax	z(ax,sil)e	
+sil	sil	
+or	ao(sil,r)b	r(ao,r)e	
+/r/	r	
+[sil]	sil	
+raise	r(sil,ey)b	ey(r,z)	z(ey,k)e	
+cattle	k(z,ae)b	ae(k,dx)	dx(ae,ax)	ax(dx,l)	l(ax,sil)e	
+[noise](+exhale+)	+exhale+	
+[sil]	sil	
+</s>	sile	

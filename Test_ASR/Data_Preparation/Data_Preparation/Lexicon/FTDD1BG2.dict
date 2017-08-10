@@ -1,0 +1,16 @@
+<s>	silb	
+[noise]	sil	
+the	dh(sil,ah)b	ah(dh,s)e	
+soil	s	oy	l	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,y)e	
+used	y(z,uw)b	uw(y,z)	z(uw,dd)	dd(z,t)e	
+to(3)	t(dd,uw)b	uw(t,hh)e	
+help	hh(uw,eh)b	eh(hh,l)	l(eh,pd)	pd(l,sil)e	
+[sil]	sil	
+[begin_noise]	sil	
+gardens	g	aa(g,r)	r(aa,d)	d(r,ax)	ax(d,n)	n(ax,z)	z(n,sil)e	
+[end_noise]	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+[noise](+noise+)	+noise+	
+</s>	sile	

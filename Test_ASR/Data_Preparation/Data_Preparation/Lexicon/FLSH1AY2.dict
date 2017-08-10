@@ -1,0 +1,47 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+not	n	aa	td	
+sil	sil	
+a(2)	ey(sil,l)s	
+lot(2)	l(ey,ao)b	ao(l,td)	td(ao,sil)e	
+sil	sil	
+/m/	m	
+sil	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+/r	r	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,ay)e	
+ay	ay(s,k)s	
+k(/k/)	k	
+ah(/ah/)	ah(k,l)	
+l(/l/)	l(ah,sil)e	
+dd/	dd(l,sil)e	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+[begin_noise]	sil	
+cans	k(sil,ae)b	ae(k,n)	n(ae,z)	z(n,sil)e	
+sil	sil	
+/b	b	
+aa(/aa/)	aa	
+sil	sil	
+t(/t/)	t	
+ah(/ah/)	ah(t,l)e	
+l(/l/)	l(ah,z)e	
+z/	z(l,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,p)e	
+paper	p(dd,ey)b	ey	p	axr(p,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+</s>	sile	

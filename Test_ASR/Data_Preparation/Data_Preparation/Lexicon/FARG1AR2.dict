@@ -1,0 +1,27 @@
+<s>	silb	
+/t	t	
+s/	s	
+[noise]	sil	
+blow	b(sil,l)b	l(b,ow)	ow(l,sil)e	
+sil	sil	
+dust	d(sil,ah)b	ah	s(ah,td)	td(s,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+/ae	ae	
+n	eh(sil,n)b	n(eh,td)	
+td/	td(n,sil)e	
+sil	sil	
+/d	d	
+r(/r/)	r	
+sil	sil	
+ay/	ay	
+/td/	td(ay,sil)e	
+[human_noise]	sil	
+/ax	ax(sil,sil)s	
+sil	sil	
+r(/r/)	r	
+sil	sil	
+aw	ao	
+n/	n(ao,sil)e	
+</s>	sile	

@@ -1,0 +1,42 @@
+<s>	silb	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,ae)e	
+animals	ae(axr,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+[begin_noise]	sil	
+will	w(sil,ax)b	ax(w,l)	l(ax,n)e	
+not	n	aa	td	
+[end_noise]	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,s)e	
+skin	s(ax,k)b	k	ih	n(ih,sil)e	
+[human_noise]	sil	
+/b	b	
+ah/	ah	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+sil	sil	
+/s/	s	
+sil	sil	
+[sil]	sil	
+stink	s(sil,t)b	t(s,ih)	ih	ng(ih,kd)	kd(ng,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+[see_transcript](+inhale+)	+inhale+	
+sil	sil	
+bug	b(sil,ah)b	ah	gd	
+sil	sil	
+because	b(sil,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+[see_transcript]	sil	
+tastes	t(sil,ey)b	ey	s	ts(s,sil)e	
+sil	sil	
+bad	b(sil,ae)b	ae(b,dd)	dd(ae,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+</s>	sile	

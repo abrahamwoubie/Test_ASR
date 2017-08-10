@@ -1,0 +1,35 @@
+<s>	silb	
+after	ae(sil,f)b	f(ae,t)	t(f,axr)	axr(t,dh)e	
+the(3)	dh(axr,iy)b	iy(dh,sil)e	
+sil	sil	
+chicks	ch(sil,ih)b	ih(ch,k)	k(ih,s)	s(k,hh)e	
+hatch	hh(s,ae)b	ae	ch(ae,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/p	p	
+ey(/ey/)	ey(p,w)e	
+w(/w/)	w	
+ix(/ix/)	ix	
+n(/n/)	n(ix,t)e	
+t(/t/)	t	
+s/	s	
+sil	sil	
+take	t(sil,ey)b	ey(t,kd)	kd(ey,sil)e	
+sil	sil	
+them	dh(sil,eh)b	eh(dh,m)	m(eh,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+keeping	k(sil,iy)b	iy(k,p)	p(iy,ix)	ix(p,ng)	ng(ix,dh)e	
+them	dh(ng,eh)b	eh(dh,m)	m(eh,w)e	
+warm	w(m,ao)b	ao(w,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+[begin_noise]	sil	
+[end_noise]	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+</s>	sile	

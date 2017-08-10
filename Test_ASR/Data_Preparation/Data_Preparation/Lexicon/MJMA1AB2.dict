@@ -1,0 +1,26 @@
+<s>	silb	
+[begin_whisper]	sil	
+storm	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+i	ay(sil,m)s	
+mean	m(ay,iy)b	iy(m,n)	n(iy,sil)e	
+sil	sil	
+[end_whisper]	sil	
+/l	l	
+ay	ay(l,sil)e	
+dx(/dx/)	dx	
+n(/n/)	n	
+iy(/iy/)	iy(n,sil)e	
+ng/	ng	
+moves	m(ng,uw)b	uw(m,v)	v	z(v,sil)e	
+[begin_noise]	sil	
+through	th(sil,r)b	r(th,uw)	uw(r,sil)e	
+[end_noise]	sil	
+the	dh(sil,ah)b	ah(dh,eh)e	
+air	eh(ah,r)b	r(eh,sil)e	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

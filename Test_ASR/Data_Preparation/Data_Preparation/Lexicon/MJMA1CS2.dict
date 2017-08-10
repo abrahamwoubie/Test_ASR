@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+the(2)	dh(sil,ax)b	ax(dh,f)e	
+/f	f	
+r(/r/)	r(f,ao)	
+ao(/ao/)	ao	
+g(/g/)	g	
+z/	z(g,b)e	
+bright	b(z,r)b	r	ay(r,td)	td(ay,k)e	
+colors	k(td,ah)b	ah(k,l)	l	axr(l,z)	z(axr,l)e	
+let	l(z,eh)b	eh(l,td)	td(eh,ah)e	
+other	ah(td,dh)b	dh(ah,axr)	axr(dh,ae)e	
+animals	ae(axr,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,n)e	
+know	n(z,ow)b	ow(n,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+its(2)	ix(sil,ts)b	ts(ix,s)e	
+skin	s(ts,k)b	k	ih	n(ih,g)e	
+gives	g(n,ih)b	ih(g,v)	v(ih,z)	z(v,ao)e	
+off	ao(z,f)b	f(ao,sil)e	
+sil	sil	
+poison	p(sil,oy)b	oy	z	ax(z,n)	n(ax,sil)e	
+</s>	sile	

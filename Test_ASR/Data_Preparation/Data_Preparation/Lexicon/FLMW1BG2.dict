@@ -1,0 +1,19 @@
+<s>	silb	
+/ax/	ax(sil,sil)s	
+sil	sil	
+soil	s	oy	l	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+used	y(sil,uw)b	uw(y,z)	z(uw,dd)	dd(z,sil)e	
+sil	sil	
+[human_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,hh)e	
+help	hh(uw,eh)b	eh(hh,l)	l(eh,pd)	pd(l,sil)e	
+sil	sil	
+[begin_noise]	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+[end_noise]	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+[sil]	sil	
+</s>	sile	

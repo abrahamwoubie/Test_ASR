@@ -1,0 +1,39 @@
+<s>	silb	
+he	hh(sil,iy)b	iy(hh,sil)e	
+sil	sil	
+he	hh(sil,iy)b	iy(hh,sil)e	
+sil	sil	
+knew	n(sil,uw)b	uw(n,ix)e	
+it(2)	ix(uw,td)b	td(ix,sil)e	
+sil	sil	
+was(3)	w(sil,ao)b	ao(w,z)	z(ao,sil)e	
+sil	sil	
+the(3)	dh(sil,iy)b	iy(dh,t)e	
+/t	t	
+iy/	iy(t,r)e	
+/r	r	
+eh	eh(r,k)	
+k(/k/)	k(eh,s)	
+s/	s(k,sil)e	
+sil	sil	
+because	b(sil,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,hh)e	
+he	hh(z,iy)b	iy(hh,p)e	
+put	p(iy,uh)b	uh(p,td)	td(uh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+a(2)	ey(sil,k)s	
+kind	k(ey,ay)b	ay(k,n)	n(ay,dd)	dd(n,ax)e	
+of(2)	ax(dd,v)b	v(ax,sil)e	
+sil	sil	
+clay	k(sil,l)b	l(k,ey)	ey(l,ix)e	
+inside(2)	ix(ey,n)b	n(ix,s)	s(n,ay)	ay(s,dd)	dd(ay,dh)e	
+the(3)	dh(dd,iy)b	iy(dh,t)e	
+tooth	t(iy,uw)b	uw	th	
+holes	hh(th,ow)b	ow(hh,l)	l	z(l,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the	dh(n,ah)b	ah(dh,b)e	
+bone	b(ah,ow)b	ow	n(ow,sil)e	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

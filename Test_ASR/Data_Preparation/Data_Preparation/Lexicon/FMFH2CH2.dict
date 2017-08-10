@@ -1,0 +1,13 @@
+<s>	silb	
+[noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,t)e	
+travel	t(l,r)b	r(t,ae)	ae(r,v)	v(ae,ax)	ax(v,l)	l(ax,aa)e	
+on	aa(l,n)b	n(aa,d)e	
+dirt	d(n,er)b	er	td	
+roads	r(td,ow)b	ow	d(ow,z)	z(d,t)e	
+to	t(z,ax)b	ax(t,g)e	
+get(2)	g(ax,ih)b	ih	td(ih,t)e	
+to(3)	t(td,uw)b	uw(t,ey)e	
+a(2)	ey(uw,m)s	
+marketplace(2)	m(ey,aa)b	aa(m,r)	r(aa,k)	k(r,ix)	ix(k,td)	td	p	l(p,ey)	ey(l,s)	s(ey,sil)e	
+</s>	sile	

@@ -1,0 +1,13 @@
+fjtr1ai2:word> <s> 0.00 19.00 -2825130
+fjtr1ai2:word> [BEGIN_NOISE] 20.00 28.00 -1533444
+fjtr1ai2:word> STAY 29.00 104.00 -11609328
+fjtr1ai2:word> [END_NOISE] 105.00 109.00 -884045
+fjtr1ai2:word> AWAY 110.00 176.00 -8619251
+fjtr1ai2:word> FROM(2) 177.00 210.00 -5086201
+fjtr1ai2:word> /W 211.00 231.00 -3452253
+fjtr1ai2:word> AO(/AO/) 232.00 251.00 -3151298
+fjtr1ai2:word> T(/T/) 252.00 268.00 -3052758
+fjtr1ai2:word> ER/ 269.00 273.00 -1070768
+fjtr1ai2:word> SIL 274.00 338.00 -9648531
+fjtr1ai2:word> [NOISE](+RUSTLE+) 339.00 344.00 -956777
+fjtr1ai2:word> </s> 345.00 800.00 -52534687

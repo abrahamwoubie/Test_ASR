@@ -1,0 +1,15 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+butterflies	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,sil)e	
+[end_noise]	sil	
+are(2)	axr	
+[begin_noise]	sil	
+/ih	ih	
+n(/n/)	n(ih,s)e	
+s(/s/)	s(n,eh)e	
+eh	eh(s,k)	
+k(/k/)	k(eh,s)	
+s/	s(k,sil)e	
+[end_noise]	sil	
+</s>	sile	

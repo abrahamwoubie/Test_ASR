@@ -1,0 +1,23 @@
+<s>	silb	
+sil	sil	
+scientists(2)	s(sil,ay)b	ay(s,n)	n(ay,t)	t(n,ix)	ix(t,s)	s(ix,ts)	ts(s,th)e	
+/th	th	
+aa(/aa/)	aa	
+td/	td	
+all	ao(td,l)b	l(ao,dh)e	
+the(2)	dh(l,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+/b	b	
+ah/	ah	
+sil	sil	
+blue	b(sil,l)b	l	uw(l,sil)e	
+sil	sil	
+butterflies	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+had	hh(sil,ae)b	ae(hh,dd)	dd(ae,d)e	
+died	d(dd,ay)b	ay	dd(ay,sil)e	
+sil	sil	
+[sil]	sil	
+</s>	sile	

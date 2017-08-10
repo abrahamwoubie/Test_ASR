@@ -1,0 +1,36 @@
+<s>	silb	
+when(3)	w(sil,eh)b	eh(w,n)	n(eh,w)e	
+water	w(n,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[begin_noise]	sil	
+covers	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,sil)e	
+[end_noise]	sil	
+streets	s(sil,t)b	t(s,r)	r(t,iy)	iy	ts(iy,sil)e	
+sil	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+[begin_noise]	sil	
+goes	g(sil,ow)b	ow(g,z)	z(ow,sil)e	
+[end_noise]	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,hh)e	
+houses(2)	hh(uw,aw)b	aw(hh,s)	s(aw,ix)	ix(s,z)	z(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,k)e	
+/k	k	
+ao(/ao/)	ao	
+td/	td(ao,sil)e	
+sil	sil	
+a(2)	ey(sil,sil)s	
+[begin_noise]	sil	
+/f	f	
+l(/l/)	l	
+sil	sil	
+uw(/uw/)	uw	
+sil	sil	
+d/	d	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

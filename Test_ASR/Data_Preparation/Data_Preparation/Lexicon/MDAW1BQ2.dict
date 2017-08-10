@@ -1,0 +1,26 @@
+<s>	silb	
+/n	n	
+iy/	iy(n,p)s	
+plants	p(iy,l)b	l(p,ae)	ae(l,n)	n	ts(n,sil)e	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+[end_noise]	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/ow	ow(sil,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n/	n(ih,sil)e	
+[human_noise]	sil	
+</s>	sile	

@@ -1,0 +1,13 @@
+<s>	silb	
+[noise]	sil	
+[begin_noise]	sil	
+scientists(2)	s(sil,ay)b	ay(s,n)	n(ay,t)	t(n,ix)	ix(t,s)	s(ix,ts)	ts(s,w)e	
+will	w(ts,ax)b	ax(w,l)	l(ax,sil)e	
+[end_noise]	sil	
+try	t(sil,r)b	r(t,ay)	ay(r,t)e	
+to(2)	t	ix(t,s)	
+save	s(ix,ey)b	ey(s,v)	v(ey,sil)e	
+sil	sil	
+them	dh(sil,eh)b	eh(dh,m)	m(eh,sil)e	
+[noise]	sil	
+</s>	sile	

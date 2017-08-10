@@ -1,0 +1,16 @@
+fjbg2by2:phone> SILb 0.00 9.00 -1282806
+fjbg2by2:phone> +EXHALE+ 10.00 12.00 -478335
+fjbg2by2:phone> SIL 13.00 36.00 -3521097
+fjbg2by2:phone> M(SIL,EH)b 37.00 44.00 -1198689
+fjbg2by2:phone> EH(M,N) 45.00 49.00 -751265
+fjbg2by2:phone> N(EH,IY) 50.00 55.00 -1007977
+fjbg2by2:phone> IY(N,P)e 56.00 66.00 -1444319
+fjbg2by2:phone> P(IY,IY)b 67.00 76.00 -1333603
+fjbg2by2:phone> IY(P,P) 77.00 84.00 -1122047
+fjbg2by2:phone> P(IY,AX) 85.00 89.00 -851026
+fjbg2by2:phone> AX(P,L) 90.00 92.00 -515124
+fjbg2by2:phone> L(AX,D)e 93.00 97.00 -819639
+fjbg2by2:phone> D(L,AY)b 98.00 106.00 -1180540
+fjbg2by2:phone> AY 107.00 137.00 -3941526
+fjbg2by2:phone> DD(AY,SIL)e 138.00 148.00 -2099364
+fjbg2by2:phone> SILe 149.00 346.00 -22868175

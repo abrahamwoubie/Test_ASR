@@ -1,0 +1,13 @@
+flmw1ab2:word> <s> 0.00 2.00 -631530
+flmw1ab2:word> SIL 3.00 23.00 -3033706
+flmw1ab2:word> [NOISE](+NOISE+) 24.00 27.00 -712918
+flmw1ab2:word> LIGHTNING 28.00 79.00 -10765707
+flmw1ab2:word> MOVES 80.00 121.00 -6945466
+flmw1ab2:word> THROUGH 122.00 171.00 -8876248
+flmw1ab2:word> THE 172.00 197.00 -3886352
+flmw1ab2:word> SIL 198.00 202.00 -1039870
+flmw1ab2:word> AIR 203.00 238.00 -5933771
+flmw1ab2:word> SIL 239.00 430.00 -25653385
+flmw1ab2:word> [CROSSTALK](+SMACK+) 431.00 444.00 -2370977
+flmw1ab2:word> SIL 445.00 469.00 -3694605
+flmw1ab2:word> </s> 470.00 580.00 -15029804

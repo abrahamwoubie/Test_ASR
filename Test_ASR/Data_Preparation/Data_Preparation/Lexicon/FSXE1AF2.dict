@@ -1,0 +1,9 @@
+<s>	silb	
+[begin_noise]	sil	
+stay	s(sil,t)b	t(s,ey)	ey(t,sil)e	
+[end_noise]	sil	
+away	ax(sil,w)b	w(ax,ey)	ey(w,f)e	
+from	f(ey,axr)b	axr(f,m)	m	
+lightning	l(m,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+[human_noise]	sil	
+</s>	sile	

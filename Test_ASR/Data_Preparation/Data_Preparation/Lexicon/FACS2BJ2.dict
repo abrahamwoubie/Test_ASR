@@ -1,0 +1,24 @@
+<s>	silb	
+sil	sil	
+a	ax(sil,sil)s	
+sil	sil	
+[begin_noise]	sil	
+caterpillar	k(sil,ae)b	ae(k,dx)	dx(ae,ax)	ax(dx,p)	p(ax,ih)	ih	l	axr(l,sil)e	
+[end_noise]	sil	
+with(4)	w(sil,ix)b	ix(w,th)	th(ix,ey)e	
+a(2)	ey(th,sh)s	
+shell	sh	eh	l(eh,axr)e	
+around	axr(l,aw)b	aw(axr,n)	n(aw,dd)	dd(n,ix)e	
+it(2)	ix(dd,td)b	td(ix,ih)e	
+is	ih(td,z)b	z(ih,k)e	
+called	k(z,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+sil	sil	
+a	ax(sil,sil)s	
+[begin_noise]	sil	
+/p	p	
+uw(/uw/)	uw	
+sil	sil	
+p(/p/)	p	
+ax/	ax(p,sil)e	
+[end_noise]	sil	
+</s>	sile	

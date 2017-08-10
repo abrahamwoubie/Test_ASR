@@ -1,0 +1,15 @@
+<s>	silb	
+[begin_noise]	sil	
+go	g(sil,ow)b	ow(g,sil)e	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+[begin_noise]	sil	
+/ih	ih	
+sil	sil	
+n	eh(sil,n)b	n(eh,d)e	
+d(/d/)	d	
+ao(/ao/)	ao(d,r)	
+r(/r/)	r(ao,s)e	
+s/	s(r,sil)e	
+[end_noise]	sil	
+</s>	sile	

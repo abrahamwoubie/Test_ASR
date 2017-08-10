@@ -1,0 +1,30 @@
+<s>	silb	
+[noise]	sil	
+/d	d	
+ax/	ax	
+/w	w	
+er(/er/)	er(w,m)e	
+m/	m(er,sil)e	
+[noise]	sil	
+[begin_noise]	sil	
+turn	t(sil,er)b	er(t,n)	n(er,d)e	
+/d	d(n,ax)	
+ax/	ax	
+food	f(ax,uw)b	uw(f,dd)	dd(uw,ix)e	
+into(3)	ix(dd,n)b	n(ix,t)	t(n,uw)	uw(t,ax)e	
+a	ax(uw,sil)s	
+[end_noise]	sil	
+/s	s	
+sil	sil	
+p(/p/)	p	
+ih(/ih/)	ih	
+sh(/sh/)	sh(ih,ah)e	
+ah(/ah/)	ah	
+l/	l(ah,sil)e	
+[human_noise]	sil	
+kind	k(sil,ay)b	ay(k,n)	n(ay,dd)	dd(n,ax)e	
+of(2)	ax(dd,v)b	v(ax,s)e	
+soil	s	oy	l	
+[crosstalk]	sil	
+[noise]	sil	
+</s>	sile	

@@ -1,0 +1,16 @@
+<s>	silb	
+sil	sil	
+/n	n	
+ae/	ae	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,p)e	
+plants	p(iy,l)b	l(p,ae)	ae(l,n)	n	ts(n,ae)e	
+/ae	ae	
+n/	n(ae,ae)e	
+animals	ae(n,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,l)e	
+live	l(z,ay)b	ay(l,v)	v(ay,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the(3)	dh(n,iy)b	iy(dh,ow)e	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+[sil]	sil	
+</s>	sile	

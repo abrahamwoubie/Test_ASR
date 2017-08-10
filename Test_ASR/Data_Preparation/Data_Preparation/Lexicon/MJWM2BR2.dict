@@ -1,0 +1,13 @@
+<s>	silb	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+sil	sil	
+plane	p(sil,l)b	l(p,ey)	ey(l,n)	n(ey,k)e	
+carries	k(n,ae)b	ae	r	iy(r,z)	z(iy,d)e	
+doctor(2)	d(z,ao)b	ao	kd(ao,t)	t(kd,axr)	axr(t,ax)e	
+and(2)	ax(axr,n)b	n(ax,dd)	dd(n,n)e	
+nurses	n	er	s(er,ax)	ax	z(ax,sil)e	
+[human_noise]	sil	
+[noise](+noise+)	+noise+	
+[noise]	sil	
+</s>	sile	

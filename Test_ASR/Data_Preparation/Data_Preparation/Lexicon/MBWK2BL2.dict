@@ -1,0 +1,19 @@
+<s>	silb	
+when(4)	w(sil,ih)b	ih(w,n)	n(ih,dh)e	
+the	dh(n,ah)b	ah(dh,sh)e	
+shell	sh	eh	l(eh,b)e	
+breaks	b(l,r)b	r(b,ey)	ey(r,k)	k(ey,s)	s(k,sil)e	
+[begin_noise]	sil	
+/p	p	
+sil	sil	
+ax(/ax/)	ax(sil,n)s	
+n/	n(ax,sil)e	
+sil	sil	
+[end_noise]	sil	
+a	ax(sil,b)s	
+butterfly	b(ax,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,k)e	
+comes	k(ay,ah)b	ah(k,m)	m(ah,z)	z(m,aw)e	
+out	aw(z,td)b	td(aw,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

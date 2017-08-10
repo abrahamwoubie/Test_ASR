@@ -1,0 +1,16 @@
+fmtg1ah2:word>                  <s>    0   93       -12765652
+fmtg1ah2:word>              [NOISE]   94  147        -6952964
+fmtg1ah2:word>                   GO  148  177        -4126871
+fmtg1ah2:word>              INDOORS  178  284       -18549998
+fmtg1ah2:word>                 </s>  285  662       -42013321
+fmtg1ah2:phone>                 SILb    0   93       -12765652
+fmtg1ah2:phone>                  SIL   94  147        -6952964
+fmtg1ah2:phone>           G(SIL,OW)b  148  155        -1381725
+fmtg1ah2:phone>            OW(G,IH)e  156  177        -2745146
+fmtg1ah2:phone>            IH(OW,N)b  178  193        -2611978
+fmtg1ah2:phone>              N(IH,D)  194  203        -1421734
+fmtg1ah2:phone>                    D  204  210        -1163230
+fmtg1ah2:phone>              AO(D,R)  211  226        -2868048
+fmtg1ah2:phone>              R(AO,Z)  227  251        -4869029
+fmtg1ah2:phone>            Z(R,SIL)e  252  284        -5615979
+fmtg1ah2:phone>                 SILe  285  662       -42013321

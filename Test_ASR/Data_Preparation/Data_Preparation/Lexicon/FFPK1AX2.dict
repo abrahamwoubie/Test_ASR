@@ -1,0 +1,19 @@
+<s>	silb	
+[begin_noise]	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+[end_noise]	sil	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+[end_noise]	sil	
+ago	ax(sil,g)b	g(ax,ow)	ow(g,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+not	n	aa	td	
+many	m(td,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,r)e	
+record(3)	r(l,ix)b	ix(r,k)	k(ix,ao)	ao(k,r)	r(ao,dd)	dd(r,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

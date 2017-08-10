@@ -1,0 +1,17 @@
+mctw1ac2:word> <s> 0.00 21.00 -2925090
+mctw1ac2:word> IT(2) 22.00 46.00 -3914917
+mctw1ac2:word> [BEGIN_NOISE] 47.00 49.00 -638440
+mctw1ac2:word> SOMETIMES(2) 50.00 163.00 -21809122
+mctw1ac2:word> [END_NOISE] 164.00 180.00 -2612098
+mctw1ac2:word> [HUMAN_NOISE] 181.00 189.00 -1529046
+mctw1ac2:word> HITS 190.00 234.00 -7019347
+mctw1ac2:word> SIL 235.00 239.00 -874652
+mctw1ac2:word> /D 240.00 246.00 -1252318
+mctw1ac2:word> AX/ 247.00 256.00 -1858473
+mctw1ac2:word> /G 257.00 264.00 -1630907
+mctw1ac2:word> R(/R/) 265.00 274.00 -1488907
+mctw1ac2:word> AW(/AW/) 275.00 311.00 -4782535
+mctw1ac2:word> SIL 312.00 314.00 -597480
+mctw1ac2:word> N/ 315.00 317.00 -704288
+mctw1ac2:word> [NOISE](+NOISE+) 318.00 320.00 -525682
+mctw1ac2:word> </s> 321.00 648.00 -40360419

@@ -1,0 +1,16 @@
+fmbb1ad2:phone> SILb 0.00 2.00 -935658
+fmbb1ad2:phone> K(SIL,AX)b 3.00 11.00 -1467399
+fmbb1ad2:phone> AX(K,N) 12.00 15.00 -835679
+fmbb1ad2:phone> N(AX,HH)e 16.00 20.00 -1027284
+fmbb1ad2:phone> HH(N,ER)b 21.00 33.00 -2324893
+fmbb1ad2:phone> ER 34.00 39.00 -1228119
+fmbb1ad2:phone> TD 40.00 43.00 -846950
+fmbb1ad2:phone> P(TD,IY)b 44.00 51.00 -1421253
+fmbb1ad2:phone> IY(P,P) 52.00 65.00 -2025968
+fmbb1ad2:phone> P(IY,AX) 66.00 72.00 -1191418
+fmbb1ad2:phone> AX(P,L) 73.00 78.00 -1408004
+fmbb1ad2:phone> L(AX,SIL)e 79.00 88.00 -1756597
+fmbb1ad2:phone> SIL 89.00 135.00 -5942385
+fmbb1ad2:phone> +EXHALE+ 136.00 141.00 -1030812
+fmbb1ad2:phone> SIL 142.00 172.00 -4117570
+fmbb1ad2:phone> SILe 173.00 358.00 -23090354

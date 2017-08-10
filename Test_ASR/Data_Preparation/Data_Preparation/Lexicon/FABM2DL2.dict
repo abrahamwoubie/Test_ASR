@@ -1,0 +1,18 @@
+<s>	silb	
+[begin_noise]	sil	
+/pd	pd	
+uh	ah	
+td/	td(ah,dh)e	
+they	dh(td,ey)b	ey(dh,sil)e	
+[end_noise]	sil	
+spend	s(sil,p)b	p(s,eh)	eh(p,n)	n(eh,dd)	dd(n,m)e	
+most	m(dd,ow)b	ow(m,s)	s(ow,td)	td(s,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,dh)e	
+their	dh(v,eh)b	eh(dh,r)	r(eh,sil)e	
+[begin_noise]	sil	
+time	t(sil,ay)b	ay(t,m)	m(ay,sil)e	
+[end_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,w)e	
+water	w(n,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+</s>	sile	

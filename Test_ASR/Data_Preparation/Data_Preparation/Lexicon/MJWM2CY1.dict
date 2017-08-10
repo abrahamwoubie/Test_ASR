@@ -1,0 +1,18 @@
+<s>	silb	
+antarctica	ae(sil,n)b	n	aa(n,r)	r(aa,dx)	dx(r,ix)	ix(dx,k)	k(ix,ax)	ax(k,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+the(3)	dh(sil,iy)b	iy(dh,sil)e	
+sil	sil	
+continent	k(sil,aa)b	aa(k,n)	n	t(n,ax)	ax(t,n)	n(ax,ax)	ax(n,n)	n(ax,td)	td(n,ae)e	
+at	ae(td,td)b	td(ae,dh)e	
+the(2)	dh(td,ax)b	ax(dh,s)e	
+southern	s(ax,ah)b	ah(s,dh)	dh(ah,axr)	axr(dh,n)	n(axr,sil)e	
+sil	sil	
+end	eh(sil,n)b	n(eh,dd)	dd(n,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,aa)e	
+our	aa(v,r)b	r(aa,p)e	
+planet	p(r,l)b	l(p,ae)	ae(l,n)	n(ae,ax)	ax	td(ax,sil)e	
+</s>	sile	

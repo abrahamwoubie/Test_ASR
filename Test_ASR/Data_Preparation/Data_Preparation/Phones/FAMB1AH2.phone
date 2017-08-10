@@ -1,0 +1,17 @@
+famb1ah2:phone> SILb 0.00 22.00 -3419202
+famb1ah2:phone> G(SIL,OW)b 23.00 31.00 -1695839
+famb1ah2:phone> OW(G,SIL)e 32.00 57.00 -5169185
+famb1ah2:phone> SIL 58.00 68.00 -2451531
+famb1ah2:phone> IH(SIL,N)b 69.00 98.00 -4945254
+famb1ah2:phone> N(IH,D) 99.00 108.00 -1491846
+famb1ah2:phone> D 109.00 143.00 -6907925
+famb1ah2:phone> AO(D,R) 144.00 164.00 -3542940
+famb1ah2:phone> R(AO,Z) 165.00 178.00 -2166319
+famb1ah2:phone> Z(R,SIL)e 179.00 209.00 -5088097
+famb1ah2:phone> SIL 210.00 389.00 -23040129
+famb1ah2:phone> +INHALE+ 390.00 394.00 -774459
+famb1ah2:phone> SIL 395.00 501.00 -13264799
+famb1ah2:phone> +INHALE+ 502.00 507.00 -1161507
+famb1ah2:phone> SIL 508.00 592.00 -10749616
+famb1ah2:phone> +INHALE+ 593.00 597.00 -898363
+famb1ah2:phone> SILe 598.00 630.00 -4145726

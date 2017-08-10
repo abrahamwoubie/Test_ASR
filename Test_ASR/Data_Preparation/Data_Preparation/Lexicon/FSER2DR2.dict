@@ -1,0 +1,17 @@
+<s>	silb	
+[noise]	sil	
+it(2)	ix(sil,td)b	td(ix,k)e	
+can	k(td,ae)b	ae(k,n)	n(ae,b)e	
+be	b(n,iy)b	iy(b,b)e	
+bad	b(iy,ae)b	ae(b,dd)	dd(ae,ih)e	
+if	ih(dd,f)b	f(ih,y)e	
+you	y(f,uw)b	uw(y,w)e	
+watch(2)	w(uw,ao)b	ao	ch(ao,ix)	
+it(2)	ix(ch,td)b	td(ix,t)e	
+too	t(td,uw)b	uw(t,m)e	
+much	m(uw,ah)b	ah(m,ch)	ch(ah,d)e	
+doctor(2)	d(ch,ao)b	ao	kd(ao,t)	t(kd,axr)	axr(t,s)e	
+/s	s(axr,eh)	
+eh/	eh	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

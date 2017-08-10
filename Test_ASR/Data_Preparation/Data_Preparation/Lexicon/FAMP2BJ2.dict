@@ -1,0 +1,29 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+a	ax(sil,k)s	
+caterpillar(2)	k(ax,ae)b	ae(k,dx)	dx(ae,axr)	axr	p	ih	l	axr(l,w)e	
+with(2)	w(axr,ih)b	ih(w,th)	th(ih,ax)e	
+a	ax(th,sh)s	
+shell	sh	eh	l(eh,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,ix)e	
+it(2)	ix(dd,td)b	td(ix,ix)e	
+is(2)	ix(td,z)b	z(ix,sil)e	
+[begin_noise]	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+[end_noise]	sil	
+/dh	dh	
+ax/	ax(dh,sil)s	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+/p	p	
+y(/y/)	y(p,uw)	
+uw(/uw/)	uw(y,p)e	
+p(/p/)	p	
+ah/	ah	
+[end_noise]	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

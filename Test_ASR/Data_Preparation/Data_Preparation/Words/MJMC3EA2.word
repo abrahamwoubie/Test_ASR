@@ -1,0 +1,15 @@
+mjmc3ea2:word> <s> 0.00 11.00 -2118778
+mjmc3ea2:word> ONE 12.00 76.00 -9125222
+mjmc3ea2:word> SIL 77.00 81.00 -762012
+mjmc3ea2:word> DOCTOR(2) 82.00 137.00 -9090047
+mjmc3ea2:word> SAYS(2) 138.00 201.00 -9714044
+mjmc3ea2:word> [BEGIN_NOISE] 202.00 217.00 -3531469
+mjmc3ea2:word> LOUD 218.00 274.00 -8805219
+mjmc3ea2:word> [END_NOISE] 275.00 280.00 -1161560
+mjmc3ea2:word> [HUMAN_NOISE](+INHALE+) 281.00 305.00 -3715153
+mjmc3ea2:word> SIL 306.00 330.00 -4597916
+mjmc3ea2:word> NOISES 331.00 392.00 -9645960
+mjmc3ea2:word> SIL 393.00 407.00 -2992849
+mjmc3ea2:word> /AH 408.00 411.00 -1084287
+mjmc3ea2:word> R/ 412.00 414.00 -733307
+mjmc3ea2:word> </s> 415.00 420.00 -1587733

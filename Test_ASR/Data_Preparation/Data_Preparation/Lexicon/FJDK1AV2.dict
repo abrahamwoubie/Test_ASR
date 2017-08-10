@@ -1,0 +1,21 @@
+<s>	silb	
+when(2)	hh(sil,w)b	w(hh,ih)	ih(w,n)	n(ih,sil)e	
+[begin_noise]	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[end_noise]	sil	
+/k/	k	
+sil	sil	
+/k/	k	
+sil	sil	
+/k/	k	
+sil	sil	
+[begin_whisper]	sil	
+/k	k	
+sil	sil	
+ah/	ah	
+sil	sil	
+/k	k	
+ah(/ah/)	ah(k,v)	
+v/	v(ah,sil)e	
+[end_whisper]	sil	
+</s>	sile	

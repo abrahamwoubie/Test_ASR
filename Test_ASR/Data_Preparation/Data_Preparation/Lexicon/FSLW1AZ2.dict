@@ -1,0 +1,25 @@
+<s>	silb	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/ih	ih	
+sil	sil	
+k/	k	
+sil	sil	
+/eh	eh	
+s/	s(eh,sil)e	
+sil	sil	
+experts	eh(sil,k)b	k(eh,s)	s(k,p)	p(s,axr)	axr	ts	
+/s	s	
+t(/t/)	t(s,ey)	
+ey/	ey(t,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+that's	dh(sil,ae)b	ae(dh,ts)	ts(ae,k)e	
+/k/	k	
+sil	sil	
+good	g(sil,uh)b	uh(g,dd)	dd(uh,n)e	
+news	n(dd,uw)b	uw	z(uw,sil)e	
+[crosstalk](+rustle+)	+rustle+	
+sil	sil	
+</s>	sile	

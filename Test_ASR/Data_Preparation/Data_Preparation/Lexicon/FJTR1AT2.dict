@@ -1,0 +1,16 @@
+<s>	silb	
+[begin_noise]	sil	
+heavy	hh(sil,eh)b	eh(hh,v)	v(eh,iy)	iy(v,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+[end_noise]	sil	
+fills	f(sil,ih)b	ih(f,l)	l	z(l,sil)e	
+sil	sil	
+rivers	r(sil,ih)b	ih(r,v)	v(ih,axr)	axr(v,z)	z(axr,w)e	
+/w	w	
+ih(/ih/)	ih	
+f/	f(ih,w)e	
+water	w(f,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

@@ -1,0 +1,15 @@
+ffpk1br2:word> <s> 0.00 6.00 -1039970
+ffpk1br2:word> [BEGIN_NOISE] 7.00 37.00 -3935009
+ffpk1br2:word> SEALS 38.00 120.00 -13047675
+ffpk1br2:word> LIVE(2) 121.00 160.00 -6537036
+ffpk1br2:word> [END_NOISE] 161.00 163.00 -795112
+ffpk1br2:word> IN(2) 164.00 193.00 -4853986
+ffpk1br2:word> SIL 194.00 196.00 -645608
+ffpk1br2:word> THE 197.00 217.00 -3071620
+ffpk1br2:word> SIL 218.00 221.00 -848194
+ffpk1br2:word> /OW 222.00 238.00 -3228661
+ffpk1br2:word> SH(/SH/) 239.00 263.00 -4309360
+ffpk1br2:word> IH(/IH/) 264.00 274.00 -1883083
+ffpk1br2:word> N/ 275.00 281.00 -1067143
+ffpk1br2:word> [SIL] 282.00 284.00 -500200
+ffpk1br2:word> </s> 285.00 620.00 -39711527

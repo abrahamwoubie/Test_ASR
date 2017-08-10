@@ -1,0 +1,17 @@
+mbak2at2:phone> SILb 0.00 64.00 -9143363
+mbak2at2:phone> SIL 65.00 115.00 -7315194
+mbak2at2:phone> SIL 116.00 128.00 -1963740
+mbak2at2:phone> DH(SIL,EY)b 129.00 132.00 -680805
+mbak2at2:phone> EY(DH,HH)e 133.00 152.00 -3156250
+mbak2at2:phone> HH(EY,AE)b 153.00 159.00 -1049862
+mbak2at2:phone> AE(HH,V) 160.00 170.00 -1579514
+mbak2at2:phone> V(AE,S)e 171.00 177.00 -1140886
+mbak2at2:phone> S(V,IH)b 178.00 193.00 -2367862
+mbak2at2:phone> IH(S,K) 194.00 199.00 -1209034
+mbak2at2:phone> K(IH,S) 200.00 208.00 -1867051
+mbak2at2:phone> S(K,L)e 209.00 221.00 -2117402
+mbak2at2:phone> L(S,EH)b 222.00 235.00 -2211244
+mbak2at2:phone> EH(L,G) 236.00 255.00 -2816720
+mbak2at2:phone> G(EH,Z) 256.00 263.00 -1519540
+mbak2at2:phone> Z(G,SIL)e 264.00 295.00 -5205123
+mbak2at2:phone> SILe 296.00 556.00 -32018206

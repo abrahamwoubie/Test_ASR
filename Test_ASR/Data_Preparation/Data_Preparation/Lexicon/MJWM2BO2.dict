@@ -1,0 +1,34 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+but(2)	b(sil,ax)b	ax(b,td)	td(ax,sil)e	
+sil	sil	
+/t	t	
+er	axr(t,n)e	
+n/	n(axr,ix)e	
+it(2)	ix(n,td)b	td(ix,ah)e	
+upside	ah	p	s	ay(s,dd)	dd(ay,d)e	
+/d	d	
+aa(/aa/)	aa	
+n/	n(aa,dh)e	
+the(2)	dh(n,ax)b	ax(dh,k)e	
+colors	k(ax,ah)b	ah(k,l)	l	axr(l,z)	z(axr,aa)e	
+are	aa(z,r)b	r(aa,sil)e	
+[begin_noise]	sil	
+/b	b	
+w(/w/)	w	
+aw(/aw/)	aw(w,n)e	
+n/	n(aw,sil)e	
+sil	sil	
+black	b(sil,l)b	l(b,ae)	ae	kd(ae,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+pure	p	y	uh(y,r)	r(uh,sil)e	
+[end_noise]	sil	
+yellow	y(sil,eh)b	eh	l(eh,ow)	ow(l,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+or	ao(sil,r)b	r(ao,sil)e	
+</s>	sile	

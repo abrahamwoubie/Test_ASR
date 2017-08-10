@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+a(2)	ey(sil,sil)s	
+[begin_noise]	sil	
+tropical	t(sil,r)b	r	aa	p	ix	k(ix,ax)	ax(k,l)	l(ax,sil)e	
+[end_noise]	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ih)e	
+ih(/ih/)	ih(r,s)	
+s/	s(ih,hh)e	
+has(2)	hh(s,ax)b	ax	z(ax,sil)e	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+tall	t(sil,ao)b	ao	l(ao,sil)e	
+[begin_noise]	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+</s>	sile	

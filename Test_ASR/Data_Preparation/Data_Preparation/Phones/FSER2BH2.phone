@@ -1,0 +1,15 @@
+fser2bh2:phone> SILb 0.00 41.00 -4930070
+fser2bh2:phone> DH(SIL,AX)b 42.00 47.00 -1110589
+fser2bh2:phone> AX(DH,JH)e 48.00 51.00 -633951
+fser2bh2:phone> JH(AX,UW)b 52.00 66.00 -2445788
+fser2bh2:phone> UW 67.00 76.00 -1730319
+fser2bh2:phone> S(UW,G)e 77.00 85.00 -1412565
+fser2bh2:phone> G(S,EH)b 86.00 91.00 -1049830
+fser2bh2:phone> EH(G,TS) 92.00 98.00 -1097751
+fser2bh2:phone> TS(EH,HH)e 99.00 109.00 -1904534
+fser2bh2:phone> HH(TS,AA)b 110.00 116.00 -1222639
+fser2bh2:phone> AA(HH,R) 117.00 139.00 -3211432
+fser2bh2:phone> R 140.00 144.00 -863188
+fser2bh2:phone> DD(R,SIL)e 145.00 152.00 -1371756
+fser2bh2:phone> +EXHALE+ 153.00 155.00 -721567
+fser2bh2:phone> SILe 156.00 324.00 -19950857

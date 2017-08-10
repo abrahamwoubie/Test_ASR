@@ -1,0 +1,26 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+a	ax(sil,s)s	
+/s	s(ax,ay)e	
+ay	ay(s,sil)s	
+sil	sil	
+ay	ay(sil,eh)s	
+n	eh(ay,n)b	n(eh,t)e	
+t(/t/)	t(n,ix)	
+ix(/ix/)	ix(t,s)	
+s(/s/)	s(ix,td)	
+td/	td(s,s)e	
+studied	s(td,t)b	t(s,ah)	ah(t,dx)	dx(ah,iy)	iy	dd(iy,sil)e	
+sil	sil	
+emperor	eh(sil,m)b	m(eh,p)	p	axr	axr(axr,sil)e	
+sil	sil	
+penguins	p(sil,eh)b	eh	ng	g	w	ax(w,n)	n(ax,z)	z(n,ih)e	
+in	ih(z,n)b	n(ih,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+antarctica(2)	ae(sil,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,sil)e	
+sil	sil	
+</s>	sile	

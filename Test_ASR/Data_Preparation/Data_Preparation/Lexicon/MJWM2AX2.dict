@@ -1,0 +1,24 @@
+<s>	silb	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[noise]	sil	
+sil	sil	
+/n	n	
+eh	eh(n,k)	
+k(/k/)	k	
+sil	sil	
+t	t(sil,iy)b	iy(t,axr)e	
+axr/	axr(iy,ix)e	
+is(2)	ix(axr,z)b	z(ix,dh)e	
+the(3)	dh(z,iy)b	iy(dh,jh)e	
+juice	jh(iy,uw)b	uw	s(uw,s)e	
+/s/	s	
+sil	sil	
+inside	ih(sil,n)b	n(ih,s)	s(n,ay)	ay(s,dd)	dd(ay,f)e	
+/f	f	
+l(/l/)	l	
+aw(/aw/)	aw(l,aa)e	
+aa(/aa/)	aa	
+z/	z(aa,sil)e	
+</s>	sile	

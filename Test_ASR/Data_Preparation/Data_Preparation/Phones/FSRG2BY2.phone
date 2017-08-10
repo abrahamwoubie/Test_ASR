@@ -1,0 +1,16 @@
+fsrg2by2:phone> SILb 0.00 3.00 -688992
+fsrg2by2:phone> +INHALE+ 4.00 17.00 -2013483
+fsrg2by2:phone> SIL 18.00 29.00 -1856534
+fsrg2by2:phone> M(SIL,EH)b 30.00 36.00 -1000630
+fsrg2by2:phone> EH(M,N) 37.00 45.00 -1266642
+fsrg2by2:phone> N(EH,IY) 46.00 49.00 -690781
+fsrg2by2:phone> IY(N,P)e 50.00 64.00 -2088373
+fsrg2by2:phone> P(IY,IY)b 65.00 75.00 -1865439
+fsrg2by2:phone> IY(P,P) 76.00 85.00 -1218107
+fsrg2by2:phone> P(IY,AX) 86.00 93.00 -1163345
+fsrg2by2:phone> AX(P,L) 94.00 97.00 -531246
+fsrg2by2:phone> L(AX,D)e 98.00 106.00 -1436582
+fsrg2by2:phone> D(L,AY)b 107.00 114.00 -1159308
+fsrg2by2:phone> AY 115.00 150.00 -5824800
+fsrg2by2:phone> DD(AY,SIL)e 151.00 159.00 -1397097
+fsrg2by2:phone> SILe 160.00 432.00 -31702518

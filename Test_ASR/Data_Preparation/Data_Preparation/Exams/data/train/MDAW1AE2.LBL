@@ -1,0 +1,13 @@
+mdaw1ae2:word>                  <s>    0    4        -1310886
+mdaw1ae2:word>                HELLO    5   54        -9844451
+mdaw1ae2:word>                  SIL   55  181       -15982249
+mdaw1ae2:word>              [NOISE]  182  324       -17407931
+mdaw1ae2:word>                 </s>  325  378        -6348657
+mdaw1ae2:phone>                 SILb    0    4        -1310886
+mdaw1ae2:phone>          HH(SIL,AX)b    5    9         -948820
+mdaw1ae2:phone>             AX(HH,L)   10   17        -1655995
+mdaw1ae2:phone>             L(AX,OW)   18   26        -1749466
+mdaw1ae2:phone>           OW(L,SIL)e   27   54        -5490170
+mdaw1ae2:phone>                  SIL   55  181       -15982249
+mdaw1ae2:phone>                  SIL  182  324       -17407931
+mdaw1ae2:phone>                 SILe  325  378        -6348657

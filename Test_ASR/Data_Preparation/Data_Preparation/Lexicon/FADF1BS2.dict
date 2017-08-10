@@ -1,0 +1,29 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+california	k(sil,ae)b	ae(k,l)	l(ae,ax)	ax(l,f)	f(ax,ao)	ao(f,r)	r(ao,n)	n(r,y)	y(n,ax)	ax(y,p)e	
+people	p(ax,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+all	ao(sil,l)b	l(ao,sil)e	
+[noise]	sil	
+work	w(sil,er)b	er(w,kd)	kd(er,sil)e	
+sil	sil	
+to	t(sil,ax)b	ax(t,sil)e	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,s)e	
+/s/	s	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+seal	s(sil,iy)b	iy	l(iy,sil)e	
+sil	sil	
+seals	s(sil,iy)b	iy	l(iy,z)	z(l,sil)e	
+sil	sil	
+home	hh(sil,ow)b	ow(hh,m)	m(ow,k)e	
+clean	k(m,l)b	l(k,iy)	iy(l,n)	n(iy,sil)e	
+sil	sil	
+/ax	ax(sil,n)s	
+n/	n(ax,s)e	
+safe	s(n,ey)b	ey(s,f)	f(ey,sil)e	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,11 @@
+<s>	silb	
+[noise]	sil	
+[begin_noise]	sil	
+pollen	p(sil,aa)b	aa	l	ax(l,n)	n(ax,sil)e	
+[end_noise]	sil	
+helps	hh(sil,eh)b	eh(hh,l)	l	p	s(p,f)e	
+flowers	f(s,l)b	l	aw	axr(aw,z)	z(axr,m)e	
+make	m(z,ey)b	ey(m,kd)	kd(ey,s)e	
+seeds	s(kd,iy)b	iy	d(iy,z)	z(d,sil)e	
+[noise]	sil	
+</s>	sile	

@@ -1,0 +1,16 @@
+mdaw1ah1:word>                  <s>    0    5         -897170
+mdaw1ah1:word>                   GO    6   65        -9667720
+mdaw1ah1:word>                  SIL   66  113        -6521534
+mdaw1ah1:word>              INDOORS  114  222       -19265235
+mdaw1ah1:word>                 </s>  223  378       -17436295
+mdaw1ah1:phone>                 SILb    0    5         -897170
+mdaw1ah1:phone>           G(SIL,OW)b    6   26        -3761924
+mdaw1ah1:phone>           OW(G,SIL)e   27   65        -5905796
+mdaw1ah1:phone>                  SIL   66  113        -6521534
+mdaw1ah1:phone>           IH(SIL,N)b  114  130        -3187990
+mdaw1ah1:phone>              N(IH,D)  131  145        -2353744
+mdaw1ah1:phone>                    D  146  150        -1026247
+mdaw1ah1:phone>              AO(D,R)  151  172        -4551021
+mdaw1ah1:phone>              R(AO,Z)  173  186        -2001709
+mdaw1ah1:phone>            Z(R,SIL)e  187  222        -6144524
+mdaw1ah1:phone>                 SILe  223  378       -17436295

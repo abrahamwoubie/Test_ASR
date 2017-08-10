@@ -1,0 +1,53 @@
+<s>	silb	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/b	b	
+sil	sil	
+l(/l/)	l	
+ah(/ah/)	ah	
+ow	ow(ah,sil)s	
+sil	sil	
+z/	z	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/b	b	
+ax/	ax	
+sil	sil	
+/b	b	
+sil	sil	
+l(/l/)	l	
+ow	ow(l,z)s	
+z/	z(ow,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+busses	b(sil,ah)b	ah(b,s)	s(ah,ax)	ax	z(ax,sil)e	
+sil	sil	
+[human_noise]	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,b)e	
+/b	b	
+er(/er/)	er	
+td/	td	
+/ah	ah	
+sil	sil	
+r(/r/)	r	
+aw(/aw/)	aw(r,sil)e	
+sil	sil	
+n/	n	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_whisper]	sil	
+that's	dh(sil,ae)b	ae(dh,ts)	ts(ae,sil)e	
+sil	sil	
+much	m(sil,ah)b	ah(m,ch)	ch(ah,b)e	
+/b	b	
+eh	eh	
+t(/t/)	t	
+sil	sil	
+er/	er	
+sil	sil	
+[end_whisper]	sil	
+</s>	sile	

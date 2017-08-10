@@ -1,0 +1,30 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+one	w(sil,ah)b	ah(w,n)	n(ah,sil)e	
+[begin_noise]	sil	
+butterfly	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,sil)e	
+[end_noise]	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,l)e	
+lay	l(n,ey)b	ey(l,sil)e	
+sil	sil	
+/t	t	
+sil	sil	
+uw/	uw	
+sil	sil	
+one	w(sil,ah)b	ah(w,n)	n(ah,b)e	
+butterfly	b(n,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,k)e	
+can(2)	k(ay,ax)b	ax(k,n)	n(ax,l)e	
+lay	l(n,ey)b	ey(l,t)e	
+/t	t	
+uw/	uw(t,hh)e	
+/hh	hh	
+ah(/ah/)	ah(hh,n)	
+n(/n/)	n(ah,d)e	
+d	d(n,iy)b	iy(d,r)e	
+r(/r/)	r	
+eh	eh(r,dd)	
+dd/	dd(eh,eh)e	
+eggs	eh(dd,g)b	g(eh,z)	z(g,sil)e	
+</s>	sile	

@@ -1,0 +1,23 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,sil)e	
+[begin_noise]	sil	
+put	p(sil,uh)b	uh(p,td)	td(uh,dh)e	
+them	dh(td,eh)b	eh(dh,m)	m(eh,sil)e	
+[end_noise]	sil	
+in	ih(sil,n)b	n(ih,ey)e	
+a(2)	ey(n,sil)s	
+[sil]	sil	
+in	ih(sil,n)b	n(ih,ey)e	
+a(2)	ey(n,sil)s	
+[begin_noise]	sil	
+cage	k(sil,ey)b	ey	jh	
+[end_noise]	sil	
+[begin_whisper]	sil	
+/w	w	
+uw(/uw/)	uw	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+[end_whisper]	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

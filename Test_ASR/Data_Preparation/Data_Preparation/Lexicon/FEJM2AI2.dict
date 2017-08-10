@@ -1,0 +1,40 @@
+<s>	silb	
+[begin_noise]	sil	
+/s	s	
+ay	ay(s,ix)s	
+ix(/ix/)	ix	
+n(/n/)	n(ix,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,sil)e	
+ts/	ts(n,sil)e	
+[end_noise]	sil	
+/s	s	
+ay	ay(s,ix)s	
+ix(/ix/)	ix	
+n(/n/)	n(ix,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih	
+s/	s(ih,sil)e	
+sil	sil	
+thought	th(sil,ao)b	ao(th,td)	td(ao,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,b)e	
+blue	b(ax,l)b	l	uw(l,b)e	
+/b	b	
+ah(/ah/)	ah	
+dh(/dh/)	dh(ah,axr)	
+er	axr(dh,eh)e	
+f	eh(axr,f)b	f(eh,l)e	
+l(/l/)	l	
+sil	sil	
+ay	ay(sil,sil)s	
+sil	sil	
+s/	s	
+sil	sil	
+[human_noise]	sil	
+had	hh(sil,ae)b	ae(hh,dd)	dd(ae,d)e	
+died	d(dd,ay)b	ay	dd(ay,sil)e	
+[human_noise](+rustle+)	+rustle+	
+[sil]	sil	
+</s>	sile	

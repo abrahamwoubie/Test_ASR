@@ -1,0 +1,16 @@
+mmxh1ah2:word>                  <s>    0   23        -3216212
+mmxh1ah2:word>                  SIL   24   38        -2896100
+mmxh1ah2:word>                   /G   39   46        -1602314
+mmxh1ah2:word>                  UW/   47  106        -8735406
+mmxh1ah2:word>              [NOISE]  107  168        -8107788
+mmxh1ah2:word>    [NOISE](+INHALE+)  169  178        -1929784
+mmxh1ah2:word>                [SIL]  179  181         -714216
+mmxh1ah2:word>                 </s>  182  570       -43588986
+mmxh1ah2:phone>                 SILb    0   23        -3216212
+mmxh1ah2:phone>                  SIL   24   38        -2896100
+mmxh1ah2:phone>                    G   39   46        -1602314
+mmxh1ah2:phone>                   UW   47  106        -8735406
+mmxh1ah2:phone>                  SIL  107  168        -8107788
+mmxh1ah2:phone>             +INHALE+  169  178        -1929784
+mmxh1ah2:phone>                  SIL  179  181         -714216
+mmxh1ah2:phone>                 SILe  182  570       -43588986

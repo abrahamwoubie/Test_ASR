@@ -1,0 +1,13 @@
+fsxe1ah2:word>                  <s>    0   37        -5291332
+fsxe1ah2:word>              INDOORS   38  159       -20876602
+fsxe1ah2:word>        [HUMAN_NOISE]  160  193        -4966984
+fsxe1ah2:word>                 </s>  194  590       -47249700
+fsxe1ah2:phone>                 SILb    0   37        -5291332
+fsxe1ah2:phone>           IH(SIL,N)b   38   61        -3446076
+fsxe1ah2:phone>              N(IH,D)   62   88        -4074208
+fsxe1ah2:phone>                    D   89   94        -1066222
+fsxe1ah2:phone>              AO(D,R)   95  118        -5014046
+fsxe1ah2:phone>              R(AO,Z)  119  135        -2556177
+fsxe1ah2:phone>            Z(R,SIL)e  136  159        -4719873
+fsxe1ah2:phone>                  SIL  160  193        -4966984
+fsxe1ah2:phone>                 SILe  194  590       -47249700

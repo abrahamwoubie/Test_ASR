@@ -1,0 +1,23 @@
+<s>	silb	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,ae)e	
+animals	ae(axr,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,w)e	
+will(2)	w(z,ih)b	ih(w,l)	l(ih,n)e	
+not	n	aa	td	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/s	s	
+th(/th/)	th(s,sil)e	
+sil	sil	
+t(/t/)	t	
+ih(/ih/)	ih	
+ng(/ng/)	ng(ih,sil)e	
+sil	sil	
+k/	k	
+bug	b(sil,ah)b	ah	gd	
+sil	sil	
+</s>	sile	

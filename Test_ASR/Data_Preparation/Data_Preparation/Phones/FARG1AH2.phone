@@ -1,0 +1,9 @@
+farg1ah2:phone> SILb 0.00 2.00 -1293034
+farg1ah2:phone> OW(SIL,IH)s 3.00 6.00 -721394
+farg1ah2:phone> IH(OW,N)b 7.00 16.00 -1491802
+farg1ah2:phone> N(IH,D) 17.00 29.00 -2098131
+farg1ah2:phone> D 30.00 36.00 -1019484
+farg1ah2:phone> AO(D,R) 37.00 47.00 -1706717
+farg1ah2:phone> R(AO,Z) 48.00 62.00 -3152387
+farg1ah2:phone> Z(R,SIL)e 63.00 96.00 -5448519
+farg1ah2:phone> SILe 97.00 498.00 -46227141

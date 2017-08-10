@@ -1,0 +1,23 @@
+<s>	silb	
+sil	sil	
+/m	m	
+ih(/ih/)	ih	
+m(/m/)	m(ih,iy)e	
+iy/	iy(m,sil)s	
+[begin_noise]	sil	
+kinds	k(sil,ay)b	ay(k,n)	n(ay,d)	d(n,z)	z(d,sil)e	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,dh)e	
+the(2)	dh(v,ax)b	ax(dh,ae)e	
+animals	ae(ax,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,l)e	
+live(2)	l(z,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,sil)e	
+[sil]	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,ih)e	
+in	ih(v,n)b	n(ih,z)e	
+zoos	z	uw	z(uw,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

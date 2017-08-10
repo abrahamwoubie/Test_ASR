@@ -1,0 +1,28 @@
+<s>	silb	
+[begin_noise]	sil	
+/sh	sh	
+iy(/iy/)	iy(sh,th)e	
+th(/th/)	th	
+b(/b/)	b	
+ih(/ih/)	ih(b,l)	
+l(/l/)	l(ih,z)e	
+z/	z(l,sil)e	
+sil	sil	
+[end_noise]	sil	
+/l	l	
+ay	ay(l,n)s	
+n(/n/)	n(ay,d)e	
+d(/d/)	d(n,ix)	
+ix(/ix/)	ix	
+d/	d	
+[begin_noise]	sil	
+on	aa(sil,n)b	n(aa,sil)e	
+[end_noise]	sil	
+/aa	aa	
+r/	r(aa,ae)e	
+antarctica	ae(r,n)b	n	aa(n,r)	r(aa,dx)	dx(r,ix)	ix(dx,k)	k(ix,ax)	ax(k,d)e	
+during	d(ax,uh)b	uh(d,r)	r(uh,ix)	ix(r,ng)	ng(ix,sil)e	
+[begin_noise]	sil	
+summer	s(sil,ah)b	ah(s,m)	m(ah,axr)	axr(m,sil)e	
+[end_noise]	sil	
+</s>	sile	

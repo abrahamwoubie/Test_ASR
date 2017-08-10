@@ -1,0 +1,53 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+in	ih(sil,n)b	n(ih,sil)e	
+sil	sil	
+[human_noise]	sil	
+/k	k	
+ae(/ae/)	ae	
+sil	sil	
+l(/l/)	l	
+sil	sil	
+ah(/ah/)	ah	
+sil	sil	
+f(/f/)	f	
+sil	sil	
+ao(/ao/)	ao	
+r	aa(ao,r)b	r(aa,sil)e	
+sil	sil	
+y	w(sil,ay)b	ay(w,ah)e	
+ah/	ah	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+are(2)	axr	
+working	w(axr,er)b	er(w,k)	k(er,ix)	ix(k,ng)	ng(ix,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+to	t(sil,ax)b	ax(t,sil)e	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+/s	s	
+iy(/iy/)	iy(s,eh)s	
+l	eh(iy,l)b	l(eh,sil)e	
+sil	sil	
+z/	z	
+sil	sil	
+/hh	hh	
+ow	ow(hh,m)	
+m/	m(ow,sil)e	
+sil	sil	
+clean	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+[sil]	sil	
+safe	s(sil,ey)b	ey(s,f)	f(ey,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

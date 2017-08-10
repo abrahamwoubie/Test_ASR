@@ -1,0 +1,14 @@
+<s>	silb	
+/aa	aa	
+n/	n(aa,b)e	
+butterfly	b(n,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,k)e	
+can(2)	k(ay,ax)b	ax(k,n)	n(ax,l)e	
+lay	l(n,ey)b	ey(l,sil)e	
+sil	sil	
+two	t(sil,uw)b	uw(t,hh)e	
+hundred(2)	hh(uw,ah)b	ah(hh,n)	n(ah,d)	d(n,r)	r(d,ix)	ix(r,dd)	dd(ix,sil)e	
+[begin_noise]	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

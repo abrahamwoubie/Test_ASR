@@ -1,0 +1,40 @@
+<s>	silb	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,f)e	
+/f	f	
+w(/w/)	w	
+ao(/ao/)	ao	
+g(/g/)	g	
+z/	z(g,sil)e	
+sil	sil	
+/b	b	
+w(/w/)	w(b,ey)	
+ay(2)	ey(w,sil)e	
+sil	sil	
+t/	t	
+sil	sil	
+color	k(sil,ah)b	ah(k,l)	l	axr(l,sil)e	
+sil	sil	
+/l	l	
+ih(/ih/)	ih	
+sil	sil	
+t/	t	
+sil	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,sil)e	
+sil	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+[human_noise]	sil	
+know	n(sil,ow)b	ow(n,sil)e	
+sil	sil	
+its(2)	ix(sil,ts)b	ts(ix,sil)e	
+sil	sil	
+skin	s(sil,k)b	k	ih	n(ih,sil)e	
+sil	sil	
+gives	g(sil,ih)b	ih(g,v)	v(ih,z)	z(v,sil)e	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+off	ao(sil,f)b	f(ao,sil)e	
+[end_noise]	sil	
+[crosstalk]	sil	
+</s>	sile	

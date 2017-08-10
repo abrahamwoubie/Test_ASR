@@ -1,0 +1,34 @@
+<s>	silb	
+/hh/	hh	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to	t(sil,ax)b	ax(t,sil)e	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/s	s	
+ey(/ey/)	ey(s,l)s	
+l(/l/)	l(ey,z)e	
+z/	z(l,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/hh	hh	
+ow	ow	
+sil	sil	
+m/	m	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+safe	s(sil,ey)b	ey(s,f)	f(ey,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+</s>	sile	

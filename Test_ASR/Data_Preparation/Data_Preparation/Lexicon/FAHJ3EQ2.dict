@@ -1,0 +1,20 @@
+<s>	silb	
+[noise]	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+kids	k(sil,ih)b	ih(k,d)	d(ih,z)	z(d,hh)e	
+hear	hh(z,ih)b	ih(hh,r)	r(ih,dh)e	
+that	dh(r,ae)b	ae(dh,td)	td(ae,sil)e	
+[begin_noise]	sil	
+/k	k	
+w(/w/)	w(k,eh)	
+eh	eh(w,sh)	
+sh(/sh/)	sh	
+ah(/ah/)	ah	
+n/	n(ah,sil)e	
+[end_noise]	sil	
+every	eh(sil,v)b	v(eh,axr)	axr(v,iy)	iy(axr,d)e	
+day	d(iy,ey)b	ey(d,sil)e	
+[sil]	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

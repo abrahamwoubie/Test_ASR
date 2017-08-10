@@ -1,0 +1,11 @@
+fsam1ah2:word> <s> 0.00 2.00 -1168106
+fsam1ah2:word> GO 3.00 23.00 -3186380
+fsam1ah2:word> /IH 24.00 28.00 -991541
+fsam1ah2:word> N(/N/) 29.00 39.00 -1533774
+fsam1ah2:word> D(/D/) 40.00 45.00 -865351
+fsam1ah2:word> AO(/AO/) 46.00 59.00 -2242603
+fsam1ah2:word> R(/R/) 60.00 70.00 -2564943
+fsam1ah2:word> S/ 71.00 88.00 -2898111
+fsam1ah2:word> SIL 89.00 226.00 -17189294
+fsam1ah2:word> [NOISE](+EXHALE+) 227.00 240.00 -2655600
+fsam1ah2:word> </s> 241.00 408.00 -23116756

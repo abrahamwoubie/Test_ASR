@@ -1,0 +1,20 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,s)e	
+scientists(2)	s(ax,ay)b	ay(s,n)	n(ay,t)	t(n,ix)	ix(t,s)	s(ix,ts)	ts(s,w)e	
+/w	w	
+ae(/ae/)	ae	
+l/	l(ae,sil)e	
+sil	sil	
+[human_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,s)e	
+scientists(2)	s(ax,ay)b	ay(s,n)	n(ay,t)	t(n,ix)	ix(t,s)	s(ix,ts)	ts(s,w)e	
+will(2)	w(ts,ih)b	ih(w,l)	l(ih,t)e	
+try	t(l,r)b	r(t,ay)	ay(r,t)e	
+to(3)	t(ay,uw)b	uw(t,s)e	
+save	s(uw,ey)b	ey(s,v)	v(ey,sil)e	
+[begin_noise]	sil	
+them	dh(sil,eh)b	eh(dh,m)	m(eh,sil)e	
+[end_noise]	sil	
+</s>	sile	

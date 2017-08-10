@@ -1,0 +1,19 @@
+<s>	silb	
+rwanda	r	ax	w(ax,aa)	aa(w,n)	n	d(n,ax)	ax	
+[begin_noise]	sil	
+/ih	ih	
+z/	z(ih,sil)e	
+[end_noise]	sil	
+one	w(sil,ah)b	ah(w,n)	n(ah,ax)e	
+of(2)	ax(n,v)b	v(ax,dh)e	
+the(2)	dh(v,ax)b	ax(dh,s)e	
+/s	s(ax,m)e	
+m(/m/)	m(s,ao)	
+ao(/ao/)	ao(m,l)	
+l(/l/)	l(ao,ix)e	
+ix(/ix/)	ix(l,s)	
+s/	s(ix,k)e	
+countries	k(s,ah)b	ah(k,n)	n(ah,t)	t(n,r)	r(t,iy)	iy(r,z)	z(iy,ix)e	
+in(2)	ix(z,n)b	n(ix,ae)e	
+africa	ae(n,f)b	f(ae,r)	r(f,ax)	ax(r,k)	k(ax,ax)	ax(k,sil)e	
+</s>	sile	

@@ -1,0 +1,17 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,aa)e	
+on	aa(l,n)b	n(aa,er)e	
+earth	er	th(er,sil)e	
+sil	sil	
+now	n(sil,aw)b	aw(n,sil)e	
+sil	sil	
+have	hh(sil,ae)b	ae(hh,v)	v(ae,k)e	
+cordless	k(v,ao)b	ao(k,r)	r(ao,d)	d(r,l)	l	ax(l,s)	s(ax,v)e	
+vacuum	v(s,ae)b	ae	k	y(k,uw)	uw	m(uw,k)e	
+cleaners	k(m,l)b	l(k,iy)	iy(l,n)	n(iy,axr)	axr(n,z)	z(axr,ax)e	
+and(2)	ax(z,n)b	n(ax,dd)	dd(n,d)e	
+drills	d(dd,r)b	r(d,ih)	ih	l	z(l,sil)e	
+</s>	sile	

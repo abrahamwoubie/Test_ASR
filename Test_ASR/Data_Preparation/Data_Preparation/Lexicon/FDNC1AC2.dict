@@ -1,0 +1,29 @@
+<s>	silb	
+[crosstalk](+inhale+)	+inhale+	
+/s/	s	
+start	s(s,t)b	t(s,aa)	aa(t,r)	r(aa,td)	td(r,r)e	
+right	r(td,ay)b	ay(r,td)	td(ay,hh)e	
+here	hh(td,ih)b	ih(hh,r)	r(ih,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+/s	s	
+ah	aa	
+m	eh(aa,m)b	m(eh,sil)e	
+sil	sil	
+t(/t/)	t	
+sil	sil	
+ay	ay(sil,sil)s	
+sil	sil	
+m	eh(sil,m)b	m(eh,sil)e	
+sil	sil	
+s/	s	
+sil	sil	
+[begin_whisper]	sil	
+/hh/	hh	
+/hh/	hh	
+/hh	hh	
+ih/	ih	
+/ih/	ih	
+/hh/	hh	
+[end_whisper]	sil	
+</s>	sile	

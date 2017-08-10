@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+[noise]	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+[begin_noise]	sil	
+catch	k(sil,ae)b	ae(k,ch)	ch(ae,sil)e	
+[end_noise]	sil	
+a(2)	ey(sil,b)s	
+/b	b	
+ah/	ah	
+[begin_noise]	sil	
+few	f(sil,y)b	y(f,uw)	uw(y,sil)e	
+[end_noise]	sil	
+/b	b	
+ah(/ah/)	ah(b,dx)	
+dx(/dx/)	dx(ah,axr)	
+er	axr(dx,f)e	
+f/	f	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+butterflies	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,sil)e	
+sil	sil	
+[sil]	sil	
+sil	sil	
+</s>	sile	

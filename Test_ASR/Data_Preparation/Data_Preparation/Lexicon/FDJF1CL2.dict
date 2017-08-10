@@ -1,0 +1,30 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+until	ax(sil,n)b	n(ax,t)	t(n,ih)	ih(t,l)	l(ih,n)e	
+now	n(l,aw)b	aw(n,sil)e	
+sil	sil	
+[begin_noise]	sil	
+/s	s	
+ay	ay(s,ah)s	
+ah(/ah/)	ah	
+n(/n/)	n(ah,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih	
+s/	s(ih,k)e	
+could	k(s,uh)b	uh(k,dd)	dd(uh,sil)e	
+[end_noise]	sil	
+not	n	aa	td	
+[noise](+exhale+)	+exhale+	
+[begin_noise]	sil	
+examine	ix(sil,g)b	g(ix,z)	z(g,ae)	ae(z,m)	m	ix(m,n)	n(ix,sil)e	
+sil	sil	
+[end_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,t)e	
+tops	t	aa	p	s(p,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,dh)e	
+the(2)	dh(v,ax)b	ax(dh,t)e	
+trees	t(ax,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

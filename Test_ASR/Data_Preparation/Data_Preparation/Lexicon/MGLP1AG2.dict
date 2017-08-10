@@ -1,0 +1,31 @@
+<s>	silb	
+if(2)	ix(sil,f)b	f(ix,sil)e	
+sil	sil	
+a(2)	ey(sil,sil)s	
+[begin_noise]	sil	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,s)e	
+storm	s(ng,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m(r,k)e	
+/k	k	
+ah(/ah/)	ah(k,m)	
+m/	m(ah,sil)e	
+[end_noise]	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,aa)e	
+are	aa(r,r)b	r(aa,f)e	
+four	f(r,ao)b	ao(f,r)	r(ao,th)e	
+things	th(r,ih)b	ih(th,ng)	ng(ih,z)	z(ng,y)e	
+you	y(z,uw)b	uw(y,sil)e	
+sil	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+do	d(sil,uw)b	uw(d,t)e	
+to(3)	t(uw,uw)b	uw(t,s)e	
+stay	s(uw,t)b	t(s,ey)	ey(t,s)e	
+safe	s(ey,ey)b	ey(s,f)	f(ey,sil)e	
+sil	sil	
+[human_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

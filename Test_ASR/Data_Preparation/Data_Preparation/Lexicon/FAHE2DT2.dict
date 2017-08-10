@@ -1,0 +1,37 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+the(3)	dh(sil,iy)b	iy(dh,d)e	
+doctors	d(iy,aa)b	aa	kd	t(kd,axr)	axr(t,z)	z(axr,f)e	
+found	f(z,aw)b	aw(f,n)	n(aw,dd)	dd(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,m)e	
+many	m(td,eh)b	eh(m,n)	n(eh,iy)	iy(n,k)e	
+kids	k(iy,ih)b	ih(k,d)	d(ih,z)	z(d,d)e	
+do	d(z,uw)b	uw(d,n)e	
+not	n	aa	td	
+run	r(td,ah)b	ah(r,n)	n(ah,axr)e	
+or(2)	axr(n,jh)e	
+jump	jh(axr,ah)b	ah(jh,m)	m	pd	
+or(2)	axr	
+play	p(axr,l)b	l(p,ey)	ey(l,sil)e	
+[begin_noise]	sil	
+/aw	aw	
+t(/t/)	t	
+d(/d/)	d	
+ao(/ao/)	ao(d,r)	
+r(/r/)	r(ao,z)e	
+z/	z(r,g)e	
+games	g(z,ey)b	ey	m(ey,z)	z(m,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+as	ae(sil,z)b	z(ae,ao)e	
+often	ao(z,f)b	f(ao,ax)	ax(f,n)	n(ax,ae)e	
+as	ae(n,z)b	z(ae,dh)e	
+they	dh(z,ey)b	ey(dh,sh)e	
+should	sh(ey,uh)b	uh(sh,dd)	dd(uh,sil)e	
+[noise](+exhale+)	+exhale+	
+[sil]	sil	
+</s>	sile	

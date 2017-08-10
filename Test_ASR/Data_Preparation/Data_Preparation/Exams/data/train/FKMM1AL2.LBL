@@ -1,0 +1,12 @@
+fkmm1al2:word>                  <s>    0    3         -861128
+fkmm1al2:word>               SPRING    4  184       -34544256
+fkmm1al2:word>                  SIL  185  213        -5422556
+fkmm1al2:word>                 </s>  214  290        -9157604
+fkmm1al2:phone>                 SILb    0    3         -861128
+fkmm1al2:phone>            S(SIL,P)b    4   43        -7513383
+fkmm1al2:phone>               P(S,R)   44   83        -8805673
+fkmm1al2:phone>              R(P,IH)   84  110        -6170894
+fkmm1al2:phone>             IH(R,NG)  111  152        -6303056
+fkmm1al2:phone>          NG(IH,SIL)e  153  184        -5751250
+fkmm1al2:phone>                  SIL  185  213        -5422556
+fkmm1al2:phone>                 SILe  214  290        -9157604

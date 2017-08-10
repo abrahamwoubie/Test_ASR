@@ -1,0 +1,8 @@
+fcmm1ah2:word> <s> 0.00 2.00 -1303274
+fcmm1ah2:word> /AO 3.00 5.00 -752452
+fcmm1ah2:word> R 6.00 21.00 -3502901
+fcmm1ah2:word> S/ 22.00 46.00 -4490894
+fcmm1ah2:word> [NOISE](+INHALE+) 47.00 230.00 -27055304
+fcmm1ah2:word> [NOISE](+EXHALE+) 231.00 233.00 -588927
+fcmm1ah2:word> [NOISE](+INHALE+) 234.00 296.00 -9622698
+fcmm1ah2:word> </s> 297.00 300.00 -733403

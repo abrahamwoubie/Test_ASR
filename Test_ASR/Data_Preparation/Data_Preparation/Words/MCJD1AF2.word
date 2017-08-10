@@ -1,0 +1,15 @@
+mcjd1af2:word> <s> 0.00 3.00 -662472
+mcjd1af2:word> SIL 4.00 22.00 -2751830
+mcjd1af2:word> [NOISE](+INHALE+) 23.00 28.00 -953722
+mcjd1af2:word> STAY 29.00 82.00 -7473095
+mcjd1af2:word> AWAY 83.00 123.00 -4921505
+mcjd1af2:word> [BEGIN_NOISE] 124.00 126.00 -1040872
+mcjd1af2:word> /F 127.00 147.00 -3028082
+mcjd1af2:word> W(/W/) 148.00 152.00 -875274
+mcjd1af2:word> AX(/AX/) 153.00 160.00 -1600666
+mcjd1af2:word> M/ 161.00 172.00 -1737586
+mcjd1af2:word> [END_NOISE] 173.00 175.00 -934376
+mcjd1af2:word> LIGHTNING 176.00 247.00 -12592219
+mcjd1af2:word> [SIL] 248.00 298.00 -6389957
+mcjd1af2:word> [NOISE](+SWALLOW+) 299.00 304.00 -1055050
+mcjd1af2:word> </s> 305.00 350.00 -5429311

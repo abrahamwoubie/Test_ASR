@@ -1,0 +1,18 @@
+<s>	silb	
+[noise]	sil	
+a	ax(sil,sil)s	
+[begin_noise]	sil	
+scientist	s(sil,ay)b	ay	ax(ay,n)	n(ax,t)	t(n,ix)	ix(t,s)	s(ix,td)	td(s,sil)e	
+sil	sil	
+walked	w(sil,ao)b	ao	kd	td(kd,sil)e	
+sil	sil	
+through	th(sil,r)b	r(th,uw)	uw(r,sil)e	
+[end_noise]	sil	
+a	ax(sil,f)s	
+/f	f	
+iy(/iy/)	iy(f,l)e	
+l(/l/)	l(iy,sil)e	
+sil	sil	
+t/	t	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

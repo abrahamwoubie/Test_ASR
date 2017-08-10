@@ -1,0 +1,8 @@
+mdoq1ac2:word>                  <s>    0   39        -6750976
+mdoq1ac2:word> [MICROPHONE_NOISE](+NOISE+)   40   45        -1237918
+mdoq1ac2:word>    [NOISE](+RUSTLE+)   46   85        -9589257
+mdoq1ac2:word>                 </s>   86  228       -18844257
+mdoq1ac2:phone>                 SILb    0   39        -6750976
+mdoq1ac2:phone>              +NOISE+   40   45        -1237918
+mdoq1ac2:phone>             +RUSTLE+   46   85        -9589257
+mdoq1ac2:phone>                 SILe   86  228       -18844257

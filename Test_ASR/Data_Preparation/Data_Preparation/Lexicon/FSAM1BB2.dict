@@ -1,0 +1,18 @@
+<s>	silb	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,y)e	
+use(2)	y(l,uw)b	uw(y,z)	z(uw,sil)e	
+sil	sil	
+/t	t	
+r(/r/)	r(t,ae)	
+ae(/ae/)	ae	
+sh/	sh(ae,sil)e	
+sil	sil	
+to	t(sil,ax)b	ax(t,m)e	
+make	m(ax,ey)b	ey(m,kd)	kd(ey,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+new(2)	n(sil,y)b	y(n,uw)	uw(y,th)e	
+things	th(uw,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+[sil]	sil	
+</s>	sile	

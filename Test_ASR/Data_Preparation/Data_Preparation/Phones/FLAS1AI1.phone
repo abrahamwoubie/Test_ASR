@@ -1,0 +1,16 @@
+flas1ai1:phone> SILb 0.00 9.00 -1417468
+flas1ai1:phone> S(SIL,T)b 10.00 29.00 -2889000
+flas1ai1:phone> T(S,EY) 30.00 40.00 -1976936
+flas1ai1:phone> EY(T,AX)e 41.00 56.00 -2203030
+flas1ai1:phone> AX(EY,W)b 57.00 66.00 -1072330
+flas1ai1:phone> W(AX,EY) 67.00 76.00 -1481912
+flas1ai1:phone> EY(W,F)e 77.00 93.00 -1944215
+flas1ai1:phone> F(EY,AXR)b 94.00 109.00 -2786651
+flas1ai1:phone> AXR(F,M) 110.00 119.00 -2012485
+flas1ai1:phone> M 120.00 132.00 -1963995
+flas1ai1:phone> W(M,AO)b 133.00 137.00 -801955
+flas1ai1:phone> AO(W,DX) 138.00 159.00 -3460582
+flas1ai1:phone> DX(AO,AXR) 160.00 168.00 -1836583
+flas1ai1:phone> AXR(DX,SIL)e 169.00 178.00 -2042782
+flas1ai1:phone> SIL 179.00 191.00 -2469766
+flas1ai1:phone> SILe 192.00 520.00 -37324256

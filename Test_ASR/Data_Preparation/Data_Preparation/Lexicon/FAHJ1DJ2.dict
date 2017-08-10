@@ -1,0 +1,22 @@
+<s>	silb	
+[noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,d)e	
+dinosaur	d(ax,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,ao)e	
+also	ao(r,l)b	l(ao,s)	s(l,ow)	ow(s,sil)e	
+[human_noise]	sil	
+had	hh(sil,ae)b	ae(hh,dd)	dd(ae,sh)e	
+sharp	sh(dd,aa)b	aa(sh,r)	r	pd	
+spikes	s(pd,p)b	p	ay	k	s(k,sil)e	
+sil	sil	
+at	ae(sil,td)b	td(ae,dh)e	
+the(2)	dh(td,ax)b	ax(dh,sil)e	
+sil	sil	
+end	eh(sil,n)b	n(eh,dd)	dd(n,ax)e	
+of(2)	ax(dd,v)b	v(ax,ix)e	
+its(2)	ix(v,ts)b	ts(ix,t)e	
+tail	t(ts,ey)b	ey(t,l)	l(ey,sil)e	
+[human_noise]	sil	
+for	f(sil,ao)b	ao(f,r)	r(ao,f)e	
+fighting	f(r,ay)b	ay	dx(ay,ix)	ix(dx,ng)	ng(ix,sil)e	
+[sil]	sil	
+</s>	sile	

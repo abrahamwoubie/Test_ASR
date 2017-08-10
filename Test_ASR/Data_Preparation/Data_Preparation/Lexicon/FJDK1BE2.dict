@@ -1,0 +1,57 @@
+<s>	silb	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+/ao	ao	
+m/	m(ao,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_whisper]	sil	
+/dh	dh	
+sil	sil	
+ae(/ae/)	ae	
+td/	td(ae,sil)e	
+sil	sil	
+[end_whisper]	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+use(2)	y(sil,uw)b	uw(y,z)	z(uw,sil)e	
+[begin_noise]	sil	
+worms	w(sil,er)b	er	m(er,z)	z(m,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[begin_noise]	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/f	f	
+uw/	uw	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+/g	g	
+l(/l/)	l	
+ow/	ow(l,sil)s	
+sil	sil	
+that's	dh(sil,ae)b	ae(dh,ts)	ts(ae,sil)e	
+sil	sil	
+disgusting	d(sil,ix)b	ix(d,s)	s	g	ah	s(ah,t)	t(s,ix)	ix(t,ng)	ng(ix,sil)e	
+[end_whisper]	sil	
+</s>	sile	

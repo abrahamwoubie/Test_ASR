@@ -1,0 +1,26 @@
+<s>	silb	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+a	ax	
+family(2)	f(ax,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,t)e	
+/t	t	
+ow	ow(t,th)e	
+th(/th/)	th(ow,ix)e	
+ix(/ix/)	ix(th,n)	
+n/	n(ix,p)e	
+pole	p	ow	l(ow,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+may	m(sil,ey)b	ey(m,sil)e	
+sil	sil	
+be	b(sil,iy)b	iy(b,eh)e	
+as(2)	eh	z(eh,hh)e	
+high	hh(z,ay)b	ay(hh,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+as	ae(sil,z)b	z(ae,n)e	
+ninety	n(z,ay)b	ay(n,n)	n(ay,t)	t(n,iy)	iy(t,f)e	
+feet	f(iy,iy)b	iy	td(iy,sil)e	
+sil	sil	
+</s>	sile	

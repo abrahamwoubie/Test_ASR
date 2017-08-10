@@ -1,0 +1,35 @@
+<s>	silb	
+the(2)	dh(sil,ax)b	ax(dh,w)e	
+/w	w(ax,aa)	
+aa(/aa/)	aa(w,r)	
+r(/r/)	r(aa,m)e	
+m(/m/)	m(r,p)e	
+p(/p/)	p	
+s/	s(p,sil)e	
+sil	sil	
+turn	t(sil,er)b	er(t,n)	n(er,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,f)e	
+food	f(ax,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,ax)e	
+a	ax(uw,sil)s	
+[end_noise]	sil	
+/s	s	
+th(/th/)	th(s,p)e	
+p(/p/)	p	
+eh	eh(p,sh)	
+sh(/sh/)	sh	
+ah(/ah/)	ah	
+l/	l(ah,k)e	
+/k	k	
+ay	ay(k,n)	
+n/	n(ay,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+soil	s	oy	l	
+[noise]	sil	
+</s>	sile	

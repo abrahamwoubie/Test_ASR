@@ -1,0 +1,12 @@
+fssb1af2:word> <s> 0.00 21.00 -3309535
+fssb1af2:word> [BEGIN_NOISE] 22.00 30.00 -1450648
+fssb1af2:word> /S 31.00 33.00 -826027
+fssb1af2:word> T(/T/) 34.00 38.00 -872006
+fssb1af2:word> EY/ 39.00 73.00 -4040550
+fssb1af2:word> [END_NOISE] 74.00 76.00 -899560
+fssb1af2:word> AWAY 77.00 117.00 -5103374
+fssb1af2:word> FROM(2) 118.00 175.00 -9200235
+fssb1af2:word> SIL 176.00 178.00 -669160
+fssb1af2:word> LIGHTNING 179.00 232.00 -9423945
+fssb1af2:word> [NOISE] 233.00 235.00 -516584
+fssb1af2:word> </s> 236.00 510.00 -33194704

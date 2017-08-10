@@ -1,0 +1,28 @@
+<s>	silb	
+/aa	aa	
+r/	r(aa,p)e	
+plants	p(r,l)b	l(p,ae)	ae(l,n)	n	ts(n,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+on(2)	ao(sil,n)b	n(ao,ih)e	
+its	ih(n,ts)b	ts(ih,sil)e	
+sil	sil	
+back	b(sil,ae)b	ae(b,kd)	kd(ae,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,n)e	
+not	n	aa	td	
+sil	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+two	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+even	iy(sil,v)b	v(iy,ax)	ax(v,n)	n(ax,r)e	
+rows	r(n,ow)b	ow(r,z)	z(ow,sil)e	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

@@ -1,0 +1,40 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+rwanda	r	ax	w(ax,aa)	aa(w,n)	n	d(n,ax)	ax	
+is(2)	ix(ax,z)b	z(ix,w)e	
+/w	w	
+ax/	ax	
+/ax/	ax(ax,dh)s	
+the	dh(ax,ah)b	ah(dh,s)e	
+/s	s(ah,m)e	
+m(/m/)	m(s,ao)	
+ao(/ao/)	ao(m,r)	
+r(/r/)	r(ao,t)e	
+t(/t/)	t	
+ih(/ih/)	ih	
+s/	s(ih,sil)e	
+[begin_noise]	sil	
+/k	k	
+aa(/aa/)	aa(k,n)	
+n(/n/)	n(aa,t)e	
+t(/t/)	t	
+w(/w/)	w(t,iy)	
+iy(/iy/)	iy(w,z)e	
+z/	z(iy,sil)e	
+[end_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,ae)e	
+/ae	ae	
+f(/f/)	f(ae,w)e	
+w(/w/)	w	
+ih(/ih/)	ih	
+sil	sil	
+k(/k/)	k	
+ax/	ax(k,sil)e	
+sil	sil	
+[sil]	sil	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[sil]	sil	
+</s>	sile	

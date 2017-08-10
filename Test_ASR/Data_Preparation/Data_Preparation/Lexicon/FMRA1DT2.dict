@@ -1,0 +1,32 @@
+<s>	silb	
+/s	s	
+ih(/ih/)	ih(s,n)	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+t(/t/)	t	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,sil)e	
+[human_noise]	sil	
+say	s(sil,ey)b	ey(s,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,b)e	
+bones	b(ah,ow)b	ow	n(ow,z)	z(n,sil)e	
+[human_noise]	sil	
+of	ah(sil,v)b	v(ah,dh)e	
+the	dh(v,ah)b	ah(dh,b)e	
+/b	b	
+ey(/ey/)	ey(b,b)e	
+b(/b/)	b(ey,iy)	
+iy(/iy/)	iy(b,z)e	
+z/	z(iy,sil)e	
+sil	sil	
+are	aa(sil,r)b	r(aa,s)e	
+still	s(r,t)b	t(s,ih)	ih(t,l)	l(ih,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+inside(2)	ix(sil,n)b	n(ix,s)	s(n,ay)	ay(s,dd)	dd(ay,dh)e	
+the(2)	dh(dd,ax)b	ax(dh,sil)e	
+sil	sil	
+egg	eh	gd(eh,sil)e	
+</s>	sile	

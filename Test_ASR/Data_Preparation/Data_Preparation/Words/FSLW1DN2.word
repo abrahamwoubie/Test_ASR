@@ -1,0 +1,14 @@
+fslw1dn2:word> <s> 0.00 25.00 -3520220
+fslw1dn2:word> [NOISE](+SMACK+) 26.00 38.00 -2435103
+fslw1dn2:word> SIL 39.00 43.00 -865876
+fslw1dn2:word> THEY 44.00 76.00 -6215030
+fslw1dn2:word> LAID 77.00 119.00 -7858856
+fslw1dn2:word> THE 120.00 138.00 -3449146
+fslw1dn2:word> SIL 139.00 141.00 -802280
+fslw1dn2:word> EGGS 142.00 191.00 -9479245
+fslw1dn2:word> IN(2) 192.00 229.00 -7031078
+fslw1dn2:word> THE(2) 230.00 243.00 -2709829
+fslw1dn2:word> GROUND 244.00 285.00 -7627939
+fslw1dn2:word> SIL 286.00 309.00 -4260857
+fslw1dn2:word> [HUMAN_NOISE](+RUSTLE+) 310.00 317.00 -1763977
+fslw1dn2:word> </s> 318.00 630.00 -40821076

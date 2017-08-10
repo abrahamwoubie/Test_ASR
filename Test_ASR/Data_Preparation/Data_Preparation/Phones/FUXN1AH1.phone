@@ -1,0 +1,10 @@
+fuxn1ah1:phone> SILb 0.00 25.00 -3442822
+fuxn1ah1:phone> G(SIL,OW)b 26.00 33.00 -1321309
+fuxn1ah1:phone> OW(G,IH)e 34.00 64.00 -4256681
+fuxn1ah1:phone> IH(OW,N)b 65.00 83.00 -3507801
+fuxn1ah1:phone> N(IH,D) 84.00 96.00 -2150828
+fuxn1ah1:phone> D 97.00 103.00 -1342460
+fuxn1ah1:phone> AO(D,R) 104.00 121.00 -3223554
+fuxn1ah1:phone> R(AO,Z) 122.00 132.00 -1720643
+fuxn1ah1:phone> Z(R,SIL)e 133.00 156.00 -3624327
+fuxn1ah1:phone> SILe 157.00 538.00 -41077619

@@ -1,0 +1,18 @@
+<s>	silb	
+sil	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,w)e	
+were(2)	w(r,er)b	er(w,s)e	
+some	s(er,ah)b	ah(s,m)	m(ah,sil)e	
+[begin_noise]	sil	
+open	ow(sil,p)b	p(ow,ax)	ax(p,n)	n(ax,sil)e	
+sil	sil	
+places(2)	p(sil,l)b	l(p,ey)	ey(l,s)	s(ey,ix)	ix(s,z)	z(ix,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+</s>	sile	

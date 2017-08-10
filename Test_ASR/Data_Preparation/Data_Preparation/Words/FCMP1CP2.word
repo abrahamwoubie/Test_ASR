@@ -1,0 +1,14 @@
+fcmp1cp2:word> <s> 0.00 142.00 -17828513
+fcmp1cp2:word> [NOISE](+NOISE+) 143.00 145.00 -492914
+fcmp1cp2:word> IT(2) 146.00 169.00 -3916410
+fcmp1cp2:word> SIL 170.00 182.00 -1875820
+fcmp1cp2:word> GETS 183.00 228.00 -7451099
+fcmp1cp2:word> LOTS 229.00 290.00 -9453942
+fcmp1cp2:word> SIL 291.00 293.00 -590312
+fcmp1cp2:word> AND 294.00 323.00 -5747099
+fcmp1cp2:word> LOTS 324.00 362.00 -6883570
+fcmp1cp2:word> OF 363.00 383.00 -3352337
+fcmp1cp2:word> RAIN 384.00 431.00 -6467643
+fcmp1cp2:word> [NOISE](+EXHALE+) 432.00 434.00 -554655
+fcmp1cp2:word> [SIL] 435.00 440.00 -1065481
+fcmp1cp2:word> </s> 441.00 684.00 -29165874

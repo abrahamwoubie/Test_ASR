@@ -1,0 +1,28 @@
+<s>	silb	
+[begin_noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+/k	k	
+ae/	ae	
+harm	hh(sil,aa)b	aa(hh,r)	r	m(r,sil)e	
+sil	sil	
+/th	th	
+ey(/ey/)	ey(th,ix)s	
+ix(/ix/)	ix(ey,ng)	
+ng(/ng/)	ng(ix,sil)e	
+sil	sil	
+s/	s	
+sil	sil	
+/ae/	ae	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+/b	b	
+ih(/ih/)	ih	
+sil	sil	
+l/	l	
+sil	sil	
+buildings	b(sil,ih)b	ih(b,l)	l(ih,d)	d	ix(d,ng)	ng(ix,z)	z(ng,sil)e	
+sil	sil	
+[end_noise]	sil	
+</s>	sile	

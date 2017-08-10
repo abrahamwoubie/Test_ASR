@@ -1,0 +1,15 @@
+<s>	silb	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,t)e	
+travel	t(l,r)b	r(t,ae)	ae(r,v)	v(ae,ax)	ax(v,l)	l(ax,aa)e	
+on	aa(l,n)b	n(aa,d)e	
+dirt	d(n,er)b	er	td	
+sil	sil	
+roads	r(sil,ow)b	ow	d(ow,z)	z(d,t)e	
+to	t(z,ax)b	ax(t,g)e	
+go	g(ax,ow)b	ow(g,sil)e	
+sil	sil	
+to(2)	t	ix	
+the(2)	dh(ix,ax)b	ax(dh,m)e	
+marketplace(2)	m(ax,aa)b	aa(m,r)	r(aa,k)	k(r,ix)	ix(k,td)	td	p	l(p,ey)	ey(l,s)	s(ey,sil)e	
+[sil]	sil	
+</s>	sile	

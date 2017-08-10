@@ -1,0 +1,32 @@
+<s>	silb	
+/m	m	
+ax(/ax/)	ax(m,dh)s	
+dh(/dh/)	dh	
+uh	ah(dh,r)e	
+r/	r	
+sea	s(r,iy)b	iy(s,sil)e	
+sil	sil	
+/t	t	
+uh	ah(t,sil)e	
+sil	sil	
+t(/t/)	t	
+ax(/ax/)	ax(t,l)e	
+l(/l/)	l(ax,s)e	
+s/	s(l,s)e	
+swim	s	w	ih	m(ih,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,l)e	
+land	l(uw,ae)b	ae(l,n)	n(ae,dd)	dd(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+only	ow(sil,n)b	n(ow,l)	l(n,iy)	iy(l,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+lay	l(sil,ey)b	ey(l,sil)e	
+sil	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+[sil]	sil	
+</s>	sile	

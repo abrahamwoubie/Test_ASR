@@ -1,0 +1,30 @@
+<s>	silb	
+[begin_noise]	sil	
+sticky	s(sil,t)b	t(s,ih)	ih(t,k)	k	iy(k,jh)e	
+juice	jh(iy,uw)b	uw	s(uw,k)e	
+comes	k(s,ah)b	ah(k,m)	m(ah,z)	z(m,f)e	
+from(2)	f(z,r)b	r(f,ah)	ah(r,m)	m(ah,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+[sil]	sil	
+out	aw(sil,td)b	td(aw,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,k)e	
+caterpillar	k(v,ae)b	ae(k,dx)	dx(ae,ax)	ax(dx,p)	p(ax,ih)	ih	l	axr(l,sil)e	
+[sil]	sil	
+out	aw(sil,td)b	td(aw,ax)e	
+of(2)	ax(td,v)b	v(ax,dh)e	
+the(2)	dh(v,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,l)	
+l(/l/)	l(ae,axr)e	
+er	axr(l,sil)e	
+sil	sil	
+p(/p/)	p	
+ih(/ih/)	ih	
+l(/l/)	l(ih,axr)e	
+axr/	axr(l,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

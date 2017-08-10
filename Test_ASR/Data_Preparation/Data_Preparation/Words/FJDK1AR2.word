@@ -1,0 +1,13 @@
+fjdk1ar2:word> <s> 0.00 2.00 -970474
+fjdk1ar2:word> WINDS(2) 3.00 126.00 -20226312
+fjdk1ar2:word> SIL 127.00 137.00 -1828933
+fjdk1ar2:word> BLOW 138.00 215.00 -10607315
+fjdk1ar2:word> SIL 216.00 219.00 -715251
+fjdk1ar2:word> [NOISE](+NOISE+) 220.00 222.00 -513394
+fjdk1ar2:word> SIL 223.00 486.00 -32431380
+fjdk1ar2:word> [BEGIN_NOISE] 487.00 552.00 -8901905
+fjdk1ar2:word> DUST 553.00 631.00 -11980152
+fjdk1ar2:word> [END_NOISE] 632.00 681.00 -6434204
+fjdk1ar2:word> AND(2) 682.00 744.00 -10734101
+fjdk1ar2:word> [NOISE] 745.00 786.00 -5605874
+fjdk1ar2:word> </s> 787.00 1200.00 -48061111

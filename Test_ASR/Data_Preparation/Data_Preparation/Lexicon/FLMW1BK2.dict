@@ -1,0 +1,16 @@
+<s>	silb	
+sil	sil	
+/k	k	
+s/	s(k,sil)e	
+sil	sil	
+use	y(sil,uw)b	uw(y,s)	s(uw,sil)e	
+sil	sil	
+[noise]	sil	
+/p	p	
+l(/l/)	l	
+aa/	aa	
+plants	p(aa,l)b	l(p,ae)	ae(l,n)	n	ts(n,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+</s>	sile	

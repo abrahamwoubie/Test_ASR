@@ -1,0 +1,29 @@
+<s>	silb	
+sil	sil	
+[noise](+smack+)	+smack+	
+schools	s(sil,k)b	k(s,uw)	uw(k,l)	l	z(l,ix)e	
+in(2)	ix(z,n)b	n(ix,r)e	
+/r	r	
+ah	aa	
+n	eh(aa,n)b	n(eh,aa)e	
+aa/	aa	
+sil	sil	
+[begin_noise]	sil	
+rwanda	r	ax	w(ax,aa)	aa(w,n)	n	d(n,ax)	ax	
+[end_noise]	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,n)e	
+not	n	aa	td	
+have	hh(td,ae)b	ae(hh,v)	v(ae,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+room	r(sil,uw)b	uw(r,m)	m(uw,sil)e	
+[end_noise]	sil	
+for(2)	f(sil,axr)b	axr(f,ao)e	
+all	ao(axr,l)b	l(ao,dh)e	
+the(3)	dh(l,iy)b	iy(dh,ch)e	
+children	ch(iy,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+</s>	sile	

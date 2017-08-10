@@ -1,0 +1,31 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,hh)e	
+have	hh(ey,ae)b	ae(hh,v)	v(ae,sh)e	
+sharp	sh(v,aa)b	aa(sh,r)	r	pd	
+sil	sil	
+[noise](+noise+)	+noise+	
+[begin_noise]	sil	
+/b	b	
+ih(/ih/)	ih(b,l)	
+l(/l/)	l(ih,sil)e	
+sil	sil	
+ts/	ts	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,aa)e	
+are	aa(td,r)b	r(aa,y)e	
+used	y(r,uw)b	uw(y,z)	z(uw,dd)	dd(z,t)e	
+to(3)	t(dd,uw)b	uw(t,sil)e	
+sil	sil	
+crack	k(sil,r)b	r(k,ae)	ae	kd(ae,sil)e	
+sil	sil	
+seeds	s(sil,iy)b	iy	d(iy,z)	z(d,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+fruit	f(sil,r)b	r(f,uw)	uw(r,td)	td(uw,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

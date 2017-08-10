@@ -1,0 +1,17 @@
+<s>	silb	
+heavy	hh(sil,eh)b	eh(hh,v)	v(eh,iy)	iy(v,r)e	
+rain	r(iy,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+fills	f(sil,ih)b	ih(f,l)	l	z(l,r)e	
+rivers	r(z,ih)b	ih(r,v)	v(ih,axr)	axr(v,z)	z(axr,w)e	
+with(2)	w(z,ih)b	ih(w,th)	th(ih,sil)e	
+sil	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

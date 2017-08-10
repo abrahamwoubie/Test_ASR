@@ -1,0 +1,16 @@
+<s>	silb	
+the(2)	dh(sil,ax)b	ax(dh,w)e	
+winds(2)	w(ax,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+[begin_noise]	sil	
+/s	s	
+p(/p/)	p	
+ih(/ih/)	ih(p,n)	
+n(/n/)	n(ih,z)e	
+z/	z(n,sil)e	
+[end_noise]	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,ae)e	
+and	ae(dd,n)b	n(ae,dd)	dd(n,axr)e	
+around	axr(dd,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

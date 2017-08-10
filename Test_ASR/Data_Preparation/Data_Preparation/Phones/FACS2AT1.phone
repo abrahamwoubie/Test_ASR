@@ -1,0 +1,17 @@
+facs2at1:phone> SILb 0.00 4.00 -826039
+facs2at1:phone> SIL 5.00 38.00 -5544691
+facs2at1:phone> DH(SIL,EY)b 39.00 43.00 -767064
+facs2at1:phone> EY(DH,HH)e 44.00 55.00 -1790273
+facs2at1:phone> HH(EY,AE)b 56.00 62.00 -961596
+facs2at1:phone> AE(HH,V) 63.00 73.00 -1533207
+facs2at1:phone> V(AE,S)e 74.00 78.00 -687912
+facs2at1:phone> S(V,IH)b 79.00 93.00 -2624165
+facs2at1:phone> IH(S,K) 94.00 100.00 -1170828
+facs2at1:phone> K(IH,S) 101.00 108.00 -1282954
+facs2at1:phone> S(K,L)e 109.00 117.00 -1533560
+facs2at1:phone> L(S,EH)b 118.00 126.00 -1238562
+facs2at1:phone> EH(L,G) 127.00 142.00 -3080488
+facs2at1:phone> G(EH,Z) 143.00 155.00 -2467775
+facs2at1:phone> Z(G,SIL)e 156.00 169.00 -2461778
+facs2at1:phone> SIL 170.00 391.00 -28910528
+facs2at1:phone> SILe 392.00 466.00 -9793384

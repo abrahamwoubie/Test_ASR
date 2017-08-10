@@ -1,0 +1,16 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+use	y(sil,uw)b	uw(y,s)	s(uw,sil)e	
+sil	sil	
+trash	t(sil,r)b	r(t,ae)	ae	sh(ae,t)e	
+to(3)	t(sh,uw)b	uw(t,m)e	
+make	m(uw,ey)b	ey(m,kd)	kd(ey,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+new(2)	n(sil,y)b	y(n,uw)	uw(y,th)e	
+things	th(uw,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+[noise](+smack+)	+smack+	
+</s>	sile	

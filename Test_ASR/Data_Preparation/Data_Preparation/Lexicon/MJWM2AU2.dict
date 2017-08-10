@@ -1,0 +1,23 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+[begin_noise]	sil	
+butterflies	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,l)e	
+live(2)	l(z,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+[end_noise]	sil	
+almost	ao(sil,l)b	l	m	ow(m,s)	s(ow,td)	td(s,eh)e	
+/eh	eh	
+v	v(eh,iy)b	iy(v,ey)e	
+ae	ey(iy,w)s	
+w(/w/)	w	
+eh	eh(w,r)	
+r/	r(eh,ix)e	
+in(2)	ix(r,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,w)e	
+/w	w	
+er(/er/)	er(w,ax)e	
+ax(/ax/)	ax(er,l)s	
+l(/l/)	l(ax,dd)	
+dd/	dd(l,sil)e	
+[sil]	sil	
+</s>	sile	

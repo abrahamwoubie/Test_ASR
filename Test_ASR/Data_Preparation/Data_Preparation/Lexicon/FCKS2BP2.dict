@@ -1,0 +1,16 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+help	hh(sil,eh)b	eh(hh,l)	l(eh,pd)	pd(l,ix)e	
+is(2)	ix(pd,z)b	z(ix,k)e	
+coming	k(z,ah)b	ah(k,m)	m(ah,ix)	ix(m,ng)	ng(ix,sil)e	
+[end_noise]	sil	
+for(2)	f(sil,axr)b	axr(f,r)e	
+/r	r	
+ah	aa	
+r(/r/)	r(aa,ao)e	
+ao(/ao/)	ao	
+n(/n/)	n(ao,d)e	
+d(/d/)	d(n,ax)	
+ax/	ax	
+</s>	sile	

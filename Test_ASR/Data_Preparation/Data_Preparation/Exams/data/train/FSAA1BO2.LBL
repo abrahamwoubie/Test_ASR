@@ -1,0 +1,14 @@
+fsaa1bo2:word>                  <s>    0    2         -870122
+fsaa1bo2:word>               USE(2)    3   48        -6091727
+fsaa1bo2:word>                 THEM   49   82        -5796852
+fsaa1bo2:word> [CROSSTALK](+RUSTLE+)   83   85         -562482
+fsaa1bo2:word>                 </s>   86  520       -53923274
+fsaa1bo2:phone>                 SILb    0    2         -870122
+fsaa1bo2:phone>           Y(SIL,UW)b    3   15        -1890847
+fsaa1bo2:phone>              UW(Y,Z)   16   38        -2778604
+fsaa1bo2:phone>            Z(UW,DH)e   39   48        -1422276
+fsaa1bo2:phone>            DH(Z,EH)b   49   53         -885994
+fsaa1bo2:phone>             EH(DH,M)   54   68        -2690955
+fsaa1bo2:phone>           M(EH,SIL)e   69   82        -2219903
+fsaa1bo2:phone>             +RUSTLE+   83   85         -562482
+fsaa1bo2:phone>                 SILe   86  520       -53923274

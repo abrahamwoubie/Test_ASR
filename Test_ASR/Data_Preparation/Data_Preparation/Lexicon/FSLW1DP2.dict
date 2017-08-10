@@ -1,0 +1,22 @@
+<s>	silb	
+sil	sil	
+baby	b(sil,ey)b	ey	b(ey,iy)	iy(b,d)e	
+dinosaurs	d(iy,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,z)	z(r,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/hh	hh	
+ae(/ae/)	ae	
+ch/	ch(ae,f)e	
+from	f(ch,axr)b	axr(f,m)	m	
+the(2)	dh(m,ax)b	ax(dh,eh)e	
+/eh	eh	
+k	k(eh,ey)b	ey(k,sil)e	
+sil	sil	
+s(/s/)	s	
+s/	s	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+</s>	sile	

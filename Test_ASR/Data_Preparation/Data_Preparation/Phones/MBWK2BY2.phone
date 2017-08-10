@@ -1,0 +1,15 @@
+mbwk2by2:phone> SILb 0.00 2.00 -634602
+mbwk2by2:phone> M(SIL,EH)b 3.00 20.00 -2963793
+mbwk2by2:phone> EH(M,N) 21.00 28.00 -1315095
+mbwk2by2:phone> N(EH,IY) 29.00 36.00 -1212977
+mbwk2by2:phone> IY(N,P)e 37.00 53.00 -2719163
+mbwk2by2:phone> P(IY,IY)b 54.00 68.00 -2420754
+mbwk2by2:phone> IY(P,P) 69.00 77.00 -1273405
+mbwk2by2:phone> P(IY,AX) 78.00 86.00 -1495378
+mbwk2by2:phone> AX(P,L) 87.00 98.00 -3085207
+mbwk2by2:phone> L(AX,D)e 99.00 102.00 -984601
+mbwk2by2:phone> D(L,AY)b 103.00 114.00 -1847918
+mbwk2by2:phone> AY 115.00 154.00 -5852317
+mbwk2by2:phone> DD(AY,SIL)e 155.00 161.00 -1042300
+mbwk2by2:phone> +SMACK+ 162.00 166.00 -944464
+mbwk2by2:phone> SILe 167.00 384.00 -24985810

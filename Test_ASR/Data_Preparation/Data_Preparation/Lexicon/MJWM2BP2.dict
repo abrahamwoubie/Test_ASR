@@ -1,0 +1,13 @@
+<s>	silb	
+[noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+[begin_noise]	sil	
+help	hh(sil,eh)b	eh(hh,l)	l(eh,pd)	pd(l,ih)e	
+is	ih(pd,z)b	z(ih,sil)e	
+[end_noise]	sil	
+coming	k(sil,ah)b	ah(k,m)	m(ah,ix)	ix(m,ng)	ng(ix,f)e	
+from	f(ng,axr)b	axr(f,m)	m	
+rwanda	r	ax	w(ax,aa)	aa(w,n)	n	d(n,ax)	ax	
+[sil]	sil	
+[noise]	sil	
+</s>	sile	

@@ -1,0 +1,21 @@
+<s>	silb	
+sticky	s(sil,t)b	t(s,ih)	ih(t,k)	k	iy(k,sil)e	
+sil	sil	
+juice	jh(sil,uw)b	uw	s(uw,k)e	
+comes	k(s,ah)b	ah(k,m)	m(ah,z)	z(m,sil)e	
+[begin_noise]	sil	
+/aw	aw	
+d(/d/)	d	
+ix(/ix/)	ix	
+dh(/dh/)	dh(ix,ix)e	
+ix(/ix/)	ix	
+k(/k/)	k	
+ae(/ae/)	ae(k,dx)	
+dx(/dx/)	dx(ae,ax)	
+ax(/ax/)	ax(dx,p)e	
+p(/p/)	p(ax,ih)	
+ih(/ih/)	ih	
+l(/l/)	l(ih,axr)e	
+axr/	axr(l,sil)e	
+[end_noise]	sil	
+</s>	sile	

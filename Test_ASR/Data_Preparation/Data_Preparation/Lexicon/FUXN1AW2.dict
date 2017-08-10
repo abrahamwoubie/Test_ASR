@@ -1,0 +1,16 @@
+<s>	silb	
+[noise]	sil	
+[begin_noise]	sil	
+recycling	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,ix)	ix(l,ng)	ng(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[end_noise]	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+[begin_noise]	sil	
+helping	hh(sil,eh)b	eh(hh,l)	l	p	ix(p,ng)	ng(ix,sil)e	
+[end_noise]	sil	
+our(2)	aw(sil,axr)b	axr(aw,sil)e	
+sil	sil	
+earth	er	th(er,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

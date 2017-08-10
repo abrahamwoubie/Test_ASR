@@ -1,0 +1,18 @@
+<s>	silb	
+sil	sil	
+an(2)	ax(sil,n)b	n(ax,ix)e	
+/ix	ix	
+m	eh(ix,m)b	m(eh,p)e	
+p(/p/)	p	
+er/	er(p,sil)e	
+[begin_noise]	sil	
+penguin	p(sil,eh)b	eh	ng	g	w	ax(w,n)	n(ax,sil)e	
+[end_noise]	sil	
+mother	m(sil,ah)b	ah(m,dh)	dh(ah,axr)	axr(dh,l)e	
+lays	l(axr,ey)b	ey(l,z)	z(ey,ax)e	
+an(2)	ax(z,n)b	n(ax,eh)e	
+egg	eh	gd(eh,ih)e	
+in	ih(gd,n)b	n(ih,dh)e	
+the(2)	dh(n,ax)b	ax(dh,w)e	
+winter	w(ax,ih)b	ih(w,n)	n(ih,t)	t(n,axr)	axr(t,sil)e	
+</s>	sile	

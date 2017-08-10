@@ -1,0 +1,27 @@
+<s>	silb	
+the(2)	dh(sil,ax)b	ax(dh,m)e	
+market(2)	m(ax,aa)b	aa(m,r)	r(aa,k)	k(r,ix)	ix(k,td)	td(ix,sil)e	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,f)e	
+find	f(ey,ay)b	ay(f,n)	n(ay,dd)	dd(n,dh)e	
+the(2)	dh(dd,ax)b	ax(dh,sil)e	
+sil	sil	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+[begin_noise]	sil	
+that(2)	dh(sil,ax)b	ax	td(ax,sil)e	
+[end_noise]	sil	
+they	dh(sil,ey)b	ey(dh,n)e	
+need	n(ey,iy)b	iy(n,dd)	dd(iy,sil)e	
+sil	sil	
+but(2)	b(sil,ax)b	ax(b,td)	td(ax,sil)e	
+[begin_noise]	sil	
+can't	k(sil,ae)b	ae(k,n)	n(ae,td)	td(n,sil)e	
+[end_noise]	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,sil)e	
+[begin_noise]	sil	
+or	ao(sil,r)b	r(ao,sil)e	
+[end_noise]	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,dh)e	
+themselves	dh(ow,eh)b	eh(dh,m)	m	s	eh(s,l)	l(eh,v)	v(l,z)	z(v,sil)e	
+[sil]	sil	
+</s>	sile	

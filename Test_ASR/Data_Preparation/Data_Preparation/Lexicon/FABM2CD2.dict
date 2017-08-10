@@ -1,0 +1,14 @@
+<s>	silb	
+sil	sil	
+most	m(sil,ow)b	ow(m,s)	s(ow,td)	td(s,ow)e	
+only	ow(td,n)b	n(ow,l)	l(n,iy)	iy(l,g)e	
+grow	g(iy,r)b	r(g,ow)	ow(r,ix)e	
+enough	ix(ow,n)b	n(ix,ah)	ah(n,f)	f(ah,sil)e	
+[begin_noise]	sil	
+to(2)	t	ix	
+feed	f(ix,iy)b	iy(f,dd)	dd(iy,sil)e	
+[end_noise]	sil	
+their	dh(sil,eh)b	eh(dh,r)	r(eh,ow)e	
+own	ow(r,n)b	n(ow,f)e	
+families(2)	f(n,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,sil)e	
+</s>	sile	

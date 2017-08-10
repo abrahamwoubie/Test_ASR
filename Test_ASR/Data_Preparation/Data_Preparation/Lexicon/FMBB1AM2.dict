@@ -1,0 +1,28 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+/t	t	
+ao(/ao/)	ao(t,aa)e	
+r	aa(ao,r)b	r(aa,n)e	
+n(/n/)	n(r,ey)e	
+ey(/ey/)	ey(n,m)s	
+m(/m/)	m(ey,ow)e	
+ow	ow(m,z)s	
+z/	z(ow,sil)e	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+bring	b(sil,r)b	r(b,ih)	ih(r,ng)	ng(ih,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+tornadoes	t(sil,ao)b	ao(t,r)	r(ao,n)	n	ey(n,dx)	dx(ey,ow)	ow	z(ow,sil)e	
+sil	sil	
+bring	b(sil,r)b	r(b,ih)	ih(r,ng)	ng(ih,r)e	
+rain	r(ng,ey)b	ey(r,n)	n(ey,ax)e	
+and(2)	ax(n,n)b	n(ax,dd)	dd(n,b)e	
+big	b(dd,ih)b	ih(b,gd)	gd(ih,w)e	
+wind(2)	w(gd,ih)b	ih(w,n)	n	dd(n,sil)e	
+</s>	sile	

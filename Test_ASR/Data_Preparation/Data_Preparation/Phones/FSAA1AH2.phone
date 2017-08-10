@@ -1,0 +1,9 @@
+fsaa1ah2:phone> SILb 0.00 2.00 -1095402
+fsaa1ah2:phone> IH(SIL,N)b 3.00 5.00 -1004521
+fsaa1ah2:phone> N(IH,D) 6.00 8.00 -1129695
+fsaa1ah2:phone> D 9.00 11.00 -1097386
+fsaa1ah2:phone> AO(D,R) 12.00 24.00 -2289762
+fsaa1ah2:phone> R(AO,Z) 25.00 36.00 -1474433
+fsaa1ah2:phone> Z(R,SIL)e 37.00 53.00 -3039544
+fsaa1ah2:phone> SIL 54.00 61.00 -1385311
+fsaa1ah2:phone> SILe 62.00 530.00 -58867771

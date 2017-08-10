@@ -1,0 +1,31 @@
+<s>	silb	
+sil	sil	
+a(2)	ey(sil,b)s	
+blue	b(ey,l)b	l	uw(l,b)e	
+butterfly	b(uw,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,f)e	
+flew	f(ay,l)b	l	uw(l,ey)e	
+/ey/	ey(uw,sil)s	
+[sil]	sil	
+by	b(sil,ay)b	ay(b,sil)e	
+sil	sil	
+[sil]	sil	
+sil	sil	
+[begin_noise]	sil	
+[end_noise]	sil	
+[begin_whisper]	sil	
+i	ay(sil,sil)s	
+sil	sil	
+guess	g(sil,eh)b	eh(g,s)	s(eh,sil)e	
+sil	sil	
+i	ay(sil,sil)s	
+sil	sil	
+should	sh(sil,uh)b	uh(sh,dd)	dd(uh,sil)e	
+sil	sil	
+[end_whisper]	sil	
+a(2)	ey(sil,b)s	
+blue	b(ey,l)b	l	uw(l,b)e	
+butterfly	b(uw,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,f)e	
+flew	f(ay,l)b	l	uw(l,b)e	
+by	b(uw,ay)b	ay(b,sil)e	
+[sil]	sil	
+</s>	sile	

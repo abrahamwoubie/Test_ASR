@@ -1,0 +1,16 @@
+<s>	silb	
+[begin_noise]	sil	
+use	y(sil,uw)b	uw(y,s)	s(uw,sil)e	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+trash	t(sil,r)b	r(t,ae)	ae	sh(ae,t)e	
+to(3)	t(sh,uw)b	uw(t,sil)e	
+sil	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,n)e	
+new	n(kd,uw)b	uw(n,sil)e	
+[begin_noise]	sil	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+[sil]	sil	
+</s>	sile	

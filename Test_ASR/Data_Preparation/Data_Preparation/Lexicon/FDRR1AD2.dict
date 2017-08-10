@@ -1,0 +1,47 @@
+<s>	silb	
+/w	w	
+eh	eh(w,r)	
+r(/r/)	r(eh,sil)e	
+sil	sil	
+ay	ay(sil,hh)s	
+hh(/hh/)	hh	
+eh/	eh	
+sil	sil	
+[crosstalk](+noise+)	+noise+	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+sil	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,sil)e	
+[noise]	sil	
+/hh	hh	
+sil	sil	
+hh(/hh/)	hh	
+eh	eh	
+l	eh(eh,l)b	l(eh,sil)e	
+sil	sil	
+td/	td	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[crosstalk](+smack+)	+smack+	
+sil	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,ay)e	
+i	ay(dd,n)s	
+/n	n(ay,aa)e	
+ah	aa	
+dd/	dd(aa,y)e	
+use(2)	y(dd,uw)b	uw(y,z)	z(uw,w)e	
+one	w(z,ah)b	ah(w,n)	n(ah,d)e	
+/d	d(n,iy)	
+iy(/iy/)	iy(d,z)e	
+z/	z(iy,s)e	
+sentence	s(z,eh)b	eh(s,n)	n(eh,t)	t(n,ax)	ax(t,n)	n(ax,s)	s(n,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+[crosstalk](+smack+)	+smack+	
+</s>	sile	

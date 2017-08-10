@@ -1,0 +1,26 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+/ih	ih	
+ts/	ts(ih,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+/s	s	
+ah(/ah/)	ah(s,m)	
+m(/m/)	m(ah,t)e	
+t(/t/)	t(m,ay)	
+ay	ay(t,m)e	
+m/	m(ay,sil)e	
+sil	sil	
+[human_noise]	sil	
+hits	hh(sil,ih)b	ih	ts(ih,dh)e	
+the	dh(ts,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+ground	g(sil,r)b	r(g,aw)	aw(r,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[crosstalk](+exhale+)	+exhale+	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

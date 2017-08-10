@@ -1,0 +1,8 @@
+mjma1dt2:word>                  <s>    0    2        -1024746
+mjma1dt2:word>    [NOISE](+INHALE+)    3  353       -54641770
+mjma1dt2:word>                [SIL]  354  356         -743912
+mjma1dt2:word>                 </s>  357  360         -689371
+mjma1dt2:phone>                 SILb    0    2        -1024746
+mjma1dt2:phone>             +INHALE+    3  353       -54641770
+mjma1dt2:phone>                  SIL  354  356         -743912
+mjma1dt2:phone>                 SILe  357  360         -689371

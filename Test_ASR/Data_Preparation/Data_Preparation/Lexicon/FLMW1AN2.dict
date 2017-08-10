@@ -1,0 +1,33 @@
+<s>	silb	
+/n	n	
+sil	sil	
+ts/	ts	
+/s	s	
+sil	sil	
+p(/p/)	p	
+r(/r/)	r(p,iy)	
+iy/	iy(r,sil)s	
+sil	sil	
+/s	s	
+sil	sil	
+p(/p/)	p	
+r(/r/)	r(p,ih)	
+ih(/ih/)	ih(r,n)	
+n/	n(ih,sil)e	
+sil	sil	
+[crosstalk](+noise+)	+noise+	
+sil	sil	
+spin	s(sil,p)b	p	ih(p,n)	n(ih,sil)e	
+sil	sil	
+[human_noise]	sil	
+/ah	ah	
+r	aa(ah,r)b	r(aa,aw)e	
+aw(/aw/)	aw(r,n)e	
+n/	n(aw,ae)e	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+[crosstalk](+rustle+)	+rustle+	
+</s>	sile	

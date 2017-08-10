@@ -1,0 +1,25 @@
+<s>	silb	
+[noise]	sil	
+he	hh(sil,iy)b	iy(hh,p)e	
+put	p(iy,uh)b	uh(p,td)	td(uh,dh)e	
+the	dh(td,ah)b	ah(dh,m)e	
+/m	m(ah,ow)e	
+ow	ow(m,l)s	
+l/	l(ow,n)e	
+next	n(l,eh)b	eh(n,k)	k(eh,s)	s(k,td)	td(s,t)e	
+to(3)	t(td,uw)b	uw(t,t)e	
+/t/	t	
+rex	r(t,eh)	eh(r,k)	k(eh,s)	s(k,f)e	
+/f/	f	
+tooth	t(f,uw)b	uw	th	
+sil	sil	
+fossil	f(sil,aa)b	aa	s	ax(s,l)	l(ax,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+[begin_noise]	sil	
+matched	m(sil,ae)b	ae(m,ch)	ch	td	
+[end_noise]	sil	
+</s>	sile	

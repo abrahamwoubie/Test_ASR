@@ -1,0 +1,13 @@
+<s>	silb	
+/p	p	
+ax(/ax/)	ax(p,l)e	
+l/	l(ax,r)e	
+/r	r(l,iy)	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,ay)e	
+ay	ay(s,k)s	
+k(/k/)	k	
+ax(/ax/)	ax(k,l)e	
+l/	l(ax,sil)e	
+[sil]	sil	
+</s>	sile	

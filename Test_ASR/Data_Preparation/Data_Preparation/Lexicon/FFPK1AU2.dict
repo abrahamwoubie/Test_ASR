@@ -1,0 +1,30 @@
+<s>	silb	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+if(2)	ix(sil,f)b	f(ix,dh)e	
+the	dh(f,ah)b	ah(dh,sil)e	
+sil	sil	
+river	r(sil,ih)b	ih(r,v)	v(ih,axr)	axr(v,sil)e	
+sil	sil	
+goes	g(sil,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+deep	d(sil,iy)b	iy	pd(iy,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+sil	sil	
+goes	g(sil,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,dh)e	
+the	dh(n,ah)b	ah(dh,sil)e	
+sil	sil	
+land	l(sil,ae)b	ae(l,n)	n(ae,dd)	dd(n,sil)e	
+[noise]	sil	
+onto(2)	ao(sil,n)b	n(ao,t)	t(n,uw)	uw(t,dh)e	
+the(3)	dh(uw,iy)b	iy(dh,l)e	
+land	l(iy,ae)b	ae(l,n)	n(ae,dd)	dd(n,sil)e	
+sil	sil	
+</s>	sile	

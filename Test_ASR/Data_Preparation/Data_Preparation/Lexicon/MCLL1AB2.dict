@@ -1,0 +1,22 @@
+<s>	silb	
+/ts/	ts	
+sil	sil	
+listen	l(sil,ih)b	ih(l,s)	s(ih,ax)	ax(s,n)	n(ax,sil)e	
+sil	sil	
+/m	m	
+uw(/uw/)	uw(m,v)	
+v(/v/)	v(uw,iy)e	
+iy(/iy/)	iy(v,z)e	
+z/	z(iy,sil)e	
+sil	sil	
+/dh	dh	
+er(/er/)	er	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/eh/	eh	
+</s>	sile	

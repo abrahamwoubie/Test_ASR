@@ -1,0 +1,17 @@
+fkrh2at2:phone> SILb 0.00 4.00 -964279
+fkrh2at2:phone> DH(SIL,EY)b 5.00 10.00 -1034717
+fkrh2at2:phone> EY(DH,HH)e 11.00 18.00 -1047541
+fkrh2at2:phone> HH(EY,AE)b 19.00 26.00 -895367
+fkrh2at2:phone> AE(HH,V) 27.00 36.00 -1373882
+fkrh2at2:phone> V(AE,S)e 37.00 47.00 -1799773
+fkrh2at2:phone> S(V,IH)b 48.00 60.00 -2302940
+fkrh2at2:phone> IH(S,K) 61.00 68.00 -1162078
+fkrh2at2:phone> K(IH,S) 69.00 81.00 -2272989
+fkrh2at2:phone> S(K,L)e 82.00 90.00 -1819807
+fkrh2at2:phone> L 91.00 96.00 -891758
+fkrh2at2:phone> EH(L,K) 97.00 106.00 -1778742
+fkrh2at2:phone> K 107.00 114.00 -1907431
+fkrh2at2:phone> SIL 115.00 132.00 -3707533
+fkrh2at2:phone> S 133.00 144.00 -2069368
+fkrh2at2:phone> +NOISE+ 145.00 148.00 -804054
+fkrh2at2:phone> SILe 149.00 392.00 -29593331

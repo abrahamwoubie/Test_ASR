@@ -1,0 +1,12 @@
+fcmm1br2:word> <s> 0.00 35.00 -4500096
+fcmm1br2:word> SEALS 36.00 112.00 -13306139
+fcmm1br2:word> SIL 113.00 122.00 -1898353
+fcmm1br2:word> LIVE(2) 123.00 160.00 -6079660
+fcmm1br2:word> SIL 161.00 165.00 -1072638
+fcmm1br2:word> IN(2) 166.00 195.00 -4803559
+fcmm1br2:word> THE 196.00 232.00 -6730257
+fcmm1br2:word> OCEANS 233.00 330.00 -17599780
+fcmm1br2:word> SIL 331.00 451.00 -14753657
+fcmm1br2:word> [NOISE](+NOISE+) 452.00 461.00 -1804742
+fcmm1br2:word> SIL 462.00 507.00 -6422862
+fcmm1br2:word> </s> 508.00 608.00 -12398622

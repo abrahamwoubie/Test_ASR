@@ -1,0 +1,21 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+but(2)	b(sil,ax)b	ax(b,td)	td(ax,sil)e	
+[end_noise]	sil	
+they	dh(sil,ey)b	ey(dh,s)e	
+spend	s(ey,p)b	p(s,eh)	eh(p,n)	n(eh,dd)	dd(n,m)e	
+most	m(dd,ow)b	ow(m,s)	s(ow,td)	td(s,ax)e	
+of(2)	ax(td,v)b	v(ax,dh)e	
+their	dh(v,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+/t/	t	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,dh)e	
+their	dh(v,eh)b	eh(dh,r)	r(eh,t)e	
+time	t(r,ay)b	ay(t,m)	m(ay,ix)e	
+in(2)	ix(m,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,w)e	
+water	w(ax,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+[sil]	sil	
+</s>	sile	

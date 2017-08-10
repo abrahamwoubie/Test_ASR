@@ -1,0 +1,37 @@
+<s>	silb	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+storms	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+[human_noise](+smack+)	+smack+	
+[end_noise]	sil	
+i	ay(sil,m)s	
+mean	m(ay,iy)b	iy(m,n)	n(iy,sil)e	
+sil	sil	
+tornadoes	t(sil,ao)b	ao(t,r)	r(ao,n)	n	ey(n,dx)	dx(ey,ow)	ow	z(ow,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_noise]	sil	
+/b	b	
+r(/r/)	r(b,ih)	
+ih(/ih/)	ih(r,ng)	
+ng(/ng/)	ng(ih,z)e	
+z/	z(ng,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+[begin_noise]	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,w)e	
+winds(2)	w(gd,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

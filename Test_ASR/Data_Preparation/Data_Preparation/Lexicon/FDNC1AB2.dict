@@ -1,0 +1,30 @@
+<s>	silb	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+/l	l	
+hh/	hh	
+sil	sil	
+read(2)	r(sil,iy)b	iy(r,dd)	dd(iy,ax)e	
+again(2)	ax(dd,g)b	g(ax,ey)	ey	n(ey,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/l	l	
+ay	ay(l,sil)s	
+sil	sil	
+n(/n/)	n	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+sil	sil	
+/m	m	
+uw(/uw/)	uw(m,v)	
+v(/v/)	v(uw,f)e	
+f/	f	
+sil	sil	
+through	th(sil,r)b	r(th,uw)	uw(r,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[see_transcript]	sil	
+air	eh(sil,r)b	r(eh,sil)e	
+[see_transcript]	sil	
+</s>	sile	

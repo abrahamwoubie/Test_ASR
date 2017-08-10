@@ -1,0 +1,36 @@
+<s>	silb	
+[noise]	sil	
+[begin_noise]	sil	
+/sh	sh	
+sil	sil	
+iy(/iy/)	iy(sil,th)s	
+th(/th/)	th	
+sil	sil	
+b(/b/)	b	
+ih(/ih/)	ih	
+l	eh(sil,l)b	l(eh,sil)e	
+sil	sil	
+z/	z	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+line	l(sil,ay)b	ay(l,n)	n(ay,dh)e	
+the(2)	dh(n,ax)b	ax(dh,aa)e	
+/aa	aa	
+r(/r/)	r(aa,t)e	
+t(/t/)	t	
+ih(/ih/)	ih(t,k)	
+k/	k	
+sil	sil	
+during	d(sil,uh)b	uh(d,r)	r(uh,ix)	ix(r,ng)	ng(ix,dh)e	
+the(2)	dh(ng,ax)b	ax(dh,s)e	
+summer	s(ax,ah)b	ah(s,m)	m(ah,axr)	axr(m,sil)e	
+sil	sil	
+antarctica(2)	ae(sil,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,sil)e	
+sil	sil	
+during	d(sil,uh)b	uh(d,r)	r(uh,ix)	ix(r,ng)	ng(ix,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,s)e	
+summer	s(ax,ah)b	ah(s,m)	m(ah,axr)	axr(m,sil)e	
+sil	sil	
+[human_noise]	sil	
+</s>	sile	

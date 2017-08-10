@@ -1,0 +1,17 @@
+flmw1ac2:word> <s> 0.00 2.00 -759530
+flmw1ac2:word> [NOISE](+INHALE+) 3.00 20.00 -3137950
+flmw1ac2:word> SIL 21.00 32.00 -1973591
+flmw1ac2:word> IT(2) 33.00 49.00 -3257443
+flmw1ac2:word> SIL 50.00 59.00 -1891893
+flmw1ac2:word> SOMETIMES(2) 60.00 130.00 -12705051
+flmw1ac2:word> /HH 131.00 133.00 -679146
+flmw1ac2:word> IH(/IH/) 134.00 140.00 -1258889
+flmw1ac2:word> TD/ 141.00 144.00 -974453
+flmw1ac2:word> SIL 145.00 164.00 -3161253
+flmw1ac2:word> THE 165.00 189.00 -3702819
+flmw1ac2:word> /G 190.00 206.00 -3355992
+flmw1ac2:word> R 207.00 222.00 -2739646
+flmw1ac2:word> AW(/AW/) 223.00 236.00 -2793355
+flmw1ac2:word> N/ 237.00 246.00 -1666749
+flmw1ac2:word> [NOISE](+EXHALE+) 247.00 249.00 -515199
+flmw1ac2:word> </s> 250.00 510.00 -34292380

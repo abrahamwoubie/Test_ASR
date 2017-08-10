@@ -1,0 +1,63 @@
+<s>	silb	
+when(2)	hh(sil,w)b	w(hh,ih)	ih(w,n)	n(ih,w)e	
+/w	w	
+ao(/ao/)	ao	
+t(/t/)	t	
+er/	er	
+sil	sil	
+[human_noise]	sil	
+covers	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,sil)e	
+sil	sil	
+streets	s(sil,t)b	t(s,r)	r(t,iy)	iy	ts(iy,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+goes	g(sil,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+/ao	ao	
+n	eh(ao,n)b	n(eh,t)e	
+t(/t/)	t	
+sil	sil	
+uw/	uw	
+houses(2)	hh(uw,aw)b	aw(hh,s)	s(aw,ix)	ix(s,z)	z(ix,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+/ih	ih	
+sil	sil	
+ts/	ts	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+[human_noise]	sil	
+/k	k	
+ao(/ao/)	ao(k,l)	
+l(/l/)	l(ao,sil)e	
+sil	sil	
+d	d(sil,iy)b	iy(d,sil)e	
+sil	sil	
+ih(/ih/)	ih	
+d/	d	
+sil	sil	
+/t/	t	
+crowded(2)	k(sil,r)b	r	aw(r,dx)	dx(aw,ix)	ix(dx,dd)	dd(ix,sil)e	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+/f	f	
+aa/	aa	
+sil	sil	
+[begin_noise]	sil	
+/f	f	
+aa(/aa/)	aa	
+l(/l/)	l(aa,sil)e	
+sil	sil	
+d/	d	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

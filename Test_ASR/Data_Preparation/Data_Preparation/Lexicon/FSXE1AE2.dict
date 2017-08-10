@@ -1,0 +1,12 @@
+<s>	silb	
+[begin_noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+harm	hh(sil,aa)b	aa(hh,r)	r	m(r,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

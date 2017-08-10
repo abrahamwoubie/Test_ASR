@@ -1,0 +1,16 @@
+fmaa2an2:word>                  <s>    0    2         -982762
+fmaa2an2:word>                   IN    3   11        -2085889
+fmaa2an2:word>                  SIL   12   14         -761320
+fmaa2an2:word>                 EACH   15   35        -3434602
+fmaa2an2:word>                 CAGE   36  107       -12262318
+fmaa2an2:word>                 </s>  108  318       -24389026
+fmaa2an2:phone>                 SILb    0    2         -982762
+fmaa2an2:phone>           IH(SIL,N)b    3    5         -847849
+fmaa2an2:phone>           N(IH,SIL)e    6   11        -1238040
+fmaa2an2:phone>                  SIL   12   14         -761320
+fmaa2an2:phone>          IY(SIL,CH)b   15   22        -1575279
+fmaa2an2:phone>            CH(IY,K)e   23   35        -1859323
+fmaa2an2:phone>            K(CH,EY)b   36   51        -2959513
+fmaa2an2:phone>                   EY   52   83        -4830822
+fmaa2an2:phone>                   JH   84  107        -4471983
+fmaa2an2:phone>                 SILe  108  318       -24389026

@@ -1,0 +1,30 @@
+<s>	silb	
+sil	sil	
+/r	r	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,l)e	
+l(/l/)	l	
+ay	ay(l,sil)s	
+sil	sil	
+k(/k/)	k	
+sil	sil	
+r(/r/)	r	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,ay)e	
+ay	ay(s,k)s	
+k(/k/)	k(ay,l)	
+l(/l/)	l	
+ix(/ix/)	ix(l,n)	
+n/	n(ix,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,hh)e	
+helping	hh(z,eh)b	eh(hh,l)	l	p	ix(p,ng)	ng(ix,sil)e	
+sil	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,sil)e	
+sil	sil	
+/er	er	
+f/	f	
+[noise]	sil	
+</s>	sile	

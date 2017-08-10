@@ -1,0 +1,17 @@
+<s>	silb	
+/v	v	
+ow	ow(v,k)s	
+k(/k/)	k(ow,ey)	
+ey(/ey/)	ey(k,n)e	
+n(/n/)	n(ey,ow)e	
+ow	ow(n,z)s	
+z/	z(ow,m)e	
+made	m(z,ey)b	ey(m,dd)	dd(ey,s)e	
+some	s(dd,ah)b	ah(s,m)	m(ah,hh)e	
+high	hh(m,ay)b	ay(hh,m)e	
+mountains	m(ay,aw)b	aw(m,n)	n(aw,t)	t(n,ax)	ax(t,n)	n(ax,z)	z(n,dh)e	
+there	dh(z,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+[noise]	sil	
+</s>	sile	

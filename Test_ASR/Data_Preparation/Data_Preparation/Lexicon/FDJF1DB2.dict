@@ -1,0 +1,23 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+they	dh(sil,ey)b	ey(dh,y)e	
+use(2)	y(ey,uw)b	uw(y,z)	z(uw,sil)e	
+[begin_noise]	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,f)e	
+forest(2)	f(n,ao)b	ao(f,r)	r(ao,ix)	ix(r,s)	s(ix,td)	td(s,p)e	
+plants	p(td,l)b	l(p,ae)	ae(l,n)	n	ts(n,sil)e	
+[end_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,m)e	
+make	m(uw,ey)b	ey(m,kd)	kd(ey,m)e	
+/m	m	
+eh	eh	
+d(/d/)	d	
+ah	aa	
+s(/s/)	s	
+ih(/ih/)	ih(s,n)	
+n/	n(ih,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

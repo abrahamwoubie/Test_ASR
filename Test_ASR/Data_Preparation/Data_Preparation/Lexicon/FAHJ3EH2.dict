@@ -1,0 +1,54 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+know	n(sil,ow)b	ow(n,t)e	
+/t/	t	
+[begin_noise]	sil	
+rex	r(sil,eh)b	eh(r,k)	k(eh,s)	s(k,sil)e	
+sil	sil	
+/m/	m	
+[end_noise]	sil	
+/m	m	
+ah(/ah/)	ah(m,n)	
+n(/n/)	n(ah,sh)e	
+sh(/sh/)	sh	
+td/	td(sh,aa)e	
+on	aa(td,n)b	n(aa,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,d)e	
+dinosaurs	d(m,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,z)	z(r,sil)e	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+but(2)	b(sil,ax)b	ax(b,td)	td(ax,dh)e	
+they	dh(td,ey)b	ey(dh,d)e	
+did	d(ey,ih)b	ih(d,dd)	dd(ih,n)e	
+not	n	aa	td	
+know	n(td,ow)b	ow(n,sil)e	
+sil	sil	
+if	ih(sil,f)b	f(ih,sil)e	
+sil	sil	
+it	ih(sil,td)b	td(ih,sil)e	
+sil	sil	
+/m	m	
+ah(/ah/)	ah	
+sh(/sh/)	sh(ah,sil)e	
+dd/	dd	
+on(2)	ao(dd,n)b	n(ao,t)e	
+/t	t(n,eh)	
+eh	eh(t,r)	
+r(/r/)	r(eh,ix)e	
+ix(/ix/)	ix(r,t)	
+t(/t/)	t(ix,ao)	
+ao(/ao/)	ao(t,p)e	
+p(/p/)	p(ao,s)	
+s/	s(p,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,16 @@
+<s>	silb	
+a	ax(sil,sil)s	
+sil	sil	
+lot(2)	l(sil,ao)b	ao(l,td)	td(ao,m)e	
+more	m(td,ao)b	ao(m,r)	r(ao,p)e	
+people	p(r,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,r)e	
+recycle	r(l,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,k)e	
+cans	k(l,ae)b	ae(k,n)	n(ae,z)	z(n,sil)e	
+sil	sil	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+/ae	ae	
+n/	n(ae,p)e	
+paper	p(n,ey)b	ey	p	axr(p,sil)e	
+[noise]	sil	
+</s>	sile	

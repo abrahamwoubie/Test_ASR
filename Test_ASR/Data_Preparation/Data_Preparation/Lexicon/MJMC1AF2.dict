@@ -1,0 +1,30 @@
+<s>	silb	
+[begin_whisper]	sil	
+this(2)	dh(sil,ix)b	ix(dh,s)	s(ix,sil)e	
+sil	sil	
+[end_whisper]	sil	
+[human_noise](+inhale+)	+inhale+	
+stay	s(sil,t)b	t(s,ey)	ey(t,sil)e	
+sil	sil	
+/f/	f	
+sil	sil	
+away	ax(sil,w)b	w(ax,ey)	ey(w,f)e	
+from(2)	f(ey,r)b	r(f,ah)	ah(r,m)	m(ah,l)e	
+/l	l	
+ay	ay(l,t)s	
+t(/t/)	t	
+l(/l/)	l	
+ih(/ih/)	ih(l,ng)	
+ng/	ng(ih,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+</s>	sile	

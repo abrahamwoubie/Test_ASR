@@ -1,0 +1,50 @@
+<s>	silb	
+[begin_noise]	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,ae)e	
+animals	ae(axr,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+will(2)	w(sil,ih)b	ih(w,l)	l(ih,n)e	
+not	n	aa	td	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,s)e	
+/s	s(ah,sil)e	
+sil	sil	
+t(/t/)	t	
+ey(/ey/)	ey(t,n)e	
+n(/n/)	n(ey,sil)e	
+sil	sil	
+k/	k	
+/s	s(k,sil)e	
+sil	sil	
+t(/t/)	t	
+ey(/ey/)	ey(t,n)e	
+n(/n/)	n(ey,k)e	
+k(/k/)	k	
+sil	sil	
+iy/	iy(sil,sil)s	
+sil	sil	
+/b	b	
+ae	ey(b,sil)e	
+sil	sil	
+g/	g	
+sil	sil	
+because	b(sil,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,sil)e	
+[human_noise]	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+/t	t	
+ey/	ey(t,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+/t	t	
+ey(/ey/)	ey(t,s)e	
+s/	s(ey,sil)e	
+sil	sil	
+bad	b(sil,ae)b	ae(b,dd)	dd(ae,sil)e	
+[end_noise]	sil	
+</s>	sile	

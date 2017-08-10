@@ -1,0 +1,42 @@
+<s>	silb	
+sil	sil	
+[noise](+swallow+)	+swallow+	
+/s	s	
+sil	sil	
+t(/t/)	t	
+ao(/ao/)	ao(t,r)e	
+r(/r/)	r(ao,sil)e	
+sil	sil	
+m/	m	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the	dh(n,ah)b	ah(dh,s)e	
+/s/	s(ah,sil)e	
+sil	sil	
+spring	s(sil,p)b	p(s,r)	r(p,ih)	ih(r,ng)	ng(ih,sil)e	
+sil	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+bring	b(sil,r)b	r(b,ih)	ih(r,ng)	ng(ih,l)e	
+lightning	l(ng,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+sil	sil	
+/l	l	
+sil	sil	
+ay	ay(sil,sil)s	
+sil	sil	
+t(/t/)	t	
+n(/n/)	n	
+ih(/ih/)	ih	
+sil	sil	
+n/	n	
+sil	sil	
+[crosstalk]	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

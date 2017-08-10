@@ -1,0 +1,22 @@
+<s>	silb	
+sil	sil	
+/s	s	
+ih(/ih/)	ih(s,n)	
+n(/n/)	n(ih,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,sil)e	
+[begin_noise]	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+learning	l	er	n(er,ix)	ix(n,ng)	ng(ix,n)e	
+new	n(ng,uw)b	uw(n,th)e	
+things	th(uw,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+sil	sil	
+about	ax(sil,b)b	b(ax,aw)	aw(b,td)	td(aw,sil)e	
+sil	sil	
+dinosaurs	d(sil,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,z)	z(r,sil)e	
+[sil]	sil	
+</s>	sile	

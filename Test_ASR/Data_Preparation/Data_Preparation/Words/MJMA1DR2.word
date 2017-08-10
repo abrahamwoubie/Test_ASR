@@ -1,0 +1,17 @@
+mjma1dr2:word> <s> 0.00 23.00 -3541280
+mjma1dr2:word> [BEGIN_NOISE] 24.00 31.00 -1519950
+mjma1dr2:word> ITS(2) 32.00 66.00 -5760564
+mjma1dr2:word> /IX/ 67.00 69.00 -712589
+mjma1dr2:word> SIL 70.00 111.00 -5977378
+mjma1dr2:word> IT(2) 112.00 135.00 -4484308
+mjma1dr2:word> IS(2) 136.00 189.00 -8856890
+mjma1dr2:word> [END_NOISE] 190.00 193.00 -1150451
+mjma1dr2:word> HARD 194.00 238.00 -7436952
+mjma1dr2:word> [BEGIN_NOISE] 239.00 241.00 -721384
+mjma1dr2:word> LIKE 242.00 271.00 -4329878
+mjma1dr2:word> [END_NOISE] 272.00 274.00 -883176
+mjma1dr2:word> A(2) 275.00 289.00 -2784304
+mjma1dr2:word> ROCK 290.00 352.00 -10712799
+mjma1dr2:word> SIL 353.00 472.00 -14988875
+mjma1dr2:word> [NOISE](+RUSTLE+) 473.00 485.00 -2704393
+mjma1dr2:word> </s> 486.00 670.00 -22583632

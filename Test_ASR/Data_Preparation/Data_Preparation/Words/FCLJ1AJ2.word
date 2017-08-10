@@ -1,0 +1,10 @@
+fclj1aj2:word> <s> 0.00 3.00 -698208
+fclj1aj2:word> DO 4.00 25.00 -3500864
+fclj1aj2:word> NOT 26.00 70.00 -7464512
+fclj1aj2:word> SIL 71.00 78.00 -1178174
+fclj1aj2:word> USE(2) 79.00 116.00 -6432226
+fclj1aj2:word> THE(2) 117.00 135.00 -3421769
+fclj1aj2:word> TELEPHONE 136.00 219.00 -13281146
+fclj1aj2:word> [CROSSTALK] 220.00 222.00 -614888
+fclj1aj2:word> [NOISE](+NOISE+) 223.00 225.00 -500082
+fclj1aj2:word> </s> 226.00 570.00 -42410326

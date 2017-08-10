@@ -1,0 +1,31 @@
+<s>	silb	
+[noise]	sil	
+schools	s(sil,k)b	k(s,uw)	uw(k,l)	l	z(l,ih)e	
+in	ih(z,n)b	n(ih,r)e	
+/r	r(n,ax)	
+ax(/ax/)	ax(r,r)s	
+r(/r/)	r(ax,ao)	
+ao(/ao/)	ao	
+n(/n/)	n(ao,d)e	
+d(/d/)	d(n,ax)	
+ax/	ax	
+[begin_noise]	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,sil)e	
+[end_noise]	sil	
+not	n	aa	td	
+have	hh(td,ae)b	ae(hh,v)	v(ae,r)e	
+room	r(v,uw)b	uw(r,m)	m(uw,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+for(2)	f(sil,axr)b	axr(f,ao)e	
+all	ao(axr,l)b	l(ao,dh)e	
+the(2)	dh(l,ax)b	ax(dh,ch)e	
+/ch	ch	
+ih(/ih/)	ih(ch,l)	
+l(/l/)	l(ih,d)e	
+d(/d/)	d(l,r)	
+r(/r/)	r(d,ix)	
+ix(/ix/)	ix(r,n)	
+n/	n(ix,sil)e	
+[sil]	sil	
+</s>	sile	

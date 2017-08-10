@@ -1,0 +1,22 @@
+<s>	silb	
+[noise]	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,r)e	
+recycle	r(l,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+[begin_whisper]	sil	
+/p	p	
+l(/l/)	l	
+sil	sil	
+ae/	ae	
+[end_whisper]	sil	
+plastic	p(sil,l)b	l(p,ae)	ae(l,s)	s(ae,t)	t(s,ix)	ix(t,kd)	kd(ix,b)e	
+/b	b	
+ao(/ao/)	ao	
+sil	sil	
+t(/t/)	t	
+ax(/ax/)	ax(t,l)e	
+l(/l/)	l(ax,s)e	
+s/	s(l,sil)e	
+[sil]	sil	
+</s>	sile	

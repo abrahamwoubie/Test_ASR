@@ -1,0 +1,31 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+after	ae(sil,f)b	f(ae,t)	t(f,axr)	axr(t,dh)e	
+the	dh(axr,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+/n	n	
+y(/y/)	y(n,uw)	
+uw(/uw/)	uw(y,s)e	
+s/	s(uw,dh)e	
+the	dh(s,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+bikes	b(sil,ay)b	ay	k	s(k,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,g)e	
+give	g(ey,ih)b	ih(g,v)	v(ih,sil)e	
+sil	sil	
+/dh	dh	
+ih(/ih/)	ih	
+m/	m(ih,sil)e	
+[begin_noise]	sil	
+back	b(sil,ae)b	ae(b,kd)	kd(ae,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,18 @@
+<s>	silb	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,ih)e	
+is	ih(td,z)b	z(ih,hh)e	
+hard	hh(z,aa)b	aa(hh,r)	r	dd(r,t)e	
+to(3)	t(dd,uw)b	uw(t,s)e	
+see	s(uw,iy)b	iy(s,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,d)e	
+/d	d(n,ah)	
+ah(/ah/)	ah	
+s/	s(ah,s)e	
+storms	s(s,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+sil	sil	
+[crosstalk](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,16 @@
+<s>	silb	
+zebras	z(sil,iy)b	iy	b	r(b,ax)	ax(r,z)	z(ax,iy)e	
+eat	iy(z,td)b	td(iy,hh)e	
+hay	hh(td,ey)b	ey(hh,ax)e	
+and(2)	ax(ey,n)b	n(ax,dd)	dd(n,jh)e	
+/jh	jh	
+ax(/ax/)	ax(jh,r)s	
+r(/r/)	r	
+ae(/ae/)	ae(r,f)	
+f(/f/)	f(ae,s)e	
+s/	s(f,iy)e	
+eat	iy(s,td)b	td(iy,sil)e	
+sil	sil	
+carrots(2)	k(sil,eh)b	eh(k,r)	r(eh,ax)	ax	ts(ax,sil)e	
+sil	sil	
+</s>	sile	

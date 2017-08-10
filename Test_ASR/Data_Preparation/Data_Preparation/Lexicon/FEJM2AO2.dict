@@ -1,0 +1,24 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+/b	b	
+ah(/ah/)	ah	
+dh(/dh/)	dh(ah,axr)	
+er	axr(dh,f)e	
+f(/f/)	f	
+l(/l/)	l(f,ay)	
+ay	ay(l,z)s	
+z/	z(ay,sil)e	
+[end_noise]	sil	
+lay	l(sil,ey)b	ey(l,sil)e	
+sil	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,ao)e	
+on(2)	ao(z,n)b	n(ao,dh)e	
+the	dh(n,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+plants	p(sil,l)b	l(p,ae)	ae(l,n)	n	ts(n,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

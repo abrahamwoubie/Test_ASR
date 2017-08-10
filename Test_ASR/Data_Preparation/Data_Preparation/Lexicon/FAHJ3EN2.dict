@@ -1,0 +1,18 @@
+<s>	silb	
+[noise]	sil	
+then	dh(sil,eh)b	eh(dh,n)	n(eh,dh)e	
+they	dh(n,ey)b	ey(dh,sil)e	
+[human_noise]	sil	
+pulled	p(sil,uh)b	uh(p,l)	l(uh,dd)	dd(l,dh)e	
+the	dh(dd,ah)b	ah(dh,sil)e	
+sil	sil	
+clay	k(sil,l)b	l(k,ey)	ey(l,m)e	
+mold	m(ey,ow)b	ow	l(ow,dd)	dd(l,aw)e	
+out	aw(dd,td)b	td(aw,ax)e	
+of(2)	ax(td,v)b	v(ax,dh)e	
+the(2)	dh(v,ax)b	ax(dh,t)e	
+teeth	t(ax,iy)b	iy	th	
+holes	hh(th,ow)b	ow(hh,l)	l	z(l,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

@@ -1,0 +1,24 @@
+<s>	silb	
+sil	sil	
+/sh	sh	
+iy(/iy/)	iy(sh,th)e	
+th(/th/)	th	
+b(/b/)	b	
+ih(/ih/)	ih(b,l)	
+l(/l/)	l(ih,z)e	
+z/	z(l,sil)e	
+[begin_noise]	sil	
+have	hh(sil,ae)b	ae(hh,v)	v(ae,ax)e	
+a	ax(v,hh)s	
+hard	hh(ax,aa)b	aa(hh,r)	r	dd(r,sil)e	
+[end_noise]	sil	
+covering	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,ix)	ix(axr,ng)	ng(ix,sil)e	
+[begin_noise]	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+[end_noise]	sil	
+a	ax(sil,sh)s	
+sheath	sh(ax,iy)b	iy	th	
+on(2)	ao(th,n)b	n(ao,dh)e	
+their	dh(n,eh)b	eh(dh,r)	r(eh,hh)e	
+head	hh(r,eh)b	eh(hh,dd)	dd(eh,sil)e	
+</s>	sile	

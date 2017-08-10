@@ -1,0 +1,8 @@
+fdnc1ah2:word> <s> 0.00 32.00 -5232878
+fdnc1ah2:word> [NOISE](+NOISE+) 33.00 35.00 -500082
+fdnc1ah2:word> GO 36.00 92.00 -10879937
+fdnc1ah2:word> SIL 93.00 113.00 -3023951
+fdnc1ah2:word> INDOORS 114.00 198.00 -15869168
+fdnc1ah2:word> SIL 199.00 214.00 -3016405
+fdnc1ah2:word> [NOISE](+RUSTLE+) 215.00 237.00 -4557352
+fdnc1ah2:word> </s> 238.00 600.00 -45537010

@@ -1,0 +1,31 @@
+<s>	silb	
+/d	d	
+ax/	ax	
+[begin_noise]	sil	
+/s	s	
+ow	ow(s,l)s	
+l/	l(ow,sil)e	
+[end_noise]	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+/s/	s	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+soil	s	oy	l	
+is	ih(l,z)b	z(ih,y)e	
+used	y(z,uw)b	uw(y,z)	z(uw,dd)	dd(z,sil)e	
+[end_noise]	sil	
+to(2)	t	ix	
+help	hh(ix,eh)b	eh(hh,l)	l(eh,pd)	pd(l,d)e	
+/d	d	
+ax/	ax	
+sil	sil	
+ground	g(sil,r)b	r(g,aw)	aw(r,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+/d	d	
+ax/	ax	
+gardens	g	aa(g,r)	r(aa,d)	d(r,ax)	ax(d,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+</s>	sile	

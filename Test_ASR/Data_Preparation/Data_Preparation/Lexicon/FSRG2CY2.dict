@@ -1,0 +1,16 @@
+<s>	silb	
+[noise]	sil	
+antarctica	ae(sil,n)b	n	aa(n,r)	r(aa,dx)	dx(r,ix)	ix(dx,k)	k(ix,ax)	ax(k,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,dh)e	
+the(2)	dh(z,ax)b	ax(dh,k)e	
+continent	k(ax,aa)b	aa(k,n)	n	t(n,ax)	ax(t,n)	n(ax,ax)	ax(n,n)	n(ax,td)	td(n,sil)e	
+sil	sil	
+at	ae(sil,td)b	td(ae,dh)e	
+the(2)	dh(td,ax)b	ax(dh,s)e	
+southern	s(ax,ah)b	ah(s,dh)	dh(ah,axr)	axr(dh,n)	n(axr,eh)e	
+end	eh(n,n)b	n(eh,dd)	dd(n,ah)e	
+of	ah(dd,v)b	v(ah,aa)e	
+our	aa(v,r)b	r(aa,p)e	
+planet	p(r,l)b	l(p,ae)	ae(l,n)	n(ae,ax)	ax	td(ax,sil)e	
+</s>	sile	

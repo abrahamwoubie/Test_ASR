@@ -1,0 +1,10 @@
+fcmm1aa2:word>                  <s>    0    2         -777962
+fcmm1aa2:word>                 CODE    3   52       -10242471
+fcmm1aa2:word>                [SIL]   53   63        -2015924
+fcmm1aa2:word>                 </s>   64  300       -29322641
+fcmm1aa2:phone>                 SILb    0    2         -777962
+fcmm1aa2:phone>           K(SIL,OW)b    3   13        -2382623
+fcmm1aa2:phone>             OW(K,DD)   14   34        -4143207
+fcmm1aa2:phone>          DD(OW,SIL)e   35   52        -3716641
+fcmm1aa2:phone>                  SIL   53   63        -2015924
+fcmm1aa2:phone>                 SILe   64  300       -29322641

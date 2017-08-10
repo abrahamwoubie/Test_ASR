@@ -1,0 +1,24 @@
+<s>	silb	
+[noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,f)e	
+first	f(ax,er)b	er(f,s)	s(er,td)	td(s,th)e	
+thing	th(td,ih)b	ih(th,ng)	ng(ih,dh)e	
+the(2)	dh(ng,ax)b	ax(dh,k)e	
+/k	k	
+ae(/ae/)	ae(k,l)	
+l(/l/)	l(ae,axr)e	
+axr/	axr(l,sil)e	
+sil	sil	
+caterpillar(2)	k(sil,ae)b	ae(k,dx)	dx(ae,axr)	axr	p	ih	l	axr(l,iy)e	
+eats	iy	ts(iy,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,ao)e	
+/ao	ao	
+sil	sil	
+ih(/ih/)	ih	
+z/	z(ih,ih)e	
+its	ih(z,ts)b	ts(ih,ow)e	
+own	ow(ts,n)b	n(ow,eh)e	
+eggshell	eh(n,g)b	g	sh	eh	l(eh,sil)e	
+[noise](+noise+)	+noise+	
+</s>	sile	

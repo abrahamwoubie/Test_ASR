@@ -1,0 +1,10 @@
+mdom2ab2:word>                  <s>    0    5        -1004690
+mdom2ab2:word>              [NOISE]    6   31        -3806648
+mdom2ab2:word>    [NOISE](+EXHALE+)   32   34         -560255
+mdom2ab2:word>                [SIL]   35   46        -2866763
+mdom2ab2:word>                 </s>   47  296       -25996635
+mdom2ab2:phone>                 SILb    0    5        -1004690
+mdom2ab2:phone>                  SIL    6   31        -3806648
+mdom2ab2:phone>             +EXHALE+   32   34         -560255
+mdom2ab2:phone>                  SIL   35   46        -2866763
+mdom2ab2:phone>                 SILe   47  296       -25996635

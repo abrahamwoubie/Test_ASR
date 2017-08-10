@@ -1,0 +1,59 @@
+<s>	silb	
+sil	sil	
+/ow	ow(sil,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n/	n(ih,sil)e	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+are	aa(sil,r)b	r(aa,sil)e	
+sil	sil	
+[begin_noise]	sil	
+/ow	ow(sil,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n(/n/)	n(ih,z)e	
+z/	z(n,sil)e	
+sil	sil	
+are	aa(sil,r)b	r(aa,sil)e	
+sil	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,sil)e	
+sil	sil	
+/b	b	
+ao(/ao/)	ao	
+r	aa(ao,r)b	r(aa,sil)e	
+sil	sil	
+t(/t/)	t	
+er/	er	
+sil	sil	
+/b	b	
+ao(/ao/)	ao	
+r	aa(ao,r)b	r(aa,sil)e	
+sil	sil	
+t	t(sil,iy)b	iy(t,axr)e	
+er	axr(iy,ix)e	
+ix(/ix/)	ix	
+z/	z(ix,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,w)e	
+/w	w	
+ao(/ao/)	ao	
+sil	sil	
+dx/	dx	
+sil	sil	
+bodies	b	aa	dx	iy(dx,z)	z(iy,ah)e	
+of	ah(z,v)b	v(ah,w)e	
+/w	w	
+ao(/ao/)	ao	
+sil	sil	
+t(/t/)	t	
+er/	er	
+[human_noise](+noise+)	+noise+	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+[end_noise]	sil	
+</s>	sile	

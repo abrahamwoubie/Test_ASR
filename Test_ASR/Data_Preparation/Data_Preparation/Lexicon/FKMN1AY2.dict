@@ -1,0 +1,39 @@
+<s>	silb	
+now	n(sil,aw)b	aw(n,sil)e	
+sil	sil	
+a	ax(sil,l)s	
+lot(2)	l(ax,ao)b	ao(l,td)	td(ao,m)e	
+/m	m	
+ow/	ow(m,sil)s	
+sil	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+sil	sil	
+cans	k(sil,ae)b	ae(k,n)	n(ae,z)	z(n,sil)e	
+sil	sil	
+/b	b	
+uh	ah(b,dx)	
+dx(/dx/)	dx(ah,axr)	
+axr(/axr/)	axr(dx,z)e	
+z/	z(axr,sil)e	
+sil	sil	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,p)e	
+/p	p	
+ey(/ey/)	ey(p,sil)e	
+sil	sil	
+p(/p/)	p	
+sil	sil	
+er	axr	
+z/	z(axr,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+</s>	sile	

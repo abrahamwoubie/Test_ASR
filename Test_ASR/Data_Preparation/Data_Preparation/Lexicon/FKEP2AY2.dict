@@ -1,0 +1,24 @@
+<s>	silb	
+[noise]	sil	
+[begin_noise]	sil	
+butterflies	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,k)e	
+/k/	k	
+sil	sil	
+[end_noise]	sil	
+carry(2)	k(sil,eh)b	eh(k,r)	r(eh,iy)	iy(r,dh)e	
+the(2)	dh(iy,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+pollen	p(sil,aa)b	aa	l	ax(l,n)	n(ax,sil)e	
+[end_noise]	sil	
+from(2)	f(sil,r)b	r(f,ah)	ah(r,m)	m(ah,sil)e	
+sil	sil	
+[human_noise]	sil	
+one	w(sil,ah)b	ah(w,n)	n(ah,sil)e	
+[begin_noise]	sil	
+flower	f(sil,l)b	l	aw	axr(aw,sil)e	
+[end_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,ax)e	
+another	ax(uw,n)b	n(ax,ah)	ah(n,dh)	dh(ah,axr)	axr(dh,sil)e	
+[human_noise]	sil	
+[sil]	sil	
+</s>	sile	

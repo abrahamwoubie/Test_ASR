@@ -1,0 +1,36 @@
+<s>	silb	
+all	ao(sil,l)b	l(ao,dh)e	
+they	dh(l,ey)b	ey(dh,n)e	
+need	n(ey,iy)b	iy(n,dd)	dd(iy,t)e	
+to(3)	t(dd,uw)b	uw(t,d)e	
+do	d(uw,uw)b	uw(d,ih)e	
+is	ih(uw,z)b	z(ih,sil)e	
+sil	sil	
+turn	t(sil,er)b	er(t,n)	n(er,ao)e	
+on(2)	ao(n,n)b	n(ao,ey)e	
+a(2)	ey(n,k)s	
+/k	k	
+ah	aa	
+m(/m/)	m	
+p(/p/)	p(m,y)	
+y(/y/)	y(p,uw)	
+uw(/uw/)	uw(y,t)e	
+t(/t/)	t	
+er	axr(t,s)e	
+s/	s	
+sil	sil	
+[noise]	sil	
+a(2)	ey(sil,k)s	
+computer	k(ey,ax)b	ax(k,m)	m(ax,p)	p(m,y)	y(p,uw)	uw(y,dx)	dx(uw,axr)	axr(dx,dh)e	
+that's	dh(axr,ae)b	ae(dh,ts)	ts(ae,sil)e	
+sil	sil	
+hooked	hh	uh	kd(uh,td)	td(kd,ah)e	
+up	ah(td,pd)b	pd(ah,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,dh)e	
+their	dh(uw,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+children's	ch(sil,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,z)	z(n,s)e	
+school	s(z,k)b	k(s,uw)	uw(k,l)	l(uw,sil)e	
+[noise]	sil	
+</s>	sile	

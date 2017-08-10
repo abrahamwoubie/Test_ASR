@@ -1,0 +1,26 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,k)e	
+carry(2)	k(ey,eh)b	eh(k,r)	r(eh,iy)	iy(r,sil)e	
+[begin_noise]	sil	
+food	f(sil,uw)b	uw(f,dd)	dd(uw,sil)e	
+[end_noise]	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,ae)e	
+and	ae(axr,n)b	n(ae,dd)	dd(n,m)e	
+/m	m	
+eh	eh	
+ih(/ih/)	ih	
+s(/s/)	s(ih,ih)e	
+ih(/ih/)	ih(s,n)	
+n/	n(ih,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,ax)e	
+of(2)	ax(l,v)b	v(ax,r)e	
+rwanda	r(v,ax)	ax	w(ax,aa)	aa(w,n)	n	d(n,ax)	ax	
+[sil]	sil	
+</s>	sile	

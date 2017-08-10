@@ -1,0 +1,30 @@
+<s>	silb	
+[noise]	sil	
+they	dh(sil,ey)b	ey(dh,s)e	
+say	s(ey,ey)b	ey(s,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+/d	d	
+sil	sil	
+ay	ay(sil,sil)s	
+sil	sil	
+n(/n/)	n	
+ah(/ah/)	ah	
+s(/s/)	s(ah,ao)e	
+ao(/ao/)	ao(s,aa)e	
+r	aa(ao,r)b	r(aa,z)e	
+z/	z(r,l)e	
+/l/	l	
+/s/	s(l,l)e	
+/l/	l	
+sil	sil	
+[end_noise]	sil	
+laid	l(sil,ey)b	ey(l,dd)	dd(ey,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

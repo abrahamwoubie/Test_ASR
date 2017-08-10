@@ -1,0 +1,30 @@
+<s>	silb	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+[begin_whisper]	sil	
+/hh	hh	
+eh	eh	
+sil	sil	
+l(/l/)	l	
+p/	p	
+[end_whisper]	sil	
+[begin_noise]	sil	
+he	hh(sil,iy)b	iy(hh,f)e	
+found	f(iy,aw)b	aw(f,n)	n(aw,dd)	dd(n,sil)e	
+[end_noise]	sil	
+out	aw(sil,td)b	td(aw,dh)e	
+that	dh(td,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[begin_noise]	sil	
+birds	b(sil,er)b	er	d(er,z)	z(d,sil)e	
+[end_noise]	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,dh)e	
+their	dh(pd,eh)b	eh(dh,r)	r(eh,sil)e	
+[begin_noise]	sil	
+babies	b(sil,ey)b	ey	b(ey,iy)	iy	z(iy,sil)e	
+[end_noise]	sil	
+warm	w(sil,ao)b	ao(w,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

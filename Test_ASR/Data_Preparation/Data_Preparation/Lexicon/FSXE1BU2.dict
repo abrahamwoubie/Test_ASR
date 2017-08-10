@@ -1,0 +1,33 @@
+<s>	silb	
+[begin_whisper]	sil	
+that(2)	dh(sil,ax)b	ax	td(ax,ix)e	
+is(2)	ix(td,z)b	z(ix,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+/s	s	
+ay	ay(s,ah)s	
+ah(/ah/)	ah	
+n(/n/)	n(ah,sil)e	
+sil	sil	
+t(/t/)	t	
+ih(/ih/)	ih	
+s/	s(ih,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+are	aa(sil,r)b	r(aa,w)e	
+working	w(r,er)b	er(w,k)	k(er,ix)	ix(k,ng)	ng(ix,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+[noise](+noise+)	+noise+	
+[begin_whisper]	sil	
+/ah	ah	
+m/	m(ah,sil)e	
+[end_whisper]	sil	
+</s>	sile	

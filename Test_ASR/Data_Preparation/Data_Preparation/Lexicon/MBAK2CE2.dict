@@ -1,0 +1,18 @@
+<s>	silb	
+sil	sil	
+[noise](+swallow+)	+swallow+	
+sil	sil	
+children	ch(sil,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,s)e	
+start	s(n,t)b	t(s,aa)	aa(t,r)	r(aa,td)	td(r,s)e	
+school	s(td,k)b	k(s,uw)	uw(k,l)	l(uw,w)e	
+when(3)	w(l,eh)b	eh(w,n)	n(eh,dh)e	
+they	dh(n,ey)b	ey(dh,sil)e	
+[noise]	sil	
+are	aa(sil,r)b	r(aa,sil)e	
+sil	sil	
+seven	s(sil,eh)b	eh(s,v)	v(eh,ax)	ax(v,n)	n(ax,y)e	
+years	y(n,ih)b	ih(y,r)	r(ih,z)	z(r,ow)e	
+old	ow(z,l)b	l(ow,dd)	dd(l,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

@@ -1,0 +1,24 @@
+<s>	silb	
+[noise]	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+plants	p(sil,l)b	l(p,ae)	ae(l,n)	n	ts(n,sil)e	
+[end_noise]	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+/ae	ae	
+n(/n/)	n(ae,ix)e	
+ix(/ix/)	ix	
+m(/m/)	m(ix,ax)e	
+ax(/ax/)	ax(m,l)s	
+l(/l/)	l(ax,z)e	
+z/	z(l,sil)e	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the	dh(n,ah)b	ah(dh,sil)e	
+sil	sil	
+oceans	ow	sh(ow,ax)	ax(sh,n)	n(ax,z)	z(n,sil)e	
+[sil]	sil	
+</s>	sile	

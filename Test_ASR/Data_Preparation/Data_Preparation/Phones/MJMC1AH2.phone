@@ -1,0 +1,13 @@
+mjmc1ah2:phone> SILb 0.00 24.00 -3511277
+mjmc1ah2:phone> +RUSTLE+ 25.00 37.00 -2540415
+mjmc1ah2:phone> G(SIL,OW)b 38.00 46.00 -1420098
+mjmc1ah2:phone> OW(G,IH)e 47.00 70.00 -3580594
+mjmc1ah2:phone> IH(OW,N)b 71.00 89.00 -3770503
+mjmc1ah2:phone> N(IH,D) 90.00 99.00 -1960071
+mjmc1ah2:phone> D 100.00 113.00 -2659527
+mjmc1ah2:phone> AO(D,R) 114.00 143.00 -4491364
+mjmc1ah2:phone> R(AO,Z) 144.00 151.00 -1029617
+mjmc1ah2:phone> Z(R,SIL)e 152.00 158.00 -1448434
+mjmc1ah2:phone> +INHALE+ 159.00 185.00 -4069554
+mjmc1ah2:phone> SIL 186.00 244.00 -7631929
+mjmc1ah2:phone> SILe 245.00 620.00 -43503861

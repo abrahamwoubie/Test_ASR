@@ -1,0 +1,16 @@
+fkmn1ah1:word>                  <s>    0    7        -1501106
+fkmn1ah1:word>                   GO    8   40        -5240813
+fkmn1ah1:word>                  SIL   41   43         -718312
+fkmn1ah1:word>              INDOORS   44  128       -16603646
+fkmn1ah1:word>                 </s>  129  500       -43478167
+fkmn1ah1:phone>                 SILb    0    7        -1501106
+fkmn1ah1:phone>           G(SIL,OW)b    8   15        -1489027
+fkmn1ah1:phone>           OW(G,SIL)e   16   40        -3751786
+fkmn1ah1:phone>                  SIL   41   43         -718312
+fkmn1ah1:phone>           IH(SIL,N)b   44   51        -1484627
+fkmn1ah1:phone>              N(IH,D)   52   58        -1446885
+fkmn1ah1:phone>                    D   59   70        -2652460
+fkmn1ah1:phone>              AO(D,R)   71   92        -4110928
+fkmn1ah1:phone>              R(AO,Z)   93  105        -1782354
+fkmn1ah1:phone>            Z(R,SIL)e  106  128        -5126392
+fkmn1ah1:phone>                 SILe  129  500       -43478167

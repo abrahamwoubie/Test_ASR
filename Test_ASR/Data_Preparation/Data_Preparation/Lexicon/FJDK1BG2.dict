@@ -1,0 +1,60 @@
+<s>	silb	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+sil	sil	
+soil	s	oy	l	
+[sil]	sil	
+[begin_noise]	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+[end_noise]	sil	
+/ax/	ax(sil,sil)s	
+sil	sil	
+under	ah(sil,n)b	n(ah,d)	d(n,axr)	axr(d,sil)e	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+/p	p	
+l/	l	
+[human_noise]	sil	
+[begin_whisper]	sil	
+/p	p	
+l(/l/)	l(p,ey)	
+ey/	ey(l,sil)s	
+sil	sil	
+/p	p	
+l(/l/)	l(p,ey)	
+ey/	ey(l,sil)s	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+/p/	p	
+sil	sil	
+/t/	t	
+[human_noise]	sil	
+/hh/	hh	
+sil	sil	
+/hh	hh	
+eh/	eh	
+sil	sil	
+[begin_noise]	sil	
+help	hh(sil,eh)b	eh(hh,l)	l(eh,pd)	pd(l,sil)e	
+[end_noise]	sil	
+[end_whisper]	sil	
+[begin_noise]	sil	
+help	hh(sil,eh)b	eh(hh,l)	l(eh,pd)	pd(l,sil)e	
+sil	sil	
+[end_noise]	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+sil	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+sil	sil	
+[begin_whisper]	sil	
+how	hh(sil,aw)b	aw(hh,k)e	
+could	k(aw,uh)b	uh(k,dd)	dd(uh,g)e	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+sil	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+[end_whisper]	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

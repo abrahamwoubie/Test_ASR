@@ -1,0 +1,15 @@
+fdjf1be2:phone> SILb 0.00 33.00 -4640204
+fdjf1be2:phone> DH(SIL,EY)b 34.00 37.00 -577381
+fdjf1be2:phone> EY(DH,Y)e 38.00 55.00 -2847778
+fdjf1be2:phone> Y(EY,UW)b 56.00 67.00 -2047988
+fdjf1be2:phone> UW(Y,Z) 68.00 77.00 -1822795
+fdjf1be2:phone> Z(UW,W)e 78.00 82.00 -972202
+fdjf1be2:phone> W(Z,ER)b 83.00 92.00 -1440607
+fdjf1be2:phone> ER 93.00 114.00 -3689149
+fdjf1be2:phone> M(ER,Z) 115.00 118.00 -706140
+fdjf1be2:phone> Z(M,T)e 119.00 126.00 -1435260
+fdjf1be2:phone> T(Z,UW)b 127.00 135.00 -1568247
+fdjf1be2:phone> UW(T,SIL)e 136.00 147.00 -2030031
+fdjf1be2:phone> SIL 148.00 152.00 -953385
+fdjf1be2:phone> IY(SIL,SIL)s 153.00 156.00 -1006839
+fdjf1be2:phone> SILe 157.00 160.00 -1109211

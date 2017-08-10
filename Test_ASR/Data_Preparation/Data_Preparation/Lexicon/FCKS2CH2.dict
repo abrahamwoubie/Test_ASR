@@ -1,0 +1,36 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+/t	t	
+r(/r/)	r(t,ae)	
+ae(/ae/)	ae(r,v)	
+v(/v/)	v(ae,ah)e	
+ah(/ah/)	ah	
+l(/l/)	l(ah,d)e	
+d/	d	
+[end_noise]	sil	
+on	aa(sil,n)b	n(aa,d)e	
+dirt	d(n,er)b	er	td	
+roads	r(td,ow)b	ow	d(ow,z)	z(d,sil)e	
+[begin_noise]	sil	
+to(2)	t	ix	
+make	m(ix,ey)b	ey(m,kd)	kd(ey,sil)e	
+[end_noise]	sil	
+their	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+[begin_noise]	sil	
+marketplace(2)	m(sil,aa)b	aa(m,r)	r(aa,k)	k(r,ix)	ix(k,td)	td	p	l(p,ey)	ey(l,s)	s(ey,sil)e	
+sil	sil	
+[end_noise]	sil	
+to	t(sil,ax)b	ax(t,m)e	
+make	m(ax,ey)b	ey(m,kd)	kd(ey,ax)e	
+a	ax(kd,sil)s	
+[begin_noise]	sil	
+marketplace(2)	m(sil,aa)b	aa(m,r)	r(aa,k)	k(r,ix)	ix(k,td)	td	p	l(p,ey)	ey(l,s)	s(ey,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

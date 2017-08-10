@@ -1,0 +1,30 @@
+<s>	silb	
+[begin_noise]	sil	
+turn	t(sil,er)b	er(t,n)	n(er,sil)e	
+[end_noise]	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+off	ao(sil,f)b	f(ao,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+[begin_noise]	sil	
+/t	t	
+eh	eh(t,l)	
+l(/l/)	l(eh,ax)e	
+ax(/ax/)	ax(l,v)s	
+v	v(ax,iy)b	iy(v,sil)e	
+sil	sil	
+jh(/jh/)	jh	
+ax(/ax/)	ax(jh,n)s	
+n/	n(ax,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise]	sil	
+/aa	aa	
+r/	r(aa,sil)e	
+sil	sil	
+[noise]	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

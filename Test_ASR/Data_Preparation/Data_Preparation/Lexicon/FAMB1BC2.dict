@@ -1,0 +1,16 @@
+<s>	silb	
+[begin_noise]	sil	
+not	n	aa	td	
+sil	sil	
+as	ae(sil,z)b	z(ae,sil)e	
+sil	sil	
+much	m(sil,ah)b	ah(m,ch)	ch(ah,sil)e	
+sil	sil	
+trash	t(sil,r)b	r(t,ae)	ae	sh(ae,sil)e	
+[end_noise]	sil	
+past	p(sil,ae)b	ae(p,s)	s(ae,td)	td(s,sil)e	
+sil	sil	
+up	ah(sil,pd)b	pd(ah,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

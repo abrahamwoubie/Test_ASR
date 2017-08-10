@@ -1,0 +1,19 @@
+<s>	silb	
+[noise]	sil	
+when(4)	w(sil,ih)b	ih(w,n)	n(ih,y)e	
+you	y(n,uw)b	uw(y,jh)e	
+jump	jh(uw,ah)b	ah(jh,m)	m	pd	
+sil	sil	
+rope	r(sil,ow)b	ow	pd(ow,sil)e	
+sil	sil	
+you	y(sil,uw)b	uw(y,g)e	
+get	g(uw,eh)b	eh(g,td)	td(eh,sil)e	
+sil	sil	
+exercise	eh(sil,k)b	k(eh,s)	s	axr	s(axr,ay)	ay(s,z)	z(ay,sil)e	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,hh)e	
+helps	hh(td,eh)b	eh(hh,l)	l	p	s(p,y)e	
+your(2)	y(s,uh)b	uh(y,r)	r(uh,hh)e	
+heart	hh(r,aa)b	aa(hh,r)	r(aa,td)	td(r,sil)e	
+sil	sil	
+</s>	sile	

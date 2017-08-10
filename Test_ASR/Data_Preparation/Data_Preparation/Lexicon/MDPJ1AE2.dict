@@ -1,0 +1,19 @@
+<s>	silb	
+can	k(sil,ae)b	ae(k,n)	n(ae,w)e	
+warm	w(n,ao)b	ao(w,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+[end_noise]	sil	
+[human_noise]	sil	
+/ae	ae	
+n	eh(sil,n)b	n(eh,d)e	
+d	d(n,iy)b	iy(d,ih)e	
+ih/	ih	
+sil	sil	
+buildings	b(sil,ih)b	ih(b,l)	l(ih,d)	d	ix(d,ng)	ng(ix,z)	z(ng,sil)e	
+sil	sil	
+</s>	sile	

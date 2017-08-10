@@ -1,0 +1,17 @@
+mwjk2bu1:phone> SILb 0.00 47.00 -5795244
+mwjk2bu1:phone> DH(SIL,AX)b 48.00 52.00 -900184
+mwjk2bu1:phone> AX(DH,K)e 53.00 58.00 -1157456
+mwjk2bu1:phone> K(AX,AH)b 59.00 72.00 -2319487
+mwjk2bu1:phone> AH(K,N) 73.00 84.00 -2083756
+mwjk2bu1:phone> N(AH,T) 85.00 89.00 -746719
+mwjk2bu1:phone> T(N,R) 90.00 98.00 -1296987
+mwjk2bu1:phone> R(T,IY) 99.00 104.00 -883001
+mwjk2bu1:phone> IY(R,HH)e 105.00 113.00 -1110789
+mwjk2bu1:phone> HH(IY,AE)b 114.00 119.00 -887788
+mwjk2bu1:phone> AE(HH,DD) 120.00 131.00 -1489834
+mwjk2bu1:phone> DD(AE,AX)e 132.00 134.00 -457582
+mwjk2bu1:phone> AX(DD,W)s 135.00 145.00 -1952822
+mwjk2bu1:phone> W(AX,AO)b 146.00 164.00 -2520582
+mwjk2bu1:phone> AO(W,R) 165.00 183.00 -2372801
+mwjk2bu1:phone> R(AO,SIL)e 184.00 194.00 -1674084
+mwjk2bu1:phone> SILe 195.00 394.00 -23191961

@@ -1,0 +1,17 @@
+fslw1ai1:phone> SILb 0.00 34.00 -4176359
+fslw1ai1:phone> SIL 35.00 70.00 -6628736
+fslw1ai1:phone> S(SIL,T)b 71.00 86.00 -2704038
+fslw1ai1:phone> T(S,EY) 87.00 95.00 -1291101
+fslw1ai1:phone> EY(T,AX)e 96.00 128.00 -4944073
+fslw1ai1:phone> AX(EY,W)b 129.00 135.00 -1166376
+fslw1ai1:phone> W(AX,EY) 136.00 149.00 -1596542
+fslw1ai1:phone> EY(W,F)e 150.00 173.00 -3006532
+fslw1ai1:phone> F(EY,AXR)b 174.00 189.00 -3652141
+fslw1ai1:phone> AXR(F,M) 190.00 209.00 -3583097
+fslw1ai1:phone> M 210.00 224.00 -2607654
+fslw1ai1:phone> SIL 225.00 241.00 -3141696
+fslw1ai1:phone> W(SIL,AO)b 242.00 263.00 -3875420
+fslw1ai1:phone> AO(W,DX) 264.00 284.00 -3633476
+fslw1ai1:phone> DX(AO,AXR) 285.00 290.00 -1187357
+fslw1ai1:phone> AXR(DX,SIL)e 291.00 303.00 -2229645
+fslw1ai1:phone> SILe 304.00 660.00 -41957921

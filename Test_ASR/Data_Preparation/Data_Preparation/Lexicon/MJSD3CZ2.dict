@@ -1,0 +1,12 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+a	ax	
+space	s(ax,p)b	p(s,ey)	ey(p,s)	s(ey,sil)e	
+sil	sil	
+station	s(sil,t)b	t(s,ey)	ey(t,sh)	sh(ey,ax)	ax(sh,n)	n(ax,hh)e	
+has(2)	hh(n,ax)b	ax	z(ax,m)e	
+many	m(z,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+parts	p(sil,aa)b	aa(p,r)	r(aa,ts)	ts(r,sil)e	
+[noise]	sil	
+</s>	sile	

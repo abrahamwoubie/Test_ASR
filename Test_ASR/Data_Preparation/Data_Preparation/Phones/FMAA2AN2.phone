@@ -1,0 +1,10 @@
+fmaa2an2:phone> SILb 0.00 2.00 -982762
+fmaa2an2:phone> IH(SIL,N)b 3.00 5.00 -847849
+fmaa2an2:phone> N(IH,SIL)e 6.00 11.00 -1238040
+fmaa2an2:phone> SIL 12.00 14.00 -761320
+fmaa2an2:phone> IY(SIL,CH)b 15.00 22.00 -1575279
+fmaa2an2:phone> CH(IY,K)e 23.00 35.00 -1859323
+fmaa2an2:phone> K(CH,EY)b 36.00 51.00 -2959513
+fmaa2an2:phone> EY 52.00 83.00 -4830822
+fmaa2an2:phone> JH 84.00 107.00 -4471983
+fmaa2an2:phone> SILe 108.00 318.00 -24389026

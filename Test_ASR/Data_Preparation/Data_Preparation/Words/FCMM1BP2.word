@@ -1,0 +1,17 @@
+fcmm1bp2:word> <s> 0.00 33.00 -4332878
+fcmm1bp2:word> SIL 34.00 36.00 -621032
+fcmm1bp2:word> OCEANS 37.00 101.00 -12418156
+fcmm1bp2:word> SIL 102.00 105.00 -826690
+fcmm1bp2:word> ARE 106.00 131.00 -4040919
+fcmm1bp2:word> BIG 132.00 187.00 -8517084
+fcmm1bp2:word> SIL 188.00 211.00 -3602568
+fcmm1bp2:word> BODIES 212.00 256.00 -8065233
+fcmm1bp2:word> OF 257.00 279.00 -3788435
+fcmm1bp2:word> /W 280.00 295.00 -2431795
+fcmm1bp2:word> AA(/AA/) 296.00 310.00 -2175037
+fcmm1bp2:word> T(/T/) 311.00 326.00 -3118074
+fcmm1bp2:word> AO(/AO/) 327.00 341.00 -2241778
+fcmm1bp2:word> R/ 342.00 346.00 -952781
+fcmm1bp2:word> [HUMAN_NOISE](+NOISE+) 347.00 349.00 -665526
+fcmm1bp2:word> [SIL] 350.00 352.00 -610792
+fcmm1bp2:word> </s> 353.00 628.00 -32781775

@@ -1,0 +1,46 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,l)	
+l(/l/)	l(ae,aa)e	
+ah	aa	
+f(/f/)	f(aa,ao)e	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,n)e	
+n(/n/)	n(r,y)e	
+y(/y/)	y(n,ax)	
+ax/	ax(y,sil)e	
+[end_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+are	aa(sil,r)b	r(aa,w)e	
+working	w(r,er)b	er(w,k)	k(er,ix)	ix(k,ng)	ng(ix,sil)e	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+/s	s	
+th(/th/)	th(s,iy)e	
+iy(/iy/)	iy	
+l/	l(iy,hh)e	
+/hh	hh	
+ow	ow(hh,m)	
+m(/m/)	m(ow,s)e	
+s(/s/)	s	
+th/	th(s,k)e	
+clean	k(th,l)b	l(k,iy)	iy(l,n)	n(iy,sil)e	
+[end_noise]	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,sil)e	
+[begin_noise]	sil	
+/s	s	
+th(/th/)	th(s,ey)e	
+ey(/ey/)	ey(th,f)s	
+f/	f(ey,sil)e	
+[end_noise]	sil	
+</s>	sile	

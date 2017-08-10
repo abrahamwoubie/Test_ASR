@@ -1,0 +1,14 @@
+famp2bh1:phone> SILb 0.00 2.00 -708330
+famp2bh1:phone> DH(SIL,AX)b 3.00 8.00 -1084893
+famp2bh1:phone> AX(DH,JH)e 9.00 14.00 -971013
+famp2bh1:phone> JH(AX,UW)b 15.00 28.00 -2019200
+famp2bh1:phone> UW 29.00 40.00 -1862023
+famp2bh1:phone> S(UW,G)e 41.00 51.00 -1702738
+famp2bh1:phone> G(S,EH)b 52.00 60.00 -1544116
+famp2bh1:phone> EH(G,TS) 61.00 68.00 -1119219
+famp2bh1:phone> TS(EH,HH)e 69.00 80.00 -2014644
+famp2bh1:phone> HH(TS,AA)b 81.00 88.00 -1174922
+famp2bh1:phone> AA(HH,R) 89.00 118.00 -3549855
+famp2bh1:phone> R 119.00 131.00 -2507455
+famp2bh1:phone> DD(R,SIL)e 132.00 138.00 -1374264
+famp2bh1:phone> SILe 139.00 510.00 -47040636

@@ -1,0 +1,28 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+/m	m	
+ow	ow(m,s)s	
+s/	s(ow,sil)e	
+[begin_noise]	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+[end_noise]	sil	
+only	ow(sil,n)b	n(ow,l)	l(n,iy)	iy(l,sil)e	
+[begin_noise]	sil	
+/ih	ih	
+n	eh(sil,n)b	n(eh,sil)e	
+sil	sil	
+ah	aa	
+f/	f(aa,sil)e	
+[end_noise]	sil	
+food	f(sil,uw)b	uw(f,dd)	dd(uw,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to	t(sil,ax)b	ax(t,f)e	
+feed	f(ax,iy)b	iy(f,dd)	dd(iy,dh)e	
+their	dh(dd,eh)b	eh(dh,r)	r(eh,ow)e	
+own	ow(r,n)b	n(ow,sil)e	
+[begin_noise]	sil	
+families(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,sil)e	
+[end_noise]	sil	
+</s>	sile	

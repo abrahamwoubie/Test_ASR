@@ -1,0 +1,34 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+a	ax(sil,k)s	
+/k	k	
+[noise](+rustle+)	+rustle+	
+dx(/dx/)	dx	
+axr(/axr/)	axr(dx,p)e	
+p(/p/)	p	
+ih(/ih/)	ih	
+l(/l/)	l(ih,axr)e	
+axr/	axr(l,w)e	
+with(4)	w(axr,ix)b	ix(w,th)	th(ix,ey)e	
+a(2)	ey(th,sh)s	
+shell	sh	eh	l(eh,axr)e	
+around	axr(l,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is	ih(sil,z)b	z(ih,sil)e	
+sil	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+sil	sil	
+a	ax(sil,sil)s	
+sil	sil	
+/p	p	
+y(/y/)	y(p,uw)	
+uw(/uw/)	uw(y,p)e	
+p(/p/)	p	
+ax/	ax(p,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

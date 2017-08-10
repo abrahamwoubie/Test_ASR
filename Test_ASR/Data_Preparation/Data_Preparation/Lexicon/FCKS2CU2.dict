@@ -1,0 +1,28 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+penguin	p(sil,eh)b	eh	ng	g	w	ax(w,n)	n(ax,sil)e	
+[end_noise]	sil	
+fathers	f(sil,aa)b	aa(f,dh)	dh(aa,axr)	axr(dh,z)	z(axr,sil)e	
+[human_noise]	sil	
+gather	g(sil,ae)b	ae	dh(ae,axr)	axr(dh,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,ax)e	
+a	ax(n,sil)s	
+[begin_noise]	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,sil)e	
+[end_noise]	sil	
+circle	s(sil,er)b	er	k	ax(k,l)	l(ax,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+[begin_whisper]	sil	
+do	d(sil,uw)b	uw(d,dh)e	
+that(2)	dh(uw,ax)b	ax	td(ax,sil)e	
+[end_whisper]	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

@@ -1,0 +1,47 @@
+<s>	silb	
+noises	n	oy(n,z)	z	ix(z,z)	z(ix,sil)e	
+sil	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,hh)e	
+harm	hh(n,aa)b	aa(hh,r)	r	m(r,sil)e	
+[human_noise]	sil	
+hairs	hh(sil,eh)b	eh(hh,r)	r(eh,z)	z(r,d)e	
+deep	d(z,iy)b	iy	pd(iy,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+inside	ih(sil,n)b	n(ih,s)	s(n,ay)	ay(s,dd)	dd(ay,sil)e	
+[noise](+smack+)	+smack+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+your	y(sil,ao)b	ao(y,r)	r(ao,sil)e	
+sil	sil	
+ears	ih	r(ih,z)	z(r,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,w)e	
+way	w(m,ey)b	ey(w,sil)e	
+sil	sil	
+/hh	hh	
+er(/er/)	er(hh,ah)e	
+ah(/ah/)	ah	
+k	k(ah,ey)b	ey(k,ey)e	
+ey(/ey/)	ey(ey,n)s	
+n(/n/)	n(ey,sil)e	
+sil	sil	
+s/	s	
+sil	sil	
+winds(2)	w(sil,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+harm	hh(sil,aa)b	aa(hh,r)	r	m(r,t)e	
+trees	t(m,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+[whisper](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

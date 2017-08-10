@@ -1,0 +1,11 @@
+fsqh1ah1:phone> SILb 0.00 5.00 -1040772
+fsqh1ah1:phone> G(SIL,OW)b 6.00 14.00 -1454485
+fsqh1ah1:phone> OW(G,SIL)e 15.00 42.00 -4266152
+fsqh1ah1:phone> SIL 43.00 50.00 -1404970
+fsqh1ah1:phone> IH(SIL,N)b 51.00 66.00 -2626219
+fsqh1ah1:phone> N(IH,D) 67.00 83.00 -2850820
+fsqh1ah1:phone> D 84.00 91.00 -1202286
+fsqh1ah1:phone> AO(D,R) 92.00 113.00 -3882244
+fsqh1ah1:phone> R(AO,Z) 114.00 132.00 -3668815
+fsqh1ah1:phone> Z(R,SIL)e 133.00 156.00 -4042836
+fsqh1ah1:phone> SILe 157.00 320.00 -19275691

@@ -1,0 +1,30 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+mother	m(sil,ah)b	ah(m,dh)	dh(ah,axr)	axr(dh,sil)e	
+sil	sil	
+sea	s(sil,iy)b	iy(s,sil)e	
+sil	sil	
+turtles	t(sil,er)b	er	dx	ax(dx,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+swim	s	w	ih	m(ih,sil)e	
+[sil]	sil	
+to	t(sil,ax)b	ax(t,l)e	
+/l	l(ax,ae)e	
+ae(/ae/)	ae	
+n	eh(sil,n)b	n(eh,td)	
+td/	td(n,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+only	ow(sil,n)b	n(ow,l)	l(n,iy)	iy(l,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+[begin_noise]	sil	
+to	t(sil,ax)b	ax(t,l)e	
+lay	l(ax,ey)b	ey(l,sil)e	
+[end_noise]	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,27 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,sil)e	
+[sil]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,r)e	
+recycle	r(l,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+[sil]	sil	
+[begin_whisper]	sil	
+/p	p	
+ae	ey(p,sil)e	
+sil	sil	
+s(/s/)	s	
+sil	sil	
+t(/t/)	t	
+sil	sil	
+k/	k	
+sil	sil	
+[end_whisper]	sil	
+[crosstalk](+smack+)	+smack+	
+sil	sil	
+plastic	p(sil,l)b	l(p,ae)	ae(l,s)	s(ae,t)	t(s,ix)	ix(t,kd)	kd(ix,sil)e	
+sil	sil	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+[sil]	sil	
+</s>	sile	

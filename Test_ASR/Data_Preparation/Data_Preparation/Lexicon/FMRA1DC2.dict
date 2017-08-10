@@ -1,0 +1,38 @@
+<s>	silb	
+sil	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,s)e	
+/s	s	
+sil	sil	
+s(/s/)	s	
+ih(/ih/)	ih(s,n)	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+t(/t/)	t	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+talk	t(sil,ao)b	ao(t,kd)	kd(ao,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,dh)e	
+the	dh(uw,ah)b	ah(dh,p)e	
+people	p(ah,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,hh)e	
+who	hh(l,uw)b	uw(hh,l)e	
+live(2)	l(uw,ih)b	ih(l,v)	v(ih,ih)e	
+in	ih(v,n)b	n(ih,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+/f	f	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ih)e	
+ih(/ih/)	ih(r,s)	
+s(/s/)	s(ih,sil)e	
+sil	sil	
+t/	t	
+</s>	sile	

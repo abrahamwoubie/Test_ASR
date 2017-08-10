@@ -1,0 +1,15 @@
+fkep2bn2:word> <s> 0.00 2.00 -801514
+fkep2bn2:word> ON(2) 3.00 33.00 -4250882
+fkep2bn2:word> SIL 34.00 42.00 -1596032
+fkep2bn2:word> TOP(2) 43.00 91.00 -7804025
+fkep2bn2:word> SIL 92.00 137.00 -6694302
+fkep2bn2:word> ITS(2) 138.00 162.00 -3826777
+fkep2bn2:word> COLORS 163.00 209.00 -8109502
+fkep2bn2:word> ARE 210.00 228.00 -3494332
+fkep2bn2:word> BRIGHT 229.00 261.00 -4929182
+fkep2bn2:word> SIL 262.00 267.00 -966676
+fkep2bn2:word> [NOISE](+SMACK+) 268.00 279.00 -2432685
+fkep2bn2:word> SIL 280.00 339.00 -8074418
+fkep2bn2:word> [NOISE](+NOISE+) 340.00 344.00 -942530
+fkep2bn2:word> [SIL] 345.00 353.00 -1974826
+fkep2bn2:word> </s> 354.00 504.00 -25213511

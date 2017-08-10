@@ -1,0 +1,35 @@
+<s>	silb	
+sil	sil	
+noises	n	oy(n,z)	z	ix(z,z)	z(ix,sil)e	
+sil	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,hh)e	
+harm	hh(n,aa)b	aa(hh,r)	r	m(r,hh)e	
+hairs	hh(m,eh)b	eh(hh,r)	r(eh,z)	z(r,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+deep	d(sil,iy)b	iy	pd(iy,ih)e	
+/ih	ih	
+n(/n/)	n(ih,s)e	
+s(/s/)	s(n,ay)e	
+ay/	ay(s,y)s	
+your(2)	y(ay,uh)b	uh(y,r)	r(uh,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+ears	ih	r(ih,z)	z(r,sil)e	
+[human_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,s)e	
+same	s(ax,ey)b	ey(s,m)	m(ey,w)e	
+way	w(m,ey)b	ey(w,hh)e	
+hurricane(2)	hh(ey,er)b	er	ax	k(ax,ey)	ey	n(ey,sil)e	
+[sil]	sil	
+winds	w(sil,ay)b	ay(w,n)	n(ay,d)	d(n,z)	z(d,sil)e	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+harm	hh(sil,aa)b	aa(hh,r)	r	m(r,t)e	
+trees	t(m,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+</s>	sile	

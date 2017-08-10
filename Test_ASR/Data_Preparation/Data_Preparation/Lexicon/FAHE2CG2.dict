@@ -1,0 +1,24 @@
+<s>	silb	
+[begin_noise]	sil	
+schools	s(sil,k)b	k(s,uw)	uw(k,l)	l	z(l,sil)e	
+[end_noise]	sil	
+in	ih(sil,n)b	n(ih,r)e	
+rwanda	r(n,ax)	ax	w(ax,aa)	aa(w,n)	n	d(n,ax)	ax	
+[begin_noise]	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,n)e	
+not	n	aa	td	
+[end_noise]	sil	
+have	hh(sil,ae)b	ae(hh,v)	v(ae,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+a(2)	ey(sil,r)s	
+room	r(ey,uw)b	uw(r,m)	m(uw,f)e	
+for(2)	f(m,axr)b	axr(f,ao)e	
+all	ao(axr,l)b	l(ao,dh)e	
+the(2)	dh(l,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+children	ch(sil,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

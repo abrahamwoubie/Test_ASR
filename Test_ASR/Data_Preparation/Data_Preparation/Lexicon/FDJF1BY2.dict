@@ -1,0 +1,14 @@
+<s>	silb	
+[noise]	sil	
+dolphins	d(sil,aa)b	aa	l	f(l,ax)	ax(f,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,ih)e	
+in	ih(v,n)b	n(ih,dh)e	
+the	dh(n,ah)b	ah(dh,ow)e	
+/ow	ow(ah,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n/	n(ih,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

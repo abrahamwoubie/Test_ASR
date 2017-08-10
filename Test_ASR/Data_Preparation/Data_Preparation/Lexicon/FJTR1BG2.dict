@@ -1,0 +1,19 @@
+<s>	silb	
+/ah/	ah	
+soil	s	oy	l	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+used	y(sil,uw)b	uw(y,z)	z(uw,dd)	dd(z,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+help	hh(sil,eh)b	eh(hh,l)	l(eh,pd)	pd(l,g)e	
+grass	g(pd,r)b	r(g,ae)	ae	s(ae,sil)e	
+[end_noise]	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+[crosstalk](+noise+)	+noise+	
+[noise](+noise+)	+noise+	
+</s>	sile	

@@ -1,0 +1,15 @@
+mjmc1ca2:word> <s> 0.00 2.00 -579271
+mjmc1ca2:word> THEY 3.00 78.00 -12843910
+mjmc1ca2:word> [BEGIN_NOISE] 79.00 120.00 -5978270
+mjmc1ca2:word> PLAY 121.00 175.00 -7602028
+mjmc1ca2:word> [END_NOISE] 176.00 179.00 -770547
+mjmc1ca2:word> AND(2) 180.00 221.00 -7637523
+mjmc1ca2:word> JUMP 222.00 258.00 -5150794
+mjmc1ca2:word> SIL 259.00 269.00 -1670328
+mjmc1ca2:word> IN(2) 270.00 296.00 -4240918
+mjmc1ca2:word> /D 297.00 301.00 -939448
+mjmc1ca2:word> AX/ 302.00 305.00 -749358
+mjmc1ca2:word> WATER 306.00 367.00 -8904237
+mjmc1ca2:word> [HUMAN_NOISE] 368.00 406.00 -5676178
+mjmc1ca2:word> [HUMAN_NOISE] 407.00 474.00 -8343036
+mjmc1ca2:word> </s> 475.00 540.00 -8201747

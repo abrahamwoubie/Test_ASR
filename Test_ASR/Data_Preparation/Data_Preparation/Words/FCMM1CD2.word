@@ -1,0 +1,13 @@
+fcmm1cd2:word> <s> 0.00 40.00 -5059965
+fcmm1cd2:word> [NOISE](+SWALLOW+) 41.00 47.00 -1196301
+fcmm1cd2:word> SIL 48.00 80.00 -4638763
+fcmm1cd2:word> THE 81.00 130.00 -7399939
+fcmm1cd2:word> SIL 131.00 151.00 -2810224
+fcmm1cd2:word> WHALES 152.00 227.00 -12250694
+fcmm1cd2:word> [BEGIN_NOISE] 228.00 237.00 -1616222
+fcmm1cd2:word> EAT 238.00 262.00 -4257544
+fcmm1cd2:word> [END_NOISE] 263.00 305.00 -5711464
+fcmm1cd2:word> SMALL 306.00 368.00 -9089513
+fcmm1cd2:word> FISH 369.00 411.00 -7843167
+fcmm1cd2:word> [SIL] 412.00 435.00 -4513243
+fcmm1cd2:word> </s> 436.00 716.00 -32669705

@@ -1,0 +1,28 @@
+<s>	silb	
+antarctica(2)	ae(sil,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,ix)e	
+is(2)	ix(ax,z)b	z(ix,ax)e	
+a	ax(z,sil)s	
+sil	sil	
+continent	k(sil,aa)b	aa(k,n)	n	t(n,ax)	ax(t,n)	n(ax,ax)	ax(n,n)	n(ax,td)	td(n,sil)e	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,dh)e	
+the(2)	dh(n,ax)b	ax(dh,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+/s	s	
+aw(/aw/)	aw(s,th)	
+th(/th/)	th(aw,sil)e	
+sil	sil	
+s(/s/)	s	
+aw(/aw/)	aw(s,th)	
+th(/th/)	th(aw,axr)e	
+axr(/axr/)	axr	
+n/	n(axr,sil)e	
+sil	sil	
+end	eh(sil,n)b	n(eh,dd)	dd(n,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,aa)e	
+our	aa(v,r)b	r(aa,p)e	
+planet	p(r,l)b	l(p,ae)	ae(l,n)	n(ae,ax)	ax	td(ax,sil)e	
+</s>	sile	

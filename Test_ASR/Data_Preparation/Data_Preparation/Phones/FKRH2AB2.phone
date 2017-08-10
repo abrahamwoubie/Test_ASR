@@ -1,0 +1,14 @@
+fkrh2ab2:phone> SILb 0.00 2.00 -1030890
+fkrh2ab2:phone> AH 3.00 5.00 -781361
+fkrh2ab2:phone> DX(AH,AXR) 6.00 8.00 -626009
+fkrh2ab2:phone> AXR(DX,F)e 9.00 17.00 -1349063
+fkrh2ab2:phone> F 18.00 30.00 -2398823
+fkrh2ab2:phone> L(F,AY) 31.00 33.00 -534003
+fkrh2ab2:phone> AY(L,F)s 34.00 52.00 -2477052
+fkrh2ab2:phone> F(AY,L)b 53.00 67.00 -2814184
+fkrh2ab2:phone> L 68.00 71.00 -760832
+fkrh2ab2:phone> UW(L,B)e 72.00 81.00 -1395198
+fkrh2ab2:phone> B(UW,AY)b 82.00 87.00 -935472
+fkrh2ab2:phone> AY(B,SIL)e 88.00 108.00 -3175419
+fkrh2ab2:phone> +RUSTLE+ 109.00 111.00 -617937
+fkrh2ab2:phone> SILe 112.00 312.00 -25762189

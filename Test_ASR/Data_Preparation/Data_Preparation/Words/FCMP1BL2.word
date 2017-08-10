@@ -1,0 +1,14 @@
+fcmp1bl2:word> <s> 0.00 20.00 -2788745
+fcmp1bl2:word> SOME 21.00 64.00 -7016627
+fcmp1bl2:word> WORKERS 65.00 126.00 -10195256
+fcmp1bl2:word> /R 127.00 129.00 -694395
+fcmp1bl2:word> AX(/AX/) 130.00 133.00 -819254
+fcmp1bl2:word> S(/S/) 134.00 151.00 -2984003
+fcmp1bl2:word> AY 152.00 164.00 -1821449
+fcmp1bl2:word> K(/K/) 165.00 173.00 -1562826
+fcmp1bl2:word> AX(/AX/) 174.00 176.00 -611407
+fcmp1bl2:word> L/ 177.00 186.00 -1220293
+fcmp1bl2:word> BIKES 187.00 248.00 -9353194
+fcmp1bl2:word> /S/ 249.00 252.00 -918659
+fcmp1bl2:word> [SIL] 253.00 273.00 -3528400
+fcmp1bl2:word> </s> 274.00 454.00 -21365722

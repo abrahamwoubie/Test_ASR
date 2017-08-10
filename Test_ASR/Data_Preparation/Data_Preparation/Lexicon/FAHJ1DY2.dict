@@ -1,0 +1,24 @@
+<s>	silb	
+cooks	k(sil,uh)b	uh	k(uh,s)	s(k,s)e	
+say	s(s,ey)b	ey(s,sil)e	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+[begin_noise]	sil	
+elephants	eh(sil,l)b	l(eh,ax)	ax(l,f)	f(ax,ax)	ax(f,n)	n(ax,ts)	ts(n,l)e	
+like	l(ts,ay)b	ay(l,kd)	kd(ay,sil)e	
+sil	sil	
+[end_noise]	sil	
+a(2)	ey(sil,l)s	
+lot(2)	l(ey,ao)b	ao(l,td)	td(ao,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,th)e	
+things	th(v,ih)b	ih(th,ng)	ng(ih,z)	z(ng,iy)e	
+even	iy(z,v)b	v(iy,ax)	ax(v,n)	n(ax,b)e	
+banana	b(n,ax)b	ax(b,n)	n(ax,ae)	ae	n(ae,ax)	ax(n,p)e	
+/p	p	
+iy(/iy/)	iy(p,ax)e	
+ax(/ax/)	ax(iy,l)s	
+l(/l/)	l(ax,s)e	
+s/	s(l,sil)e	
+[sil]	sil	
+</s>	sile	

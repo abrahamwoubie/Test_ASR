@@ -1,0 +1,17 @@
+fkmm1du2:phone> SILb 0.00 2.00 -1302250
+fkmm1du2:phone> IH 3.00 5.00 -826807
+fkmm1du2:phone> SIL 6.00 13.00 -1335604
+fkmm1du2:phone> T 14.00 18.00 -1070350
+fkmm1du2:phone> S 19.00 35.00 -3317021
+fkmm1du2:phone> SIL 36.00 77.00 -5854272
+fkmm1du2:phone> AX(SIL,V)b 78.00 123.00 -7238992
+fkmm1du2:phone> V(AX,SIL)e 124.00 137.00 -2897898
+fkmm1du2:phone> SIL 138.00 194.00 -8313424
+fkmm1du2:phone> AE(SIL,N)b 195.00 230.00 -6350830
+fkmm1du2:phone> N(AE,AX) 231.00 240.00 -1905717
+fkmm1du2:phone> AX(N,M) 241.00 244.00 -735121
+fkmm1du2:phone> M(AX,AX) 245.00 260.00 -2428506
+fkmm1du2:phone> AX(M,L) 261.00 278.00 -2940393
+fkmm1du2:phone> L(AX,Z) 279.00 293.00 -2520939
+fkmm1du2:phone> Z(L,SIL)e 294.00 320.00 -6069391
+fkmm1du2:phone> SILe 321.00 430.00 -14127777

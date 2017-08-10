@@ -1,0 +1,23 @@
+<s>	silb	
+sil	sil	
+/s	s	
+ay	ay(s,ix)s	
+ix(/ix/)	ix	
+n(/n/)	n(ix,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+s	eh(sil,s)b	s(eh,sil)e	
+sil	sil	
+t(/t/)	t	
+dd/	dd	
+sil	sil	
+thought	th(sil,ao)b	ao(th,td)	td(ao,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+all	ao(sil,l)b	l(ao,sil)e	
+sil	sil	
+/dh/	dh	
+</s>	sile	

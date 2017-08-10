@@ -1,0 +1,13 @@
+<s>	silb	
+sil	sil	
+each	iy(sil,ch)b	ch(iy,hh)e	
+has	hh(ch,ae)b	ae(hh,z)	z(ae,t)e	
+to	t(z,ax)b	ax(t,b)e	
+build	b(ax,ih)b	ih(b,l)	l(ih,dd)	dd(l,sil)e	
+sil	sil	
+a	ax(sil,p)s	
+place	p(ax,l)b	l(p,ey)	ey(l,s)	s(ey,t)e	
+to	t(s,ax)b	ax(t,l)e	
+live(2)	l(ax,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+</s>	sile	

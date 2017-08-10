@@ -1,0 +1,30 @@
+<s>	silb	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+/ae	ae	
+n(/n/)	n(ae,ih)e	
+ih(/ih/)	ih	
+m(/m/)	m(ih,aa)e	
+ah	aa	
+l(/l/)	l(aa,z)e	
+z/	z(l,sil)e	
+[end_noise]	sil	
+like	l(sil,ay)b	ay(l,kd)	kd(ay,dh)e	
+the(2)	dh(kd,ax)b	ax(dh,f)e	
+/f	f	
+l(/l/)	l	
+aa/	aa	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+like	l(sil,ay)b	ay(l,kd)	kd(ay,dh)e	
+the(2)	dh(kd,ax)b	ax(dh,f)e	
+frog	f(ax,r)b	r	aa(r,gd)	gd(aa,sil)e	
+[begin_noise]	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,dh)e	
+there	dh(v,eh)b	eh(dh,r)	r(eh,sil)e	
+[end_noise]	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

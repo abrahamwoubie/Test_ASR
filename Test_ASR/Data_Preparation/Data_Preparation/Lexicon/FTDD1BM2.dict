@@ -1,0 +1,29 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+[begin_noise]	sil	
+fix	f(sil,ih)b	ih(f,k)	k(ih,s)	s(k,sil)e	
+sil	sil	
+up	ah(sil,pd)b	pd(ah,sil)e	
+[end_noise]	sil	
+/ow	ow(sil,l)s	
+l/	l(ow,b)e	
+bikes	b(l,ay)b	ay	k	s(k,sil)e	
+sil	sil	
+/ae	ae	
+n/	n(ae,l)e	
+/l	l	
+eh/	eh	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+use	y(sil,uw)b	uw(y,s)	s(uw,d)e	
+/d	d	
+ih(/ih/)	ih	
+m/	m(ih,sil)e	
+</s>	sile	

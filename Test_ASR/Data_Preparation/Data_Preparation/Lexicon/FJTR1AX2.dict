@@ -1,0 +1,16 @@
+<s>	silb	
+/n	n	
+ao(/ao/)	ao	
+t/	t	
+[begin_noise]	sil	
+much	m(sil,ah)b	ah(m,ch)	ch(ah,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+recycled	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,dd)	dd(l,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

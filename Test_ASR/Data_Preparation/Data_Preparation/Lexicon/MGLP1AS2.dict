@@ -1,0 +1,25 @@
+<s>	silb	
+/s	s	
+ah(/ah/)	ah(s,m)	
+m(/m/)	m(ah,t)e	
+t(/t/)	t(m,ay)	
+ay	ay(t,m)e	
+m/	m(ay,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+/hh	hh	
+aa(/aa/)	aa(hh,r)e	
+r/	r(aa,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,s)e	
+see	s(uw,iy)b	iy(s,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,d)e	
+/d	d(n,ah)	
+ah(/ah/)	ah	
+s/	s(ah,s)e	
+storms	s(s,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+</s>	sile	

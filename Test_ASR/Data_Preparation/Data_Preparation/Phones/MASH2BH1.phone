@@ -1,0 +1,14 @@
+mash2bh1:phone> SILb 0.00 17.00 -2700268
+mash2bh1:phone> DH(SIL,AX)b 18.00 22.00 -929606
+mash2bh1:phone> AX(DH,JH)e 23.00 27.00 -868916
+mash2bh1:phone> JH(AX,UW)b 28.00 42.00 -1950204
+mash2bh1:phone> UW 43.00 53.00 -1757180
+mash2bh1:phone> S(UW,G)e 54.00 67.00 -2352864
+mash2bh1:phone> G(S,EH)b 68.00 76.00 -1720917
+mash2bh1:phone> EH(G,TS) 77.00 85.00 -1383526
+mash2bh1:phone> TS(EH,HH)e 86.00 97.00 -1723828
+mash2bh1:phone> HH(TS,AA)b 98.00 104.00 -1099102
+mash2bh1:phone> AA(HH,R) 105.00 131.00 -3042812
+mash2bh1:phone> R 132.00 135.00 -736360
+mash2bh1:phone> DD(R,SIL)e 136.00 143.00 -1446109
+mash2bh1:phone> SILe 144.00 392.00 -30684892

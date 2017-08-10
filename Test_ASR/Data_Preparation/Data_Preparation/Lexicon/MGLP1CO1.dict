@@ -1,0 +1,12 @@
+<s>	silb	
+a	ax(sil,t)s	
+tropical	t(ax,r)b	r	aa	p	ix	k(ix,ax)	ax(k,l)	l(ax,r)e	
+rain	r(l,ey)b	ey(r,n)	n(ey,f)e	
+forest(2)	f(n,ao)b	ao(f,r)	r(ao,ix)	ix(r,s)	s(ix,td)	td(s,ix)e	
+is(2)	ix(td,z)b	z(ix,ey)e	
+a(2)	ey(z,w)s	
+warm	w(ey,ao)b	ao(w,r)	r(ao,m)	m(r,w)e	
+wet	w(m,eh)b	eh	td(eh,sil)e	
+sil	sil	
+place	p(sil,l)b	l(p,ey)	ey(l,s)	s(ey,sil)e	
+</s>	sile	

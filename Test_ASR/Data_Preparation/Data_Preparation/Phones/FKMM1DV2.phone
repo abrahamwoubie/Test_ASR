@@ -1,0 +1,13 @@
+fkmm1dv2:phone> SILb 0.00 5.00 -1176964
+fkmm1dv2:phone> SIL 6.00 9.00 -1026547
+fkmm1dv2:phone> S(SIL,AH)b 10.00 48.00 -7286000
+fkmm1dv2:phone> AH(S,M) 49.00 93.00 -9668675
+fkmm1dv2:phone> M(AH,SIL)e 94.00 111.00 -2989877
+fkmm1dv2:phone> SIL 112.00 146.00 -6223550
+fkmm1dv2:phone> Z 147.00 161.00 -2685593
+fkmm1dv2:phone> UW 162.00 216.00 -9237696
+fkmm1dv2:phone> Z(UW,SIL)e 217.00 226.00 -2420801
+fkmm1dv2:phone> SIL 227.00 407.00 -28826705
+fkmm1dv2:phone> K 408.00 433.00 -5133812
+fkmm1dv2:phone> UH 434.00 436.00 -785662
+fkmm1dv2:phone> SILe 437.00 440.00 -1075419

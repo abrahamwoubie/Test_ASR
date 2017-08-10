@@ -1,0 +1,14 @@
+<s>	silb	
+[noise]	sil	
+[begin_noise]	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,sil)e	
+[end_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,r)e	
+recycle	r(l,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,f)e	
+food	f(l,uw)b	uw(f,dd)	dd(uw,sil)e	
+[sil]	sil	
+[begin_noise]	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+sil	sil	
+[end_noise]	sil	
+</s>	sile	

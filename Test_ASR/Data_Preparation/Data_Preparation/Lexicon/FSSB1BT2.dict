@@ -1,0 +1,50 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,w)e	
+/w	w	
+ex	eh(sil,k)b	k(eh,s)	s(k,sil)e	
+sil	sil	
+n(/n/)	n	
+td/	td(n,sil)e	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+[sil]	sil	
+/w	w	
+ix(/ix/)	ix	
+n(/n/)	n(ix,sil)e	
+sil	sil	
+td/	td	
+sil	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,s)e	
+/s	s(r,th)e	
+th(/th/)	th(s,iy)e	
+iy(/iy/)	iy(th,eh)s	
+l	eh(iy,l)b	l(eh,z)e	
+z/	z(l,t)e	
+to(3)	t(z,uw)b	uw(t,l)e	
+live(2)	l(uw,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+[human_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the	dh(n,ah)b	ah(dh,sil)e	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+sil	sil	
+[sil]	sil	
+want(2)	w(sil,ao)b	ao(w,n)	n(ao,td)	td(n,sil)e	
+sil	sil	
+[begin_whisper]	sil	
+want(2)	w(sil,ao)b	ao(w,n)	n(ao,td)	td(n,sil)e	
+sil	sil	
+was(4)	w(sil,ax)b	ax	z(ax,sil)e	
+sil	sil	
+this(2)	dh(sil,ix)b	ix(dh,s)	s(ix,sil)e	
+sil	sil	
+much	m(sil,ah)b	ah(m,ch)	ch(ah,sil)e	
+sil	sil	
+want(2)	w(sil,ao)b	ao(w,n)	n(ao,td)	td(n,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

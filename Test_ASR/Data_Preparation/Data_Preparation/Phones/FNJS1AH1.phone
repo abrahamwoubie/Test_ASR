@@ -1,0 +1,11 @@
+fnjs1ah1:phone> SILb 0.00 16.00 -2115365
+fnjs1ah1:phone> G(SIL,OW)b 17.00 34.00 -3247686
+fnjs1ah1:phone> OW(G,IH)e 35.00 37.00 -926101
+fnjs1ah1:phone> IH(OW,N)b 38.00 74.00 -7663293
+fnjs1ah1:phone> N(IH,D) 75.00 89.00 -2741628
+fnjs1ah1:phone> D 90.00 96.00 -1321461
+fnjs1ah1:phone> AO(D,R) 97.00 114.00 -3650758
+fnjs1ah1:phone> R(AO,Z) 115.00 137.00 -4258725
+fnjs1ah1:phone> Z(R,SIL)e 138.00 163.00 -4678700
+fnjs1ah1:phone> SIL 164.00 214.00 -6882560
+fnjs1ah1:phone> SILe 215.00 540.00 -36356415

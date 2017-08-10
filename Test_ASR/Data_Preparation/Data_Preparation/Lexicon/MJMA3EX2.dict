@@ -1,0 +1,50 @@
+<s>	silb	
+[noise]	sil	
+kids	k(sil,ih)b	ih(k,d)	d(ih,z)	z(d,k)e	
+/k	k	
+ih(/ih/)	ih	
+n/	n(ih,y)e	
+use	y(n,uw)b	uw(y,s)	s(uw,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,hh)e	
+/hh	hh(ax,ow)	
+ow	ow(hh,m)	
+m(/m/)	m(ow,s)e	
+s(/s/)	s	
+k(/k/)	k(s,uw)	
+uw(/uw/)	uw(k,l)	
+l/	l(uw,k)e	
+computer	k(l,ax)b	ax(k,m)	m(ax,p)	p(m,y)	y(p,uw)	uw(y,dx)	dx(uw,axr)	axr(dx,t)e	
+to(3)	t(axr,uw)b	uw(t,s)e	
+/s	s(uw,eh)e	
+eh	eh(s,n)	
+n/	n(eh,g)e	
+/g	g	
+ih(/ih/)	ih	
+td(/td/)	td(ih,w)e	
+w(/w/)	w	
+eh	eh(w,l)	
+l/	l(eh,sil)e	
+[begin_noise]	sil	
+/m	m	
+eh	eh	
+sil	sil	
+s(/s/)	s	
+ah	aa	
+jh(/jh/)	jh	
+ah/	ah	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,s)e	
+/s	s(uw,ih)e	
+ih(/ih/)	ih(s,k)	
+k(/k/)	k(ih,s)	
+s/	s(k,sil)e	
+[end_noise]	sil	
+classmates	k(sil,l)b	l(k,ae)	ae(l,s)	s	m	ey	ts(ey,ae)e	
+at	ae(ts,td)b	td(ae,hh)e	
+home	hh(td,ow)b	ow(hh,m)	m(ow,sil)e	
+sil	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+</s>	sile	

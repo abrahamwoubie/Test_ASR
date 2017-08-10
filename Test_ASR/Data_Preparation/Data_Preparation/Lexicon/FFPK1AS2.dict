@@ -1,0 +1,47 @@
+<s>	silb	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+/s	s	
+ah(/ah/)	ah(s,m)	
+m(/m/)	m(ah,t)e	
+t(/t/)	t	
+ay(2)	ey(t,eh)e	
+n	eh(ey,n)b	n(eh,s)e	
+s/	s(n,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+hard	hh(sil,aa)b	aa(hh,r)	r	dd(r,t)e	
+to	t(dd,ax)b	ax(t,s)e	
+see	s(ax,iy)b	iy(s,ix)e	
+in(2)	ix(iy,n)b	n(ix,d)e	
+dust	d(n,ah)b	ah	s(ah,td)	td(s,s)e	
+storms	s(td,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/s	s	
+ah	aa	
+m(/m/)	m	
+t(/t/)	t	
+ay(2)	ey(t,eh)e	
+n	eh(ey,n)b	n(eh,s)e	
+s/	s(n,ix)e	
+it(2)	ix(s,td)b	td(ix,ix)e	
+is(2)	ix(td,z)b	z(ix,sil)e	
+[human_noise]	sil	
+hard	hh(sil,aa)b	aa(hh,r)	r	dd(r,sil)e	
+sil	sil	
+to	t(sil,ax)b	ax(t,s)e	
+/s/	s(ax,sil)e	
+sil	sil	
+[see_transcript](+noise+)	+noise+	
+/s	s	
+sil	sil	
+t/	t	
+sil	sil	
+[see_transcript]	sil	
+sil	sil	
+</s>	sile	

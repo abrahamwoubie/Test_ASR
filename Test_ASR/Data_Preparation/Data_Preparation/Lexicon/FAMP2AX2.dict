@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+[begin_noise]	sil	
+nectar	n(sil,eh)b	eh(n,kd)	kd(eh,t)	t(kd,axr)	axr(t,ix)e	
+is(2)	ix(axr,z)b	z(ix,sil)e	
+[end_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+juice	jh(sil,uw)b	uw	s(uw,ix)e	
+inside(2)	ix(s,n)b	n(ix,s)	s(n,ay)	ay(s,dd)	dd(ay,sil)e	
+[end_noise]	sil	
+flowers	f(sil,l)b	l	aw	axr(aw,z)	z(axr,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

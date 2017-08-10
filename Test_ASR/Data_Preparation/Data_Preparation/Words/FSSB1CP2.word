@@ -1,0 +1,15 @@
+fssb1cp2:word> <s> 0.00 38.00 -5727947
+fssb1cp2:word> [NOISE] 39.00 59.00 -3256810
+fssb1cp2:word> IT(2) 60.00 85.00 -4237590
+fssb1cp2:word> SIL 86.00 120.00 -5050229
+fssb1cp2:word> GETS(2) 121.00 159.00 -7202598
+fssb1cp2:word> SIL 160.00 178.00 -3714329
+fssb1cp2:word> LOTS 179.00 226.00 -8368844
+fssb1cp2:word> SIL 227.00 243.00 -3064115
+fssb1cp2:word> AND 244.00 283.00 -6712237
+fssb1cp2:word> LOTS 284.00 318.00 -5782217
+fssb1cp2:word> SIL 319.00 323.00 -1150462
+fssb1cp2:word> OF(2) 324.00 348.00 -4094598
+fssb1cp2:word> RAIN 349.00 396.00 -6804776
+fssb1cp2:word> [SIL] 397.00 399.00 -493032
+fssb1cp2:word> </s> 400.00 710.00 -38040600

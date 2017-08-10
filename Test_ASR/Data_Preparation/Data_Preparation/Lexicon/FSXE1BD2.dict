@@ -1,0 +1,18 @@
+<s>	silb	
+sil	sil	
+/s	s	
+s(/s/)	s	
+ah	aa	
+m/	m	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,f)e	
+food	f(l,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,sil)e	
+[human_noise](+rustle+)	+rustle+	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

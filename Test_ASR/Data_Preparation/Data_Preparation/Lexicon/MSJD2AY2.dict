@@ -1,0 +1,21 @@
+<s>	silb	
+[begin_noise]	sil	
+/b	b	
+ah(/ah/)	ah(b,dx)	
+dx(/dx/)	dx(ah,axr)	
+er	axr(dx,f)e	
+f(/f/)	f	
+f(/f/)	f	
+l(/l/)	l(f,ay)	
+ay	ay(l,s)s	
+s/	s(ay,sil)e	
+[end_noise]	sil	
+carry	k(sil,ae)b	ae	r	iy(r,p)e	
+pollen	p(iy,aa)b	aa	l	ax(l,n)	n(ax,f)e	
+from	f(n,axr)b	axr(f,m)	m	
+one	w(m,ah)b	ah(w,n)	n(ah,f)e	
+flower	f(n,l)b	l	aw	axr(aw,t)e	
+to	t(axr,ax)b	ax(t,ax)e	
+another	ax(ax,n)b	n(ax,ah)	ah(n,dh)	dh(ah,axr)	axr(dh,sil)e	
+[sil]	sil	
+</s>	sile	

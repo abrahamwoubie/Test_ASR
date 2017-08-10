@@ -1,0 +1,16 @@
+<s>	silb	
+[noise]	sil	
+baby	b(sil,ey)b	ey	b(ey,iy)	iy(b,d)e	
+dinosaurs	d(iy,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,z)	z(r,hh)e	
+hatched	hh(z,ae)b	ae	ch	td	
+sil	sil	
+from(2)	f(sil,r)b	r(f,ah)	ah(r,m)	m(ah,dh)e	
+their	dh(m,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+sil	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+[human_noise]	sil	
+[human_noise](+noise+)	+noise+	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

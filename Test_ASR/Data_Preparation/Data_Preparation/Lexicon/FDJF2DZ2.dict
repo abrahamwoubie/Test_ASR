@@ -1,0 +1,21 @@
+<s>	silb	
+sil	sil	
+when(2)	hh(sil,w)b	w(hh,ih)	ih(w,n)	n(ih,y)e	
+you	y(n,uw)b	uw(y,jh)e	
+jump	jh(uw,ah)b	ah(jh,m)	m	pd	
+rope	r(pd,ow)b	ow	pd(ow,y)e	
+you	y(pd,uw)b	uw(y,sil)e	
+sil	sil	
+get(2)	g(sil,ih)b	ih	td(ih,sil)e	
+sil	sil	
+/eh	eh	
+sil	sil	
+k(/k/)	k	
+s/	s(k,sil)e	
+[noise]	sil	
+[begin_whisper]	sil	
+/eh	eh	
+k/	k	
+[end_whisper]	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

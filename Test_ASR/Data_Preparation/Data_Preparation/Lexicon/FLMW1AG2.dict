@@ -1,0 +1,18 @@
+<s>	silb	
+[noise]	sil	
+if(2)	ix(sil,f)b	f(ix,sil)e	
+sil	sil	
+a	ax(sil,l)s	
+lightning	l(ax,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+sil	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,sil)e	
+sil	sil	
+comes	k(sil,ah)b	ah(k,m)	m(ah,z)	z(m,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+through	th(sil,r)b	r(th,uw)	uw(r,dh)e	
+the	dh(uw,ah)b	ah(dh,sil)e	
+sil	sil	
+four	f(sil,ao)b	ao(f,r)	r(ao,sil)e	
+</s>	sile	

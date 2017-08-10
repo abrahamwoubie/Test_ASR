@@ -1,0 +1,25 @@
+<s>	silb	
+[noise]	sil	
+it	ih(sil,td)b	td(ih,ix)e	
+is(2)	ix(td,z)b	z(ix,g)e	
+good	g(z,uh)b	uh(g,dd)	dd(uh,sil)e	
+[begin_noise]	sil	
+because	b(sil,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,r)e	
+recycling	r(z,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,ix)	ix(l,ng)	ng(ix,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+helps	hh(sil,eh)b	eh(hh,l)	l	p	s(p,sil)e	
+[end_noise]	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/aa	aa	
+r(/r/)	r(aa,th)e	
+th/	th(r,k)e	
+cleaner	k(th,l)b	l(k,iy)	iy(l,n)	n(iy,axr)	axr(n,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

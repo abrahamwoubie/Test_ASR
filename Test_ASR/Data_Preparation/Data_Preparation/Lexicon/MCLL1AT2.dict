@@ -1,0 +1,43 @@
+<s>	silb	
+sil	sil	
+very	v(sil,eh)b	eh(v,r)	r(eh,iy)	iy(r,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+/f	f	
+aa(/aa/)	aa	
+l(/l/)	l(aa,sil)e	
+sil	sil	
+s/	s	
+sil	sil	
+/f	f	
+r(/r/)	r	
+ow/	ow(r,sil)s	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+/f	f	
+th(/th/)	th(f,r)e	
+r(/r/)	r(th,ow)	
+ow	ow(r,z)s	
+z/	z(ow,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+with	w(sil,ih)b	ih(w,dh)	dh(ih,sil)e	
+sil	sil	
+/w	w	
+ao(/ao/)	ao	
+t(/t/)	t	
+er/	er	
+sil	sil	
+fills	f(sil,ih)b	ih(f,l)	l	z(l,w)e	
+with(2)	w(z,ih)b	ih(w,th)	th(ih,w)e	
+/w	w	
+ao(/ao/)	ao	
+t(/t/)	t	
+er/	er	
+sil	sil	
+</s>	sile	

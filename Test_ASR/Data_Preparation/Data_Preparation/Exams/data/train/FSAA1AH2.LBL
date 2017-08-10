@@ -1,0 +1,13 @@
+fsaa1ah2:word>                  <s>    0    2        -1095402
+fsaa1ah2:word>              INDOORS    3   53       -10035341
+fsaa1ah2:word>                [SIL]   54   61        -1385311
+fsaa1ah2:word>                 </s>   62  530       -58867771
+fsaa1ah2:phone>                 SILb    0    2        -1095402
+fsaa1ah2:phone>           IH(SIL,N)b    3    5        -1004521
+fsaa1ah2:phone>              N(IH,D)    6    8        -1129695
+fsaa1ah2:phone>                    D    9   11        -1097386
+fsaa1ah2:phone>              AO(D,R)   12   24        -2289762
+fsaa1ah2:phone>              R(AO,Z)   25   36        -1474433
+fsaa1ah2:phone>            Z(R,SIL)e   37   53        -3039544
+fsaa1ah2:phone>                  SIL   54   61        -1385311
+fsaa1ah2:phone>                 SILe   62  530       -58867771

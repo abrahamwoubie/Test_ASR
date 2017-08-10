@@ -1,0 +1,19 @@
+<s>	silb	
+/s	s	
+sil	sil	
+s(/s/)	s	
+t(/t/)	t(s,ao)	
+ao(/ao/)	ao(t,r)e	
+r(/r/)	r(ao,sil)e	
+sil	sil	
+m(/m/)	m	
+z/	z(m,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,dh)e	
+the	dh(n,ah)b	ah(dh,s)e	
+spring	s(ah,p)b	p(s,r)	r(p,ih)	ih(r,ng)	ng(ih,sil)e	
+sil	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,b)e	
+bring	b(n,r)b	r(b,ih)	ih(r,ng)	ng(ih,l)e	
+lightning	l(ng,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+</s>	sile	

@@ -1,0 +1,16 @@
+fmaa2at1:phone> SILb 0.00 34.00 -4794026
+fmaa2at1:phone> DH(SIL,EY)b 35.00 49.00 -2484856
+fmaa2at1:phone> EY(DH,HH)e 50.00 73.00 -3131408
+fmaa2at1:phone> HH(EY,AE)b 74.00 86.00 -1621709
+fmaa2at1:phone> AE(HH,V) 87.00 105.00 -2507011
+fmaa2at1:phone> V(AE,S)e 106.00 113.00 -1042370
+fmaa2at1:phone> S(V,IH)b 114.00 132.00 -2827149
+fmaa2at1:phone> IH(S,K) 133.00 140.00 -1113950
+fmaa2at1:phone> K(IH,S) 141.00 151.00 -1756327
+fmaa2at1:phone> S(K,SIL)e 152.00 164.00 -1810420
+fmaa2at1:phone> SIL 165.00 167.00 -837096
+fmaa2at1:phone> L(SIL,EH)b 168.00 180.00 -2386914
+fmaa2at1:phone> EH(L,G) 181.00 214.00 -6259190
+fmaa2at1:phone> G(EH,Z) 215.00 229.00 -3199545
+fmaa2at1:phone> Z(G,SIL)e 230.00 247.00 -3147343
+fmaa2at1:phone> SILe 248.00 540.00 -33934880

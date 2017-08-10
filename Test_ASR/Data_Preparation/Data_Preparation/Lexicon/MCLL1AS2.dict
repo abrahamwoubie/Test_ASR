@@ -1,0 +1,37 @@
+<s>	silb	
+sometimes(2)	s(sil,ax)b	ax(s,m)	m	t(m,ay)	ay(t,m)	m(ay,z)	z(m,sil)e	
+[human_noise]	sil	
+it	ih(sil,td)b	td(ih,sil)e	
+sil	sil	
+is	ih(sil,z)b	z(ih,hh)e	
+hard	hh(z,aa)b	aa(hh,r)	r	dd(r,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+to	t(sil,ax)b	ax(t,s)e	
+see	s(ax,iy)b	iy(s,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+[noise]	sil	
+/b	b	
+ah(/ah/)	ah(b,s)	
+s/	s(ah,s)e	
+/s	s	
+sil	sil	
+t(/t/)	t	
+ao(/ao/)	ao(t,aa)e	
+r	aa(ao,r)b	r(aa,m)e	
+m(/m/)	m(r,sil)e	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+[begin_noise]	sil	
+[begin_whisper]	sil	
+/hh	hh	
+ah	aa(hh,sil)e	
+sil	sil	
+ay/	ay(sil,sil)s	
+[end_whisper]	sil	
+[end_noise]	sil	
+</s>	sile	

@@ -1,0 +1,14 @@
+fabm2bl2:word> <s> 0.00 5.00 -1186228
+fabm2bl2:word> WHEN(3) 6.00 20.00 -2536047
+fabm2bl2:word> /M 21.00 28.00 -1258505
+fabm2bl2:word> AX(/AX/) 29.00 32.00 -779435
+fabm2bl2:word> SH(/SH/) 33.00 47.00 -2453792
+fabm2bl2:word> AH(/AH/) 48.00 60.00 -2336910
+fabm2bl2:word> L/ 61.00 76.00 -2388318
+fabm2bl2:word> BREAKS 77.00 116.00 -6367282
+fabm2bl2:word> OPEN 117.00 152.00 -5792573
+fabm2bl2:word> A 153.00 159.00 -1062165
+fabm2bl2:word> BUTTERFLY 160.00 220.00 -8856944
+fabm2bl2:word> /K 221.00 225.00 -1138797
+fabm2bl2:word> AH/ 226.00 228.00 -967729
+fabm2bl2:word> </s> 229.00 232.00 -1012955

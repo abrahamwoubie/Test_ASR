@@ -1,0 +1,12 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,b)e	
+built	b(l,ih)b	ih(b,l)	l(ih,td)	td(l,hh)e	
+/hh	hh	
+aw(/aw/)	aw(hh,s)e	
+s(/s/)	s(aw,ax)e	
+ax(/ax/)	ax(s,z)s	
+z/	z(ax,sil)e	
+[noise]	sil	
+</s>	sile	

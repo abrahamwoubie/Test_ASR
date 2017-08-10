@@ -1,0 +1,45 @@
+<s>	silb	
+sil	sil	
+/s	s	
+eh	eh	
+sil	sil	
+p(/p/)	p	
+r	aa(p,r)	r(aa,ih)e	
+ih(/ih/)	ih(r,ng)	
+ng/	ng(ih,sil)e	
+sil	sil	
+/s	s	
+eh	eh(s,p)	
+p(/p/)	p(eh,axr)	
+er	axr(p,ih)e	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+/b	b	
+r/	r	
+sil	sil	
+/b	b	
+r(/r/)	r	
+ow	ow(r,k)s	
+k	k(ow,ey)b	ey(k,eh)e	
+eh	eh	
+n(/n/)	n(eh,sil)e	
+sil	sil	
+ts/	ts	
+sil	sil	
+/m/	m	
+many	m(m,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[human_noise]	sil	
+[begin_noise]	sil	
+kids	k(sil,ih)b	ih(k,d)	d(ih,z)	z(d,sil)e	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+[noise]	sil	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n/	n(ih,sil)e	
+[noise](+noise+)	+noise+	
+</s>	sile	

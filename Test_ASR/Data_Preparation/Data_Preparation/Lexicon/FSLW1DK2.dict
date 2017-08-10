@@ -1,0 +1,50 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+/s	s	
+ay	ay(s,ah)s	
+ah(/ah/)	ah	
+n(/n/)	n(ah,sil)e	
+sil	sil	
+t(/t/)	t	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,s)e	
+say	s(s,ey)b	ey(s,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+found	f(sil,aw)b	aw(f,n)	n(aw,dd)	dd(n,d)e	
+dinosaur	d(dd,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,b)e	
+bones	b(r,ow)b	ow	n(ow,z)	z(n,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,g)e	
+/g	g(ax,r)	
+r(/r/)	r	
+aw	ao	
+sil	sil	
+n/	n	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+/t	t	
+sil	sil	
+r(/r/)	r	
+eh	eh	
+sil	sil	
+s/	s	
+sil	sil	
+/b	b	
+aa(/aa/)	aa	
+r(/r/)	r(aa,sil)e	
+sil	sil	
+k/	k	
+[end_whisper]	sil	
+[crosstalk](+noise+)	+noise+	
+</s>	sile	

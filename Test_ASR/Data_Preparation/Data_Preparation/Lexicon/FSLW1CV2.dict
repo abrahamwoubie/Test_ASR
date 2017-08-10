@@ -1,0 +1,31 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+/m/	m	
+sil	sil	
+/m	m	
+ae(/ae/)	ae	
+sil	sil	
+k(/k/)	k	
+uw(/uw/)	uw	
+sil	sil	
+l(/l/)	l	
+z/	z(l,axr)e	
+are(2)	axr	
+sil	sil	
+[human_noise]	sil	
+birds	b(sil,er)b	er	d(er,z)	z(d,sil)e	
+[human_noise]	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,l)e	
+look	l(td,uh)b	uh(l,kd)	kd(uh,l)e	
+like	l(kd,ay)b	ay(l,kd)	kd(ay,sil)e	
+[begin_noise]	sil	
+parrots	p(sil,eh)b	eh(p,r)	r(eh,ax)	ax	ts(ax,sil)e	
+[end_noise]	sil	
+[crosstalk](+rustle+)	+rustle+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[crosstalk](+exhale+)	+exhale+	
+sil	sil	
+</s>	sile	

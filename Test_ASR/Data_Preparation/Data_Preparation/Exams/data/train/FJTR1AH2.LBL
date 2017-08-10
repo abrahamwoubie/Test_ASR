@@ -1,0 +1,17 @@
+fjtr1ah2:word>                  <s>    0    2        -1021674
+fjtr1ah2:word>                 /OW/    3   21        -3507563
+fjtr1ah2:word>                  SIL   22   29        -1377588
+fjtr1ah2:word>              INDOORS   30  132       -16918208
+fjtr1ah2:word>    [NOISE](+INHALE+)  133  136         -734460
+fjtr1ah2:word>                 </s>  137  670       -60736953
+fjtr1ah2:phone>                 SILb    0    2        -1021674
+fjtr1ah2:phone>         OW(SIL,SIL)s    3   21        -3507563
+fjtr1ah2:phone>                  SIL   22   29        -1377588
+fjtr1ah2:phone>           IH(SIL,N)b   30   46        -2753821
+fjtr1ah2:phone>              N(IH,D)   47   65        -3163033
+fjtr1ah2:phone>                    D   66   72        -1082167
+fjtr1ah2:phone>              AO(D,R)   73   95        -4324501
+fjtr1ah2:phone>              R(AO,Z)   96  108        -1708971
+fjtr1ah2:phone>            Z(R,SIL)e  109  132        -3885715
+fjtr1ah2:phone>             +INHALE+  133  136         -734460
+fjtr1ah2:phone>                 SILe  137  670       -60736953

@@ -1,0 +1,12 @@
+mlss1aj2:word> <s> 0.00 19.00 -2466032
+mlss1aj2:word> DO 20.00 114.00 -14464054
+mlss1aj2:word> NOT 115.00 171.00 -10151918
+mlss1aj2:word> SIL 172.00 177.00 -1346258
+mlss1aj2:word> USE(2) 178.00 302.00 -18138308
+mlss1aj2:word> SIL 303.00 310.00 -1255962
+mlss1aj2:word> [HUMAN_NOISE](+INHALE+) 311.00 315.00 -824094
+mlss1aj2:word> SIL 316.00 329.00 -2232012
+mlss1aj2:word> THE 330.00 394.00 -9945512
+mlss1aj2:word> [SIL] 395.00 398.00 -808435
+mlss1aj2:word> [NOISE] 399.00 755.00 -42080066
+mlss1aj2:word> </s> 756.00 760.00 -651750

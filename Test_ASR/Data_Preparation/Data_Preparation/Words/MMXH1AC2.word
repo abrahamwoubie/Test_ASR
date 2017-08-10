@@ -1,0 +1,14 @@
+mmxh1ac2:word> <s> 0.00 2.00 -607943
+mmxh1ac2:word> SIL 3.00 11.00 -1405444
+mmxh1ac2:word> /G 12.00 25.00 -2592958
+mmxh1ac2:word> R 26.00 40.00 -2442515
+mmxh1ac2:word> AW/ 41.00 80.00 -5450847
+mmxh1ac2:word> SIL 81.00 116.00 -4982319
+mmxh1ac2:word> [HUMAN_NOISE](+EXHALE+) 117.00 119.00 -518815
+mmxh1ac2:word> SIL 120.00 199.00 -10277224
+mmxh1ac2:word> [HUMAN_NOISE](+NOISE+) 200.00 202.00 -479602
+mmxh1ac2:word> SIL 203.00 310.00 -15713829
+mmxh1ac2:word> [HUMAN_NOISE](+NOISE+) 311.00 313.00 -483698
+mmxh1ac2:word> [NOISE](+NOISE+) 314.00 317.00 -687035
+mmxh1ac2:word> SIL 318.00 342.00 -3641201
+mmxh1ac2:word> </s> 343.00 520.00 -23097677

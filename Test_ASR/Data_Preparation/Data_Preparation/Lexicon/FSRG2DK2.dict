@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+crabeater	k(sil,r)b	r(k,ae)	ae	b	iy	dx(iy,axr)	axr(dx,s)e	
+seals	s(axr,iy)b	iy	l(iy,z)	z(l,aa)e	
+are	aa(z,r)b	r(aa,dh)e	
+the(2)	dh(r,ax)b	ax(dh,f)e	
+fastest	f(ax,ae)b	ae(f,s)	s(ae,t)	t(s,ax)	ax	s(ax,td)	td(s,sil)e	
+sil	sil	
+seals	s(sil,iy)b	iy	l(iy,z)	z(l,ao)e	
+on(2)	ao(z,n)b	n(ao,l)e	
+/l	l	
+ae(/ae/)	ae(l,n)	
+n(/n/)	n(ae,td)	
+td/	td(n,sil)e	
+</s>	sile	

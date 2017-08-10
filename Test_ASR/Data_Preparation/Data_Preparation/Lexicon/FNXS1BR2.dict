@@ -1,0 +1,21 @@
+<s>	silb	
+/f	f	
+l(/l/)	l(f,iy)	
+iy/	iy(l,sil)s	
+sil	sil	
+[noise]	sil	
+sil	sil	
+/s	s	
+iy(/iy/)	iy(s,z)e	
+z/	z(iy,l)e	
+live(2)	l(z,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,d)e	
+/d	d(n,ax)	
+ax/	ax	
+/ow	ow(ax,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n/	n(ih,sil)e	
+[crosstalk](+exhale+)	+exhale+	
+</s>	sile	

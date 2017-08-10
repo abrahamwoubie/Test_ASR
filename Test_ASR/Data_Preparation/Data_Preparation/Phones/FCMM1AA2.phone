@@ -1,0 +1,6 @@
+fcmm1aa2:phone> SILb 0.00 2.00 -777962
+fcmm1aa2:phone> K(SIL,OW)b 3.00 13.00 -2382623
+fcmm1aa2:phone> OW(K,DD) 14.00 34.00 -4143207
+fcmm1aa2:phone> DD(OW,SIL)e 35.00 52.00 -3716641
+fcmm1aa2:phone> SIL 53.00 63.00 -2015924
+fcmm1aa2:phone> SILe 64.00 300.00 -29322641

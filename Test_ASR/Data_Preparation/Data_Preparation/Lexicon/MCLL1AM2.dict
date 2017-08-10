@@ -1,0 +1,54 @@
+<s>	silb	
+/dh	dh	
+ow	ow(dh,sil)s	
+sil	sil	
+hh(/hh/)	hh	
+sil	sil	
+z/	z	
+sil	sil	
+/dh	dh	
+sil	sil	
+r(/r/)	r	
+ow	ow(r,sil)s	
+sil	sil	
+d(/d/)	d	
+eh	eh(d,n)	
+n/	n(eh,sil)e	
+[human_noise]	sil	
+/p	p	
+l/	l	
+sil	sil	
+/k	k	
+hh(/hh/)	hh	
+ey/	ey(hh,sil)e	
+sil	sil	
+/k	k	
+er/	er(k,sil)e	
+sil	sil	
+/d	d	
+ow	ow(d,n)e	
+n/	n(ow,sil)e	
+sil	sil	
+/g	g	
+r(/r/)	r(g,ey)	
+ey(/ey/)	ey(r,sil)s	
+sil	sil	
+k/	k	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,sil)e	
+sil	sil	
+/w	w	
+eh	eh(w,dh)	
+dh/	dh	
+sil	sil	
+how	hh(sil,aw)b	aw(hh,sil)e	
+sil	sil	
+weather	w(sil,eh)b	eh(w,dh)	dh(eh,axr)	axr(dh,sil)e	
+sil	sil	
+</s>	sile	

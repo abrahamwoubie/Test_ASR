@@ -1,0 +1,22 @@
+<s>	silb	
+schools	s(sil,k)b	k(s,uw)	uw(k,l)	l	z(l,sil)e	
+[begin_noise]	sil	
+/ih/	ih	
+/r	r(ih,ix)e	
+ix(/ix/)	ix	
+w(/w/)	w	
+aa(/aa/)	aa(w,n)	
+n(/n/)	n(aa,d)e	
+d(/d/)	d(n,ax)	
+ax/	ax	
+did	d(ax,ih)b	ih(d,dd)	dd(ih,n)e	
+not	n	aa	td	
+have	hh(td,ae)b	ae(hh,v)	v(ae,sil)e	
+[end_noise]	sil	
+room	r(sil,uw)b	uw(r,m)	m(uw,f)e	
+for(2)	f(m,axr)b	axr(f,ao)e	
+all	ao(axr,l)b	l(ao,dh)e	
+the(2)	dh(l,ax)b	ax(dh,ch)e	
+children	ch(ax,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,sil)e	
+[sil]	sil	
+</s>	sile	

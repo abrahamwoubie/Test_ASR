@@ -1,0 +1,17 @@
+fmra1bg2:word> <s> 0.00 25.00 -3477638
+fmra1bg2:word> SIL 26.00 34.00 -1764369
+fmra1bg2:word> THE 35.00 54.00 -3357742
+fmra1bg2:word> SOIL 55.00 149.00 -14929880
+fmra1bg2:word> SIL 150.00 154.00 -941389
+fmra1bg2:word> IS(2) 155.00 219.00 -9342949
+fmra1bg2:word> USED 220.00 307.00 -13170627
+fmra1bg2:word> SIL 308.00 319.00 -1849362
+fmra1bg2:word> TO(3) 320.00 386.00 -9251719
+fmra1bg2:word> [HUMAN_NOISE](+INHALE+) 387.00 393.00 -1173919
+fmra1bg2:word> SIL 394.00 404.00 -1879810
+fmra1bg2:word> HELP 405.00 466.00 -9293422
+fmra1bg2:word> SIL 467.00 629.00 -19564934
+fmra1bg2:word> [NOISE](+NOISE+) 630.00 632.00 -468338
+fmra1bg2:word> SIL 633.00 673.00 -5233717
+fmra1bg2:word> [SIL] 674.00 783.00 -13244856
+fmra1bg2:word> </s> 784.00 800.00 -2426906

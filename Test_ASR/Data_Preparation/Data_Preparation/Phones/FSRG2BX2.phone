@@ -1,0 +1,15 @@
+fsrg2bx2:phone> SILb 0.00 2.00 -827114
+fsrg2bx2:phone> SIL 3.00 30.00 -4176157
+fsrg2bx2:phone> P(SIL,IY)b 31.00 40.00 -1426167
+fsrg2bx2:phone> IY(P,P) 41.00 53.00 -1930673
+fsrg2bx2:phone> P(IY,AX) 54.00 60.00 -1333599
+fsrg2bx2:phone> AX(P,L) 61.00 67.00 -1153244
+fsrg2bx2:phone> L(AX,G)e 68.00 72.00 -623242
+fsrg2bx2:phone> G(L,AA) 73.00 79.00 -1112817
+fsrg2bx2:phone> AA 80.00 94.00 -2216222
+fsrg2bx2:phone> TD 95.00 97.00 -776512
+fsrg2bx2:phone> SIL 98.00 100.00 -641512
+fsrg2bx2:phone> S(SIL,IH)b 101.00 122.00 -3082524
+fsrg2bx2:phone> IH 123.00 138.00 -3018013
+fsrg2bx2:phone> KD(IH,SIL)e 139.00 162.00 -4664758
+fsrg2bx2:phone> SILe 163.00 442.00 -33934413

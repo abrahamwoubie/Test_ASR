@@ -1,0 +1,17 @@
+fcmp1an2:word> <s> 0.00 2.00 -1294058
+fcmp1an2:word> THE 3.00 13.00 -2535441
+fcmp1an2:word> [BEGIN_NOISE] 14.00 16.00 -1114600
+fcmp1an2:word> /W 17.00 32.00 -2628475
+fcmp1an2:word> IH(/IH/) 33.00 62.00 -5343280
+fcmp1an2:word> N(/N/) 63.00 65.00 -639758
+fcmp1an2:word> D/ 66.00 68.00 -668232
+fcmp1an2:word> SPIN 69.00 121.00 -9668056
+fcmp1an2:word> [END_NOISE] 122.00 124.00 -1154536
+fcmp1an2:word> [BEGIN_NOISE] 125.00 127.00 -1054184
+fcmp1an2:word> AROUND 128.00 191.00 -9515322
+fcmp1an2:word> [END_NOISE] 192.00 197.00 -1097048
+fcmp1an2:word> AND 198.00 234.00 -5993482
+fcmp1an2:word> AROUND 235.00 296.00 -10130399
+fcmp1an2:word> [NOISE](+SMACK+) 297.00 300.00 -837981
+fcmp1an2:word> [SIL] 301.00 309.00 -1456798
+fcmp1an2:word> </s> 310.00 458.00 -19621287

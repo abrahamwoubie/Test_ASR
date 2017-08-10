@@ -1,0 +1,22 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+some	s(sil,ah)b	ah(s,m)	m(ah,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[sil]	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+/p	p	
+ae(/ae/)	ae(p,s)	
+s(/s/)	s(ae,t)e	
+t(/t/)	t(s,ih)	
+ih(/ih/)	ih(t,k)	
+k/	k	
+[human_noise]	sil	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,sil)e	
+[sil]	sil	
+</s>	sile	

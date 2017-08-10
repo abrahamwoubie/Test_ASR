@@ -1,0 +1,32 @@
+<s>	silb	
+the(2)	dh(sil,ax)b	ax(dh,d)e	
+/d	d	
+ay	ay(d,n)	
+n(/n/)	n(ay,ax)e	
+ax(/ax/)	ax(n,s)s	
+s(/s/)	s(ax,ax)e	
+ax(/ax/)	ax(s,r)s	
+r/	r(ax,ao)	
+also	ao(r,l)b	l(ao,s)	s(l,ow)	ow(s,hh)e	
+had	hh(ow,ae)b	ae(hh,dd)	dd(ae,sh)e	
+/sh	sh	
+ah	aa(sh,r)	
+r(/r/)	r(aa,p)e	
+p/	p	
+spikes	s(sil,p)b	p	ay	k	s(k,ae)e	
+at	ae(s,td)b	td(ae,dh)e	
+the(2)	dh(td,ax)b	ax(dh,sil)e	
+sil	sil	
+end	eh(sil,n)b	n(eh,dd)	dd(n,ax)e	
+of(2)	ax(dd,v)b	v(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+its(2)	ix(sil,ts)b	ts(ix,sil)e	
+sil	sil	
+tail	t(sil,ey)b	ey(t,l)	l(ey,sil)e	
+[end_noise]	sil	
+for(2)	f(sil,axr)b	axr(f,f)e	
+fighting	f(axr,ay)b	ay	dx(ay,ix)	ix(dx,ng)	ng(ix,sil)e	
+[sil]	sil	
+</s>	sile	

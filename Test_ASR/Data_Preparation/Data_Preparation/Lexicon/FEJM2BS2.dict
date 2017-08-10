@@ -1,0 +1,16 @@
+<s>	silb	
+carry(2)	k(sil,eh)b	eh(k,r)	r(eh,iy)	iy(r,f)e	
+food	f(iy,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+water	w(sil,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,ax)e	
+and(2)	ax(axr,n)b	n(ax,dd)	dd(n,m)e	
+medicines	m(dd,eh)b	eh	dx(eh,ax)	ax(dx,s)	s	ax(s,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,dh)e	
+the(2)	dh(uw,ax)b	ax(dh,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,ah)e	
+of	ah(l,v)b	v(ah,r)e	
+rwanda	r(v,ax)	ax	w(ax,aa)	aa(w,n)	n	d(n,ax)	ax	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,29 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+/s	s	
+ay	ay(s,ax)s	
+ax(/ax/)	ax(ay,n)s	
+n(/n/)	n(ax,t)e	
+t(/t/)	t(n,ix)	
+ix(/ix/)	ix(t,s)	
+s/	s(ix,k)e	
+keep	k(s,iy)b	iy(k,pd)	pd(iy,l)e	
+learning	l	er	n(er,ix)	ix(n,ng)	ng(ix,n)e	
+new	n(ng,uw)b	uw(n,sil)e	
+sil	sil	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,ah)e	
+/ah	ah	
+b(/b/)	b	
+aw/	aw(b,td)	
+/td	td(aw,ay)e	
+ay	ay(td,n)s	
+n(/n/)	n(ay,ow)e	
+ow	ow(n,s)s	
+s(/s/)	s(ow,ao)e	
+ao(/ao/)	ao(s,r)e	
+r(/r/)	r(ao,s)e	
+s/	s(r,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

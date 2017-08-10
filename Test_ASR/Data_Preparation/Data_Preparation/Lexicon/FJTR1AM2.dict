@@ -1,0 +1,30 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+[begin_noise]	sil	
+/t	t	
+ao(/ao/)	ao(t,aa)e	
+r	aa(ao,r)b	r(aa,n)e	
+n(/n/)	n(r,ey)e	
+ey(/ey/)	ey(n,d)s	
+d	d(ey,iy)b	iy(d,ow)e	
+ow/	ow(iy,sil)s	
+sil	sil	
+bring	b(sil,r)b	r(b,ih)	ih(r,ng)	ng(ih,sil)e	
+[end_noise]	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,ae)e	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,w)e	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+d	d(sil,iy)b	iy(d,sil)e	
+sil	sil	
+ow	ow(sil,sil)s	
+sil	sil	
+s/	s	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

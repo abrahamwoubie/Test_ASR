@@ -1,0 +1,36 @@
+<s>	silb	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+until	ax(sil,n)b	n(ax,t)	t(n,ih)	ih(t,l)	l(ih,n)e	
+/n	n	
+aa/	aa	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+scientists(2)	s(sil,ay)b	ay(s,n)	n(ay,t)	t(n,ix)	ix(t,s)	s(ix,ts)	ts(s,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+could	k(sil,uh)b	uh(k,dd)	dd(uh,n)e	
+not	n	aa	td	
+/eh	eh	
+sil	sil	
+k(/k/)	k	
+s(/s/)	s(k,sil)e	
+sil	sil	
+p(/p/)	p	
+ae	ey(p,eh)e	
+n	eh(ey,n)b	n(eh,dd)	
+dd/	dd(n,sil)e	
+[begin_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,t)e	
+tops	t	aa	p	s(p,sil)e	
+sil	sil	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+other	ah(sil,dh)b	dh(ah,axr)	axr(dh,t)e	
+trees	t(axr,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+[sil]	sil	
+</s>	sile	

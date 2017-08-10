@@ -1,0 +1,49 @@
+<s>	silb	
+the	dh(sil,ah)b	ah(dh,k)e	
+/k	k	
+ae(/ae/)	ae(k,l)	
+l(/l/)	l(ae,sil)e	
+sil	sil	
+ih/	ih	
+[noise]	sil	
+in(2)	ix(sil,n)b	n(ix,k)e	
+/k	k	
+ae(/ae/)	ae(k,l)	
+l(/l/)	l(ae,ih)e	
+ih(/ih/)	ih	
+f(/f/)	f(ih,ao)e	
+ao(/ao/)	ao	
+n(/n/)	n(ao,y)e	
+y(/y/)	y(n,ax)	
+ax/	ax(y,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+/aa	aa	
+w/	w	
+/w	w	
+uh	ah	
+l(/l/)	l(ah,sil)e	
+sil	sil	
+k(/k/)	k	
+ih(/ih/)	ih(k,ng)	
+ng/	ng(ih,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,k)e	
+keep	k(uw,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+seal	s(sil,iy)b	iy	l(iy,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+homes	hh(sil,ow)b	ow(hh,m)	m	z(m,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+clean	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,sil)e	
+[begin_noise]	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+[end_noise]	sil	
+safe	s(sil,ey)b	ey(s,f)	f(ey,sil)e	
+[sil]	sil	
+</s>	sile	

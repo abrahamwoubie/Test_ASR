@@ -1,0 +1,22 @@
+<s>	silb	
+/m	m	
+ah(/ah/)	ah	
+d(/d/)	d	
+er/	er	
+sil	sil	
+sea	s(sil,iy)b	iy(s,t)e	
+/t	t	
+er(/er/)	er	
+t(/t/)	t	
+ah(/ah/)	ah(t,l)e	
+l/	l(ah,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/s	s	
+w(/w/)	w	
+ih(/ih/)	ih	
+m(/m/)	m(ih,z)e	
+z/	z(m,t)e	
+to(3)	t(z,uw)b	uw(t,sil)e	
+[sil]	sil	
+</s>	sile	

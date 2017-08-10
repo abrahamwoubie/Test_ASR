@@ -1,0 +1,19 @@
+<s>	silb	
+spring	s(sil,p)b	p(s,r)	r(p,ih)	ih(r,ng)	ng(ih,b)e	
+/b	b	
+r(/r/)	r(b,ih)	
+ih(/ih/)	ih(r,n)	
+n(/n/)	n(ih,z)e	
+z/	z(n,m)e	
+many	m(z,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+/k	k	
+ax(/ax/)	ax(k,ey)e	
+ay(2)	ey(ax,eh)s	
+n	eh(ey,n)b	n(eh,d)e	
+d(/d/)	d(n,z)	
+z/	z(d,sil)e	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,w)e	
+weather	w(v,eh)b	eh(w,dh)	dh(eh,axr)	axr(dh,sil)e	
+</s>	sile	

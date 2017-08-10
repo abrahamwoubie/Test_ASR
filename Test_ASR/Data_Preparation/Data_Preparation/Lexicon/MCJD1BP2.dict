@@ -1,0 +1,34 @@
+<s>	silb	
+sil	sil	
+[noise]	sil	
+oceans	ow	sh(ow,ax)	ax(sh,n)	n(ax,z)	z(n,ao)e	
+/ao	ao	
+w/	w	
+[begin_noise]	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+/b	b	
+aa(/aa/)	aa	
+sil	sil	
+t(/t/)	t	
+iy/	iy(t,sil)e	
+sil	sil	
+/b	b	
+sil	sil	
+aa(/aa/)	aa	
+sil	sil	
+t(/t/)	t	
+iy(/iy/)	iy(t,s)e	
+s/	s(iy,sil)e	
+[end_noise]	sil	
+of	ah(sil,v)b	v(ah,w)e	
+/w	w	
+aa(/aa/)	aa	
+sil	sil	
+t(/t/)	t	
+ax(/ax/)	ax(t,l)e	
+l/	l(ax,sil)e	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,23 @@
+<s>	silb	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/r	r	
+sil	sil	
+iy/	iy(sil,sil)s	
+sil	sil	
+recycling	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,ix)	ix(l,ng)	ng(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+[begin_noise]	sil	
+happening	hh(sil,ae)b	ae(hh,p)	p(ae,ax)	ax(p,n)	n(ax,ix)	ix(n,ng)	ng(ix,sil)e	
+[end_noise]	sil	
+on(2)	ao(sil,n)b	n(ao,sil)e	
+sil	sil	
+earth	er	th(er,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

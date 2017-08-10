@@ -1,0 +1,17 @@
+fcmm1aw2:word> <s> 0.00 2.00 -1138410
+fcmm1aw2:word> /L 3.00 5.00 -815603
+fcmm1aw2:word> IH(/IH/) 6.00 8.00 -814057
+fcmm1aw2:word> NG/ 9.00 28.00 -3503931
+fcmm1aw2:word> [NOISE] 29.00 35.00 -1168208
+fcmm1aw2:word> IS(2) 36.00 87.00 -8309293
+fcmm1aw2:word> SIL 88.00 91.00 -774466
+fcmm1aw2:word> [HUMAN_NOISE](+EXHALE+) 92.00 94.00 -489599
+fcmm1aw2:word> SIL 95.00 161.00 -8269333
+fcmm1aw2:word> HELPING 162.00 225.00 -10933030
+fcmm1aw2:word> SIL 226.00 235.00 -1863714
+fcmm1aw2:word> OUR 236.00 263.00 -4488242
+fcmm1aw2:word> SIL 264.00 266.00 -784872
+fcmm1aw2:word> /AH 267.00 301.00 -5286398
+fcmm1aw2:word> TH/ 302.00 327.00 -4259395
+fcmm1aw2:word> SIL 328.00 375.00 -6477069
+fcmm1aw2:word> </s> 376.00 478.00 -13937317

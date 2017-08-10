@@ -1,0 +1,45 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+/s	s	
+ay	ay(s,n)s	
+n(/n/)	n(ay,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih	
+s/	s(ih,sil)e	
+sil	sil	
+/ao	ao	
+w/	w	
+/w	w	
+uh(/uh/)	uh	
+sil	sil	
+k(/k/)	k	
+ih(/ih/)	ih(k,ng)	
+ng/	ng(ih,t)e	
+to(3)	t(ng,uw)b	uw(t,p)e	
+/p	p	
+w(/w/)	w	
+ah(/ah/)	ah	
+sil	sil	
+t(/t/)	t	
+eh	eh(t,k)	
+k(/k/)	k	
+sil	sil	
+t/	t	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+/k	k	
+ih(/ih/)	ih(k,d)	
+d(/d/)	d(ih,z)	
+z/	z(d,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+sil	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+</s>	sile	

@@ -1,0 +1,16 @@
+<s>	silb	
+[noise]	sil	
+he	hh(sil,iy)b	iy(hh,f)e	
+found	f(iy,aw)b	aw(f,n)	n(aw,dd)	dd(n,aw)e	
+out	aw(dd,td)b	td(aw,hh)e	
+how	hh(td,aw)b	aw(hh,dh)e	
+the	dh(aw,ah)b	ah(dh,b)e	
+birds	b(ah,er)b	er	d(er,z)	z(d,k)e	
+kept(2)	k(z,eh)b	eh	pd(eh,td)	td(pd,dh)e	
+their	dh(td,eh)b	eh(dh,r)	r(eh,b)e	
+babies	b(r,ey)b	ey	b(ey,iy)	iy	z(iy,w)e	
+warm	w(z,ao)b	ao(w,r)	r(ao,m)	m(r,sil)e	
+[sil]	sil	
+[noise](+exhale+)	+exhale+	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

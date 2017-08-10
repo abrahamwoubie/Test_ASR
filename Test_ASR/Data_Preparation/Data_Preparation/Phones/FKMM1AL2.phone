@@ -1,0 +1,8 @@
+fkmm1al2:phone> SILb 0.00 3.00 -861128
+fkmm1al2:phone> S(SIL,P)b 4.00 43.00 -7513383
+fkmm1al2:phone> P(S,R) 44.00 83.00 -8805673
+fkmm1al2:phone> R(P,IH) 84.00 110.00 -6170894
+fkmm1al2:phone> IH(R,NG) 111.00 152.00 -6303056
+fkmm1al2:phone> NG(IH,SIL)e 153.00 184.00 -5751250
+fkmm1al2:phone> SIL 185.00 213.00 -5422556
+fkmm1al2:phone> SILe 214.00 290.00 -9157604

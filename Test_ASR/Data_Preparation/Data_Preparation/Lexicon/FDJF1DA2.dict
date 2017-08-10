@@ -1,0 +1,13 @@
+<s>	silb	
+[noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,l)e	
+live(2)	l(l,ih)b	ih(l,v)	v(ih,ih)e	
+in	ih(v,n)b	n(ih,r)e	
+rain	r(n,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ah)e	
+ah(/ah/)	ah(r,s)	
+s/	s(ah,sil)e	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

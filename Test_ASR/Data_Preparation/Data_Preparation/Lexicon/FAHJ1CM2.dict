@@ -1,0 +1,43 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+now	n(sil,aw)b	aw(n,sil)e	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,sil)e	
+sil	sil	
+use(2)	y(sil,uw)b	uw(y,z)	z(uw,w)e	
+walkways	w(z,ao)b	ao(w,k)	k	w	ey(w,z)	z(ey,t)e	
+to(3)	t(z,uw)b	uw(t,hh)e	
+hang	hh(uw,ae)b	ae(hh,ng)	ng(ae,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,t)e	
+tropical	t(n,r)b	r	aa	p	ix	k(ix,ax)	ax(k,l)	l(ax,t)e	
+tree	t(l,r)b	r(t,iy)	iy(r,sil)e	
+sil	sil	
+/t	t	
+r(/r/)	r	
+ao(/ao/)	ao(r,p)	
+p(/p/)	p	
+sil	sil	
+ax(/ax/)	ax(sil,l)s	
+l/	l(ax,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,t)e	
+tall	t(n,ao)b	ao	l(ao,sil)e	
+sil	sil	
+/t	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,t)e	
+t(/t/)	t	
+aa(/aa/)	aa(t,sil)e	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+sil	sil	
+[crosstalk](+exhale+)	+exhale+	
+[noise]	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

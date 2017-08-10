@@ -1,0 +1,28 @@
+<s>	silb	
+sil	sil	
+/b	b	
+ax(/ax/)	ax	
+f(/f/)	f(ax,ao)	
+ao(/ao/)	ao(f,r)	
+r/	r(ao,w)e	
+war	w(r,ao)b	ao(w,r)	r(ao,w)e	
+/w	w	
+ao(/ao/)	ao	
+ax/	ax(ao,m)s	
+many	m(ax,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+came	k(sil,ey)b	ey(k,m)	m(ey,t)e	
+to(3)	t(m,uw)b	uw(t,r)e	
+rwanda	r	ax	w(ax,aa)	aa(w,n)	n	d(n,ax)	ax	
+to(3)	t(ax,uw)b	uw(t,s)e	
+see	s(uw,iy)b	iy(s,dh)e	
+the(3)	dh(iy,iy)b	iy(dh,g)e	
+gorillas	g	axr	ih	l(ih,ax)	ax	z(ax,sil)e	
+[begin_noise]	sil	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

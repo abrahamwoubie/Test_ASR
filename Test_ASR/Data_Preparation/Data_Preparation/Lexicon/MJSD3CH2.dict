@@ -1,0 +1,28 @@
+<s>	silb	
+sil	sil	
+astronauts	ae(sil,s)b	s(ae,t)	t(s,r)	r(t,ax)	ax(r,n)	n(ax,ao)	ao	ts(ao,sil)e	
+sil	sil	
+don't	d(sil,ow)b	ow(d,n)	n(ow,td)	td(n,iy)e	
+eat	iy(td,td)b	td(iy,sil)e	
+sil	sil	
+food	f(sil,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+makes	m(sil,ey)b	ey(m,k)	k(ey,s)	s(k,sil)e	
+sil	sil	
+crumbs	k(sil,r)b	r(k,ah)	ah(r,m)	m(ah,z)	z(m,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+since	s(sil,ih)b	ih(s,n)	n(ih,s)	s(n,sil)e	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,w)e	
+would	w(ey,uh)b	uh(w,dd)	dd(uh,f)e	
+float	f(dd,l)b	l(f,ow)	ow	td(ow,axr)e	
+around	axr(td,aw)b	aw(axr,n)	n(aw,dd)	dd(n,ix)e	
+in(2)	ix(dd,n)b	n(ix,s)e	
+space	s(n,p)b	p(s,ey)	ey(p,s)	s(ey,s)e	
+stations	s(s,t)b	t(s,ey)	ey(t,sh)	sh(ey,ax)	ax(sh,n)	n(ax,z)	z(n,sil)e	
+[noise]	sil	
+</s>	sile	

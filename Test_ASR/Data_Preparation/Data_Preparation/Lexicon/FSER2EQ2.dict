@@ -1,0 +1,18 @@
+<s>	silb	
+[noise]	sil	
+potato	p(sil,ax)b	ax	t(ax,ey)	ey	t	ow(t,sil)e	
+sil	sil	
+chips	ch(sil,ih)b	ih	p(ih,s)	s(p,aa)e	
+are	aa(s,r)b	r(aa,sil)e	
+sil	sil	
+made	m(sil,ey)b	ey(m,dd)	dd(ey,b)e	
+by	b(dd,ay)b	ay(b,f)e	
+frying	f(ay,r)b	r(f,ay)	ay(r,ix)	ix(ay,ng)	ng(ix,p)e	
+potato	p(ng,ax)b	ax	t(ax,ey)	ey	t	ow(t,sil)e	
+sil	sil	
+slices(2)	s(sil,l)b	l	ay	s(ay,ix)	ix(s,z)	z(ix,ih)e	
+in	ih(z,n)b	n(ih,sil)e	
+sil	sil	
+oil	oy	l	
+[noise]	sil	
+</s>	sile	

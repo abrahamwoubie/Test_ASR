@@ -1,0 +1,9 @@
+fabm2bp2:word> <s> 0.00 22.00 -3120827
+fabm2bp2:word> HELP 23.00 46.00 -3301136
+fabm2bp2:word> [BEGIN_NOISE] 47.00 49.00 -582120
+fabm2bp2:word> IS(2) 50.00 66.00 -2958661
+fabm2bp2:word> COMING 67.00 101.00 -6432598
+fabm2bp2:word> [END_NOISE] 102.00 104.00 -694760
+fabm2bp2:word> FOR(2) 105.00 125.00 -3545763
+fabm2bp2:word> [NOISE](+RUSTLE+) 126.00 128.00 -817446
+fabm2bp2:word> </s> 129.00 132.00 -1064155

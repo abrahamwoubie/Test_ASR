@@ -1,0 +1,17 @@
+mwjk2at2:phone> SILb 0.00 31.00 -3803164
+mwjk2at2:phone> +SMACK+ 32.00 41.00 -1604950
+mwjk2at2:phone> SIL 42.00 70.00 -4676142
+mwjk2at2:phone> DH(SIL,EY)b 71.00 77.00 -1136432
+mwjk2at2:phone> EY(DH,HH)e 78.00 95.00 -2345712
+mwjk2at2:phone> HH(EY,AE)b 96.00 101.00 -771289
+mwjk2at2:phone> AE(HH,V) 102.00 115.00 -1900973
+mwjk2at2:phone> V(AE,S)e 116.00 119.00 -502309
+mwjk2at2:phone> S(V,IH)b 120.00 132.00 -2051135
+mwjk2at2:phone> IH(S,K) 133.00 140.00 -1157971
+mwjk2at2:phone> K(IH,S) 141.00 148.00 -1050066
+mwjk2at2:phone> S(K,L)e 149.00 156.00 -1466504
+mwjk2at2:phone> L(S,EH)b 157.00 164.00 -1039017
+mwjk2at2:phone> EH(L,G) 165.00 180.00 -2155368
+mwjk2at2:phone> G(EH,Z) 181.00 190.00 -1491663
+mwjk2at2:phone> Z(G,SIL)e 191.00 209.00 -3291595
+mwjk2at2:phone> SILe 210.00 398.00 -22150166

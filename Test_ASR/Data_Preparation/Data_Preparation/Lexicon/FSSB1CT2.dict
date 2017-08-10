@@ -1,0 +1,24 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+[begin_noise]	sil	
+/b	b	
+ah(/ah/)	ah	
+g(/g/)	g	
+sil	sil	
+s/	s	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+[end_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,r)e	
+rain	r(ax,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ih)e	
+ih(/ih/)	ih(r,s)	
+s(/s/)	s(ih,sil)e	
+sil	sil	
+t/	t	
+</s>	sile	

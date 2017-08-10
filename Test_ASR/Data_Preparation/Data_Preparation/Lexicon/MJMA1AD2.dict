@@ -1,0 +1,17 @@
+<s>	silb	
+[noise]	sil	
+[begin_noise]	sil	
+/l	l	
+ay	ay(l,sil)e	
+dx(/dx/)	dx	
+n(/n/)	n	
+ih(/ih/)	ih	
+ng/	ng(ih,k)e	
+/k	k	
+ih(/ih/)	ih	
+n/	n(ih,hh)e	
+hurt	hh(n,er)b	er	td	
+[end_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[sil]	sil	
+</s>	sile	

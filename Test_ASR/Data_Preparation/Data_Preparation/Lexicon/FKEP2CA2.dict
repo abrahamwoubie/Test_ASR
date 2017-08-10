@@ -1,0 +1,27 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,w)e	
+want(2)	w(ey,ao)b	ao(w,n)	n(ao,td)	td(n,t)e	
+to(3)	t(td,uw)b	uw(t,hh)e	
+help	hh(uw,eh)b	eh(hh,l)	l(eh,pd)	pd(l,r)e	
+/r	r	
+uw(/uw/)	uw(r,w)e	
+w(/w/)	w	
+aa(/aa/)	aa(w,n)	
+n(/n/)	n(aa,d)e	
+d(/d/)	d(n,ax)	
+ax(/ax/)	ax(d,s)	
+s/	s(ax,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+get	g(sil,eh)b	eh(g,td)	td(eh,sil)e	
+sil	sil	
+well	w(sil,eh)b	eh(w,l)	l(eh,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+return	r(sil,ix)b	ix(r,t)	t(ix,er)	er(t,n)	n(er,t)e	
+to	t(n,ax)b	ax(t,dh)e	
+their	dh(ax,eh)b	eh(dh,r)	r(eh,hh)e	
+homes	hh(r,ow)b	ow(hh,m)	m	z(m,sil)e	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,42 @@
+<s>	silb	
+rain	r(sil,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao	
+r	aa(ao,r)b	r(aa,eh)e	
+eh	eh	
+s	eh(eh,s)b	s(eh,t)e	
+t/	t	
+has	hh(sil,ae)b	ae(hh,z)	z(ae,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+[begin_noise]	sil	
+/f	f	
+ao(/ao/)	ao	
+r	aa(ao,r)b	r(aa,eh)e	
+eh	eh(r,s)	
+s(/s/)	s(eh,t)e	
+t/	t	
+[end_noise]	sil	
+have	hh(sil,ae)b	ae(hh,v)	v(ae,sil)e	
+[begin_noise]	sil	
+the	dh(sil,ah)b	ah(dh,m)e	
+most	m(ah,ow)b	ow(m,s)	s(ow,td)	td(s,sil)e	
+[end_noise]	sil	
+different(2)	d(sil,ih)b	ih(d,f)	f(ih,r)	r(f,ax)	ax(r,n)	n(ax,td)	td(n,k)e	
+kinds	k(td,ay)b	ay(k,n)	n(ay,d)	d(n,z)	z(d,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+[begin_noise]	sil	
+/b	b	
+ah(/ah/)	ah(b,dx)	
+dx(/dx/)	dx(ah,axr)	
+er	axr(dx,f)e	
+f(/f/)	f	
+r(/r/)	r(f,ay)	
+ay	ay(r,z)s	
+z/	z(ay,sil)e	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

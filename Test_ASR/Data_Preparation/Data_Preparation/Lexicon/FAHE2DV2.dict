@@ -1,0 +1,26 @@
+<s>	silb	
+doctors	d(sil,aa)b	aa	kd	t(kd,axr)	axr(t,z)	z(axr,s)e	
+say	s(z,ey)b	ey(s,k)e	
+kids	k(ey,ih)b	ih(k,d)	d(ih,z)	z(d,n)e	
+need	n(z,iy)b	iy(n,dd)	dd(iy,t)e	
+to	t(dd,ax)b	ax(t,g)e	
+get	g(ax,eh)b	eh(g,td)	td(eh,sil)e	
+[begin_noise]	sil	
+up	ah(sil,pd)b	pd(ah,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+/ae	ae	
+n/	n(ae,m)e	
+/m	m	
+uw(/uw/)	uw(m,v)	
+v(/v/)	v(uw,ax)e	
+ax/	ax(v,sil)s	
+sil	sil	
+/b	b	
+aw(/aw/)	aw	
+sil	sil	
+td/	td	
+[sil]	sil	
+[begin_noise]	sil	
+[end_noise]	sil	
+</s>	sile	

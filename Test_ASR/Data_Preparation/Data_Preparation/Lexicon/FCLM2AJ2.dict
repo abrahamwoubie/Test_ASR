@@ -1,0 +1,15 @@
+<s>	silb	
+sil	sil	
+now	n(sil,aw)b	aw(n,dh)e	
+they	dh(aw,ey)b	ey(dh,sil)e	
+[begin_noise]	sil	
+say	s(sil,ey)b	ey(s,s)e	
+some	s(ey,ah)b	ah(s,m)	m(ah,sil)e	
+[end_noise]	sil	
+of	ah(sil,v)b	v(ah,dh)e	
+the(2)	dh(v,ax)b	ax(dh,b)e	
+butterflies	b(ax,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,aa)e	
+are	aa(z,r)b	r(aa,ax)e	
+alive	ax(r,l)b	l(ax,ay)	ay(l,v)	v(ay,sil)e	
+[sil]	sil	
+</s>	sile	

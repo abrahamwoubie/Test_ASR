@@ -1,0 +1,16 @@
+mjms2bx2:phone> SILb 0.00 2.00 -782725
+mjms2bx2:phone> SIL 3.00 19.00 -3109600
+mjms2bx2:phone> SIL 20.00 31.00 -1880408
+mjms2bx2:phone> P(SIL,IY)b 32.00 40.00 -1567998
+mjms2bx2:phone> IY(P,P) 41.00 48.00 -1166228
+mjms2bx2:phone> P(IY,AX) 49.00 53.00 -829822
+mjms2bx2:phone> AX(P,L) 54.00 56.00 -428084
+mjms2bx2:phone> L(AX,G)e 57.00 61.00 -660355
+mjms2bx2:phone> G(L,AA) 62.00 65.00 -678037
+mjms2bx2:phone> AA 66.00 77.00 -2261613
+mjms2bx2:phone> TD 78.00 84.00 -1319337
+mjms2bx2:phone> S(TD,IH)b 85.00 100.00 -2508654
+mjms2bx2:phone> IH 101.00 115.00 -2625890
+mjms2bx2:phone> KD(IH,SIL)e 116.00 121.00 -1356402
+mjms2bx2:phone> +SMACK+ 122.00 130.00 -1730702
+mjms2bx2:phone> SILe 131.00 380.00 -31062575

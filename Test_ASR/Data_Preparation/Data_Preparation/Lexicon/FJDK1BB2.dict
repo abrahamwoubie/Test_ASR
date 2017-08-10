@@ -1,0 +1,62 @@
+<s>	silb	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[end_noise]	sil	
+use	y(sil,uw)b	uw(y,s)	s(uw,sil)e	
+sil	sil	
+[begin_noise]	sil	
+trash	t(sil,r)b	r(t,ae)	ae	sh(ae,sil)e	
+[end_noise]	sil	
+[human_noise](+rustle+)	+rustle+	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+[end_noise]	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+new	n(sil,uw)b	uw(n,sil)e	
+[see_transcript](+swallow+)	+swallow+	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+well	w(sil,eh)b	eh(w,l)	l(eh,sil)e	
+sil	sil	
+sometime	s(sil,ah)b	ah(s,m)	m(ah,t)	t(m,ay)	ay(t,m)	m(ay,sil)e	
+sil	sil	
+me	m(sil,iy)b	iy(m,ax)e	
+and(2)	ax(iy,n)b	n(ax,dd)	dd(n,m)e	
+my	m(dd,ay)b	ay(m,s)e	
+sister	s(ay,ih)b	ih(s,s)	s(ih,t)	t(s,axr)	axr(t,sil)e	
+sil	sil	
+use(2)	y(sil,uw)b	uw(y,z)	z(uw,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+trash	t(sil,r)b	r(t,ae)	ae	sh(ae,f)e	
+for(2)	f(sh,axr)b	axr(f,n)e	
+new(2)	n(axr,y)b	y(n,uw)	uw(y,sil)e	
+sil	sil	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+we	w(sil,iy)b	iy(w,m)e	
+making	m(iy,ey)b	ey(m,k)	k(ey,ix)	ix(k,ng)	ng(ix,sil)e	
+sil	sil	
+old	ow(sil,l)b	l(ow,dd)	dd(l,p)e	
+paper	p(dd,ey)b	ey	p	axr(p,aw)e	
+out	aw(axr,td)b	td(aw,ax)e	
+of(2)	ax(td,v)b	v(ax,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

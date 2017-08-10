@@ -1,0 +1,29 @@
+<s>	silb	
+[noise]	sil	
+families(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,k)e	
+can	k(z,ae)b	ae(k,n)	n(ae,y)e	
+use(2)	y(n,uw)b	uw(y,z)	z(uw,dh)e	
+the(2)	dh(z,ax)b	ax(dh,k)e	
+computer	k(ax,ax)b	ax(k,m)	m(ax,p)	p(m,y)	y(p,uw)	uw(y,dx)	dx(uw,axr)	axr(dx,t)e	
+to(3)	t(axr,uw)b	uw(t,f)e	
+find	f(uw,ay)b	ay(f,n)	n(ay,dd)	dd(n,aw)e	
+out	aw(dd,td)b	td(aw,w)e	
+/w	w	
+ah(/ah/)	ah(w,ts)	
+ts/	ts(ah,sil)e	
+sil	sil	
+/w	w	
+ah(/ah/)	ah(w,ts)	
+ts/	ts(ah,hh)e	
+homework	hh(ts,ow)b	ow(hh,m)	m	w	er(w,kd)	kd(er,sil)e	
+[human_noise]	sil	
+/w	w	
+ah(/ah/)	ah(w,ts)	
+ts/	ts(ah,hh)e	
+homework	hh(ts,ow)b	ow(hh,m)	m	w	er(w,kd)	kd(er,sil)e	
+sil	sil	
+their	dh(sil,eh)b	eh(dh,r)	r(eh,k)e	
+kids	k(r,ih)b	ih(k,d)	d(ih,z)	z(d,hh)e	
+have	hh(z,ae)b	ae(hh,v)	v(ae,sil)e	
+[whisper](+inhale+)	+inhale+	
+</s>	sile	

@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+bears	b(sil,eh)b	eh	r(eh,z)	z(r,iy)e	
+eat	iy(z,td)b	td(iy,sil)e	
+sil	sil	
+/m/	m	
+meat	m(m,iy)b	iy(m,td)	td(iy,sil)e	
+sil	sil	
+fish	f(sil,ih)b	ih(f,sh)	sh(ih,sil)e	
+sil	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,p)e	
+plants	p(dd,l)b	l(p,ae)	ae(l,n)	n	ts(n,sil)e	
+[noise]	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

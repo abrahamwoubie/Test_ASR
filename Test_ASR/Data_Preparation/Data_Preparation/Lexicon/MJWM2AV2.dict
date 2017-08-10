@@ -1,0 +1,33 @@
+<s>	silb	
+sil	sil	
+/w	w	
+ey(/ey/)	ey(w,n)e	
+n/	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ix)e	
+ix(/ix/)	ix(r,s)	
+s(/s/)	s(ix,t)e	
+t/	t	
+[begin_noise]	sil	
+have	hh(sil,ae)b	ae(hh,v)	v(ae,m)e	
+/m	m	
+ow	ow(m,s)s	
+s/	s(ow,sil)e	
+[end_noise]	sil	
+/d	d	
+ih(/ih/)	ih(d,f)	
+f(/f/)	f(ih,r)e	
+r(/r/)	r(f,ix)	
+ix(/ix/)	ix(r,n)	
+n/	n(ix,sil)e	
+[begin_noise]	sil	
+/k	k	
+ay	ay(k,n)	
+n(/n/)	n(ay,z)e	
+z/	z(n,ah)e	
+of	ah(z,v)b	v(ah,sil)e	
+[end_noise]	sil	
+butterflies	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,sil)e	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,28 @@
+<s>	silb	
+sil	sil	
+thick	th(sil,ih)b	ih	kd(ih,ay)e	
+ice	ay	s(ay,ae)e	
+/ae	ae(s,n)	
+n/	n(ae,s)e	
+snow	s(n,n)b	n	ow(n,k)e	
+/k	k	
+ah	aa	
+v(/v/)	v	
+er	axr(v,z)e	
+z/	z(axr,ae)e	
+antarctica	ae(z,n)b	n	aa(n,r)	r(aa,dx)	dx(r,ix)	ix(dx,k)	k(ix,ax)	ax(k,sil)e	
+[begin_noise]	sil	
+all	ao(sil,l)b	l(ao,sil)e	
+[end_noise]	sil	
+[human_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,w)e	
+/w	w(ax,ey)	
+ey/	ey(w,sil)e	
+sil	sil	
+all	ao(sil,l)b	l(ao,dh)e	
+the(2)	dh(l,ax)b	ax(dh,t)e	
+time	t(ax,ay)b	ay(t,m)	m(ay,sil)e	
+sil	sil	
+[noise](+swallow+)	+swallow+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,31 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+now	n(sil,aw)b	aw(n,s)e	
+some	s(aw,ah)b	ah(s,m)	m(ah,f)e	
+families(2)	f(m,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,k)e	
+can	k(z,ae)b	ae(k,n)	n(ae,l)e	
+learn	l	er	n(er,dh)e	
+the	dh(n,ah)b	ah(dh,ae)e	
+/ae	ae	
+n(/n/)	n(ae,s)e	
+s(/s/)	s(n,axr)e	
+er	axr(s,z)e	
+z/	z(axr,t)e	
+to(3)	t(z,uw)b	uw(t,dh)e	
+that	dh(uw,ae)b	ae(dh,td)	td(ae,sil)e	
+[human_noise]	sil	
+[begin_noise]	sil	
+question	k(sil,w)b	w(k,eh)	eh(w,s)	s(eh,ch)	ch(s,ax)	ax(ch,n)	n(ax,sil)e	
+[end_noise]	sil	
+without	w(sil,ix)b	ix(w,th)	th(ix,aw)	aw(th,td)	td(aw,ae)e	
+/ae	ae	
+s	eh(sil,s)b	s(eh,sil)e	
+sil	sil	
+t	t(sil,iy)b	iy(t,ih)e	
+ih(/ih/)	ih	
+ng/	ng(ih,dh)e	
+their	dh(ng,eh)b	eh(dh,r)	r(eh,k)e	
+kids	k(r,ih)b	ih(k,d)	d(ih,z)	z(d,sil)e	
+sil	sil	
+</s>	sile	

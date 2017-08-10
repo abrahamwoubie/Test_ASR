@@ -1,0 +1,38 @@
+<s>	silb	
+[noise](+noise+)	+noise+	
+when(2)	hh(sil,w)b	w(hh,ih)	ih(w,n)	n(ih,w)e	
+water	w(n,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,k)e	
+covers	k(axr,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,z)e	
+/z	z	
+s/	s	
+sil	sil	
+/t	t	
+r	aa(t,r)	r(aa,iy)e	
+iy(/iy/)	iy(r,t)e	
+t(/t/)	t	
+s/	s	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,g)e	
+goes	g(dd,ow)b	ow(g,z)	z(ow,ih)e	
+into	ih(z,n)b	n(ih,t)	t(n,uw)	uw(t,sil)e	
+[human_noise]	sil	
+houses(2)	hh(sil,aw)b	aw(hh,s)	s(aw,ix)	ix(s,z)	z(ix,sil)e	
+sil	sil	
+/ih	ih	
+th/	th(ih,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,k)e	
+/k	k	
+ao/	ao	
+sil	sil	
+a	ax(sil,sil)s	
+sil	sil	
+/f	f	
+sil	sil	
+l(/l/)	l	
+ao(/ao/)	ao(l,r)e	
+r(/r/)	r(ao,sil)e	
+sil	sil	
+d/	d	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

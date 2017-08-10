@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+ice	ay	s(ay,f)e	
+fish	f(s,ih)b	ih(f,sh)	sh(ih,sil)e	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,k)e	
+cold	k(ax,ow)b	ow(k,l)	l(ow,dd)	dd(l,w)e	
+water	w(dd,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,n)e	
+near	n(axr,ih)b	ih(n,r)	r(ih,ae)e	
+antarctica(2)	ae(r,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,sil)e	
+sil	sil	
+[noise]	sil	
+</s>	sile	

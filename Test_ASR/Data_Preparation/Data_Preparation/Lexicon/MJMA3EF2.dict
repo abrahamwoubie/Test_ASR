@@ -1,0 +1,46 @@
+<s>	silb	
+sil	sil	
+if	ih(sil,f)b	f(ih,sil)e	
+sil	sil	
+another	ax(sil,n)b	n(ax,ah)	ah(n,dh)	dh(ah,axr)	axr(dh,p)e	
+person	p(axr,er)b	er(p,s)	s(er,ax)	ax(s,n)	n(ax,k)e	
+/k	k	
+ih(/ih/)	ih	
+n/	n(ih,hh)e	
+hear	hh(n,ih)b	ih(hh,r)	r(ih,m)e	
+music	m(r,y)b	y(m,uw)	uw(y,z)	z(uw,ix)	ix	kd(ix,k)e	
+coming	k(kd,ah)b	ah(k,m)	m(ah,ix)	ix(m,ng)	ng(ix,sil)e	
+sil	sil	
+from	f(sil,axr)b	axr(f,m)	m(axr,ey)	
+a(2)	ey(m,sil)s	
+sil	sil	
+/hh	hh	
+eh	eh	
+d/	d	
+sil	sil	
+/t	t	
+s/	s	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+headset	hh(sil,eh)b	eh	d	s	eh(s,td)	td(eh,sil)e	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,y)e	
+you	y(td,uw)b	uw(y,aa)e	
+are	aa(uw,r)b	r(aa,sil)e	
+sil	sil	
+/w	w	
+ey(/ey/)	ey(w,aa)e	
+r	aa(ey,r)b	r(aa,ih)e	
+ih(/ih/)	ih(r,ng)	
+ng/	ng(ih,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,m)e	
+music	m(ax,y)b	y(m,uw)	uw(y,z)	z(uw,ix)	ix	kd(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+too	t(sil,uw)b	uw(t,l)e	
+loud	l	aw(l,dd)	dd(aw,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

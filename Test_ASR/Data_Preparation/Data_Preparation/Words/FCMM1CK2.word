@@ -1,0 +1,17 @@
+fcmm1ck2:word> <s> 0.00 2.00 -1234666
+fcmm1ck2:word> /K 3.00 5.00 -993066
+fcmm1ck2:word> AX(/AX/) 6.00 8.00 -701884
+fcmm1ck2:word> L/ 9.00 22.00 -2188216
+fcmm1ck2:word> RAIN 23.00 57.00 -4332819
+fcmm1ck2:word> FOREST(2) 58.00 121.00 -9444851
+fcmm1ck2:word> SIL 122.00 132.00 -1551544
+fcmm1ck2:word> HAS 133.00 176.00 -6993880
+fcmm1ck2:word> MANY 177.00 244.00 -11091475
+fcmm1ck2:word> SIL 245.00 350.00 -12755016
+fcmm1ck2:word> [CROSSTALK] 351.00 381.00 -4338931
+fcmm1ck2:word> SIL 382.00 387.00 -1139879
+fcmm1ck2:word> TALL 388.00 431.00 -6949721
+fcmm1ck2:word> [BEGIN_NOISE] 432.00 434.00 -531944
+fcmm1ck2:word> TREES 435.00 502.00 -11762805
+fcmm1ck2:word> [END_NOISE] 503.00 515.00 -2302339
+fcmm1ck2:word> </s> 516.00 716.00 -23270717

@@ -1,0 +1,18 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+antarctica(2)	ae(sil,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,ih)e	
+is	ih(ax,z)b	z(ih,dh)e	
+the(2)	dh(z,ax)b	ax(dh,k)e	
+continent	k(ax,aa)b	aa(k,n)	n	t(n,ax)	ax(t,n)	n(ax,ax)	ax(n,n)	n(ax,td)	td(n,ae)e	
+at	ae(td,td)b	td(ae,dh)e	
+the(2)	dh(td,ax)b	ax(dh,s)e	
+southern	s(ax,ah)b	ah(s,dh)	dh(ah,axr)	axr(dh,n)	n(axr,eh)e	
+end	eh(n,n)b	n(eh,dd)	dd(n,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,aa)e	
+our	aa(v,r)b	r(aa,p)e	
+planet	p(r,l)b	l(p,ae)	ae(l,n)	n(ae,ax)	ax	td(ax,sil)e	
+sil	sil	
+</s>	sile	

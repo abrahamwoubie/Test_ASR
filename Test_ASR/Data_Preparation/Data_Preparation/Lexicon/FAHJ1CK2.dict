@@ -1,0 +1,18 @@
+<s>	silb	
+[noise]	sil	
+a(2)	ey(sil,t)s	
+tropical	t(ey,r)b	r	aa	p	ix	k(ix,ax)	ax(k,l)	l(ax,r)e	
+rain	r(l,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ih)e	
+ih(/ih/)	ih(r,s)	
+s/	s(ih,hh)e	
+has	hh(s,ae)b	ae(hh,z)	z(ae,m)e	
+many	m(z,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[sil]	sil	
+tall	t(sil,ao)b	ao	l(ao,t)e	
+trees	t(l,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+</s>	sile	

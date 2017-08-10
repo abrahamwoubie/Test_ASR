@@ -1,0 +1,33 @@
+<s>	silb	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+do	d(sil,uw)b	uw(d,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+[human_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,y)e	
+your(2)	y(n,uh)b	uh(y,r)	r(uh,sil)e	
+[begin_noise]	sil	
+family(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,sil)e	
+[end_noise]	sil	
+[human_noise]	sil	
+ever	eh(sil,v)b	v(eh,axr)	axr(v,ae)e	
+/ae	ae	
+k(/k/)	k(ae,s)	
+s/	s(k,hh)e	
+what	hh(s,w)b	w	ah(w,td)	td(ah,sil)e	
+sil	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,y)e	
+you	y(dd,uw)b	uw(y,sil)e	
+sil	sil	
+do	d(sil,uw)b	uw(d,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,s)e	
+school	s(n,k)b	k(s,uw)	uw(k,l)	l(uw,sil)e	
+[begin_noise]	sil	
+today	t(sil,ax)b	ax(t,d)	d(ax,ey)	ey(d,sil)e	
+[end_noise]	sil	
+</s>	sile	

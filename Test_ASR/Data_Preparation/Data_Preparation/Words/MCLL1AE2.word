@@ -1,0 +1,17 @@
+mcll1ae2:word> <s> 0.00 2.00 -713450
+mcll1ae2:word> [NOISE] 3.00 32.00 -4591928
+mcll1ae2:word> IT(2) 33.00 52.00 -3238588
+mcll1ae2:word> SIL 53.00 69.00 -3320828
+mcll1ae2:word> CAN 70.00 129.00 -8801531
+mcll1ae2:word> SIL 130.00 165.00 -5127573
+mcll1ae2:word> /HH/ 166.00 168.00 -629211
+mcll1ae2:word> HARM 169.00 247.00 -10532872
+mcll1ae2:word> SIL 248.00 331.00 -11169914
+mcll1ae2:word> THROWS 332.00 413.00 -12132572
+mcll1ae2:word> SIL 414.00 423.00 -2385461
+mcll1ae2:word> /AE 424.00 451.00 -4278055
+mcll1ae2:word> N/ 452.00 461.00 -1494054
+mcll1ae2:word> BUILDINGS 462.00 512.00 -9035089
+mcll1ae2:word> [SIL] 513.00 518.00 -916500
+mcll1ae2:word> [HUMAN_NOISE](+SMACK+) 519.00 536.00 -3494200
+mcll1ae2:word> </s> 537.00 920.00 -52806188

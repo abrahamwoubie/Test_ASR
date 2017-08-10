@@ -1,0 +1,14 @@
+<s>	silb	
+sil	sil	
+/g	g	
+r	aa(g,r)	r(aa,aw)e	
+aw/	aw(r,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

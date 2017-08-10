@@ -1,0 +1,12 @@
+fser2di2:word> <s> 0.00 2.00 -619242
+fser2di2:word> [NOISE](+INHALE+) 3.00 36.00 -4310932
+fser2di2:word> SIL 37.00 43.00 -1204196
+fser2di2:word> THEY 44.00 58.00 -2427481
+fser2di2:word> DIVE 59.00 98.00 -5678323
+fser2di2:word> FOR(2) 99.00 120.00 -3433424
+fser2di2:word> FOOD 121.00 168.00 -7488340
+fser2di2:word> IN 169.00 189.00 -2875151
+fser2di2:word> NEARBY 190.00 225.00 -4642091
+fser2di2:word> WATERS 226.00 300.00 -10848666
+fser2di2:word> [NOISE](+EXHALE+) 301.00 303.00 -557183
+fser2di2:word> </s> 304.00 508.00 -25888390

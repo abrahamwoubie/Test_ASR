@@ -1,0 +1,18 @@
+<s>	silb	
+[noise](+exhale+)	+exhale+	
+/s	s	
+p/	p	
+sil	sil	
+[begin_noise]	sil	
+/p	p	
+s/	s(p,s)e	
+spin	s(s,p)b	p	ih(p,n)	n(ih,sil)e	
+sil	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+[end_noise]	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+[noise](+inhale+)	+inhale+	
+[crosstalk](+smack+)	+smack+	
+</s>	sile	

@@ -1,0 +1,14 @@
+mjma1aj2:word> <s> 0.00 6.00 -1114722
+mjma1aj2:word> [NOISE] 7.00 24.00 -2584980
+mjma1aj2:word> DO 25.00 40.00 -2482901
+mjma1aj2:word> NOT 41.00 72.00 -5687764
+mjma1aj2:word> SIL 73.00 75.00 -634344
+mjma1aj2:word> USE 76.00 118.00 -7148948
+mjma1aj2:word> IT(2) 119.00 134.00 -3075864
+mjma1aj2:word> SIL 135.00 140.00 -996342
+mjma1aj2:word> THE(2) 141.00 160.00 -3525948
+mjma1aj2:word> TELEPHONE 161.00 237.00 -11443213
+mjma1aj2:word> SIL 238.00 254.00 -2601447
+mjma1aj2:word> [HUMAN_NOISE](+RUSTLE+) 255.00 292.00 -8556944
+mjma1aj2:word> [SIL] 293.00 298.00 -1051786
+mjma1aj2:word> </s> 299.00 610.00 -36000757

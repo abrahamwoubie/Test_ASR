@@ -1,0 +1,10 @@
+fcmp1ah1:phone> SILb 0.00 27.00 -3446200
+fcmp1ah1:phone> G(SIL,OW)b 28.00 33.00 -1017875
+fcmp1ah1:phone> OW(G,IH)e 34.00 56.00 -2880757
+fcmp1ah1:phone> IH(OW,N)b 57.00 73.00 -3427658
+fcmp1ah1:phone> N(IH,D) 74.00 84.00 -1653313
+fcmp1ah1:phone> D 85.00 89.00 -1033415
+fcmp1ah1:phone> AO(D,R) 90.00 107.00 -2441044
+fcmp1ah1:phone> R(AO,Z) 108.00 120.00 -2064576
+fcmp1ah1:phone> Z(R,SIL)e 121.00 143.00 -3284366
+fcmp1ah1:phone> SILe 144.00 358.00 -25208748

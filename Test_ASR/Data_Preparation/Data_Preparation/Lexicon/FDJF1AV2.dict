@@ -1,0 +1,22 @@
+<s>	silb	
+when	hh(sil,w)b	w(hh,eh)	eh(w,n)	n(eh,w)e	
+water	w(n,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,k)e	
+covers	k(axr,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,s)e	
+streets	s(z,t)b	t(s,r)	r(t,iy)	iy	ts(iy,ae)e	
+and	ae(ts,n)b	n(ae,dd)	dd(n,g)e	
+goes	g(dd,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,hh)e	
+houses(2)	hh(uw,aw)b	aw(hh,s)	s(aw,ix)	ix(s,z)	z(ix,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,ey)e	
+a(2)	ey(dd,f)s	
+flood	f(ey,l)b	l	ah	dd	
+sil	sil	
+</s>	sile	

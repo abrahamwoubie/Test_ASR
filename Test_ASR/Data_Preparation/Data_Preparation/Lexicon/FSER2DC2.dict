@@ -1,0 +1,21 @@
+<s>	silb	
+[noise]	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,ax)e	
+along	ax(v,l)b	l(ax,ao)	ao(l,ng)	ng(ao,dh)e	
+the(2)	dh(ng,ax)b	ax(dh,k)e	
+coast	k(ax,ow)b	ow(k,s)	s(ow,td)	td(s,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,n)e	
+nearby	n(n,ih)b	ih(n,r)	r(ih,b)	b(r,ay)	ay(b,ao)e	
+/ao	ao	
+r(/r/)	r(ao,sh)e	
+sh(/sh/)	sh	
+ix(/ix/)	ix	
+n(/n/)	n(ix,z)e	
+z/	z(n,sil)e	
+[noise]	sil	
+</s>	sile	

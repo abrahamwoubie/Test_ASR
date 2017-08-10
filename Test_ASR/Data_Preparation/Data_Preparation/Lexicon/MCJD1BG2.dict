@@ -1,0 +1,36 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,s)e	
+/s	s(ah,ao)e	
+ao(/ao/)	ao(s,l)e	
+l/	l(ao,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+soil	s	oy	l	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_noise]	sil	
+is	ih(sil,z)b	z(ih,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+used	y(sil,uw)b	uw(y,z)	z(uw,dd)	dd(z,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+[begin_noise]	sil	
+help	hh(sil,eh)b	eh(hh,l)	l(eh,pd)	pd(l,sil)e	
+[end_noise]	sil	
+[human_noise]	sil	
+/g	g	
+aa(/aa/)	aa	
+d(/d/)	d	
+eh	eh(d,n)	
+n(/n/)	n(eh,s)e	
+s/	s(n,sil)e	
+sil	sil	
+/g	g	
+w(/w/)	w	
+ow/	ow	
+[sil]	sil	
+</s>	sile	

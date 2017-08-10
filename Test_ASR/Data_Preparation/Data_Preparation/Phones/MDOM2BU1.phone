@@ -1,0 +1,17 @@
+mdom2bu1:phone> SILb 0.00 21.00 -3149424
+mdom2bu1:phone> DH(SIL,AX)b 22.00 27.00 -1069679
+mdom2bu1:phone> AX(DH,K)e 28.00 31.00 -729929
+mdom2bu1:phone> K(AX,AH)b 32.00 43.00 -1835818
+mdom2bu1:phone> AH(K,N) 44.00 49.00 -1268512
+mdom2bu1:phone> N(AH,T) 50.00 55.00 -942053
+mdom2bu1:phone> T(N,R) 56.00 66.00 -1592377
+mdom2bu1:phone> R(T,IY) 67.00 72.00 -718955
+mdom2bu1:phone> IY(R,HH)e 73.00 80.00 -1316669
+mdom2bu1:phone> HH(IY,AE)b 81.00 86.00 -831268
+mdom2bu1:phone> AE(HH,DD) 87.00 98.00 -1988609
+mdom2bu1:phone> DD(AE,AX)e 99.00 101.00 -782190
+mdom2bu1:phone> AX(DD,W)s 102.00 105.00 -685870
+mdom2bu1:phone> W(AX,AO)b 106.00 125.00 -3064310
+mdom2bu1:phone> AO(W,R) 126.00 153.00 -4014150
+mdom2bu1:phone> R(AO,SIL)e 154.00 165.00 -2421048
+mdom2bu1:phone> SILe 166.00 326.00 -18097690

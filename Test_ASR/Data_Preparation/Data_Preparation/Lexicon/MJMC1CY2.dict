@@ -1,0 +1,14 @@
+<s>	silb	
+/ih	ih	
+v/	v(ih,ih)e	
+in	ih(v,n)b	n(ih,d)e	
+/d	d	
+sil	sil	
+ax/	ax(sil,r)s	
+rain	r(ax,ey)b	ey(r,n)	n(ey,f)e	
+forest(2)	f(n,ao)b	ao(f,r)	r(ao,ix)	ix(r,s)	s(ix,td)	td(s,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

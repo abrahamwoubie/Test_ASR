@@ -1,0 +1,10 @@
+<s>	silb	
+[noise]	sil	
+on(2)	ao(sil,n)b	n(ao,t)e	
+top(2)	t(n,ao)b	ao(t,pd)	pd(ao,sil)e	
+sil	sil	
+its(2)	ix(sil,ts)b	ts(ix,k)e	
+colors	k(ts,ah)b	ah(k,l)	l	axr(l,z)	z(axr,aa)e	
+are	aa(z,r)b	r(aa,b)e	
+bright	b(r,r)b	r	ay(r,td)	td(ay,sil)e	
+</s>	sile	

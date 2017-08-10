@@ -1,0 +1,23 @@
+<s>	silb	
+[begin_noise]	sil	
+do	d(sil,uw)b	uw(d,dh)e	
+that(2)	dh(uw,ax)b	ax	td(ax,s)e	
+says	s(td,eh)b	eh(s,z)	z(eh,sil)e	
+[end_noise]	sil	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,r)e	
+right	r(ng,ay)b	ay(r,td)	td(ay,dh)e	
+there	dh(td,eh)b	eh(dh,r)	r(eh,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+[human_noise]	sil	
+[begin_noise]	sil	
+moves	m(sil,uw)b	uw(m,v)	v	z(v,sil)e	
+sil	sil	
+through	th(sil,r)b	r(th,uw)	uw(r,sil)e	
+[end_noise]	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+air	eh(sil,r)b	r(eh,sil)e	
+[noise]	sil	
+</s>	sile	

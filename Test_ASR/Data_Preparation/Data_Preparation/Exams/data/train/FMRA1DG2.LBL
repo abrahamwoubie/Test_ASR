@@ -1,0 +1,13 @@
+fmra1dg2:word>                  <s>    0   23        -3138672
+fmra1dg2:word>                  THE   24   74        -6684252
+fmra1dg2:word>                  SIL   75   79        -1032702
+fmra1dg2:word> [HUMAN_NOISE](+INHALE+)   80   82         -495290
+fmra1dg2:word>                [SIL]   83   90        -1295051
+fmra1dg2:word>                 </s>   91  420       -40828699
+fmra1dg2:phone>                 SILb    0   23        -3138672
+fmra1dg2:phone>          DH(SIL,AH)b   24   30        -1514064
+fmra1dg2:phone>          AH(DH,SIL)e   31   74        -5170188
+fmra1dg2:phone>                  SIL   75   79        -1032702
+fmra1dg2:phone>             +INHALE+   80   82         -495290
+fmra1dg2:phone>                  SIL   83   90        -1295051
+fmra1dg2:phone>                 SILe   91  420       -40828699

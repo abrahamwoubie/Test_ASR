@@ -1,0 +1,26 @@
+<s>	silb	
+[human_noise]	sil	
+seals	s(sil,iy)b	iy	l(iy,z)	z(l,sil)e	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,dh)e	
+the	dh(n,ah)b	ah(dh,sil)e	
+sil	sil	
+/ow	ow(sil,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n/	n(ih,sil)e	
+[noise]	sil	
+[sil]	sil	
+i	ay(sil,sil)s	
+sil	sil	
+think	th(sil,ih)b	ih(th,ng)	ng(ih,kd)	kd(ng,ay)e	
+i'll	ay(kd,l)b	l(ay,d)e	
+do	d(l,uw)b	uw(d,w)e	
+one	w(uw,ah)b	ah(w,n)	n(ah,m)e	
+more	m(n,ao)b	ao(m,r)	r(ao,sil)e	
+sil	sil	
+[crosstalk](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

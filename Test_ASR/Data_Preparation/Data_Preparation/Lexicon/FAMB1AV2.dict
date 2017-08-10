@@ -1,0 +1,34 @@
+<s>	silb	
+covers	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+/s	s	
+t(/t/)	t(s,r)	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,t)e	
+t/	t	
+sil	sil	
+/ae	ae	
+n/	n(ae,g)e	
+goes	g(n,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+houses(2)	hh(sil,aw)b	aw(hh,s)	s(aw,ix)	ix(s,z)	z(ix,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,k)e	
+calling	k(z,ao)b	ao(k,l)	l(ao,ix)	ix(l,ng)	ng(ix,sil)e	
+sil	sil	
+a(2)	ey(sil,f)s	
+/f	f(ey,l)e	
+l(/l/)	l	
+uw(/uw/)	uw(l,d)e	
+d/	d	
+[noise](+noise+)	+noise+	
+</s>	sile	

@@ -1,0 +1,32 @@
+<s>	silb	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae	
+td(/td/)	td(ae,axr)e	
+er	axr(td,p)s	
+p	p(axr,iy)b	iy(p,iy)e	
+iy(/iy/)	iy(iy,l)s	
+l/	l(iy,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+/p	p	
+ih(/ih/)	ih	
+l(/l/)	l(ih,axr)e	
+axr/	axr(l,sil)e	
+[begin_noise]	sil	
+eats	iy	ts(iy,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+all	ao(sil,l)b	l(ao,dh)e	
+the(2)	dh(l,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+time	t(sil,ay)b	ay(t,m)	m(ay,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[sil]	sil	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,sil)e	
+[begin_noise]	sil	
+paper	p(sil,ey)b	ey	p	axr(p,sil)e	
+[end_noise]	sil	
+has	hh(sil,ae)b	ae(hh,z)	z(ae,sil)e	
+sil	sil	
+an(2)	ax(sil,n)b	n(ax,sil)e	
+[begin_noise]	sil	
+/ih	ih	
+m(/m/)	m(ih,p)e	
+p(/p/)	p	
+ao(/ao/)	ao(p,r)	
+r(/r/)	r(ao,sil)e	
+sil	sil	
+ih(/ih/)	ih	
+n/	n(ih,s)e	
+sign	s(n,ay)b	ay(s,n)	n(ay,sil)e	
+[end_noise]	sil	
+on(2)	ao(sil,n)b	n(ao,sil)e	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+[noise]	sil	
+</s>	sile	

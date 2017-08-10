@@ -1,0 +1,15 @@
+<s>	silb	
+sil	sil	
+/s	s	
+sil	sil	
+p(/p/)	p	
+ih(/ih/)	ih(p,n)	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+d/	d	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+/ah	ah	
+r(/r/)	r	
+aw/	aw(r,sil)e	
+</s>	sile	

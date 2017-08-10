@@ -1,0 +1,28 @@
+<s>	silb	
+sil	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,ih)e	
+in	ih(l,n)b	n(ih,y)e	
+your(2)	y(n,uh)b	uh(y,r)	r(uh,f)e	
+family(2)	f(r,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,eh)e	
+ever	eh(iy,v)b	v(eh,axr)	axr(v,ae)e	
+ask	ae(axr,s)b	s(ae,kd)	kd(s,hh)e	
+what	hh(kd,w)b	w	ah(w,td)	td(ah,sil)e	
+sil	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,y)e	
+you	y(dd,uw)b	uw(y,d)e	
+do	d(uw,uw)b	uw(d,sil)e	
+[begin_noise]	sil	
+did	d(sil,ih)b	ih(d,dd)	dd(ih,y)e	
+you	y(dd,uw)b	uw(y,sil)e	
+[end_noise]	sil	
+do	d(sil,uw)b	uw(d,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,s)e	
+school	s(n,k)b	k(s,uw)	uw(k,l)	l(uw,t)e	
+today	t(l,ax)b	ax(t,d)	d(ax,ey)	ey(d,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

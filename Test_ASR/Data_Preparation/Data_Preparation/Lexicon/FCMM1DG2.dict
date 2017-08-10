@@ -1,0 +1,46 @@
+<s>	silb	
+[begin_noise]	sil	
+they	dh(sil,ey)b	ey(dh,hh)e	
+have	hh(ey,ae)b	ae(hh,v)	v(ae,sil)e	
+sil	sil	
+/l	l	
+ah	aa(l,r)	
+r(/r/)	r(aa,n)e	
+n(/n/)	n(r,sil)e	
+dd/	dd(n,sil)e	
+sil	sil	
+something	s(sil,ah)b	ah(s,m)	m(ah,th)	th(m,ix)	ix(th,ng)	ng(ix,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+new(2)	n(sil,y)b	y(n,uw)	uw(y,ax)e	
+about	ax(uw,b)b	b(ax,aw)	aw(b,td)	td(aw,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[crosstalk]	sil	
+sil	sil	
+/s	s	
+t(/t/)	t(s,eh)	
+eh	eh	
+g(/g/)	g	
+ax(/ax/)	ax(g,eh)e	
+s	eh(ax,s)b	s(eh,ao)e	
+ao(/ao/)	ao(s,aa)e	
+r	aa(ao,r)b	r(aa,sil)e	
+sil	sil	
+ax(/ax/)	ax(sil,sil)s	
+sil	sil	
+s(/s/)	s	
+eh	eh	
+sil	sil	
+z/	z	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[end_noise]	sil	
+</s>	sile	

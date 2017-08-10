@@ -1,0 +1,16 @@
+fmfh2by2:phone> SILb 0.00 3.00 -725960
+fmfh2by2:phone> SIL 4.00 23.00 -2861828
+fmfh2by2:phone> +EXHALE+ 24.00 26.00 -486047
+fmfh2by2:phone> M(SIL,EH)b 27.00 36.00 -1514223
+fmfh2by2:phone> EH(M,N) 37.00 45.00 -1350607
+fmfh2by2:phone> N(EH,IY) 46.00 52.00 -1120704
+fmfh2by2:phone> IY(N,P)e 53.00 62.00 -1397479
+fmfh2by2:phone> P(IY,IY)b 63.00 74.00 -2077873
+fmfh2by2:phone> IY(P,P) 75.00 82.00 -1051689
+fmfh2by2:phone> P(IY,AX) 83.00 86.00 -657470
+fmfh2by2:phone> AX(P,L) 87.00 91.00 -803368
+fmfh2by2:phone> L(AX,D)e 92.00 100.00 -1341053
+fmfh2by2:phone> D(L,AY)b 101.00 109.00 -1146967
+fmfh2by2:phone> AY 110.00 153.00 -6389854
+fmfh2by2:phone> DD(AY,SIL)e 154.00 160.00 -1113338
+fmfh2by2:phone> SILe 161.00 464.00 -36209909

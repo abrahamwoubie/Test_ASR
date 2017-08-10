@@ -1,0 +1,25 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,k)e	
+california	k(n,ae)b	ae(k,l)	l(ae,ax)	ax(l,f)	f(ax,ao)	ao(f,r)	r(ao,n)	n(r,y)	y(n,ax)	ax(y,p)e	
+people	p(ax,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,aa)e	
+are	aa(l,r)b	r(aa,w)e	
+working	w(r,er)b	er(w,k)	k(er,ix)	ix(k,ng)	ng(ix,t)e	
+to(3)	t(ng,uw)b	uw(t,k)e	
+keep	k(uw,iy)b	iy(k,pd)	pd(iy,sil)e	
+[human_noise](+swallow+)	+swallow+	
+sil	sil	
+/s	s	
+iy(/iy/)	iy(s,ix)e	
+ix(/ix/)	ix	
+l/	l(ix,sil)e	
+sil	sil	
+[human_noise]	sil	
+homes	hh(sil,ow)b	ow(hh,m)	m	z(m,k)e	
+clean	k(z,l)b	l(k,iy)	iy(l,n)	n(iy,ae)e	
+/ae	ae	
+n/	n(ae,s)e	
+safe	s(n,ey)b	ey(s,f)	f(ey,sil)e	
+[noise]	sil	
+</s>	sile	

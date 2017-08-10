@@ -1,0 +1,21 @@
+<s>	silb	
+/d	d	
+ey/	ey(d,y)e	
+use	y(ey,uw)b	uw(y,s)	s(uw,sil)e	
+sil	sil	
+/d	d	
+eh	eh(d,r)	
+r/	r(eh,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/l	l	
+ao/	ao(l,f)e	
+/f	f(ao,l)e	
+l(/l/)	l	
+ih(/ih/)	ih	
+p(/p/)	p	
+er/	er(p,t)e	
+to(3)	t(er,uw)b	uw(t,s)e	
+swim	s	w	ih	m(ih,sil)e	
+[noise]	sil	
+</s>	sile	

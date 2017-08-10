@@ -1,0 +1,10 @@
+fnxs1cn2:phone> SILb 0.00 7.00 -1071556
+fnxs1cn2:phone> SIL 8.00 33.00 -3944316
+fnxs1cn2:phone> D 34.00 39.00 -1161287
+fnxs1cn2:phone> EH 40.00 68.00 -5891033
+fnxs1cn2:phone> SIL 69.00 75.00 -1623950
+fnxs1cn2:phone> R 76.00 78.00 -780411
+fnxs1cn2:phone> AA(R,R)b 79.00 121.00 -6813433
+fnxs1cn2:phone> R(AA,SIL)e 122.00 132.00 -2046875
+fnxs1cn2:phone> SIL 133.00 135.00 -655848
+fnxs1cn2:phone> SILe 136.00 490.00 -41303208

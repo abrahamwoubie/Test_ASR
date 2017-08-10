@@ -1,0 +1,45 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+not	n	aa	td	
+sil	sil	
+a	ax(sil,sil)s	
+sil	sil	
+/l/	l	
+sil	sil	
+now	n(sil,aw)b	aw(n,sil)e	
+sil	sil	
+a	ax(sil,l)s	
+lot(2)	l(ax,ao)b	ao(l,td)	td(ao,sil)e	
+sil	sil	
+more	m(sil,ao)b	ao(m,r)	r(ao,p)e	
+people	p(r,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,r)e	
+/r	r(l,iy)	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,sil)e	
+sil	sil	
+ay	ay(sil,sil)s	
+sil	sil	
+k(/k/)	k	
+uh(/uh/)	uh	
+l/	l(uh,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/k	k	
+ae	ey(k,n)e	
+n(/n/)	n(ey,s)e	
+s/	s(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/b	b	
+aa(/aa/)	aa	
+t(/t/)	t	
+uh(/uh/)	uh	
+l(/l/)	l(uh,z)e	
+z/	z(l,sil)e	
+sil	sil	
+and	ae(sil,n)b	n(ae,dd)	dd(n,p)e	
+paper	p(dd,ey)b	ey	p	axr(p,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

@@ -1,0 +1,36 @@
+<s>	silb	
+a	ax(sil,sil)s	
+sil	sil	
+/t	t	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+t(/t/)	t	
+[noise](+rustle+)	+rustle+	
+r(/r/)	r	
+ih(/ih/)	ih	
+sil	sil	
+p(/p/)	p	
+ax(/ax/)	ax(p,l)e	
+l/	l(ax,sil)e	
+sil	sil	
+tropical	t(sil,r)b	r	aa	p	ix	k(ix,ax)	ax(k,l)	l(ax,sil)e	
+[noise]	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+forest(2)	f(sil,ao)b	ao(f,r)	r(ao,ix)	ix(r,s)	s(ix,td)	td(s,sil)e	
+[noise](+inhale+)	+inhale+	
+has	hh(sil,ae)b	ae(hh,z)	z(ae,m)e	
+many	m(z,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+/t	t	
+sil	sil	
+[noise](+smack+)	+smack+	
+aa(/aa/)	aa	
+l/	l(aa,sil)e	
+sil	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+[crosstalk](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

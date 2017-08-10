@@ -1,0 +1,67 @@
+<s>	silb	
+/b	b	
+ah	aa	
+v(/v/)	v	
+sil	sil	
+er(/er/)	er	
+z/	z(er,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+sea	s(sil,iy)b	iy(s,sil)e	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+/t	t	
+er(/er/)	er	
+sil	sil	
+n/	n	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+swim	s	w	ih	m(ih,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+to(2)	t	ix	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/l	l	
+sil	sil	
+ae(/ae/)	ae	
+ix(/ix/)	ix	
+sil	sil	
+n/	n	
+sil	sil	
+/aa/	aa	
+[begin_whisper]	sil	
+/aa	aa	
+sil	sil	
+l	eh(sil,l)b	l(eh,sil)e	
+sil	sil	
+ow/	ow(sil,sil)s	
+sil	sil	
+/aa	aa	
+l(/l/)	l(aa,sil)e	
+sil	sil	
+ih/	ih	
+sil	sil	
+what's(2)	w(sil,ah)b	ah(w,ts)	ts(ah,sil)e	
+sil	sil	
+that(2)	dh(sil,ax)b	ax	td(ax,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[crosstalk](+noise+)	+noise+	
+only	ow(sil,n)b	n(ow,l)	l(n,iy)	iy(l,sil)e	
+sil	sil	
+[human_noise]	sil	
+to(2)	t	ix	
+[human_noise]	sil	
+lay	l(sil,ey)b	ey(l,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+[begin_whisper]	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+/s/	s	
+[end_whisper]	sil	
+</s>	sile	

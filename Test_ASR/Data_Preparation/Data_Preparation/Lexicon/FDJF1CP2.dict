@@ -1,0 +1,20 @@
+<s>	silb	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,g)e	
+gets(2)	g(td,ih)b	ih	ts(ih,sil)e	
+[begin_noise]	sil	
+/l	l	
+aa(/aa/)	aa	
+sil	sil	
+t/	t	
+and(2)	ax(t,n)	n(ax,dd)	dd(n,l)e	
+/l	l	
+aa(/aa/)	aa	
+t/	t	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,r)e	
+rain	r(v,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

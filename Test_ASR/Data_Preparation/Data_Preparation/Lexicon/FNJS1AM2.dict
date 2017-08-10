@@ -1,0 +1,14 @@
+<s>	silb	
+[begin_noise]	sil	
+tornadoes	t(sil,ao)b	ao(t,r)	r(ao,n)	n	ey(n,dx)	dx(ey,ow)	ow	z(ow,sil)e	
+[end_noise]	sil	
+bring	b(sil,r)b	r(b,ih)	ih(r,ng)	ng(ih,r)e	
+rain	r(ng,ey)b	ey(r,n)	n(ey,ae)e	
+and	ae(n,n)b	n(ae,dd)	dd(n,b)e	
+big	b(dd,ih)b	ih(b,gd)	gd(ih,w)e	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n(/n/)	n(ih,z)e	
+z/	z(n,sil)e	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,19 @@
+<s>	silb	
+[begin_noise]	sil	
+brightly	b(sil,r)b	r	ay(r,td)	td	l(td,iy)	iy(l,sil)e	
+[end_noise]	sil	
+colored	k(sil,ah)b	ah(k,l)	l	axr	dd(axr,f)e	
+fish	f(dd,ih)b	ih(f,sh)	sh(ih,sil)e	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/ow	ow(sil,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n/	n(ih,sil)e	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

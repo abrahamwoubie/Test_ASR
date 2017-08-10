@@ -1,0 +1,23 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+once	w(sil,ah)b	ah(w,n)	n(ah,s)	s(n,sil)e	
+[sil]	sil	
+once	w(sil,ah)b	ah(w,n)	n(ah,s)	s(n,m)e	
+many	m(s,eh)b	eh(m,n)	n(eh,iy)	iy(n,b)e	
+blue	b(iy,l)b	l	uw(l,b)e	
+/b	b	
+ah(/ah/)	ah(b,dx)	
+dx(/dx/)	dx(ah,ax)	
+ax(/ax/)	ax(dx,f)e	
+f(/f/)	f	
+l(/l/)	l(f,ay)	
+ay	ay(l,s)s	
+s/	s(ay,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+lived(2)	l(sil,ih)b	ih(l,v)	v	dd(v,ix)e	
+in(2)	ix(dd,n)b	n(ix,k)e	
+california	k(n,ae)b	ae(k,l)	l(ae,ax)	ax(l,f)	f(ax,ao)	ao(f,r)	r(ao,n)	n(r,y)	y(n,ax)	ax(y,sil)e	
+[sil]	sil	
+</s>	sile	

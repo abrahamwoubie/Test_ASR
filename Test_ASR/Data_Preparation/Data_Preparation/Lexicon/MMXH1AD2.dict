@@ -1,0 +1,22 @@
+<s>	silb	
+lightning	l(sil,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+[noise]	sil	
+[noise](+swallow+)	+swallow+	
+[begin_noise]	sil	
+can	k(sil,ae)b	ae(k,n)	n(ae,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_noise]	sil	
+hurt	hh(sil,er)b	er	td	
+sil	sil	
+[end_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[noise]	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

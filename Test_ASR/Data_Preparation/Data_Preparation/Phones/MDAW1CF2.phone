@@ -1,0 +1,15 @@
+mdaw1cf2:phone> SILb 0.00 2.00 -714474
+mdaw1cf2:phone> SIL 3.00 26.00 -4035828
+mdaw1cf2:phone> AH(SIL,DH)b 27.00 47.00 -3481820
+mdaw1cf2:phone> DH(AH,AXR) 48.00 57.00 -1735565
+mdaw1cf2:phone> AXR(DH,Z) 58.00 72.00 -3144695
+mdaw1cf2:phone> Z(AXR,SIL)e 73.00 89.00 -3110156
+mdaw1cf2:phone> SIL 90.00 104.00 -2615290
+mdaw1cf2:phone> S 105.00 107.00 -803240
+mdaw1cf2:phone> W 108.00 128.00 -4010864
+mdaw1cf2:phone> IH 129.00 150.00 -3748776
+mdaw1cf2:phone> M(IH,SIL)e 151.00 185.00 -5302888
+mdaw1cf2:phone> SIL 186.00 379.00 -24880487
+mdaw1cf2:phone> +NOISE+ 380.00 385.00 -1017813
+mdaw1cf2:phone> SIL 386.00 427.00 -5314804
+mdaw1cf2:phone> SILe 428.00 448.00 -3357965

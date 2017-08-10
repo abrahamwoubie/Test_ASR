@@ -1,0 +1,33 @@
+<s>	silb	
+sil	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+[begin_whisper]	sil	
+what's(2)	w(sil,ah)b	ah(w,ts)	ts(ah,sil)e	
+sil	sil	
+that(2)	dh(sil,ax)b	ax	td(ax,sil)e	
+sil	sil	
+pencils	p(sil,eh)b	eh(p,n)	n(eh,s)	s(n,ax)	ax(s,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+pencils	p(sil,eh)b	eh(p,n)	n(eh,s)	s(n,ax)	ax(s,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+[sil]	sil	
+/b	b	
+ah(/ah/)	ah(b,dx)	
+dx(/dx/)	dx	
+ih(/ih/)	ih	
+sil	sil	
+n	eh(sil,n)b	n(eh,sil)e	
+sil	sil	
+s/	s	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

@@ -1,0 +1,37 @@
+<s>	silb	
+if(2)	ix(sil,f)b	f(ix,sil)e	
+sil	sil	
+another	ax(sil,n)b	n(ax,ah)	ah(n,dh)	dh(ah,axr)	axr(dh,p)e	
+person	p(axr,er)b	er(p,s)	s(er,ax)	ax(s,n)	n(ax,k)e	
+can	k(n,ae)b	ae(k,n)	n(ae,hh)e	
+hear	hh(n,ih)b	ih(hh,r)	r(ih,m)e	
+music	m(r,y)b	y(m,uw)	uw(y,z)	z(uw,ix)	ix	kd(ix,k)e	
+coming	k(kd,ah)b	ah(k,m)	m(ah,ix)	ix(m,ng)	ng(ix,f)e	
+from(2)	f(ng,r)b	r(f,ah)	ah(r,m)	m(ah,ey)e	
+a(2)	ey(m,sil)s	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+headset	hh(sil,eh)b	eh	d	s	eh(s,td)	td(eh,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+you	y(sil,uw)b	uw(y,aa)e	
+are	aa(uw,r)b	r(aa,w)e	
+wearing	w(r,eh)b	eh(w,r)	r(eh,ix)	ix(r,ng)	ng(ix,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+music	m(sil,y)b	y(m,uw)	uw(y,z)	z(uw,ix)	ix	kd(ix,ih)e	
+is	ih(kd,z)b	z(ih,sil)e	
+[end_noise]	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+/l	l	
+aw/	aw(l,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+[noise](+swallow+)	+swallow+	
+</s>	sile	

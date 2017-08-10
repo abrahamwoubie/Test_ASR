@@ -1,0 +1,29 @@
+<s>	silb	
+/s	s	
+t(/t/)	t(s,ao)	
+ao(/ao/)	ao(t,aa)e	
+r	aa(ao,r)b	r(aa,m)e	
+m(/m/)	m(r,s)e	
+s/	s	
+in(2)	ix(s,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,s)e	
+/s	s(ax,p)e	
+p/	p	
+sil	sil	
+[noise](+noise+)	+noise+	
+[begin_whisper]	sil	
+okay	ow(sil,k)b	k(ow,ey)	ey(k,sil)e	
+[end_whisper]	sil	
+storms	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,ix)e	
+in(2)	ix(z,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,s)e	
+/s/	s(ax,sil)e	
+sil	sil	
+spring	s(sil,p)b	p(s,r)	r(p,ih)	ih(r,ng)	ng(ih,k)e	
+can	k(ng,ae)b	ae(k,n)	n(ae,b)e	
+bring	b(n,r)b	r(b,ih)	ih(r,ng)	ng(ih,l)e	
+lightning	l(ng,ay)b	ay	t	n	ix(n,ng)	ng(ix,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+[sil]	sil	
+</s>	sile	

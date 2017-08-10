@@ -1,0 +1,12 @@
+<s>	silb	
+go	g(sil,ow)b	ow(g,sil)e	
+sil	sil	
+indoors	ih(sil,n)b	n(ih,d)	d	ao(d,r)	r(ao,z)	z(r,sil)e	
+[begin_whisper]	sil	
+okay	ow(sil,k)b	k(ow,ey)	ey(k,sil)e	
+sil	sil	
+[end_whisper]	sil	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

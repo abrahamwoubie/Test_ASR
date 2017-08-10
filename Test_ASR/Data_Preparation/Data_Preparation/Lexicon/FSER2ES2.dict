@@ -1,0 +1,14 @@
+<s>	silb	
+[noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,hh)e	
+who	hh(l,uw)b	uw(hh,iy)e	
+eat	iy(uw,td)b	td(iy,dh)e	
+the(2)	dh(td,ax)b	ax(dh,ch)e	
+chips	ch(ax,ih)b	ih	p(ih,s)	s(p,sil)e	
+sil	sil	
+eat	iy(sil,td)b	td(iy,sil)e	
+sil	sil	
+oil	oy	l	
+too	t(l,uw)b	uw(t,sil)e	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

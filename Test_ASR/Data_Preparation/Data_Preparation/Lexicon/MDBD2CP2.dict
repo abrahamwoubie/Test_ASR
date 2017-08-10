@@ -1,0 +1,14 @@
+<s>	silb	
+a	ax(sil,s)s	
+scientist	s(ax,ay)b	ay	ax(ay,n)	n(ax,t)	t(n,ix)	ix(t,s)	s(ix,td)	td(s,sil)e	
+sil	sil	
+studied	s(sil,t)b	t(s,ah)	ah(t,dx)	dx(ah,iy)	iy	dd(iy,sil)e	
+sil	sil	
+empire	eh(sil,m)b	m(eh,p)	p	ay	axr(ay,p)e	
+penguins	p(axr,eh)b	eh	ng	g	w	ax(w,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+antarctica(2)	ae(sil,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,sil)e	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

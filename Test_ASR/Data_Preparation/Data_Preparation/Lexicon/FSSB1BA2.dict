@@ -1,0 +1,47 @@
+<s>	silb	
+[begin_noise]	sil	
+/ih	ih	
+t(/t/)	t	
+sil	sil	
+s/	s	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+good	g(sil,uh)b	uh(g,dd)	dd(uh,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/b	b	
+iy(/iy/)	iy(b,k)e	
+k(/k/)	k	
+ah(/ah/)	ah(k,z)	
+z/	z(ah,sil)e	
+[human_noise]	sil	
+/r	r	
+sil	sil	
+iy(/iy/)	iy(sil,s)s	
+s(/s/)	s(iy,th)e	
+th(/th/)	th(s,ay)e	
+ay	ay(th,k)s	
+k(/k/)	k	
+ah(/ah/)	ah(k,l)	
+l(/l/)	l(ah,ih)e	
+ih(/ih/)	ih(l,ng)	
+ng/	ng(ih,hh)e	
+/hh	hh	
+eh	eh(hh,l)	
+l(/l/)	l(eh,p)e	
+p(/p/)	p	
+s(/s/)	s(p,th)e	
+th/	th(s,sil)e	
+sil	sil	
+[human_noise]	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+earth	er	th(er,sil)e	
+sil	sil	
+cleaner	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,axr)	axr(n,sil)e	
+[end_noise]	sil	
+</s>	sile	

@@ -1,0 +1,41 @@
+<s>	silb	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,s)e	
+/s	s(ax,ay)e	
+ay	ay(s,ah)s	
+ah(/ah/)	ah	
+n(/n/)	n(ah,sil)e	
+sil	sil	
+t(/t/)	t	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+want	w	aa(w,n)	n(aa,td)	td(n,sil)e	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+[end_noise]	sil	
+learn	l	er	n(er,hh)e	
+how	hh(n,aw)b	aw(hh,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+[end_noise]	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,sil)e	
+sil	sil	
+new	n(sil,uw)b	uw(n,sil)e	
+[begin_noise]	sil	
+medicines	m(sil,eh)b	eh	dx(eh,ax)	ax(dx,s)	s	ax(s,n)	n(ax,z)	z(n,sil)e	
+[end_noise]	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

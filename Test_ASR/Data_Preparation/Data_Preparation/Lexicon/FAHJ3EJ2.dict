@@ -1,0 +1,35 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+a(2)	ey(sil,s)s	
+scientist	s(ey,ay)b	ay	ax(ay,n)	n(ax,t)	t(n,ix)	ix(t,s)	s(ix,td)	td(s,f)e	
+/f	f	
+aw	ao	
+n/	n(ao,ey)e	
+a(2)	ey(n,hh)s	
+/hh	hh	
+ih(/ih/)	ih	
+pd(/pd/)	pd(ih,b)e	
+b(/b/)	b	
+ow	ow(b,n)e	
+n/	n(ow,sil)e	
+[begin_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+a(2)	ey(sil,sil)s	
+[end_noise]	sil	
+/t	t	
+r(/r/)	r(t,ax)	
+ax(/ax/)	ax(r,s)s	
+s(/s/)	s(ax,eh)e	
+eh	eh(s,r)	
+r(/r/)	r(eh,ax)e	
+ax(/ax/)	ax(r,t)s	
+t(/t/)	t	
+ao(/ao/)	ao(t,sil)e	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+[sil]	sil	
+</s>	sile	

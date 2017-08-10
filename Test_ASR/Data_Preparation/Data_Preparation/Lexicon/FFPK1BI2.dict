@@ -1,0 +1,25 @@
+<s>	silb	
+[begin_noise]	sil	
+the	dh(sil,ah)b	ah(dh,s)e	
+sign	s(ah,ay)b	ay(s,n)	n(ay,sh)e	
+shows	sh(n,ow)b	ow(sh,z)	z(ow,sil)e	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[human_noise]	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+paper	p(sil,ey)b	ey	p	axr(p,ix)e	
+is(2)	ix(axr,z)b	z(ix,m)e	
+made	m(z,ey)b	ey(m,dd)	dd(ey,f)e	
+for	f(dd,ao)b	ao(f,r)	r(ao,y)e	
+using	y(r,uw)b	uw(y,z)	z(uw,ix)	ix(z,ng)	ng(ix,sil)e	
+[human_noise]	sil	
+used	y(sil,uw)b	uw(y,z)	z(uw,dd)	dd(z,sil)e	
+sil	sil	
+paper	p(sil,ey)b	ey	p	axr(p,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+[human_noise](+exhale+)	+exhale+	
+[end_noise]	sil	
+</s>	sile	

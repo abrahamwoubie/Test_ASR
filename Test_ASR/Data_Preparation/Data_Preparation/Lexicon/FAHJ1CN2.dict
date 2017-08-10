@@ -1,0 +1,30 @@
+<s>	silb	
+[noise]	sil	
+they	dh(sil,ey)b	ey(dh,aa)e	
+are	aa(ey,r)b	r(aa,f)e	
+finding	f(r,ay)b	ay(f,n)	n(ay,d)	d(n,ix)	ix(d,ng)	ng(ix,n)e	
+new	n(ng,uw)b	uw(n,p)e	
+plants	p(uw,l)b	l(p,ae)	ae(l,n)	n	ts(n,ae)e	
+/ae	ae	
+n/	n(ae,ae)e	
+animals	ae(n,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,dh)e	
+that	dh(z,ae)b	ae(dh,td)	td(ae,sil)e	
+[begin_noise]	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,ih)e	
+in	ih(v,n)b	n(ih,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+[end_noise]	sil	
+[human_noise](+smack+)	+smack+	
+tall	t(sil,ao)b	ao	l(ao,sil)e	
+[begin_noise]	sil	
+/t	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,t)e	
+t(/t/)	t	
+aa(/aa/)	aa(t,p)e	
+p(/p/)	p	
+s/	s(p,sil)e	
+[end_noise]	sil	
+[noise](+exhale+)	+exhale+	
+</s>	sile	

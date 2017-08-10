@@ -1,0 +1,22 @@
+#Please run the following bash scripts consecutively to generate the lattice files.
+# The scripts and outputs of the data decoding are found in Decoding folder
+
+1. Generate_Lattice.sh # It generates a lattice and writes the generated lattice file (i.e., lat.1.gz) to /home/abraham/Speech_Recognition/kaldi/egs/SoapBox/exp/DNN/decode/
+
+2. Use the following script to compute the WER
+	
+	./score_kaldi.sh ./data/test/ ./exp/DNN/graph/ ./exp/DNN/decode/ # It displays the best WER, details about the WER (i.e., per utterance and per speaker)
+		
+	We can modify the values of min-lmwt,max-lmwt, stage, decode_mbr and word_ins_penalty values.
+
+	The Word error rates for different configuration parameters are found ./exp/DNN/decode/
+	The results breakdown per speaker and per word label are found in ./exp/DNN/decode/scoring_kaldi/
+	The log-likelihood scores for each file is found ./exp/DNN/decode/scoring_kaldi/penalty_0.0/log/
+
+3. I used the following binary to file to get the acoustic likelihood and language model costs.
+	
+	../../src/latbin/lattice-1best --lm-scale=14.0 "ark:gunzip -c . ./exp/DNN/decode/lat.1.gz|" ark:- | ../../src/latbin/nbest-to-linear ark:- ark,t:./acoustic_and_language_model_costs/out.alignment ark,t:./acoustic_and_language_model_costs/out.transcription ark,t:./acoustic_and_language_model_costs/out.lm ark,t:./acoustic_and_language_model_costs/out.am
+
+	The output files are found in ./acoustic_and_language_model_costs/
+
+	

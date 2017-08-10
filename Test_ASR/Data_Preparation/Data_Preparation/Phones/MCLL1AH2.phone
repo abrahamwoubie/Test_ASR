@@ -1,0 +1,16 @@
+mcll1ah2:phone> SILb 0.00 2.00 -1021674
+mcll1ah2:phone> AO 3.00 18.00 -2793964
+mcll1ah2:phone> SIL 19.00 22.00 -1043955
+mcll1ah2:phone> R 23.00 35.00 -2543859
+mcll1ah2:phone> S(R,SIL)e 36.00 58.00 -3240395
+mcll1ah2:phone> SIL 59.00 78.00 -2808956
+mcll1ah2:phone> G(SIL,OW)b 79.00 86.00 -1295181
+mcll1ah2:phone> OW(G,IH)e 87.00 100.00 -1874562
+mcll1ah2:phone> IH(OW,N)b 101.00 109.00 -1538696
+mcll1ah2:phone> N(IH,D) 110.00 119.00 -1492273
+mcll1ah2:phone> D 120.00 124.00 -1154247
+mcll1ah2:phone> AO(D,R) 125.00 156.00 -6663125
+mcll1ah2:phone> R(AO,Z) 157.00 171.00 -2427989
+mcll1ah2:phone> Z(R,SIL)e 172.00 192.00 -3773343
+mcll1ah2:phone> SIL 193.00 195.00 -597480
+mcll1ah2:phone> SILe 196.00 550.00 -38429252

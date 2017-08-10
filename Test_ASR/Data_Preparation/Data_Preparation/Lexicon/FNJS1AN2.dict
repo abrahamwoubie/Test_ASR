@@ -1,0 +1,13 @@
+<s>	silb	
+the(2)	dh(sil,ax)b	ax(dh,w)e	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n(/n/)	n(ih,z)e	
+z/	z(n,sil)e	
+[begin_noise]	sil	
+spin	s(sil,p)b	p	ih(p,n)	n(ih,sil)e	
+[end_noise]	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,ax)e	
+and(2)	ax(dd,n)b	n(ax,dd)	dd(n,axr)e	
+around	axr(dd,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+</s>	sile	

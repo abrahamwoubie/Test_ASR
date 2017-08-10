@@ -1,0 +1,36 @@
+<s>	silb	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+/t	t	
+er(/er/)	er(t,p)	
+p(/p/)	p	
+ih(/ih/)	ih	
+dx(/dx/)	dx(ih,ax)	
+ax(/ax/)	ax(dx,l)e	
+l/	l(ax,sil)e	
+sil	sil	
+a(2)	ey(sil,t)s	
+/t	t	
+er(/er/)	er(t,m)	
+m(/m/)	m(er,ih)e	
+ih(/ih/)	ih(m,dx)	
+dx(/dx/)	dx(ih,ax)	
+ax(/ax/)	ax(dx,l)e	
+l/	l(ax,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ix)e	
+ix(/ix/)	ix(r,s)	
+s/	s(ix,hh)e	
+has	hh(s,ae)b	ae(hh,z)	z(ae,m)e	
+many	m(z,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+[begin_noise]	sil	
+tall	t(sil,ao)b	ao	l(ao,t)e	
+trees	t(l,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,45 @@
+<s>	silb	
+sil	sil	
+/s/	s	
+sil	sil	
+[whisper]	sil	
+sil	sil	
+[crosstalk](+rustle+)	+rustle+	
+sil	sil	
+[whisper](+rustle+)	+rustle+	
+/s	s	
+ay	ay(s,sil)s	
+sil	sil	
+ix(/ix/)	ix	
+sil	sil	
+n(/n/)	n	
+sil	sil	
+t	t(sil,iy)b	iy(t,sil)e	
+sil	sil	
+ix(/ix/)	ix	
+s/	s(ix,sil)e	
+[noise](+swallow+)	+swallow+	
+are(2)	axr	
+/w	w	
+er(/er/)	er(w,ih)e	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+[noise]	sil	
+to(2)	t	ix	
+sil	sil	
+protect	p(sil,r)b	r(p,ax)	ax	t(ax,eh)	eh	kd(eh,td)	td(kd,sil)e	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+kinds	k(sil,ay)b	ay(k,n)	n(ay,d)	d(n,z)	z(d,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+/ae/	ae	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+sil	sil	
+plants	p(sil,l)b	l(p,ae)	ae(l,n)	n	ts(n,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

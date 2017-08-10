@@ -1,0 +1,17 @@
+<s>	silb	
+one	w(sil,ah)b	ah(w,n)	n(ah,d)e	
+doctor(2)	d(n,ao)b	ao	kd(ao,t)	t(kd,axr)	axr(t,s)e	
+says(2)	s(axr,ih)b	ih	z(ih,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+loud	l	aw(l,dd)	dd(aw,n)e	
+noises	n	oy(n,z)	z	ix(z,z)	z(ix,aa)e	
+are	aa(z,r)b	r(aa,dh)e	
+the(2)	dh(r,ax)b	ax(dh,s)e	
+strong	s(ax,t)b	t(s,r)	r	ao(r,ng)	ng(ao,sil)e	
+[human_noise]	sil	
+hurricane(2)	hh(sil,er)b	er	ax	k(ax,ey)	ey	n(ey,w)e	
+winds(2)	w(n,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+[noise]	sil	
+</s>	sile	

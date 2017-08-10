@@ -1,0 +1,32 @@
+<s>	silb	
+sil	sil	
+/s	s	
+sil	sil	
+p(/p/)	p	
+w(/w/)	w	
+ih(/ih/)	ih(w,ng)	
+ng/	ng(ih,sil)e	
+sil	sil	
+/b	b	
+w(/w/)	w	
+ih(/ih/)	ih(w,ng)	
+ng(/ng/)	ng(ih,s)e	
+s/	s	
+many	m(s,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+/k	k	
+ih(/ih/)	ih(k,d)	
+d(/d/)	d(ih,z)	
+z/	z(d,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+of	ah(sil,v)b	v(ah,sil)e	
+[noise](+noise+)	+noise+	
+sil	sil	
+/w	w	
+eh	eh(w,dh)	
+dh(/dh/)	dh	
+uh	ah(dh,r)e	
+r/	r	
+</s>	sile	

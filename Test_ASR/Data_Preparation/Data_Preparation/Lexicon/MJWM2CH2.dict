@@ -1,0 +1,33 @@
+<s>	silb	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,t)e	
+traveled	t(l,r)b	r(t,ae)	ae(r,v)	v(ae,ax)	ax(v,l)	l(ax,dd)	dd(l,aa)e	
+on	aa(dd,n)b	n(aa,sil)e	
+sil	sil	
+/d	d	
+ax(/ax/)	ax	
+r	aa(ax,r)b	r(aa,td)	
+td/	td(r,sil)e	
+sil	sil	
+roads	r(sil,ow)b	ow	d(ow,z)	z(d,sil)e	
+[begin_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,g)e	
+get	g(uw,eh)b	eh(g,td)	td(eh,t)e	
+to(2)	t	ix	
+them	dh(ix,eh)b	eh(dh,m)	m(eh,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+a(2)	ey(sil,sil)s	
+[begin_noise]	sil	
+marketplace(2)	m(sil,aa)b	aa(m,r)	r(aa,k)	k(r,ix)	ix(k,td)	td	p	l(p,ey)	ey(l,s)	s(ey,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[whisper](+smack+)	+smack+	
+sil	sil	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

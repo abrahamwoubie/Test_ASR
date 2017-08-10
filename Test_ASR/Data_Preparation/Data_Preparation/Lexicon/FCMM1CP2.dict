@@ -1,0 +1,21 @@
+<s>	silb	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+[begin_noise]	sil	
+gets	g(sil,eh)b	eh(g,ts)	ts(eh,sil)e	
+[end_noise]	sil	
+lots	l(sil,aa)b	aa	ts	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+lots	l(sil,aa)b	aa	ts	
+sil	sil	
+of	ah(sil,v)b	v(ah,r)e	
+rain	r(v,ey)b	ey(r,n)	n(ey,sil)e	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

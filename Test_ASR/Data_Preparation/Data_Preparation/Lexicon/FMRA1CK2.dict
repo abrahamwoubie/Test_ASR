@@ -1,0 +1,28 @@
+<s>	silb	
+a	ax(sil,sil)s	
+sil	sil	
+/t	t	
+r(/r/)	r	
+aa(/aa/)	aa	
+p(/p/)	p	
+ih(/ih/)	ih	
+s(/s/)	s(ih,aa)e	
+ah	aa	
+l/	l(aa,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+forest(2)	f(sil,ao)b	ao(f,r)	r(ao,ix)	ix(r,s)	s(ix,td)	td(s,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+has	hh(sil,ae)b	ae(hh,z)	z(ae,sil)e	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+tall	t(sil,ao)b	ao	l(ao,sil)e	
+sil	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+[sil]	sil	
+</s>	sile	

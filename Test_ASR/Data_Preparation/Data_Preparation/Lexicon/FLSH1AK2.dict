@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+/t	t	
+er/	er	
+off	ao(er,f)b	f(ao,sil)e	
+[sil]	sil	
+[begin_noise]	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+[end_noise]	sil	
+television	t(sil,eh)b	eh(t,l)	l(eh,ax)	ax(l,v)	v(ax,ih)	ih	zh(ih,ax)	ax(zh,n)	n(ax,sil)e	
+sil	sil	
+or	ao(sil,r)b	r(ao,sil)e	
+[begin_noise]	sil	
+/k	k	
+ax(/ax/)	ax(k,m)e	
+m(/m/)	m(ax,p)e	
+p(/p/)	p(m,y)	
+y(/y/)	y(p,uw)	
+uw(/uw/)	uw(y,t)e	
+t(/t/)	t	
+er/	er	
+[end_noise]	sil	
+[sil]	sil	
+</s>	sile	

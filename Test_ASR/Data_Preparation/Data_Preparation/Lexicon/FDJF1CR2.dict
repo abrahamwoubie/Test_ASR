@@ -1,0 +1,21 @@
+<s>	silb	
+[begin_noise]	sil	
+/m	m	
+ih(/ih/)	ih(m,n)	
+n(/n/)	n(ih,iy)e	
+iy/	iy(n,ae)s	
+animals	ae(iy,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+[end_noise]	sil	
+like	l(sil,ay)b	ay(l,kd)	kd(ay,dh)e	
+the	dh(kd,ah)b	ah(dh,f)e	
+frog	f(ah,r)b	r	aa(r,gd)	gd(aa,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,t)e	
+too	t(r,uw)b	uw(t,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

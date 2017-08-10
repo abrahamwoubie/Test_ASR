@@ -1,0 +1,42 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+/sh	sh	
+iy(/iy/)	iy(sh,th)e	
+th(/th/)	th	
+b(/b/)	b	
+ih(/ih/)	ih(b,l)	
+l(/l/)	l(ih,z)e	
+z/	z(l,hh)e	
+have	hh(z,ae)b	ae(hh,v)	v(ae,hh)e	
+/hh/	hh	
+sil	sil	
+a	ax(sil,hh)s	
+hard	hh(ax,aa)b	aa(hh,r)	r	dd(r,k)e	
+covering	k(dd,ah)b	ah(k,v)	v(ah,axr)	axr(v,ix)	ix(axr,ng)	ng(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+[end_noise]	sil	
+a(2)	ey(sil,sil)s	
+[begin_noise]	sil	
+/sh	sh	
+iy(/iy/)	iy(sh,th)e	
+th(/th/)	th	
+sil	sil	
+b(/b/)	b	
+ih(/ih/)	ih(b,l)	
+l/	l(ih,sil)e	
+[end_noise]	sil	
+on(2)	ao(sil,n)b	n(ao,dh)e	
+their	dh(n,eh)b	eh(dh,r)	r(eh,b)e	
+bills	b(r,ih)b	ih(b,l)	l	z(l,sil)e	
+sil	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,ax)e	
+a	ax(dd,sh)s	
+sheath	sh(ax,iy)b	iy	th	
+sil	sil	
+on	aa(sil,n)b	n(aa,dh)e	
+their	dh(n,eh)b	eh(dh,r)	r(eh,b)e	
+bills	b(r,ih)b	ih(b,l)	l	z(l,sil)e	
+</s>	sile	

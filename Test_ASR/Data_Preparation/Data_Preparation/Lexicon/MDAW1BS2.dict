@@ -1,0 +1,42 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+california	k(sil,ae)b	ae(k,l)	l(ae,ax)	ax(l,f)	f(ax,ao)	ao(f,r)	r(ao,n)	n(r,y)	y(n,ax)	ax(y,sil)e	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+are	aa(sil,r)b	r(aa,w)e	
+working	w(r,er)b	er(w,k)	k(er,ix)	ix(k,ng)	ng(ix,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,k)e	
+keep	k(uw,iy)b	iy(k,pd)	pd(iy,sil)e	
+[sil]	sil	
+/s	s	
+s(/s/)	s	
+iy/	iy(s,sil)s	
+sil	sil	
+[sil]	sil	
+/s	s	
+iy(/iy/)	iy(s,l)e	
+l(/l/)	l(iy,ah)e	
+ah/	ah	
+[sil]	sil	
+[begin_noise]	sil	
+homes	hh(sil,ow)b	ow(hh,m)	m	z(m,k)e	
+clean	k(z,l)b	l(k,iy)	iy(l,n)	n(iy,sil)e	
+[end_noise]	sil	
+/ae	ae	
+n/	n(ae,s)e	
+safe	s(n,ey)b	ey(s,f)	f(ey,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

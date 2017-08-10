@@ -1,0 +1,15 @@
+<s>	silb	
+sil	sil	
+/ow	ow(sil,sh)s	
+sh(/sh/)	sh	
+ih(/ih/)	ih	
+n(/n/)	n(ih,z)e	
+z/	z(n,aa)e	
+are	aa(z,r)b	r(aa,b)e	
+big	b(r,ih)b	ih(b,gd)	gd(ih,sil)e	
+[begin_noise]	sil	
+bodies	b	aa	dx	iy(dx,z)	z(iy,sil)e	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,w)e	
+water	w(v,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+</s>	sile	

@@ -1,0 +1,11 @@
+<s>	silb	
+[noise]	sil	
+it(2)	ix(sil,td)b	td(ix,k)e	
+can	k(td,ae)b	ae(k,n)	n(ae,hh)e	
+harm	hh(n,aa)b	aa(hh,r)	r	m(r,t)e	
+trees	t(m,r)b	r(t,iy)	iy(r,z)	z(iy,ae)e	
+/ae	ae	
+n/	n(ae,b)e	
+buildings	b(n,ih)b	ih(b,l)	l(ih,d)	d	ix(d,ng)	ng(ix,z)	z(ng,sil)e	
+[sil]	sil	
+</s>	sile	

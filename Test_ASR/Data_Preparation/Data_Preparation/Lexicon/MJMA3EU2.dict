@@ -1,0 +1,21 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,k)e	
+can	k(ey,ae)b	ae(k,n)	n(ae,l)e	
+learn	l	er	n(er,w)e	
+/w	w	
+ah(/ah/)	ah(w,td)	
+td/	td(ah,sil)e	
+sil	sil	
+grades	g(sil,r)b	r(g,ey)	ey	d	z(d,sil)e	
+[begin_noise]	sil	
+their	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+kids	k(sil,ih)b	ih(k,d)	d(ih,z)	z(d,sil)e	
+[end_noise]	sil	
+are	aa(sil,r)b	r(aa,sil)e	
+[human_noise]	sil	
+getting(2)	g(sil,ih)b	ih	dx(ih,ix)	ix(dx,ng)	ng(ix,sil)e	
+sil	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+[sil]	sil	
+</s>	sile	

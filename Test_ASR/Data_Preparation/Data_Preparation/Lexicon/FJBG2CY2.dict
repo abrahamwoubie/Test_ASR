@@ -1,0 +1,35 @@
+<s>	silb	
+/eh	eh	
+n(/n/)	n(eh,t)e	
+t(/t/)	t	
+aa(/aa/)	aa(t,r)e	
+r(/r/)	r(aa,t)e	
+t(/t/)	t(r,ix)	
+ix(/ix/)	ix(t,k)	
+k	k(ix,ey)b	ey(k,ax)e	
+ax/	ax(ey,ix)s	
+is(2)	ix(ax,z)b	z(ix,ax)e	
+a	ax(z,sil)s	
+sil	sil	
+/k	k	
+ao(/ao/)	ao(k,n)	
+n(/n/)	n(ao,sil)e	
+sil	sil	
+t(/t/)	t	
+ix(/ix/)	ix(t,n)	
+n(/n/)	n(ix,ix)e	
+ix(/ix/)	ix	
+n(/n/)	n(ix,sil)e	
+td/	td(n,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+of	ah(sil,v)b	v(ah,dh)e	
+the	dh(v,ah)b	ah(dh,s)e	
+southern	s(ah,ah)b	ah(s,dh)	dh(ah,axr)	axr(dh,n)	n(axr,eh)e	
+end	eh(n,n)b	n(eh,dd)	dd(n,sil)e	
+sil	sil	
+of	ah(sil,v)b	v(ah,aw)e	
+our(2)	aw(v,axr)b	axr(aw,p)e	
+planet	p(axr,l)b	l(p,ae)	ae(l,n)	n(ae,ax)	ax	td(ax,sil)e	
+</s>	sile	

@@ -1,0 +1,15 @@
+fsxe1by2:word> <s> 0.00 2.00 -825066
+fsxe1by2:word> /F 3.00 8.00 -1061694
+fsxe1by2:word> IX(/IX/) 9.00 16.00 -1482578
+fsxe1by2:word> N(/N/) 17.00 25.00 -1577915
+fsxe1by2:word> Z/ 26.00 39.00 -2429186
+fsxe1by2:word> LIVE(2) 40.00 79.00 -6363322
+fsxe1by2:word> [BEGIN_NOISE] 80.00 97.00 -2960413
+fsxe1by2:word> IN(2) 98.00 147.00 -8279814
+fsxe1by2:word> SIL 148.00 160.00 -2681917
+fsxe1by2:word> THE 161.00 188.00 -4761038
+fsxe1by2:word> [END_NOISE] 189.00 209.00 -3382194
+fsxe1by2:word> OCEAN 210.00 272.00 -11552247
+fsxe1by2:word> [HUMAN_NOISE](+INHALE+) 273.00 330.00 -9039076
+fsxe1by2:word> [NOISE] 331.00 338.00 -1216062
+fsxe1by2:word> </s> 339.00 680.00 -46984461

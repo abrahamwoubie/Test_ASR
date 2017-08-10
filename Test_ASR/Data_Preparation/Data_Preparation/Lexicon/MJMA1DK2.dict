@@ -1,0 +1,34 @@
+<s>	silb	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+/s	s	
+ay	ay(s,ax)s	
+ax(/ax/)	ax(ay,n)s	
+n(/n/)	n(ax,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,s)e	
+say	s(s,ey)b	ey(s,dh)e	
+they	dh(ey,ey)b	ey(dh,f)e	
+find	f(ey,ay)b	ay(f,n)	n(ay,dd)	dd(n,d)e	
+/d	d	
+ay	ay(d,n)	
+n(/n/)	n(ay,aa)e	
+ah	aa	
+s(/s/)	s	
+sil	sil	
+ao(/ao/)	ao	
+r(/r/)	r(ao,z)e	
+z/	z(r,b)e	
+bones	b(z,ow)b	ow	n(ow,z)	z(n,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,d)e	
+/d	d(n,ah)	
+ah/	ah	
+sil	sil	
+ground	g(sil,r)b	r(g,aw)	aw(r,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+</s>	sile	

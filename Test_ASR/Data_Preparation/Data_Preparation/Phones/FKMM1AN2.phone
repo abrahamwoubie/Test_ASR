@@ -1,0 +1,15 @@
+fkmm1an2:phone> SILb 0.00 5.00 -944516
+fkmm1an2:phone> SIL 6.00 8.00 -749032
+fkmm1an2:phone> S 9.00 42.00 -5675985
+fkmm1an2:phone> SIL 43.00 52.00 -1600350
+fkmm1an2:phone> P 53.00 58.00 -1192512
+fkmm1an2:phone> IH(P,N) 59.00 93.00 -5092738
+fkmm1an2:phone> N(IH,SIL)e 94.00 104.00 -1872889
+fkmm1an2:phone> SIL 105.00 107.00 -817640
+fkmm1an2:phone> D 108.00 110.00 -646826
+fkmm1an2:phone> SIL 111.00 175.00 -9332527
+fkmm1an2:phone> +RUSTLE+ 176.00 178.00 -601394
+fkmm1an2:phone> AH 179.00 211.00 -5823783
+fkmm1an2:phone> R 212.00 241.00 -5522694
+fkmm1an2:phone> AW(R,SIL)e 242.00 286.00 -5391658
+fkmm1an2:phone> SILe 287.00 290.00 -1018075

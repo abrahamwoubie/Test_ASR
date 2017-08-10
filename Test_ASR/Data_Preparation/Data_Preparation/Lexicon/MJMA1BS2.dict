@@ -1,0 +1,30 @@
+<s>	silb	
+in(2)	ix(sil,n)b	n(ix,k)e	
+/k	k	
+ae(/ae/)	ae(k,l)	
+l(/l/)	l(ae,ih)e	
+ih(/ih/)	ih	
+f(/f/)	f(ih,ao)e	
+ao(/ao/)	ao	
+sil	sil	
+r(/r/)	r	
+n(/n/)	n(r,ax)e	
+ax/	ax(n,p)s	
+people	p(ax,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,aa)e	
+are	aa(l,r)b	r(aa,w)e	
+working	w(r,er)b	er(w,k)	k(er,ix)	ix(k,ng)	ng(ix,sil)e	
+sil	sil	
+to	t(sil,ax)b	ax(t,sil)e	
+sil	sil	
+keep	k(sil,iy)b	iy(k,pd)	pd(iy,s)e	
+seal	s(pd,iy)b	iy	l(iy,sil)e	
+[noise]	sil	
+homes	hh(sil,ow)b	ow(hh,m)	m	z(m,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+clean	k(sil,l)b	l(k,iy)	iy(l,n)	n(iy,ax)e	
+and(2)	ax(n,n)b	n(ax,dd)	dd(n,s)e	
+safe	s(dd,ey)b	ey(s,f)	f(ey,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

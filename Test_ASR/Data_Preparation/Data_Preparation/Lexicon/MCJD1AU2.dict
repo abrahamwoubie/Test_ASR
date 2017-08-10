@@ -1,0 +1,32 @@
+<s>	silb	
+[noise]	sil	
+if	ih(sil,f)b	f(ih,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+/r	r	
+ih(/ih/)	ih(r,v)	
+v(/v/)	v(ih,aa)e	
+ah	aa	
+l/	l(aa,g)e	
+gets	g(l,eh)b	eh(g,ts)	ts(eh,t)e	
+too	t(ts,uw)b	uw(t,d)e	
+deep	d(uw,iy)b	iy	pd(iy,sil)e	
+[human_noise]	sil	
+/w	w	
+aa(/aa/)	aa	
+sil	sil	
+t(/t/)	t	
+ax(/ax/)	ax(t,l)e	
+l/	l(ax,g)e	
+goes	g(l,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+/ih	ih	
+n(/n/)	n(ih,t)e	
+t	t(n,iy)b	iy(t,uw)e	
+uw/	uw	
+the	dh(uw,ah)b	ah(dh,l)e	
+land	l(ah,ae)b	ae(l,n)	n(ae,dd)	dd(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+[sil]	sil	
+</s>	sile	

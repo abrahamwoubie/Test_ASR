@@ -1,0 +1,38 @@
+<s>	silb	
+/k	k	
+w(/w/)	w	
+ey(/ey/)	ey(w,z)e	
+z/	z(ey,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+hang	hh(sil,ae)b	ae(hh,ng)	ng(ae,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+in	ih(sil,n)b	n(ih,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+tall	t(sil,ao)b	ao	l(ao,sil)e	
+sil	sil	
+/t	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,sil)s	
+sil	sil	
+t(/t/)	t	
+aa(/aa/)	aa(t,p)e	
+p(/p/)	p	
+s/	s(p,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+/m/	m	
+sil	sil	
+/k	k	
+sil	sil	
+ey/	ey(sil,sil)s	
+</s>	sile	

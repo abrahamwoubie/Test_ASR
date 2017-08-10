@@ -1,0 +1,15 @@
+<s>	silb	
+one	w(sil,ah)b	ah(w,n)	n(ah,sil)e	
+sil	sil	
+doctor(2)	d(sil,ao)b	ao	kd(ao,t)	t(kd,axr)	axr(t,s)e	
+says(2)	s(axr,ih)b	ih	z(ih,sil)e	
+[begin_noise]	sil	
+loud	l	aw(l,dd)	dd(aw,sil)e	
+[end_noise]	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+noises	n	oy(n,z)	z	ix(z,z)	z(ix,sil)e	
+sil	sil	
+/ah	ah	
+r/	r	
+</s>	sile	

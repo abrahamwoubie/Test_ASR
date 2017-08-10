@@ -1,0 +1,34 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+at	ae(sil,td)b	td(ae,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,m)e	
+market(2)	m(ax,aa)b	aa(m,r)	r(aa,k)	k(r,ix)	ix(k,td)	td(ix,sil)e	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,f)e	
+/f	f(ey,ay)e	
+ay	ay(f,n)s	
+n/	n(ay,sil)e	
+sil	sil	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,dh)e	
+they	dh(z,ey)b	ey(dh,n)e	
+need	n(ey,iy)b	iy(n,dd)	dd(iy,sil)e	
+sil	sil	
+but	b(sil,ah)b	ah(b,td)	td(ah,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+can't	k(sil,ae)b	ae(k,n)	n(ae,td)	td(n,m)e	
+make	m(td,ey)b	ey(m,kd)	kd(ey,sil)e	
+sil	sil	
+or	ao(sil,r)b	r(ao,sil)e	
+sil	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,dh)e	
+themselves	dh(ow,eh)b	eh(dh,m)	m	s	eh(s,l)	l(eh,v)	v(l,z)	z(v,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[sil]	sil	
+sil	sil	
+</s>	sile	

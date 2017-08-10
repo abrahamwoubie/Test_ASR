@@ -1,0 +1,24 @@
+<s>	silb	
+sil	sil	
+but(2)	b(sil,ax)b	ax(b,td)	td(ax,sil)e	
+sil	sil	
+turned	t(sil,er)b	er(t,n)	n	dd(n,sil)e	
+sil	sil	
+upside	ah	p	s	ay(s,dd)	dd(ay,d)e	
+down	d(dd,aw)b	aw(d,n)	n(aw,sil)e	
+sil	sil	
+its(2)	ix(sil,ts)b	ts(ix,sil)e	
+sil	sil	
+colors	k(sil,ah)b	ah(k,l)	l	axr(l,z)	z(axr,sil)e	
+sil	sil	
+are	aa(sil,r)b	r(aa,b)e	
+brown	b(r,r)b	r(b,aw)	aw(r,n)	n(aw,sil)e	
+sil	sil	
+black	b(sil,l)b	l(b,ae)	ae	kd(ae,sil)e	
+sil	sil	
+pale	p(sil,ey)b	ey(p,l)	l(ey,y)e	
+yellow	y(l,eh)b	eh	l(eh,ow)	ow(l,sil)e	
+sil	sil	
+or	ao(sil,r)b	r(ao,w)e	
+white(2)	w(r,ay)b	ay	td(ay,sil)e	
+</s>	sile	

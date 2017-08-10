@@ -1,0 +1,16 @@
+fnjs1ai1:phone> SILb 0.00 9.00 -1492726
+fnjs1ai1:phone> S(SIL,T)b 10.00 22.00 -2387172
+fnjs1ai1:phone> T(S,EY) 23.00 31.00 -1645468
+fnjs1ai1:phone> EY(T,AX)e 32.00 53.00 -3697449
+fnjs1ai1:phone> AX(EY,W)b 54.00 62.00 -1057745
+fnjs1ai1:phone> W(AX,EY) 63.00 72.00 -1161276
+fnjs1ai1:phone> EY(W,F)e 73.00 90.00 -2189891
+fnjs1ai1:phone> F(EY,AXR)b 91.00 101.00 -2005575
+fnjs1ai1:phone> AXR(F,M) 102.00 115.00 -2416325
+fnjs1ai1:phone> M 116.00 122.00 -1183258
+fnjs1ai1:phone> W(M,AO)b 123.00 142.00 -3501562
+fnjs1ai1:phone> AO(W,DX) 143.00 151.00 -1327460
+fnjs1ai1:phone> DX(AO,AXR) 152.00 157.00 -1355004
+fnjs1ai1:phone> AXR(DX,SIL)e 158.00 178.00 -3292741
+fnjs1ai1:phone> SIL 179.00 252.00 -10112197
+fnjs1ai1:phone> SILe 253.00 660.00 -54955169

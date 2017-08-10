@@ -1,0 +1,11 @@
+fsaa1af2:word> <s> 0.00 19.00 -3276200
+fsaa1af2:word> [BEGIN_NOISE] 20.00 32.00 -2012852
+fsaa1af2:word> STAY 33.00 94.00 -8737076
+fsaa1af2:word> [END_NOISE] 95.00 97.00 -786920
+fsaa1af2:word> AWAY 98.00 158.00 -7898521
+fsaa1af2:word> FROM(2) 159.00 269.00 -16931805
+fsaa1af2:word> SIL 270.00 442.00 -21288900
+fsaa1af2:word> [NOISE](+INHALE+) 443.00 515.00 -12449865
+fsaa1af2:word> /L 516.00 524.00 -1864183
+fsaa1af2:word> AY/ 525.00 583.00 -8243970
+fsaa1af2:word> </s> 584.00 620.00 -5223282

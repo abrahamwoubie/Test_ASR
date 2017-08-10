@@ -1,0 +1,16 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+stay	s(sil,t)b	t(s,ey)	ey(t,ax)e	
+away	ax(ey,w)b	w(ax,ey)	ey(w,f)e	
+/f	f(ey,w)e	
+w(/w/)	w	
+ax(/ax/)	ax	
+m/	m(ax,w)e	
+/w	w	
+aa(/aa/)	aa	
+sil	sil	
+t(/t/)	t	
+ax(/ax/)	ax(t,l)e	
+l/	l(ax,sil)e	
+</s>	sile	

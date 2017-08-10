@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+/s	s	
+ow	ow(s,sil)s	
+sil	sil	
+ix(/ix/)	ix	
+m/	m(ix,sil)e	
+[human_noise]	sil	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+plastic	p(sil,l)b	l(p,ae)	ae(l,s)	s(ae,t)	t(s,ix)	ix(t,kd)	kd(ix,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+[sil]	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

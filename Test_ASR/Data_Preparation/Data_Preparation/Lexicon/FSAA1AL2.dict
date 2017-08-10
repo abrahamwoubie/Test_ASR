@@ -1,0 +1,24 @@
+<s>	silb	
+sil	sil	
+spring	s(sil,p)b	p(s,r)	r(p,ih)	ih(r,ng)	ng(ih,sil)e	
+sil	sil	
+/m	m	
+ey/	ey(m,sil)s	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+[begin_noise]	sil	
+spring	s(sil,p)b	p(s,r)	r(p,ih)	ih(r,ng)	ng(ih,sil)e	
+[end_noise]	sil	
+brings	b(sil,r)b	r(b,ih)	ih(r,ng)	ng(ih,z)	z(ng,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+kids	k(sil,ih)b	ih(k,d)	d(ih,z)	z(d,sil)e	
+sil	sil	
+of	ah(sil,v)b	v(ah,w)e	
+winter	w(v,ih)b	ih(w,n)	n(ih,t)	t(n,axr)	axr(t,sil)e	
+[noise]	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

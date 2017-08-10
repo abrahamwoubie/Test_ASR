@@ -1,0 +1,17 @@
+facs2bq2:word> <s> 0.00 11.00 -2230968
+facs2bq2:word> SIL 12.00 58.00 -7159238
+facs2bq2:word> [BEGIN_NOISE] 59.00 136.00 -10418112
+facs2bq2:word> SIL 137.00 147.00 -2068879
+facs2bq2:word> /P 148.00 155.00 -1881249
+facs2bq2:word> L(/L/) 156.00 161.00 -995078
+facs2bq2:word> AI(2) 162.00 183.00 -4003778
+facs2bq2:word> SIL 184.00 190.00 -1353164
+facs2bq2:word> N/ 191.00 206.00 -2872735
+facs2bq2:word> SIL 207.00 236.00 -4053250
+facs2bq2:word> PLANES 237.00 282.00 -7518040
+facs2bq2:word> [END_NOISE] 283.00 285.00 -628200
+facs2bq2:word> FLY 286.00 317.00 -4538540
+facs2bq2:word> TO 318.00 337.00 -3352986
+facs2bq2:word> AFRICA 338.00 390.00 -10003072
+facs2bq2:word> SIL 391.00 561.00 -21304386
+facs2bq2:word> </s> 562.00 646.00 -10885644

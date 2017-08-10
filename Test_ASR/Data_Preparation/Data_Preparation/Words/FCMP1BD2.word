@@ -1,0 +1,13 @@
+fcmp1bd2:word> <s> 0.00 2.00 -687850
+fcmp1bd2:word> [NOISE] 3.00 25.00 -3501506
+fcmp1bd2:word> SOME 26.00 72.00 -7148743
+fcmp1bd2:word> PEOPLE 73.00 114.00 -6779500
+fcmp1bd2:word> RECYCLED 115.00 201.00 -14951365
+fcmp1bd2:word> FOOD 202.00 263.00 -8680861
+fcmp1bd2:word> [NOISE](+RUSTLE+) 264.00 268.00 -1002438
+fcmp1bd2:word> [SIL] 269.00 354.00 -11649393
+fcmp1bd2:word> GARBAGE 355.00 421.00 -10604256
+fcmp1bd2:word> SIL 422.00 445.00 -3316668
+fcmp1bd2:word> [NOISE](+INHALE+) 446.00 451.00 -1024877
+fcmp1bd2:word> [SIL] 452.00 454.00 -592360
+fcmp1bd2:word> </s> 455.00 638.00 -21919339

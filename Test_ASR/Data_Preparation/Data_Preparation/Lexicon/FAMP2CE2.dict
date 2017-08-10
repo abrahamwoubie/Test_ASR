@@ -1,0 +1,29 @@
+<s>	silb	
+[noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+/ch	ch	
+ih(/ih/)	ih(ch,l)	
+l(/l/)	l(ih,d)e	
+d(/d/)	d(l,r)	
+r(/r/)	r(d,ih)	
+ih(/ih/)	ih(r,n)	
+n/	n(ih,sil)e	
+[end_noise]	sil	
+/s	s	
+t(/t/)	t(s,aa)	
+aa(/aa/)	aa(t,r)e	
+r(/r/)	r(aa,sil)e	
+dd(/dd/)	dd(r,ih)e	
+ih(/ih/)	ih	
+d/	d	
+school	s(sil,k)b	k(s,uw)	uw(k,l)	l(uw,w)e	
+when(4)	w(l,ih)b	ih(w,n)	n(ih,dh)e	
+they	dh(n,ey)b	ey(dh,aa)e	
+are	aa(ey,r)b	r(aa,s)e	
+seven	s(r,eh)b	eh(s,v)	v(eh,ax)	ax(v,n)	n(ax,y)e	
+years	y(n,ih)b	ih(y,r)	r(ih,z)	z(r,ow)e	
+old	ow(z,l)b	l(ow,dd)	dd(l,sil)e	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

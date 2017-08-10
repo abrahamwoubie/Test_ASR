@@ -1,0 +1,18 @@
+<s>	silb	
+sil	sil	
+but(2)	b(sil,ax)b	ax(b,td)	td(ax,t)e	
+turned	t(td,er)b	er(t,n)	n	dd(n,ah)e	
+upside	ah	p	s	ay(s,dd)	dd(ay,d)e	
+down	d(dd,aw)b	aw(d,n)	n(aw,ih)e	
+its	ih(n,ts)b	ts(ih,k)e	
+colors	k(ts,ah)b	ah(k,l)	l	axr(l,z)	z(axr,axr)e	
+are(2)	axr	
+[begin_noise]	sil	
+brown	b(sil,r)b	r(b,aw)	aw(r,n)	n(aw,sil)e	
+sil	sil	
+black	b(sil,l)b	l(b,ae)	ae	kd(ae,p)e	
+pale	p(kd,ey)b	ey(p,l)	l(ey,y)e	
+yellow	y(l,eh)b	eh	l(eh,ow)	ow(l,ow)e	
+/ow/	ow(ow,sil)s	
+[end_noise]	sil	
+</s>	sile	

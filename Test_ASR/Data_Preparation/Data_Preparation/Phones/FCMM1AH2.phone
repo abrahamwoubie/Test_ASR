@@ -1,0 +1,9 @@
+fcmm1ah2:phone> SILb 0.00 2.00 -1303274
+fcmm1ah2:phone> AO 3.00 5.00 -752452
+fcmm1ah2:phone> AA(AO,R)b 6.00 16.00 -2366451
+fcmm1ah2:phone> R(AA,S)e 17.00 21.00 -1136450
+fcmm1ah2:phone> S(R,SIL)e 22.00 46.00 -4490894
+fcmm1ah2:phone> +INHALE+ 47.00 230.00 -27055304
+fcmm1ah2:phone> +EXHALE+ 231.00 233.00 -588927
+fcmm1ah2:phone> +INHALE+ 234.00 296.00 -9622698
+fcmm1ah2:phone> SILe 297.00 300.00 -733403

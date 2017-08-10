@@ -1,0 +1,27 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+/d	d	
+ax/	ax(d,s)	
+/s	s(ax,sil)e	
+oy/	oy	
+sil	sil	
+/d	d	
+ax/	ax(d,s)	
+soil	s	oy	l	
+is	ih(l,z)b	z(ih,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+used	y(sil,uw)b	uw(y,z)	z(uw,dd)	dd(z,t)e	
+to(3)	t(dd,uw)b	uw(t,hh)e	
+help	hh(uw,eh)b	eh(hh,l)	l(eh,pd)	pd(l,g)e	
+/g	g	
+aa(/aa/)	aa	
+r	aa(aa,r)b	r(aa,ih)e	
+ih(/ih/)	ih(r,n)	
+n(/n/)	n(ih,z)e	
+z/	z(n,g)e	
+grow	g(z,r)b	r(g,ow)	ow(r,sil)e	
+sil	sil	
+[crosstalk]	sil	
+</s>	sile	

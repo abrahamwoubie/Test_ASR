@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,w)e	
+/w	w	
+ih(/ih/)	ih(w,n)	
+n/	n(ih,sil)e	
+sil	sil	
+[begin_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[end_noise]	sil	
+winds(2)	w(sil,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+/s/	s	
+sil	sil	
+[sil]	sil	
+spin	s(sil,p)b	p	ih(p,n)	n(ih,axr)e	
+around	axr(n,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,axr)e	
+around	axr(dd,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+[sil]	sil	
+</s>	sile	

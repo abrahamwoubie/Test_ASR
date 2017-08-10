@@ -1,0 +1,26 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,k)e	
+keep	k(ey,iy)b	iy(k,pd)	pd(iy,dh)e	
+the(2)	dh(pd,ax)b	ax(dh,eh)e	
+eggs	eh(ax,g)b	g(eh,z)	z(g,w)e	
+warm	w(z,ao)b	ao(w,r)	r(ao,m)	m(r,ax)e	
+until	ax(m,n)b	n(ax,t)	t(n,ih)	ih(t,l)	l(ih,dh)e	
+the(2)	dh(l,ax)b	ax(dh,b)e	
+baby	b(ax,ey)b	ey	b(ey,iy)	iy(b,p)e	
+/p	p	
+ih(/ih/)	ih	
+jh/	jh	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+penguin	p(sil,eh)b	eh	ng	g	w	ax(w,n)	n(ax,sil)e	
+sil	sil	
+breaks	b(sil,r)b	r(b,ey)	ey(r,k)	k(ey,s)	s(k,aw)e	
+out	aw(s,td)b	td(aw,ax)e	
+of(2)	ax(td,v)b	v(ax,dh)e	
+the(2)	dh(v,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+eggs	eh(sil,g)b	g(eh,z)	z(g,sil)e	
+sil	sil	
+/s/	s	
+[end_noise]	sil	
+</s>	sile	

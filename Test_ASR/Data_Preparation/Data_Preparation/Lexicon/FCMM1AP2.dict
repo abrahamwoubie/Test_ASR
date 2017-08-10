@@ -1,0 +1,30 @@
+<s>	silb	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+/d	d	
+ih(/ih/)	ih(d,s)	
+s/	s(ih,sil)e	
+sil	sil	
+[sil]	sil	
+sil	sil	
+/d	d	
+sil	sil	
+ih(/ih/)	ih	
+s/	s(ih,sil)e	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+dust	d(sil,ah)b	ah	s(ah,td)	td(s,sil)e	
+sil	sil	
+storms	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m	z(m,sil)e	
+sil	sil	
+happen	hh(sil,ae)b	ae(hh,p)	p(ae,ax)	ax(p,n)	n(ax,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,sil)e	
+[sil]	sil	
+very	v(sil,eh)b	eh(v,r)	r(eh,iy)	iy(r,sil)e	
+sil	sil	
+dry	d(sil,r)b	r(d,ay)	ay(r,p)e	
+places(2)	p(ay,l)b	l(p,ey)	ey(l,s)	s(ey,ix)	ix(s,z)	z(ix,sil)e	
+sil	sil	
+</s>	sile	

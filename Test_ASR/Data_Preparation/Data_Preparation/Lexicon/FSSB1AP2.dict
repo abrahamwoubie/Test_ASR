@@ -1,0 +1,31 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+dust	d(sil,ah)b	ah	s(ah,td)	td(s,s)e	
+/s	s	
+sil	sil	
+t(/t/)	t	
+ao(/ao/)	ao(t,r)e	
+r(/r/)	r(ao,sil)e	
+sil	sil	
+m(/m/)	m	
+p(/p/)	p	
+sil	sil	
+s/	s	
+sil	sil	
+happen	hh(sil,ae)b	ae(hh,p)	p(ae,ax)	ax(p,n)	n(ax,sil)e	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,v)e	
+very	v(n,eh)b	eh(v,r)	r(eh,iy)	iy(r,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+dry	d(sil,r)b	r(d,ay)	ay(r,p)e	
+/p	p	
+l(/l/)	l(p,ey)	
+ey(/ey/)	ey(l,s)s	
+s(/s/)	s(ey,sil)e	
+sil	sil	
+ih(/ih/)	ih	
+s/	s(ih,sil)e	
+sil	sil	
+</s>	sile	

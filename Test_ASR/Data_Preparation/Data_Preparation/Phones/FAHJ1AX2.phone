@@ -1,0 +1,13 @@
+fahj1ax2:phone> SILb 0.00 2.00 -1062634
+fahj1ax2:phone> P 3.00 5.00 -1009143
+fahj1ax2:phone> AX(P,L)e 6.00 8.00 -736700
+fahj1ax2:phone> L(AX,R)e 9.00 19.00 -1829889
+fahj1ax2:phone> R(L,IY) 20.00 26.00 -1179603
+fahj1ax2:phone> IY(R,S)e 27.00 32.00 -830158
+fahj1ax2:phone> S(IY,AY)e 33.00 48.00 -2202377
+fahj1ax2:phone> AY(S,K)s 49.00 65.00 -2433004
+fahj1ax2:phone> K 66.00 78.00 -2272093
+fahj1ax2:phone> AX(K,L)e 79.00 81.00 -661583
+fahj1ax2:phone> L(AX,SIL)e 82.00 96.00 -2363025
+fahj1ax2:phone> SIL 97.00 99.00 -640488
+fahj1ax2:phone> SILe 100.00 460.00 -41355776

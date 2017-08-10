@@ -1,0 +1,412 @@
+# lattice-scale --inv-acoustic-scale=9 "ark:gunzip -c ./exp/DNN/decode//lat.*.gz|" ark:- | lattice-add-penalty --word-ins-penalty=0.0 ark:- ark:- | lattice-best-path --word-symbol-table=./exp/DNN/graph//words.txt ark:- ark,t:- | utils/int2sym.pl -f 2- ./exp/DNN/graph//words.txt | cat > ./exp/DNN/decode//scoring_kaldi/penalty_0.0/9.txt 
+# Started at Wed Aug  9 20:14:04 CEST 2017
+#
+lattice-best-path --word-symbol-table=./exp/DNN/graph//words.txt ark:- ark,t:- 
+lattice-scale --inv-acoustic-scale=9 'ark:gunzip -c ./exp/DNN/decode//lat.*.gz|' ark:- 
+lattice-add-penalty --word-ins-penalty=0.0 ark:- ark:- 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Aaira-76afd3e5-9402-4ff9-99a9-f84d9368ad85_sun_1433766531, best cost 7.47438 + -54.3666 = -46.8922 over 100 frames.
+Aaira-76afd3e5-9402-4ff9-99a9-f84d9368ad85_sun_1433766531 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Aaron-ae9d4cdb-7be3-4275-88e5-0d736cffda19_chicken_1424372230, best cost 8.49579 + -52.9337 = -44.4379 over 89 frames.
+Aaron-ae9d4cdb-7be3-4275-88e5-0d736cffda19_chicken_1424372230 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ada-b7047c36-a30d-4a08-933b-91376230475a_chicken_1418127834, best cost 8.30262 + -49.761 = -41.4584 over 88 frames.
+Ada-b7047c36-a30d-4a08-933b-91376230475a_chicken_1418127834 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Adam-74bd8ff8-1296-41b5-84e1-db787dd6262f_letter_1436902682, best cost 9.57112 + -52.7841 = -43.213 over 127 frames.
+Adam-74bd8ff8-1296-41b5-84e1-db787dd6262f_letter_1436902682 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ado-085826ab-c233-4b2e-8220-c252b099be31_book_1415959108, best cost 6.97143 + -20.8747 = -13.9032 over 65 frames.
+Ado-085826ab-c233-4b2e-8220-c252b099be31_book_1415959108 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Afeef-d0c6b5d1-c1d7-4453-8b99-546f3a51d51b_three_1458045472, best cost 12.5123 + -22.4559 = -9.94362 over 59 frames.
+Afeef-d0c6b5d1-c1d7-4453-8b99-546f3a51d51b_three_1458045472 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Alex-71c16c57-3ec3-40be-a155-db6f078dcbe1_sun_1430747342, best cost 6.85997 + -39.2608 = -32.4008 over 69 frames.
+Alex-71c16c57-3ec3-40be-a155-db6f078dcbe1_sun_1430747342 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Alex-880af86e-1685-4f45-b3d5-555f8bac3bcd_lip_1456688709, best cost 7.06971 + -23.8006 = -16.7309 over 47 frames.
+Alex-880af86e-1685-4f45-b3d5-555f8bac3bcd_lip_1456688709 lip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Alexa-f4e9ba6e-e19b-47d8-b60c-6776a0def7cc_sun_1421868450, best cost 7.196 + -40.6544 = -33.4584 over 79 frames.
+Alexa-f4e9ba6e-e19b-47d8-b60c-6776a0def7cc_sun_1421868450 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Allie-25ba9297-cc8c-4b9b-aa62-a70ce0ee24ab_lip_1456331688, best cost 7.32601 + -41.8268 = -34.5007 over 102 frames.
+Allie-25ba9297-cc8c-4b9b-aa62-a70ce0ee24ab_lip_1456331688 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Alya-a7d304f7-315f-4289-a34a-e83d523581fc_sun_1423502190, best cost 8.47186 + -60.3963 = -51.9244 over 130 frames.
+Alya-a7d304f7-315f-4289-a34a-e83d523581fc_sun_1423502190 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Aminah-cd2810eb-cf51-4817-b98c-547ed30fedad_chicken_1420791751, best cost 7.96726 + -37.0189 = -29.0516 over 63 frames.
+Aminah-cd2810eb-cf51-4817-b98c-547ed30fedad_chicken_1420791751 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Amyah-11c253a1-d138-4db4-895c-dc9e74d4d6ad_car_1459438005, best cost 7.88172 + -32.1164 = -24.2347 over 91 frames.
+Amyah-11c253a1-d138-4db4-895c-dc9e74d4d6ad_car_1459438005 car 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Andre-56b4133f-9a97-4d9a-82b1-c7171b684692_web_1428762890, best cost 11.9046 + -65.4476 = -53.543 over 138 frames.
+Andre-56b4133f-9a97-4d9a-82b1-c7171b684692_web_1428762890 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Angela-123b95f6-f187-49a6-b385-dc3dc5d62bb4_sun_1424030645, best cost 8.10856 + -37.463 = -29.3544 over 98 frames.
+Angela-123b95f6-f187-49a6-b385-dc3dc5d62bb4_sun_1424030645 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Angela-da149129-4831-4d47-9735-4e3672296e4c_queen_1433896346, best cost 9.47119 + -63.1358 = -53.6646 over 119 frames.
+Angela-da149129-4831-4d47-9735-4e3672296e4c_queen_1433896346 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Angelina-055a1334-f1a8-4571-9f9a-8727dab200e6_drip_1428717676, best cost 10.1939 + -49.6048 = -39.4109 over 102 frames.
+Angelina-055a1334-f1a8-4571-9f9a-8727dab200e6_drip_1428717676 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Angelito-5cf5ed07-fc9f-4f81-ba1f-0853e142cad8_zoo_1456112855, best cost 12.7858 + -33.0581 = -20.2723 over 144 frames.
+Angelito-5cf5ed07-fc9f-4f81-ba1f-0853e142cad8_zoo_1456112855 zoo 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Anna-8a4a3102-dab3-4c7b-8836-7869770dd6d1_chicken_1416598689, best cost 8.79345 + -54.1232 = -45.3298 over 116 frames.
+Anna-8a4a3102-dab3-4c7b-8836-7869770dd6d1_chicken_1416598689 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Areeba-6e7e14da-a607-4a78-a407-ae5a1ff56324_drip_1425542823, best cost 7.72213 + -33.9893 = -26.2671 over 66 frames.
+Areeba-6e7e14da-a607-4a78-a407-ae5a1ff56324_drip_1425542823 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ariana-7554cf52-3e99-4c4b-9e10-9ff87c82cbb6_drip_1416489704, best cost 7.67103 + -43.5471 = -35.8761 over 69 frames.
+Ariana-7554cf52-3e99-4c4b-9e10-9ff87c82cbb6_drip_1416489704 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Athena-04a4231e-3bac-4b79-bb10-51b971871e08_chicken_1430839997, best cost 9.15827 + -55.5421 = -46.3838 over 114 frames.
+Athena-04a4231e-3bac-4b79-bb10-51b971871e08_chicken_1430839997 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ava-c7502327-5f83-4968-a165-c4661d8d8e84_chicken_1433470374, best cost 9.48002 + -76.6035 = -67.1235 over 162 frames.
+Ava-c7502327-5f83-4968-a165-c4661d8d8e84_chicken_1433470374 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Axel-8b3429e3-8339-4227-943e-087baca1c5e6_camp_1457105595, best cost 7.29602 + -32.4728 = -25.1768 over 51 frames.
+Axel-8b3429e3-8339-4227-943e-087baca1c5e6_camp_1457105595 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ayden-df5ba050-f890-473c-a61b-d5acc367cd08_queen_1429462813, best cost 11.504 + -58.3824 = -46.8783 over 150 frames.
+Ayden-df5ba050-f890-473c-a61b-d5acc367cd08_queen_1429462813 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ben-fac38318-5ec0-4b62-9bf5-e6aaf27b906d_web_1431976248, best cost 7.23461 + -25.0878 = -17.8532 over 65 frames.
+Ben-fac38318-5ec0-4b62-9bf5-e6aaf27b906d_web_1431976248 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Billy-3110de55-f4b2-4396-81f0-81dae44aaa47_cat_1456847377, best cost 7.0349 + -42.0821 = -35.0472 over 72 frames.
+Billy-3110de55-f4b2-4396-81f0-81dae44aaa47_cat_1456847377 cat 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Bobbyholly-dea0f7cf-7fbb-4882-92c7-8a2afffb404b_letter_1423943598, best cost 10.1498 + -70.1097 = -59.9599 over 148 frames.
+Bobbyholly-dea0f7cf-7fbb-4882-92c7-8a2afffb404b_letter_1423943598 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Bodhi-abd56625-b848-472c-b2ad-ec7d0665c817_cat_1456417682, best cost 7.60304 + -41.0689 = -33.4658 over 73 frames.
+Bodhi-abd56625-b848-472c-b2ad-ec7d0665c817_cat_1456417682 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Brady-0cf41731-22b4-4bfb-9ac9-0b105c005366_queen_1447923050, best cost 12.0116 + -85.1038 = -73.0922 over 192 frames.
+Brady-0cf41731-22b4-4bfb-9ac9-0b105c005366_queen_1447923050 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Caeleb-71a761f3-a9d4-4031-9d40-b0d27d1bbed1_zoo_1459407368, best cost 12.9791 + -55.9764 = -42.9973 over 160 frames.
+Caeleb-71a761f3-a9d4-4031-9d40-b0d27d1bbed1_zoo_1459407368 three 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Caoimhe-b6c2dadf-3577-4628-a630-e38f27d9def3_yell_1458372117, best cost 7.06297 + -35.2307 = -28.1677 over 51 frames.
+Caoimhe-b6c2dadf-3577-4628-a630-e38f27d9def3_yell_1458372117 yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Carna-1df09e12-16bf-4ddb-bf69-fd0c61c703fe_jet_1416250414, best cost 8.6456 + -54.8976 = -46.252 over 124 frames.
+Carna-1df09e12-16bf-4ddb-bf69-fd0c61c703fe_jet_1416250414 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Cayden-2f64f2bf-b27c-4ce0-ad81-d390032abefd_jet_1428624152, best cost 6.71446 + -29.4137 = -22.6993 over 49 frames.
+Cayden-2f64f2bf-b27c-4ce0-ad81-d390032abefd_jet_1428624152 jet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Charlie-89f12e0d-7adb-4074-b048-77ca70d95571_this_1418327933, best cost 8.06181 + -30.8661 = -22.8042 over 67 frames.
+Charlie-89f12e0d-7adb-4074-b048-77ca70d95571_this_1418327933 this 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Charlotte-c78c9333-24bf-474d-8a2f-fdb35df9ccc3_crab_1457120848, best cost 8.38735 + -52.376 = -43.9886 over 130 frames.
+Charlotte-c78c9333-24bf-474d-8a2f-fdb35df9ccc3_crab_1457120848 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Charlotte-c78c9333-24bf-474d-8a2f-fdb35df9ccc3_zoo_1460370807, best cost 13.4478 + -53.4087 = -39.961 over 165 frames.
+LOG (lattice-scale[5.1.85~1-7c04]:main():lattice-scale.cc:90) Done 200 lattices.
+Charlotte-c78c9333-24bf-474d-8a2f-fdb35df9ccc3_zoo_1460370807 ring 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Charlotte-d2cd33f8-f7bc-4633-9151-82c5ea74986e_lip_1456169327, best cost 7.98443 + -38.9065 = -30.9221 over 85 frames.
+Charlotte-d2cd33f8-f7bc-4633-9151-82c5ea74986e_lip_1456169327 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Chase-99aaa02e-c042-4e43-870d-584e285392d7_zoo_1452184217, best cost 8.12584 + -31.1867 = -23.0608 over 103 frames.
+Chase-99aaa02e-c042-4e43-870d-584e285392d7_zoo_1452184217 zoo 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Chloe-38aa0659-9c1f-40e8-b4f8-a412356b2fb0_jet_1431518112, best cost 7.24209 + -39.6018 = -32.3597 over 84 frames.
+Chloe-38aa0659-9c1f-40e8-b4f8-a412356b2fb0_jet_1431518112 jet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Chloe-807f4e61-5e18-4e0a-8e57-b6d391eb2fb9_zoo_1460962283, best cost 16.7874 + -49.0423 = -32.255 over 103 frames.
+Chloe-807f4e61-5e18-4e0a-8e57-b6d391eb2fb9_zoo_1460962283 [garbage] 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Chris-5e307892-e148-4fb2-87ed-89d91f8cc2da_sun_1416245630, best cost 7.56368 + -44.7376 = -37.1739 over 113 frames.
+Chris-5e307892-e148-4fb2-87ed-89d91f8cc2da_sun_1416245630 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Cian-9ee22e53-c4de-4c28-93bd-437726f4f884_camp_1456394030, best cost 10.3685 + -66.8749 = -56.5064 over 147 frames.
+Cian-9ee22e53-c4de-4c28-93bd-437726f4f884_camp_1456394030 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Cian-b9b1e4c3-1587-430f-9e74-8dbcc41506db_this_1416851277, best cost 8.54051 + -38.9277 = -30.3872 over 101 frames.
+Cian-b9b1e4c3-1587-430f-9e74-8dbcc41506db_this_1416851277 this 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Coda-eacc7b42-cd00-4296-bcb1-66f8117efecf_zoo_1450550564, best cost 13.0117 + -49.5827 = -36.571 over 141 frames.
+Coda-eacc7b42-cd00-4296-bcb1-66f8117efecf_zoo_1450550564 zoo 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Cody-8d48ce85-f620-44c8-9e20-278535fb2ad5_letter_1416333762, best cost 10.031 + -66.8549 = -56.8238 over 120 frames.
+Cody-8d48ce85-f620-44c8-9e20-278535fb2ad5_letter_1416333762 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Colin-74482ae9-2a2b-436f-878c-cf456b6f5c4a_book_1426273137, best cost 7.31907 + -41.2639 = -33.9448 over 83 frames.
+Colin-74482ae9-2a2b-436f-878c-cf456b6f5c4a_book_1426273137 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Connor-d5f070c7-166b-4c20-a8db-db62fdf4e3e9_web_1430409444, best cost 11.1291 + -79.019 = -67.8899 over 169 frames.
+Connor-d5f070c7-166b-4c20-a8db-db62fdf4e3e9_web_1430409444 web 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Coolman-c19dd41b-1a6e-4594-a7f1-3dac100522f1_web_1434432103, best cost 8.51212 + -31.8358 = -23.3237 over 70 frames.
+Coolman-c19dd41b-1a6e-4594-a7f1-3dac100522f1_web_1434432103 web 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Cristina-fddc7182-cebd-44f5-b03b-4ed8da7d2832_drip_1417815550, best cost 8.34244 + -45.5821 = -37.2397 over 73 frames.
+Cristina-fddc7182-cebd-44f5-b03b-4ed8da7d2832_drip_1417815550 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Crnaytnus-c6ba45d4-b617-4b5c-b3bc-422ebaf205ff_vet_1423496041, best cost 8.28129 + -77.6661 = -69.3848 over 134 frames.
+Crnaytnus-c6ba45d4-b617-4b5c-b3bc-422ebaf205ff_vet_1423496041 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Crysu-5aef4e93-4ac2-4f65-925a-2d5494fa573f_cat_1456506780, best cost 7.4132 + -59.5801 = -52.1668 over 96 frames.
+Crysu-5aef4e93-4ac2-4f65-925a-2d5494fa573f_cat_1456506780 cat 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance D-0c0d44bf-2203-4f76-abf5-591a8b35657d_car_1460749645, best cost 8.51044 + -51.2774 = -42.7669 over 126 frames.
+D-0c0d44bf-2203-4f76-abf5-591a8b35657d_car_1460749645 car 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance D-0c0d44bf-2203-4f76-abf5-591a8b35657d_crab_1456606078, best cost 8.32475 + -56.428 = -48.1032 over 119 frames.
+D-0c0d44bf-2203-4f76-abf5-591a8b35657d_crab_1456606078 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Dan-c7ceee65-5e95-4caa-89fd-18c9a70b4466_sun_1433629439, best cost 7.00599 + -43.2441 = -36.2382 over 86 frames.
+Dan-c7ceee65-5e95-4caa-89fd-18c9a70b4466_sun_1433629439 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Daniel-04c17fe9-0db6-477f-94d9-37855c79d6a7_drip_1449078671, best cost 9.19538 + -60.4442 = -51.2488 over 97 frames.
+Daniel-04c17fe9-0db6-477f-94d9-37855c79d6a7_drip_1449078671 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Davo-6d275e20-853b-4997-bf06-565e8dafd25e_crab_1455866287, best cost 10.4864 + -66.2102 = -55.7238 over 128 frames.
+Davo-6d275e20-853b-4997-bf06-565e8dafd25e_crab_1455866287 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Davo-6d275e20-853b-4997-bf06-565e8dafd25e_lip_1456648919, best cost 7.98752 + -38.2899 = -30.3024 over 79 frames.
+Davo-6d275e20-853b-4997-bf06-565e8dafd25e_lip_1456648919 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Dhruv-fd53a40a-05fe-4dc3-bfd6-c78cf3856ece_sun_1437398400, best cost 7.22645 + -35.9176 = -28.6912 over 85 frames.
+Dhruv-fd53a40a-05fe-4dc3-bfd6-c78cf3856ece_sun_1437398400 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Dude-edea9405-8319-4d23-9716-2c2dc98ebb88_car_1462007987, best cost 14.7199 + -59.604 = -44.8841 over 112 frames.
+Dude-edea9405-8319-4d23-9716-2c2dc98ebb88_car_1462007987 car [garbage] 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Dylan-2b674776-98fa-4aa1-96c1-73e941a1f420_sun_1416137059, best cost 7.2935 + -53.4486 = -46.1551 over 113 frames.
+Dylan-2b674776-98fa-4aa1-96c1-73e941a1f420_sun_1416137059 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Eathan-1e7a22f1-0c6c-49ff-83b2-5649fe98fd24_book_1424325054, best cost 7.0745 + -33.4593 = -26.3848 over 58 frames.
+Eathan-1e7a22f1-0c6c-49ff-83b2-5649fe98fd24_book_1424325054 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ela-8fdeaae9-570e-4250-a7d1-55473e743002_camp_1455804286, best cost 8.74811 + -67.7745 = -59.0264 over 118 frames.
+Ela-8fdeaae9-570e-4250-a7d1-55473e743002_camp_1455804286 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Elainya-154d23fc-729e-4994-ab40-7b6634432f99_book_1424815024, best cost 7.00023 + -25.2312 = -18.231 over 52 frames.
+Elainya-154d23fc-729e-4994-ab40-7b6634432f99_book_1424815024 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Elijah-57c066e1-a045-4a70-a05c-b196bcf03b63_car_1461552350, best cost 7.89542 + -37.7593 = -29.8638 over 73 frames.
+Elijah-57c066e1-a045-4a70-a05c-b196bcf03b63_car_1461552350 car 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ellie-ed71c4ee-af6d-4b44-adf6-eaad95978486_this_1419838571, best cost 7.62418 + -59.8804 = -52.2562 over 102 frames.
+Ellie-ed71c4ee-af6d-4b44-adf6-eaad95978486_this_1419838571 this 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ellie-ed71c4ee-af6d-4b44-adf6-eaad95978486_vet_1419421835, best cost 7.25234 + -47.1576 = -39.9053 over 85 frames.
+Ellie-ed71c4ee-af6d-4b44-adf6-eaad95978486_vet_1419421835 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Emiliano-c4d1d282-6c23-4ccd-b0f1-310fe852b049_yell_1460043555, best cost 7.68657 + -52.1645 = -44.478 over 99 frames.
+Emiliano-c4d1d282-6c23-4ccd-b0f1-310fe852b049_yell_1460043555 yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ethan-d5988a75-7141-4093-b976-d19b34718c66_vet_1415986557, best cost 7.31984 + -46.8145 = -39.4947 over 81 frames.
+Ethan-d5988a75-7141-4093-b976-d19b34718c66_vet_1415986557 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Evan-1331ba37-3887-49d1-9a8b-8cec9ab3ac2e_three_1441516235, best cost 9.23757 + -59.7468 = -50.5092 over 138 frames.
+Evan-1331ba37-3887-49d1-9a8b-8cec9ab3ac2e_three_1441516235 three 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Evan-803cd2c4-c6f7-4a8c-81d9-c9c1bb405233_web_1417257485, best cost 9.33488 + -53.7914 = -44.4565 over 110 frames.
+Evan-803cd2c4-c6f7-4a8c-81d9-c9c1bb405233_web_1417257485 web 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Eveperlman-75a26b92-bc62-4ab4-94a7-c1b0ef842b2b_traffic_1456362289, best cost 12.5325 + -97.035 = -84.5025 over 201 frames.
+Eveperlman-75a26b92-bc62-4ab4-94a7-c1b0ef842b2b_traffic_1456362289 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Eveyabby-7dff5a00-6404-44a2-a40b-e183a8cdbb87_camp_1452447381, best cost 9.0911 + -56.3396 = -47.2485 over 143 frames.
+Eveyabby-7dff5a00-6404-44a2-a40b-e183a8cdbb87_camp_1452447381 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Faith-914c2672-ff62-4ab9-bf81-d0e8c19ff709_three_1451789961, best cost 9.06068 + -42.0597 = -32.999 over 96 frames.
+Faith-914c2672-ff62-4ab9-bf81-d0e8c19ff709_three_1451789961 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Finnian-5bfa36db-c98e-4bad-865f-9c69615e7910_drip_1423765585, best cost 8.00388 + -42.6233 = -34.6194 over 88 frames.
+Finnian-5bfa36db-c98e-4bad-865f-9c69615e7910_drip_1423765585 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Finnster-86303db3-09e5-417e-bd9f-2b0980eafb55_yell_1451233140, best cost 9.28749 + -60.0566 = -50.7691 over 126 frames.
+Finnster-86303db3-09e5-417e-bd9f-2b0980eafb55_yell_1451233140 yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Fionn-70f2966f-e5ee-48ee-b1a9-6f86e493de61_chicken_1431266481, best cost 10.0831 + -33.8241 = -23.741 over 96 frames.
+Fionn-70f2966f-e5ee-48ee-b1a9-6f86e493de61_chicken_1431266481 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Flash-cf75be48-377d-4836-a7ef-37e56ed18d9a_jet_1424556455, best cost 6.77083 + -35.1872 = -28.4164 over 55 frames.
+Flash-cf75be48-377d-4836-a7ef-37e56ed18d9a_jet_1424556455 jet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Frances-a565a8cb-108f-459b-b311-e6d63b6daec6_cat_1456975273, best cost 7.5384 + -56.0712 = -48.5328 over 82 frames.
+Frances-a565a8cb-108f-459b-b311-e6d63b6daec6_cat_1456975273 cat 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Fuckup-0274064a-f1cb-461e-9c83-998b912c47dd_three_1418307571, best cost 12.3095 + -45.5323 = -33.2228 over 150 frames.
+Fuckup-0274064a-f1cb-461e-9c83-998b912c47dd_three_1418307571 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Galen-725342ec-dd02-4555-9693-9a0d7e7ffec4_yell_1457666344, best cost 18.999 + -42.3755 = -23.3764 over 125 frames.
+Galen-725342ec-dd02-4555-9693-9a0d7e7ffec4_yell_1457666344 [garbage] yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance George-3423fc8f-0c90-4f30-b461-42e4a836964e_jet_1419321699, best cost 7.39354 + -44.9896 = -37.5961 over 76 frames.
+George-3423fc8f-0c90-4f30-b461-42e4a836964e_jet_1419321699 jet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Georgia-a89db73b-150a-4511-86bd-d7baa64fd68f_lip_1450507542, best cost 7.53135 + -27.9957 = -20.4643 over 65 frames.
+Georgia-a89db73b-150a-4511-86bd-d7baa64fd68f_lip_1450507542 lip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance German-dca80a0e-9f6c-4a9c-a304-5d860bbf93a9_drip_1416670325, best cost 8.10692 + -60.0186 = -51.9117 over 107 frames.
+German-dca80a0e-9f6c-4a9c-a304-5d860bbf93a9_drip_1416670325 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Grace-87a4cf73-d10c-422c-87e8-077fd9532d81_jet_1425153831, best cost 7.3889 + -46.6867 = -39.2978 over 85 frames.
+Grace-87a4cf73-d10c-422c-87e8-077fd9532d81_jet_1425153831 jet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Gregory-81b3b439-507a-4162-873c-afee3f0c78ac_traffic_1457988943, best cost 10.2773 + -106.741 = -96.4636 over 185 frames.
+Gregory-81b3b439-507a-4162-873c-afee3f0c78ac_traffic_1457988943 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Gugu-df8cc8ee-cb06-4d82-beb0-fa332cd5bfa9_letter_1425367510, best cost 9.36816 + -49.8004 = -40.4322 over 102 frames.
+Gugu-df8cc8ee-cb06-4d82-beb0-fa332cd5bfa9_letter_1425367510 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Hannah-d6293c86-d0fe-4d15-931f-8c7babeb1203_traffic_1456557921, best cost 10.2196 + -24.7754 = -14.5558 over 113 frames.
+Hannah-d6293c86-d0fe-4d15-931f-8c7babeb1203_traffic_1456557921 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Harper-a3ef1fef-1f93-44f8-beab-d5d575587866_drip_1427749349, best cost 8.24029 + -75.4968 = -67.2565 over 129 frames.
+Harper-a3ef1fef-1f93-44f8-beab-d5d575587866_drip_1427749349 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Harry-7209f0bb-f8ba-4b35-8ad3-f5df0c1010aa_jet_1418841164, best cost 8.89067 + -58.4831 = -49.5924 over 111 frames.
+Harry-7209f0bb-f8ba-4b35-8ad3-f5df0c1010aa_jet_1418841164 jet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Harry-ca184adc-36eb-40b4-b544-a0b098af09c4_letter_1425583754, best cost 10.2425 + -51.7824 = -41.5399 over 100 frames.
+Harry-ca184adc-36eb-40b4-b544-a0b098af09c4_letter_1425583754 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Hazelbug-3995dade-dbfc-4faf-96fd-51d82af43abd_yell_1460763630, best cost 9.13128 + -50.7576 = -41.6263 over 98 frames.
+Hazelbug-3995dade-dbfc-4faf-96fd-51d82af43abd_yell_1460763630 yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Hoff-5dd988e4-1925-4604-a34e-bf351fee1d6d_this_1425342048, best cost 8.63574 + -44.4936 = -35.8578 over 90 frames.
+Hoff-5dd988e4-1925-4604-a34e-bf351fee1d6d_this_1425342048 this 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Holly-2b6ff68f-f5f2-42ad-ac9a-e35c2d0bf72c_drip_1419155550, best cost 12.0917 + -77.2833 = -65.1915 over 153 frames.
+Holly-2b6ff68f-f5f2-42ad-ac9a-e35c2d0bf72c_drip_1419155550 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Holly-7f83a183-4681-4b97-91f6-0bcfd7390786_ring_1418307707, best cost 14.3749 + -123.936 = -109.561 over 253 frames.
+Holly-7f83a183-4681-4b97-91f6-0bcfd7390786_ring_1418307707 ring 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Holly-a8a39ed5-1022-4f6d-ae34-db9037d1ca95_cat_1452339018, best cost 8.01294 + -48.6571 = -40.6442 over 102 frames.
+Holly-a8a39ed5-1022-4f6d-ae34-db9037d1ca95_cat_1452339018 cat 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Isaac-0975fceb-448e-4887-9212-3ca858784a08_queen_1438605104, best cost 9.22672 + -46.4326 = -37.2059 over 94 frames.
+Isaac-0975fceb-448e-4887-9212-3ca858784a08_queen_1438605104 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Isaac-bdbab75b-c528-43de-9286-87fce87aac87_lip_1452799042, best cost 8.34031 + -33.6618 = -25.3215 over 75 frames.
+Isaac-bdbab75b-c528-43de-9286-87fce87aac87_lip_1452799042 lip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Isabel-1fc4153b-623f-498f-9a7a-10ed11208151_drip_1428535250, best cost 8.01385 + -46.9575 = -38.9436 over 97 frames.
+Isabel-1fc4153b-623f-498f-9a7a-10ed11208151_drip_1428535250 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Isabella-0174de62-f547-44d2-b1e7-cd8098072f34_this_1449094151, best cost 7.06569 + -32.2219 = -25.1562 over 64 frames.
+Isabella-0174de62-f547-44d2-b1e7-cd8098072f34_this_1449094151 this 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Isabelle-9574d11c-51a5-491d-bb91-2eacc7d392d4_crab_1450908788, best cost 8.3057 + -47.3063 = -39.0006 over 88 frames.
+Isabelle-9574d11c-51a5-491d-bb91-2eacc7d392d4_crab_1450908788 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Isabelle-9574d11c-51a5-491d-bb91-2eacc7d392d4_traffic_1450908854, best cost 9.54354 + -75.9341 = -66.3906 over 106 frames.
+Isabelle-9574d11c-51a5-491d-bb91-2eacc7d392d4_traffic_1450908854 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Izzyb-bd1a5aa8-e6fb-4551-bdc5-60fafe8877e4_book_1418060579, best cost 6.78464 + -40.4381 = -33.6535 over 61 frames.
+Izzyb-bd1a5aa8-e6fb-4551-bdc5-60fafe8877e4_book_1418060579 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Jack-e7bea23b-7ce0-49d3-851d-d71a40313c5c_lip_1451526762, best cost 8.19233 + -41.7547 = -33.5624 over 84 frames.
+Jack-e7bea23b-7ce0-49d3-851d-d71a40313c5c_lip_1451526762 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance James-31f6e467-8450-47c3-954b-4dc31d0adc58_car_1461219542, best cost 7.73243 + -19.6517 = -11.9193 over 87 frames.
+James-31f6e467-8450-47c3-954b-4dc31d0adc58_car_1461219542 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance James-998eca20-44fb-4f65-89b9-03fadabe48f5_web_1429603170, best cost 7.87638 + -42.0886 = -34.2122 over 106 frames.
+James-998eca20-44fb-4f65-89b9-03fadabe48f5_web_1429603170 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Jimmy-73ac63a0-bce8-4182-a3e7-89690f76a715_this_1424764228, best cost 16.327 + -126.532 = -110.205 over 226 frames.
+Jimmy-73ac63a0-bce8-4182-a3e7-89690f76a715_this_1424764228 [garbage] this 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Jimmy-73ac63a0-bce8-4182-a3e7-89690f76a715_vet_1434435187, best cost 6.97526 + -40.8023 = -33.827 over 68 frames.
+Jimmy-73ac63a0-bce8-4182-a3e7-89690f76a715_vet_1434435187 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Joalisa-02c48f13-b7a9-4903-bc1b-f30434fb6181_car_1459716098, best cost 8.63046 + -44.5974 = -35.9669 over 108 frames.
+Joalisa-02c48f13-b7a9-4903-bc1b-f30434fb6181_car_1459716098 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Jordaine-309beec7-8079-43b5-983f-299a104b29ec_three_1437219570, best cost 17.1073 + -42.6439 = -25.5366 over 150 frames.
+Jordaine-309beec7-8079-43b5-983f-299a104b29ec_three_1437219570 ring 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Joshua-4a73fd42-832e-42e5-8b10-c42693c73821_ring_1426301359, best cost 16.3062 + -46.0361 = -29.7299 over 93 frames.
+Joshua-4a73fd42-832e-42e5-8b10-c42693c73821_ring_1426301359 [garbage] ring 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Justin-b0133a46-9a8d-4c0c-a786-8cc9e716ea59_camp_1457120209, best cost 8.8515 + -51.4087 = -42.5572 over 145 frames.
+Justin-b0133a46-9a8d-4c0c-a786-8cc9e716ea59_camp_1457120209 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kailee-fe983816-2f93-4aaa-8057-e9bfebfe9650_yell_1460990836, best cost 7.90995 + -52.4456 = -44.5356 over 94 frames.
+Kailee-fe983816-2f93-4aaa-8057-e9bfebfe9650_yell_1460990836 yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kale-8befb0c3-255e-4add-b97c-a16eac2ac520_traffic_1458573692, best cost 9.34488 + -70.2703 = -60.9255 over 92 frames.
+Kale-8befb0c3-255e-4add-b97c-a16eac2ac520_traffic_1458573692 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kanosonic-545ed831-e98f-4fe1-ac2f-f632cd0b7f0a_jet_1432769998, best cost 8.05156 + -63.7038 = -55.6522 over 99 frames.
+Kanosonic-545ed831-e98f-4fe1-ac2f-f632cd0b7f0a_jet_1432769998 jet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kanosonic-545ed831-e98f-4fe1-ac2f-f632cd0b7f0a_ring_1432785383, best cost 13.5749 + -32.5734 = -18.9985 over 121 frames.
+Kanosonic-545ed831-e98f-4fe1-ac2f-f632cd0b7f0a_ring_1432785383 ring 
+LOG (lattice-add-penalty[5.1.85~1-7c04]:main():lattice-add-penalty.cc:62) Done adding word insertion penalty to 200 lattices.
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kaydee-59a98110-6515-4121-a863-6b4ed5176493_letter_1420790938, best cost 9.64455 + -64.1421 = -54.4975 over 113 frames.
+Kaydee-59a98110-6515-4121-a863-6b4ed5176493_letter_1420790938 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kayne-e94c2f04-a9c9-4967-8c9e-50945880d9ce_ring_1426252708, best cost 16.2391 + -80.0809 = -63.8419 over 162 frames.
+Kayne-e94c2f04-a9c9-4967-8c9e-50945880d9ce_ring_1426252708 ring [garbage] 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Keegan-ff3d0357-b4f7-42ef-83b7-9f95d996b72d_queen_1425156737, best cost 20.7348 + -66.8014 = -46.0665 over 127 frames.
+Keegan-ff3d0357-b4f7-42ef-83b7-9f95d996b72d_queen_1425156737 queen [garbage] 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Keira-35f7de86-9bfe-4a3d-a0ab-daa6157c3c5c_ring_1421164217, best cost 15.2948 + -53.528 = -38.2332 over 152 frames.
+Keira-35f7de86-9bfe-4a3d-a0ab-daa6157c3c5c_ring_1421164217 ring 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kenaded-60b6b0f0-27b9-42fb-bbe8-95ed86517553_lip_1456349221, best cost 7.40042 + -44.2804 = -36.88 over 86 frames.
+Kenaded-60b6b0f0-27b9-42fb-bbe8-95ed86517553_lip_1456349221 lip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kiera-2b98c8b3-ebe7-4f3c-a0da-8cde0516030a_three_1429570128, best cost 9.32042 + -51.5748 = -42.2544 over 92 frames.
+Kiera-2b98c8b3-ebe7-4f3c-a0da-8cde0516030a_three_1429570128 three 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kparedes-77e6da8c-7589-4c2a-8919-6293c3dc2892_car_1461961568, best cost 8.22829 + -56.4206 = -48.1923 over 86 frames.
+Kparedes-77e6da8c-7589-4c2a-8919-6293c3dc2892_car_1461961568 car 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Kyle-3ef297e6-b713-4edc-a088-e227bf297e66_queen_1434795424, best cost 8.18748 + -47.8906 = -39.7032 over 101 frames.
+Kyle-3ef297e6-b713-4edc-a088-e227bf297e66_queen_1434795424 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Landon-0c7dedbb-c49b-4c16-a3a7-849e839b44f4_three_1449432244, best cost 8.13046 + -24.3027 = -16.1722 over 56 frames.
+Landon-0c7dedbb-c49b-4c16-a3a7-849e839b44f4_three_1449432244 three 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Laurelrain-d51302a0-6a32-4e38-b78e-e045bc79490a_this_1416185140, best cost 7.19277 + -42.8332 = -35.6404 over 79 frames.
+Laurelrain-d51302a0-6a32-4e38-b78e-e045bc79490a_this_1416185140 this 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Lauren-082dfc44-c478-49bc-829b-2b48b9f1a902_three_1416559762, best cost 14.2383 + -58.5941 = -44.3558 over 109 frames.
+Lauren-082dfc44-c478-49bc-829b-2b48b9f1a902_three_1416559762 three [garbage] 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Lauryn-86307fa2-2397-4614-b4b3-dc0d6b4a0e2b_yell_1460664251, best cost 7.5332 + -43.4387 = -35.9055 over 78 frames.
+Lauryn-86307fa2-2397-4614-b4b3-dc0d6b4a0e2b_yell_1460664251 yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Leah-20963434-1dc7-4aff-977b-aea01976f675_lip_1450447478, best cost 9.11247 + -62.3921 = -53.2796 over 118 frames.
+Leah-20963434-1dc7-4aff-977b-aea01976f675_lip_1450447478 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Lee-79d00bfb-3b78-4024-a69c-e17391ca9a5a_cat_1456942317, best cost 7.22743 + -40.9659 = -33.7385 over 81 frames.
+Lee-79d00bfb-3b78-4024-a69c-e17391ca9a5a_cat_1456942317 cat 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Lennon-3f2de428-18df-4163-9e83-96c7cc65941f_traffic_1457988889, best cost 9.62655 + -94.9635 = -85.3369 over 124 frames.
+Lennon-3f2de428-18df-4163-9e83-96c7cc65941f_traffic_1457988889 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Leo-ac2b34e4-506c-4671-9d26-de98ae13b1de_cat_1453002559, best cost 6.91108 + -39.357 = -32.4459 over 68 frames.
+Leo-ac2b34e4-506c-4671-9d26-de98ae13b1de_cat_1453002559 cat 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Lezane-04747559-1ce7-4a99-9069-ed4340fef6a2_traffic_1458752394, best cost 10.905 + -92.3878 = -81.4828 over 145 frames.
+Lezane-04747559-1ce7-4a99-9069-ed4340fef6a2_traffic_1458752394 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Liam-47b5acf9-a968-45de-bcfd-a6c384131214_chicken_1428927724, best cost 8.53605 + -66.1478 = -57.6117 over 93 frames.
+Liam-47b5acf9-a968-45de-bcfd-a6c384131214_chicken_1428927724 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Liam-ff266d2f-6606-4b49-ad86-76c9cbf08d6c_crab_1456515537, best cost 8.91248 + -61.996 = -53.0836 over 127 frames.
+Liam-ff266d2f-6606-4b49-ad86-76c9cbf08d6c_crab_1456515537 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Liesel-4eefb91e-be17-48b4-bfc6-3596d03bcb1a_this_1417474797, best cost 8.08839 + -35.3829 = -27.2945 over 83 frames.
+Liesel-4eefb91e-be17-48b4-bfc6-3596d03bcb1a_this_1417474797 lip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Lola-f4cdc342-4fde-450e-8785-299f3895a1cf_jet_1430006519, best cost 7.77023 + -45.3906 = -37.6204 over 83 frames.
+Lola-f4cdc342-4fde-450e-8785-299f3895a1cf_jet_1430006519 jet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance London-0d00e095-3d3a-43dd-8c7a-647fce1e5591_letter_1445637042, best cost 15.1478 + -105.715 = -90.5676 over 215 frames.
+London-0d00e095-3d3a-43dd-8c7a-647fce1e5591_letter_1445637042 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Lora-63f23097-8989-4688-8782-5118182c7442_ring_1423332235, best cost 13.0304 + -35.1386 = -22.1081 over 117 frames.
+Lora-63f23097-8989-4688-8782-5118182c7442_ring_1423332235 drip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Luke-0112de96-3e38-481f-a1ba-9dbd7b6dcf57_chicken_1421769345, best cost 8.95325 + -37.6008 = -28.6476 over 99 frames.
+Luke-0112de96-3e38-481f-a1ba-9dbd7b6dcf57_chicken_1421769345 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Madani-1d8f9e67-fbf7-458b-a897-62fc80707028_queen_1420301894, best cost 10.0558 + -66.9899 = -56.9341 over 146 frames.
+Madani-1d8f9e67-fbf7-458b-a897-62fc80707028_queen_1420301894 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Madina-4d1df478-2eae-436b-afb4-9554bdba1d62_jet_1417344970, best cost 7.88078 + -59.9502 = -52.0694 over 97 frames.
+Madina-4d1df478-2eae-436b-afb4-9554bdba1d62_jet_1417344970 jet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Madina-4d1df478-2eae-436b-afb4-9554bdba1d62_this_1417346197, best cost 14.6315 + -50.4988 = -35.8673 over 146 frames.
+Madina-4d1df478-2eae-436b-afb4-9554bdba1d62_this_1417346197 this 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Madina-4d1df478-2eae-436b-afb4-9554bdba1d62_vet_1417973934, best cost 9.19433 + -75.7709 = -66.5765 over 133 frames.
+Madina-4d1df478-2eae-436b-afb4-9554bdba1d62_vet_1417973934 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Madina-4d1df478-2eae-436b-afb4-9554bdba1d62_web_1417345194, best cost 13.6448 + -69.0279 = -55.3831 over 129 frames.
+Madina-4d1df478-2eae-436b-afb4-9554bdba1d62_web_1417345194 web 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Megs-1c6715a5-bdc2-4381-9210-bba51601ffb4_yell_1461425414, best cost 9.80126 + -42.7038 = -32.9025 over 114 frames.
+Megs-1c6715a5-bdc2-4381-9210-bba51601ffb4_yell_1461425414 yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Mia-b0ec0ecd-d32a-4e8a-b47e-10b5392d26cc_cat_1456792816, best cost 6.87926 + -38.1334 = -31.2541 over 60 frames.
+Mia-b0ec0ecd-d32a-4e8a-b47e-10b5392d26cc_cat_1456792816 cat 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Michael-6ebf81c1-d310-4e3b-a7e0-dd691aba8078_book_1437555965, best cost 7.42563 + -32.1134 = -24.6878 over 56 frames.
+Michael-6ebf81c1-d310-4e3b-a7e0-dd691aba8078_book_1437555965 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Michael-6f8d4cfe-ec7f-4f2a-8732-5ce39a16e374_cat_1456334746, best cost 7.44646 + -39.4034 = -31.957 over 83 frames.
+Michael-6f8d4cfe-ec7f-4f2a-8732-5ce39a16e374_cat_1456334746 cat 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Michaelj-b7b78921-763b-43f3-9950-4226e4871db7_vet_1425151186, best cost 16.0258 + -72.0696 = -56.0439 over 139 frames.
+Michaelj-b7b78921-763b-43f3-9950-4226e4871db7_vet_1425151186 vet [garbage] 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Miley-9e7b0d8d-c0e5-4c75-9950-193607b85b87_book_1423258627, best cost 8.11357 + -40.6546 = -32.5411 over 77 frames.
+Miley-9e7b0d8d-c0e5-4c75-9950-193607b85b87_book_1423258627 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Morgan-f62f4b26-2f75-402d-b0eb-63d5a9939110_letter_1436885196, best cost 10.6749 + -88.3777 = -77.7027 over 164 frames.
+Morgan-f62f4b26-2f75-402d-b0eb-63d5a9939110_letter_1436885196 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Morgan-f62f4b26-2f75-402d-b0eb-63d5a9939110_queen_1436885081, best cost 11.2842 + -74.1338 = -62.8496 over 160 frames.
+Morgan-f62f4b26-2f75-402d-b0eb-63d5a9939110_queen_1436885081 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Msgam-f695d967-ecfc-4fae-973e-322b14ed2ec7_yell_1456517986, best cost 7.51562 + -54.385 = -46.8694 over 100 frames.
+Msgam-f695d967-ecfc-4fae-973e-322b14ed2ec7_yell_1456517986 yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Nadia-49968695-89f8-4341-8f23-9ea1726190c8_camp_1451956965, best cost 8.00424 + -53.7699 = -45.7657 over 95 frames.
+Nadia-49968695-89f8-4341-8f23-9ea1726190c8_camp_1451956965 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Nadia-49968695-89f8-4341-8f23-9ea1726190c8_crab_1451957215, best cost 8.56483 + -84.9383 = -76.3735 over 141 frames.
+Nadia-49968695-89f8-4341-8f23-9ea1726190c8_crab_1451957215 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Nadia-574f51ef-4bb3-4f86-af65-9603ca068a2e_ring_1437597343, best cost 10.446 + -89.3766 = -78.9306 over 197 frames.
+Nadia-574f51ef-4bb3-4f86-af65-9603ca068a2e_ring_1437597343 ring 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Nats-af5ff012-422c-40af-9d19-c62a7a756dc3_camp_1456990227, best cost 8.26493 + -33.8488 = -25.5839 over 121 frames.
+Nats-af5ff012-422c-40af-9d19-c62a7a756dc3_camp_1456990227 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Nelly-07990dc2-9a3f-401f-9032-6335f0a4a455_ring_1433353866, best cost 7.80412 + -35.4542 = -27.6501 over 76 frames.
+Nelly-07990dc2-9a3f-401f-9032-6335f0a4a455_ring_1433353866 ring 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Octavia-899bf8b0-e0fb-4210-9009-bb243540c688_this_1436748348, best cost 10.3559 + -63.6247 = -53.2688 over 156 frames.
+Octavia-899bf8b0-e0fb-4210-9009-bb243540c688_this_1436748348 this 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Octavia-899bf8b0-e0fb-4210-9009-bb243540c688_vet_1436748087, best cost 7.19762 + -44.9975 = -37.7999 over 93 frames.
+Octavia-899bf8b0-e0fb-4210-9009-bb243540c688_vet_1436748087 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ole-bc3c05a9-7882-4fc4-b683-54a18b889f18_ring_1416421034, best cost 9.80967 + -61.1636 = -51.3539 over 110 frames.
+Ole-bc3c05a9-7882-4fc4-b683-54a18b889f18_ring_1416421034 ring 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Oleary-a0dc6b78-1a98-4548-91a9-ec91ff312a7a_yell_1455648471, best cost 14.0768 + -98.2087 = -84.1319 over 208 frames.
+Oleary-a0dc6b78-1a98-4548-91a9-ec91ff312a7a_yell_1455648471 yell 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Olive-bf8f77dc-945c-42e0-bd23-0ab0d7551eab_letter_1428055376, best cost 10.4829 + -39.9233 = -29.4404 over 108 frames.
+Olive-bf8f77dc-945c-42e0-bd23-0ab0d7551eab_letter_1428055376 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Parker-3a85c29d-cf1b-45da-878c-3085d64cbb62_vet_1427576599, best cost 7.67264 + -70.6991 = -63.0265 over 117 frames.
+Parker-3a85c29d-cf1b-45da-878c-3085d64cbb62_vet_1427576599 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Patti-234d4b9b-690a-4ffc-b824-1552e73e761a_traffic_1458764556, best cost 11.0962 + -104.67 = -93.5738 over 174 frames.
+Patti-234d4b9b-690a-4ffc-b824-1552e73e761a_traffic_1458764556 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Phonetics-9ef8cfc3-c16f-409d-8fef-06f5197f4d75_traffic_1452348798, best cost 14.0604 + -98.0673 = -84.0069 over 301 frames.
+Phonetics-9ef8cfc3-c16f-409d-8fef-06f5197f4d75_traffic_1452348798 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Reggie-fafa6d9f-ada8-428c-873d-4833ab5dd8c9_chicken_1423707653, best cost 8.04303 + -37.2439 = -29.2008 over 72 frames.
+Reggie-fafa6d9f-ada8-428c-873d-4833ab5dd8c9_chicken_1423707653 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Riley-2981c448-9449-49d1-bfa7-860e7767f477_web_1422340688, best cost 7.73438 + -51.3594 = -43.625 over 105 frames.
+Riley-2981c448-9449-49d1-bfa7-860e7767f477_web_1422340688 web 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Rohan-b67b93d9-8008-4a7a-8152-b3ef908b2301_camp_1451734444, best cost 8.55892 + -54.5399 = -45.981 over 115 frames.
+Rohan-b67b93d9-8008-4a7a-8152-b3ef908b2301_camp_1451734444 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Room-9f73b350-8baf-4fee-bd75-6e41dfbfc3e2_traffic_1452699651, best cost 13.2607 + -126.334 = -113.073 over 258 frames.
+Room-9f73b350-8baf-4fee-bd75-6e41dfbfc3e2_traffic_1452699651 traffic 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Salina-7787f774-80d3-42f4-957c-b8d30715104a_zoo_1460871937, best cost 9.85797 + -38.3141 = -28.4561 over 139 frames.
+Salina-7787f774-80d3-42f4-957c-b8d30715104a_zoo_1460871937 chicken 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Sam-7e139c51-4e39-4ff6-a694-578fa24dda7f_book_1422037216, best cost 6.8862 + -42.2105 = -35.3243 over 65 frames.
+Sam-7e139c51-4e39-4ff6-a694-578fa24dda7f_book_1422037216 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Samantha-a6c59afc-7f9c-4e11-a362-59721786aa78_vet_1418795891, best cost 7.2603 + -51.6192 = -44.3589 over 83 frames.
+Samantha-a6c59afc-7f9c-4e11-a362-59721786aa78_vet_1418795891 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Samantha-d8a7e38f-9c80-464b-8098-f055b4eb974c_zoo_1456771499, best cost 6.84073 + -26.7051 = -19.8644 over 83 frames.
+Samantha-d8a7e38f-9c80-464b-8098-f055b4eb974c_zoo_1456771499 zoo 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Sammi-b2f0f446-41af-4aea-8b55-28414423c098_queen_1431799992, best cost 8.20877 + -61.4306 = -53.2219 over 119 frames.
+Sammi-b2f0f446-41af-4aea-8b55-28414423c098_queen_1431799992 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Sammi-b2f0f446-41af-4aea-8b55-28414423c098_web_1422988111, best cost 7.72091 + -54.4059 = -46.685 over 98 frames.
+Sammi-b2f0f446-41af-4aea-8b55-28414423c098_web_1422988111 web 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Sbromiley-8b1888b7-9480-4778-ab88-baf1acc860a7_camp_1455835649, best cost 7.82076 + -46.6308 = -38.8101 over 100 frames.
+Sbromiley-8b1888b7-9480-4778-ab88-baf1acc860a7_camp_1455835649 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Sbromiley-8b1888b7-9480-4778-ab88-baf1acc860a7_cat_1455835652, best cost 8.18395 + -43.4675 = -35.2835 over 68 frames.
+Sbromiley-8b1888b7-9480-4778-ab88-baf1acc860a7_cat_1455835652 cat 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Sbromiley-8b1888b7-9480-4778-ab88-baf1acc860a7_crab_1455835826, best cost 8.41913 + -55.9385 = -47.5194 over 120 frames.
+Sbromiley-8b1888b7-9480-4778-ab88-baf1acc860a7_crab_1455835826 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Scarlett-1ae27a0d-e9bd-48a1-a394-9d4e2db99e08_web_1421573765, best cost 10.9128 + -68.3716 = -57.4588 over 130 frames.
+Scarlett-1ae27a0d-e9bd-48a1-a394-9d4e2db99e08_web_1421573765 web 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Seamie-3d5841e6-a0ae-4ef3-89c3-cbb7388b849f_three_1420269387, best cost 10.022 + -62.7998 = -52.7778 over 165 frames.
+Seamie-3d5841e6-a0ae-4ef3-89c3-cbb7388b849f_three_1420269387 three 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Simon-2995bb20-f401-4516-831e-a01df0e00eb9_crab_1452302543, best cost 9.12651 + -69.4648 = -60.3382 over 132 frames.
+Simon-2995bb20-f401-4516-831e-a01df0e00eb9_crab_1452302543 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Siyona-3e5e1604-692c-4d00-a635-730f2ffa64e8_zoo_1460332595, best cost 7.51409 + -31.6361 = -24.122 over 117 frames.
+Siyona-3e5e1604-692c-4d00-a635-730f2ffa64e8_zoo_1460332595 zoo 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Sophia-5ef3dc34-354c-4bc8-ab09-eb88168c00fe_sun_1423705199, best cost 8.7343 + -41.2581 = -32.5238 over 93 frames.
+Sophia-5ef3dc34-354c-4bc8-ab09-eb88168c00fe_sun_1423705199 sun 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Tasman-ca85da29-d8d5-4b07-a24c-f4bfb74c8ba4_three_1418338084, best cost 10.3078 + -29.0118 = -18.7039 over 101 frames.
+Tasman-ca85da29-d8d5-4b07-a24c-f4bfb74c8ba4_three_1418338084 three 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Ted-f6d94c5c-eca5-4d50-9c22-a9d6de8235b3_zoo_1460397623, best cost 23.3237 + -80.8044 = -57.4807 over 226 frames.
+Ted-f6d94c5c-eca5-4d50-9c22-a9d6de8235b3_zoo_1460397623 lip [garbage] 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Teske-19693ca9-0814-4950-8eba-209cbaf981cd_crab_1457548082, best cost 8.99142 + -51.7981 = -42.8067 over 134 frames.
+Teske-19693ca9-0814-4950-8eba-209cbaf981cd_crab_1457548082 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Tftfggghhj-7b6af087-1789-43d9-a6f4-8ffc8b6aa5ce_lip_1452524741, best cost 7.99011 + -30.7063 = -22.7162 over 94 frames.
+Tftfggghhj-7b6af087-1789-43d9-a6f4-8ffc8b6aa5ce_lip_1452524741 lip 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Thaine-7cba6ea2-fd32-4ef6-9334-08d8e4202b1d_letter_1430677131, best cost 9.75183 + -57.0666 = -47.3148 over 137 frames.
+Thaine-7cba6ea2-fd32-4ef6-9334-08d8e4202b1d_letter_1430677131 letter 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Thomas-013f66d5-e221-45a7-ab8b-7047be8d80df_car_1461784638, best cost 14.3128 + -49.8372 = -35.5245 over 75 frames.
+Thomas-013f66d5-e221-45a7-ab8b-7047be8d80df_car_1461784638 car [garbage] 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Thomas-9c53d638-73bf-4fe2-8b51-eb182c9aaf9d_book_1417138092, best cost 7.36413 + -32.589 = -25.2249 over 63 frames.
+Thomas-9c53d638-73bf-4fe2-8b51-eb182c9aaf9d_book_1417138092 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Toby-dd9498b2-5b73-432a-b749-e6bd78b53e9f_book_1423900079, best cost 6.49669 + -22.8824 = -16.3857 over 33 frames.
+Toby-dd9498b2-5b73-432a-b749-e6bd78b53e9f_book_1423900079 book 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Toby-dd9498b2-5b73-432a-b749-e6bd78b53e9f_ring_1423900021, best cost 9.90881 + -35.0138 = -25.105 over 84 frames.
+Toby-dd9498b2-5b73-432a-b749-e6bd78b53e9f_ring_1423900021 ring 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Tori-2de10ea0-b0cd-474a-a347-f0438c2eea7a_vet_1424172293, best cost 7.03259 + -33.8577 = -26.8251 over 62 frames.
+Tori-2de10ea0-b0cd-474a-a347-f0438c2eea7a_vet_1424172293 vet 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Vannika-0269540a-0c3b-4309-8605-29e856e05f63_queen_1443993450, best cost 9.53745 + -74.4998 = -64.9624 over 128 frames.
+Vannika-0269540a-0c3b-4309-8605-29e856e05f63_queen_1443993450 queen 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Wentler-7790a4d3-2d66-417e-a6cd-53d43ea160ca_camp_1458310415, best cost 8.88095 + -65.8822 = -57.0012 over 113 frames.
+Wentler-7790a4d3-2d66-417e-a6cd-53d43ea160ca_camp_1458310415 camp 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Will-a45980b0-0deb-46b1-996c-9585dc552f9f_crab_1455982766, best cost 9.09064 + -56.4222 = -47.3316 over 171 frames.
+Will-a45980b0-0deb-46b1-996c-9585dc552f9f_crab_1455982766 crab 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Xymo-bffb5272-dec0-4704-bbcd-971ccdc8cbbd_car_1460343841, best cost 13.3461 + -61.2381 = -47.892 over 103 frames.
+Xymo-bffb5272-dec0-4704-bbcd-971ccdc8cbbd_car_1460343841 [garbage] car 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:99) For utterance Zoe-3a6e3e34-91ed-4957-9090-a819df28fa37_car_1461519602, best cost 7.24272 + -49.9835 = -42.7408 over 74 frames.
+Zoe-3a6e3e34-91ed-4957-9090-a819df28fa37_car_1461519602 car 
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:124) Overall cost per frame is -0.394122 = 0.0861209 [graph] + -0.480243 [acoustic] over 21961 frames.
+LOG (lattice-best-path[5.1.85~1-7c04]:main():lattice-best-path.cc:128) Done 200 lattices, failed for 0
+# Accounting: time=1 threads=1
+# Ended (code 0) at Wed Aug  9 20:14:05 CEST 2017, elapsed time 1 seconds

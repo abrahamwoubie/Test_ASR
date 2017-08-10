@@ -1,0 +1,32 @@
+<s>	silb	
+a(2)	ey(sil,sil)s	
+sil	sil	
+/t	t	
+r(/r/)	r	
+aa(/aa/)	aa	
+p(/p/)	p	
+ih(/ih/)	ih	
+sil	sil	
+k(/k/)	k	
+ax(/ax/)	ax(k,l)e	
+l/	l(ax,sil)e	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,ah)e	
+ah(/ah/)	ah(r,s)	
+s/	s(ah,ih)e	
+is	ih(s,z)b	z(ih,sil)e	
+sil	sil	
+a(2)	ey(sil,w)s	
+warm	w(ey,ao)b	ao(w,r)	r(ao,m)	m(r,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+wet	w(sil,eh)b	eh	td(eh,sil)e	
+sil	sil	
+place	p(sil,l)b	l(p,ey)	ey(l,s)	s(ey,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

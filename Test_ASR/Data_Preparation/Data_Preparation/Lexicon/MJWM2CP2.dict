@@ -1,0 +1,39 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+a(2)	ey(sil,s)s	
+scientist	s(ey,ay)b	ay	ax(ay,n)	n(ax,t)	t(n,ix)	ix(t,s)	s(ix,td)	td(s,s)e	
+studies	s(td,t)b	t(s,ah)	ah(t,dx)	dx(ah,iy)	iy(dx,z)	z(iy,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+/eh	eh	
+sil	sil	
+m	eh(sil,m)b	m(eh,sil)e	
+sil	sil	
+p(/p/)	p	
+ao(/ao/)	ao(p,r)	
+r(/r/)	r(ao,sil)e	
+sil	sil	
+ao(/ao/)	ao	
+r/	r(ao,sil)e	
+sil	sil	
+penguins	p(sil,eh)b	eh	ng	g	w	ax(w,n)	n(ax,z)	z(n,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,ae)e	
+/ae/	ae	
+[sil]	sil	
+/ae	ae	
+sil	sil	
+n	eh(sil,n)b	n(eh,t)e	
+t(/t/)	t	
+aa(/aa/)	aa(t,t)e	
+t(/t/)	t	
+ih(/ih/)	ih(t,k)	
+k(/k/)	k	
+sil	sil	
+ax/	ax	
+[human_noise](+rustle+)	+rustle+	
+</s>	sile	

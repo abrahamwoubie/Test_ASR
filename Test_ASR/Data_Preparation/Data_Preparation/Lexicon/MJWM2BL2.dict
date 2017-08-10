@@ -1,0 +1,30 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+/w	w	
+ax/	ax	
+sil	sil	
+while(2)	w(sil,ay)b	ay(w,l)	l(ay,dh)e	
+the(2)	dh(l,ax)b	ax(dh,sh)e	
+shell	sh	eh	l(eh,sil)e	
+[begin_noise]	sil	
+/b	b	
+w(/w/)	w(b,ey)	
+ey(/ey/)	ey(w,k)e	
+k(/k/)	k(ey,s)	
+s/	s(k,sil)e	
+[end_noise]	sil	
+open	ow(sil,p)b	p(ow,ax)	ax(p,n)	n(ax,ey)e	
+a(2)	ey(n,sil)s	
+[begin_noise]	sil	
+/b	b	
+ah(/ah/)	ah(b,dx)	
+dx(/dx/)	dx(ah,ax)	
+ax(/ax/)	ax(dx,f)e	
+f(/f/)	f	
+l(/l/)	l(f,ay)	
+ay/	ay(l,sil)s	
+[end_noise]	sil	
+comes	k(sil,ah)b	ah(k,m)	m(ah,z)	z(m,aw)e	
+out	aw(z,td)b	td(aw,sil)e	
+[sil]	sil	
+</s>	sile	

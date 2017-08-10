@@ -1,0 +1,25 @@
+<s>	silb	
+[noise]	sil	
+/ay	ay(sil,s)s	
+s(/s/)	s(ay,f)e	
+f(/f/)	f	
+ih(/ih/)	ih(f,sh)	
+sh/	sh(ih,l)e	
+live(2)	l(sh,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,k)e	
+cold	k(ax,ow)b	ow(k,l)	l(ow,dd)	dd(l,w)e	
+water	w(dd,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,n)e	
+near	n(axr,ih)b	ih(n,r)	r(ih,ae)e	
+/ae	ae(r,n)	
+n(/n/)	n(ae,t)e	
+t(/t/)	t	
+aa(/aa/)	aa(t,r)e	
+r(/r/)	r(aa,t)e	
+t(/t/)	t	
+ih(/ih/)	ih	
+sil	sil	
+k(/k/)	k	
+ax/	ax(k,sil)e	
+[noise]	sil	
+</s>	sile	

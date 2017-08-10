@@ -1,0 +1,17 @@
+<s>	silb	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+before	b(sil,ix)b	ix(b,f)	f(ix,ao)	ao(f,r)	r(ao,dh)e	
+the	dh(r,ah)b	ah(dh,w)e	
+war	w(ah,ao)b	ao(w,r)	r(ao,m)e	
+many	m(r,eh)b	eh(m,n)	n(eh,iy)	iy(n,ch)e	
+children	ch(iy,ih)b	ih(ch,l)	l(ih,d)	d(l,r)	r(d,ax)	ax(r,n)	n(ax,k)e	
+could	k(n,uh)b	uh(k,dd)	dd(uh,n)e	
+/n	n	
+ao(/ao/)	ao	
+th/	th	
+go	g(th,ow)b	ow(g,t)e	
+to(3)	t(ow,uw)b	uw(t,s)e	
+school	s(uw,k)b	k(s,uw)	uw(k,l)	l(uw,sil)e	
+</s>	sile	

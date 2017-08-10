@@ -1,0 +1,40 @@
+<s>	silb	
+worms	w(sil,er)b	er	m(er,z)	z(m,sil)e	
+[begin_noise]	sil	
+turn	t(sil,er)b	er(t,n)	n(er,sil)e	
+[end_noise]	sil	
+the	dh(sil,ah)b	ah(dh,f)e	
+food	f(ah,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+into(3)	ix(sil,n)b	n(ix,t)	t(n,uw)	uw(t,sil)e	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+a	ax	
+special	s(ax,p)b	p(s,eh)	eh(p,sh)	sh(eh,ax)	ax(sh,l)	l(ax,sil)e	
+sil	sil	
+/k	k	
+ih(/ih/)	ih(k,d)	
+d(/d/)	d(ih,z)	
+z/	z(d,sil)e	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,sil)e	
+sil	sil	
+[human_noise]	sil	
+/s	s	
+ow/	ow(s,sil)s	
+sil	sil	
+/s/	s	
+sil	sil	
+/s	s	
+ow/	ow(s,sil)s	
+sil	sil	
+[begin_noise]	sil	
+/l	l	
+ao/	ao(l,sil)e	
+sil	sil	
+[end_noise]	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+</s>	sile	

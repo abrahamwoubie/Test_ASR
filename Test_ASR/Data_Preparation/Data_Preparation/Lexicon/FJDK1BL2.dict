@@ -1,0 +1,20 @@
+<s>	silb	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+[begin_whisper]	sil	
+/k/	k	
+sil	sil	
+okay	ow(sil,k)b	k(ow,ey)	ey(k,sil)e	
+sil	sil	
+[end_whisper]	sil	
+[noise](+smack+)	+smack+	
+some	s(sil,ah)b	ah(s,m)	m(ah,sil)e	
+[begin_noise]	sil	
+workers	w(sil,er)b	er(w,k)	k	axr	z(axr,sil)e	
+sil	sil	
+recycle	r(sil,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,sil)e	
+sil	sil	
+bikes	b(sil,ay)b	ay	k	s(k,sil)e	
+sil	sil	
+[end_noise]	sil	
+</s>	sile	

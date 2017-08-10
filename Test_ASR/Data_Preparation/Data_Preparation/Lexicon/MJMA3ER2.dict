@@ -1,0 +1,25 @@
+<s>	silb	
+sil	sil	
+now	n(sil,aw)b	aw(n,s)e	
+some	s(aw,ah)b	ah(s,m)	m(ah,f)e	
+families(2)	f(m,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,k)e	
+can(2)	k(z,ax)b	ax(k,n)	n(ax,l)e	
+learn	l	er	n(er,dh)e	
+the(3)	dh(n,iy)b	iy(dh,ae)e	
+answer	ae(iy,n)b	n(ae,s)	s(n,axr)	axr(s,t)e	
+to	t(axr,ax)b	ax(t,dh)e	
+that	dh(ax,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[human_noise]	sil	
+question	k(sil,w)b	w(k,eh)	eh(w,s)	s(eh,ch)	ch(s,ax)	ax(ch,n)	n(ax,w)e	
+without	w(n,ix)b	ix(w,th)	th(ix,aw)	aw(th,td)	td(aw,ae)e	
+/ae	ae	
+k(/k/)	k(ae,s)	
+s(/s/)	s(k,ih)e	
+ih(/ih/)	ih(s,ng)	
+ng/	ng(ih,dh)e	
+their	dh(ng,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+kids	k(sil,ih)b	ih(k,d)	d(ih,z)	z(d,sil)e	
+sil	sil	
+</s>	sile	

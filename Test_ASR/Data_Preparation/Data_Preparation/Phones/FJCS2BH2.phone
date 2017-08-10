@@ -1,0 +1,17 @@
+fjcs2bh2:phone> SILb 0.00 40.00 -5158269
+fjcs2bh2:phone> +INHALE+ 41.00 47.00 -1195410
+fjcs2bh2:phone> SIL 48.00 92.00 -6996084
+fjcs2bh2:phone> DH(SIL,IY)b 93.00 96.00 -701285
+fjcs2bh2:phone> IY(DH,JH)e 97.00 106.00 -1761331
+fjcs2bh2:phone> JH(IY,UW)b 107.00 121.00 -2506815
+fjcs2bh2:phone> UW 122.00 134.00 -2140208
+fjcs2bh2:phone> S(UW,SIL)e 135.00 153.00 -2773622
+fjcs2bh2:phone> SIL 154.00 187.00 -4808305
+fjcs2bh2:phone> G(SIL,EH)b 188.00 208.00 -3684214
+fjcs2bh2:phone> EH(G,TS) 209.00 220.00 -1622004
+fjcs2bh2:phone> TS(EH,HH)e 221.00 234.00 -2564009
+fjcs2bh2:phone> HH(TS,AA)b 235.00 248.00 -2004253
+fjcs2bh2:phone> AA(HH,R) 249.00 267.00 -2531762
+fjcs2bh2:phone> R 268.00 283.00 -2643637
+fjcs2bh2:phone> DD(R,SIL)e 284.00 289.00 -1090995
+fjcs2bh2:phone> SILe 290.00 1394.00 -133953759

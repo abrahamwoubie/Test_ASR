@@ -1,0 +1,43 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+/s	s	
+ah	aa	
+m(/m/)	m	
+sil	sil	
+t(/t/)	t	
+ay	ay(t,m)e	
+m(/m/)	m(ay,p)e	
+p(/p/)	p	
+sil	sil	
+s/	s	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+/ih	ih	
+s/	s(ih,hh)e	
+hard	hh(s,aa)b	aa(hh,r)	r	dd(r,t)e	
+to(3)	t(dd,uw)b	uw(t,s)e	
+/s	s(uw,th)e	
+th(/th/)	th(s,iy)e	
+iy/	iy	
+in	ih(iy,n)b	n(ih,sil)e	
+sil	sil	
+/d	d	
+ah(/ah/)	ah	
+s/	s(ah,sil)e	
+[begin_noise]	sil	
+/s	s	
+t(/t/)	t(s,ao)	
+ao(/ao/)	ao(t,r)e	
+r(/r/)	r(ao,sil)e	
+sil	sil	
+m(/m/)	m	
+p(/p/)	p	
+sil	sil	
+s/	s	
+[end_noise]	sil	
+</s>	sile	

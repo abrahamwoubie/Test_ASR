@@ -1,0 +1,28 @@
+<s>	silb	
+not	n	aa	td	
+sil	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+sil	sil	
+ago	ax(sil,g)b	g(ax,ow)	ow(g,sil)e	
+[begin_noise]	sil	
+scientists	s(sil,ay)b	ay	ax(ay,n)	n(ax,t)	t(n,ix)	ix(t,s)	s(ix,ts)	ts(s,f)e	
+found	f(ts,aw)b	aw(f,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+[end_noise]	sil	
+[human_noise](+exhale+)	+exhale+	
+a(2)	ey	
+[begin_noise]	sil	
+/d	d	
+ay	ay(d,n)	
+n(/n/)	n(ay,ax)e	
+ax(/ax/)	ax(n,s)s	
+s(/s/)	s(ax,ao)e	
+ao(/ao/)	ao(s,r)e	
+r/	r(ao,eh)e	
+egg	eh	gd(eh,sil)e	
+[end_noise]	sil	
+[begin_whisper]	sil	
+/eh	eh	
+g/	g	
+[end_whisper]	sil	
+</s>	sile	

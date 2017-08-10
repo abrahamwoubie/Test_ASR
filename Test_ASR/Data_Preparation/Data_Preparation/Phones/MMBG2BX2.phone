@@ -1,0 +1,16 @@
+mmbg2bx2:phone> SILb 0.00 2.00 -625386
+mmbg2bx2:phone> +INHALE+ 3.00 26.00 -3395592
+mmbg2bx2:phone> SIL 27.00 37.00 -1750233
+mmbg2bx2:phone> P(SIL,IY)b 38.00 46.00 -1624308
+mmbg2bx2:phone> IY(P,P) 47.00 58.00 -1500590
+mmbg2bx2:phone> P(IY,AX) 59.00 64.00 -890279
+mmbg2bx2:phone> AX(P,L) 65.00 68.00 -551007
+mmbg2bx2:phone> L(AX,G)e 69.00 78.00 -1341789
+mmbg2bx2:phone> G(L,AA) 79.00 90.00 -2192991
+mmbg2bx2:phone> AA 91.00 107.00 -2926841
+mmbg2bx2:phone> TD 108.00 114.00 -1346518
+mmbg2bx2:phone> S(TD,IH)b 115.00 133.00 -3618882
+mmbg2bx2:phone> IH 134.00 144.00 -2117073
+mmbg2bx2:phone> KD(IH,SIL)e 145.00 170.00 -4759948
+mmbg2bx2:phone> SIL 171.00 177.00 -1276608
+mmbg2bx2:phone> SILe 178.00 416.00 -29378054

@@ -1,0 +1,12 @@
+fadf1az2:phone> SILb 0.00 8.00 -1586206
+fadf1az2:phone> SIL 9.00 12.00 -647490
+fadf1az2:phone> EH(SIL,K)b 13.00 28.00 -3026043
+fadf1az2:phone> K(EH,S) 29.00 43.00 -2873744
+fadf1az2:phone> S(K,P) 44.00 60.00 -2912826
+fadf1az2:phone> P(S,AXR) 61.00 77.00 -3411715
+fadf1az2:phone> AXR 78.00 99.00 -3827701
+fadf1az2:phone> TS 100.00 146.00 -7649458
+fadf1az2:phone> SIL 147.00 164.00 -2438705
+fadf1az2:phone> S(SIL,EY)b 165.00 196.00 -4652925
+fadf1az2:phone> EY(S,SIL)e 197.00 216.00 -2519991
+fadf1az2:phone> SILe 217.00 220.00 -974043

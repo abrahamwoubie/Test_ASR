@@ -1,0 +1,37 @@
+<s>	silb	
+sil	sil	
+butterflies	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,k)e	
+/k	k	
+ey(/ey/)	ey(k,w)e	
+w(/w/)	w	
+iy/	iy(w,sil)e	
+[begin_noise]	sil	
+/p	p	
+aa(/aa/)	aa	
+d(/d/)	d	
+ix(/ix/)	ix	
+sil	sil	
+n/	n	
+[end_noise]	sil	
+/p	p	
+aa(/aa/)	aa	
+l(/l/)	l(aa,ix)e	
+ix(/ix/)	ix(l,n)	
+n/	n(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/f	f	
+ax(/ax/)	ax(f,m)s	
+m/	m(ax,sil)e	
+[noise]	sil	
+one	w(sil,ah)b	ah(w,n)	n(ah,sil)e	
+[begin_noise]	sil	
+/f	f	
+l(/l/)	l	
+aw(/aw/)	aw(l,axr)e	
+axr/	axr(aw,sil)e	
+[end_noise]	sil	
+to(3)	t(sil,uw)b	uw(t,ax)e	
+another	ax(uw,n)b	n(ax,ah)	ah(n,dh)	dh(ah,axr)	axr(dh,sil)e	
+[sil]	sil	
+</s>	sile	

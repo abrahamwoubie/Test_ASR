@@ -1,0 +1,22 @@
+<s>	silb	
+when(3)	w(sil,eh)b	eh(w,n)	n(eh,y)e	
+you	y(n,uw)b	uw(y,sil)e	
+sil	sil	
+jump	jh(sil,ah)b	ah(jh,m)	m	pd	
+sil	sil	
+rope	r(sil,ow)b	ow	pd(ow,y)e	
+you	y(pd,uw)b	uw(y,sil)e	
+sil	sil	
+get(2)	g(sil,ih)b	ih	td(ih,sil)e	
+sil	sil	
+exercise	eh(sil,k)b	k(eh,s)	s	axr	s(axr,ay)	ay(s,z)	z(ay,sil)e	
+[begin_noise]	sil	
+/dh	dh	
+ae/	ae	
+helps	hh(sil,eh)b	eh(hh,l)	l	p	s(p,sil)e	
+[end_noise]	sil	
+your(2)	y(sil,uh)b	uh(y,r)	r(uh,sil)e	
+[human_noise]	sil	
+heart	hh(sil,aa)b	aa(hh,r)	r(aa,td)	td(r,sil)e	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

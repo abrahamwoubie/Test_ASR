@@ -1,0 +1,15 @@
+fkep2bx1:phone> SILb 0.00 46.00 -5556499
+fkep2bx1:phone> P(SIL,IY)b 47.00 56.00 -1876893
+fkep2bx1:phone> IY(P,P) 57.00 64.00 -989752
+fkep2bx1:phone> P(IY,AX) 65.00 69.00 -705444
+fkep2bx1:phone> AX(P,L) 70.00 74.00 -789413
+fkep2bx1:phone> L(AX,G)e 75.00 79.00 -656823
+fkep2bx1:phone> G(L,AA) 80.00 86.00 -1151269
+fkep2bx1:phone> AA 87.00 100.00 -2511216
+fkep2bx1:phone> TD 101.00 104.00 -770375
+fkep2bx1:phone> SIL 105.00 107.00 -563688
+fkep2bx1:phone> S(SIL,IH)b 108.00 125.00 -2498159
+fkep2bx1:phone> IH 126.00 137.00 -2462197
+fkep2bx1:phone> KD(IH,SIL)e 138.00 154.00 -3509774
+fkep2bx1:phone> SIL 155.00 232.00 -10010963
+fkep2bx1:phone> SILe 233.00 364.00 -15770154

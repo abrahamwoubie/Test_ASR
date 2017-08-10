@@ -1,0 +1,20 @@
+<s>	silb	
+[noise]	sil	
+now	n(sil,aw)b	aw(n,dh)e	
+they	dh(aw,ey)b	ey(dh,y)e	
+use(2)	y(ey,uw)b	uw(y,z)	z(uw,w)e	
+walkways	w(z,ao)b	ao(w,k)	k	w	ey(w,z)	z(ey,dh)e	
+that	dh(z,ae)b	ae(dh,td)	td(ae,hh)e	
+hang	hh(td,ae)b	ae(hh,ng)	ng(ae,ix)e	
+in(2)	ix(ng,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,sil)e	
+[sil]	sil	
+tall	t(sil,ao)b	ao	l(ao,t)e	
+/t	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,t)e	
+t(/t/)	t	
+aa(/aa/)	aa(t,p)e	
+p(/p/)	p	
+s/	s(p,sil)e	
+</s>	sile	

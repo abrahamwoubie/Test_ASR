@@ -1,0 +1,8 @@
+mdaw1ae2:phone> SILb 0.00 4.00 -1310886
+mdaw1ae2:phone> HH(SIL,AX)b 5.00 9.00 -948820
+mdaw1ae2:phone> AX(HH,L) 10.00 17.00 -1655995
+mdaw1ae2:phone> L(AX,OW) 18.00 26.00 -1749466
+mdaw1ae2:phone> OW(L,SIL)e 27.00 54.00 -5490170
+mdaw1ae2:phone> SIL 55.00 181.00 -15982249
+mdaw1ae2:phone> SIL 182.00 324.00 -17407931
+mdaw1ae2:phone> SILe 325.00 378.00 -6348657

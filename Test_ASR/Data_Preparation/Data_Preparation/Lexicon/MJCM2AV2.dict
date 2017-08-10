@@ -1,0 +1,24 @@
+<s>	silb	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,f)e	
+/f	f(n,ao)	
+ao(/ao/)	ao(f,r)	
+r(/r/)	r(ao,eh)e	
+eh	eh(r,s)	
+s/	s(eh,hh)e	
+have	hh(s,ae)b	ae(hh,v)	v(ae,dh)e	
+the	dh(v,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+most	m(sil,ow)b	ow(m,s)	s(ow,td)	td(s,sil)e	
+[end_noise]	sil	
+different(2)	d(sil,ih)b	ih(d,f)	f(ih,r)	r(f,ax)	ax(r,n)	n(ax,td)	td(n,sil)e	
+[begin_noise]	sil	
+/k	k	
+ay	ay(k,n)	
+n(/n/)	n(ay,z)e	
+z/	z(n,sil)e	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,b)e	
+butterflies	b(v,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,z)	z(ay,sil)e	
+[sil]	sil	
+</s>	sile	

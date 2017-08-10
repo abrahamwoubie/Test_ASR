@@ -1,0 +1,23 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+/w/	w	
+sil	sil	
+when(2)	hh(sil,w)b	w(hh,ih)	ih(w,n)	n(ih,sil)e	
+sil	sil	
+the(3)	dh(sil,iy)b	iy(dh,sh)e	
+shell	sh	eh	l(eh,sil)e	
+[begin_noise]	sil	
+breaks	b(sil,r)b	r(b,ey)	ey(r,k)	k(ey,s)	s(k,sil)e	
+[end_noise]	sil	
+open	ow(sil,p)b	p(ow,ax)	ax(p,n)	n(ax,sil)e	
+sil	sil	
+a	ax(sil,sil)s	
+[begin_noise]	sil	
+butterfly	b(sil,ah)b	ah(b,dx)	dx(ah,axr)	axr	f	l(f,ay)	ay(l,k)e	
+comes	k(ay,ah)b	ah(k,m)	m(ah,z)	z(m,sil)e	
+[end_noise]	sil	
+out	aw(sil,td)b	td(aw,sil)e	
+[sil]	sil	
+</s>	sile	

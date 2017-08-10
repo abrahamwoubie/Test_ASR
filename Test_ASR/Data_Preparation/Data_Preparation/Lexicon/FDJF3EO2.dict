@@ -1,0 +1,49 @@
+<s>	silb	
+he	hh(sil,iy)b	iy(hh,p)e	
+put	p(iy,uh)b	uh(p,td)	td(uh,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,m)e	
+mold	m(ax,ow)b	ow	l(ow,dd)	dd(l,n)e	
+next	n(dd,eh)b	eh(n,k)	k(eh,s)	s(k,td)	td(s,t)e	
+to	t(td,ax)b	ax(t,dh)e	
+the(2)	dh(ax,ax)b	ax(dh,t)e	
+/t/	t	
+/r	r(t,eh)	
+eh	eh	
+sil	sil	
+k	k(sil,ey)b	ey(k,sil)e	
+sil	sil	
+s/	s	
+tooth	t(s,uw)b	uw	th	
+sil	sil	
+[human_noise]	sil	
+/f	f	
+ao(/ao/)	ao	
+s(/s/)	s(ao,sil)e	
+sil	sil	
+ix(/ix/)	ix	
+s/	s(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+/f	f	
+ow/	ow(f,sil)s	
+sil	sil	
+fossils	f(sil,aa)b	aa	s	ax(s,l)	l(ax,z)	z(l,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,dh)e	
+/dh	dh	
+ih(/ih/)	ih(dh,n)	
+n/	n(ih,sil)e	
+sil	sil	
+matched	m(sil,ae)b	ae(m,ch)	ch	td	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,dh)e	
+they	dh(dd,ey)b	ey(dh,m)e	
+matched	m(ey,ae)b	ae(m,ch)	ch	td	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+</s>	sile	

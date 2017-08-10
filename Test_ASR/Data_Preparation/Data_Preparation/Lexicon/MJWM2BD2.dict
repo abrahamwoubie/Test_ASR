@@ -1,0 +1,19 @@
+<s>	silb	
+sil	sil	
+a(2)	ey(sil,sil)s	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,dx)	
+dx(/dx/)	dx(ae,axr)	
+er	axr(dx,p)e	
+p(/p/)	p	
+ih(/ih/)	ih	
+l(/l/)	l(ih,ax)e	
+ax/	ax(l,sil)s	
+[end_noise]	sil	
+hatches	hh(sil,ae)b	ae	ch	ix(ch,z)	z(ix,f)e	
+from	f(z,axr)b	axr(f,m)	m(axr,iy)	
+each	iy(m,ch)b	ch(iy,eh)e	
+egg	eh	gd(eh,sil)e	
+[sil]	sil	
+</s>	sile	

@@ -1,0 +1,22 @@
+<s>	silb	
+/ae	ae	
+n	eh(sil,n)b	n(eh,t)e	
+t(/t/)	t	
+aa(/aa/)	aa(t,r)e	
+r(/r/)	r(aa,t)e	
+t(/t/)	t(r,ix)	
+ix(/ix/)	ix(t,k)	
+k	k(ix,ey)b	ey(k,ix)e	
+ix/	ix	
+is	ih(ix,z)b	z(ih,dh)e	
+the(2)	dh(z,ax)b	ax(dh,k)e	
+continent	k(ax,aa)b	aa(k,n)	n	t(n,ax)	ax(t,n)	n(ax,ax)	ax(n,n)	n(ax,td)	td(n,ae)e	
+at	ae(td,td)b	td(ae,dh)e	
+the(2)	dh(td,ax)b	ax(dh,s)e	
+southern	s(ax,ah)b	ah(s,dh)	dh(ah,axr)	axr(dh,n)	n(axr,eh)e	
+end	eh(n,n)b	n(eh,dd)	dd(n,ax)e	
+of(2)	ax(dd,v)b	v(ax,aa)e	
+our	aa(v,r)b	r(aa,p)e	
+planet	p(r,l)b	l(p,ae)	ae(l,n)	n(ae,ax)	ax	td(ax,sil)e	
+[noise](+noise+)	+noise+	
+</s>	sile	

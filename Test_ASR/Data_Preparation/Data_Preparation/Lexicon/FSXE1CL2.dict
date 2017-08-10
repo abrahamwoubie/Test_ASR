@@ -1,0 +1,40 @@
+<s>	silb	
+[begin_noise]	sil	
+/ih	ih	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+t(/t/)	t	
+ih(/ih/)	ih(t,l)	
+l/	l(ih,n)e	
+now	n(l,aw)b	aw(n,s)e	
+scientists(2)	s(aw,ay)b	ay(s,n)	n(ay,t)	t(n,ix)	ix(t,s)	s(ix,ts)	ts(s,k)e	
+could	k(ts,uh)b	uh(k,dd)	dd(uh,sil)e	
+[end_noise]	sil	
+not	n	aa	td	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+/eh	eh	
+g(/g/)	g	
+sil	sil	
+z(/z/)	z	
+ah	aa	
+m(/m/)	m	
+ix(/ix/)	ix(m,n)	
+n/	n(ix,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,t)e	
+/t	t	
+aa(/aa/)	aa(t,p)e	
+p/	p	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,dh)e	
+the	dh(v,ah)b	ah(dh,sil)e	
+sil	sil	
+trees	t(sil,r)b	r(t,iy)	iy(r,z)	z(iy,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

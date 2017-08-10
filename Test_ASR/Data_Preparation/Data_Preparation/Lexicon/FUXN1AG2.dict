@@ -1,0 +1,40 @@
+<s>	silb	
+[noise]	sil	
+if(2)	ix(sil,f)b	f(ix,sil)e	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+/l	l	
+ay	ay(l,sil)s	
+sil	sil	
+n(/n/)	n	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+[begin_noise]	sil	
+storm	s(sil,t)b	t(s,ao)	ao(t,r)	r(ao,m)	m(r,sil)e	
+[end_noise]	sil	
+comes	k(sil,ah)b	ah(k,m)	m(ah,z)	z(m,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+there	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+are	aa(sil,r)b	r(aa,sil)e	
+[begin_noise]	sil	
+four	f(sil,ao)b	ao(f,r)	r(ao,sil)e	
+[end_noise]	sil	
+things	th(sil,ih)b	ih(th,ng)	ng(ih,z)	z(ng,sil)e	
+sil	sil	
+you	y(sil,uw)b	uw(y,k)e	
+can	k(uw,ae)b	ae(k,n)	n(ae,sil)e	
+[human_noise]	sil	
+do	d(sil,uw)b	uw(d,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,s)e	
+stay	s(uw,t)b	t(s,ey)	ey(t,sil)e	
+sil	sil	
+safe	s(sil,ey)b	ey(s,f)	f(ey,sil)e	
+[crosstalk](+exhale+)	+exhale+	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

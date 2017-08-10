@@ -1,0 +1,29 @@
+<s>	silb	
+if	ih(sil,f)b	f(ih,dh)e	
+the	dh(f,ah)b	ah(dh,sil)e	
+sil	sil	
+river	r(sil,ih)b	ih(r,v)	v(ih,axr)	axr(v,g)e	
+gets(2)	g(axr,ih)b	ih	ts(ih,t)e	
+too	t(ts,uw)b	uw(t,sil)e	
+sil	sil	
+/d	d	
+iy/	iy(d,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/w	w	
+ao(/ao/)	ao	
+t(/t/)	t	
+er/	er	
+goes	g(er,ow)b	ow(g,z)	z(ow,ao)e	
+onto(2)	ao(z,n)b	n(ao,t)	t(n,uw)	uw(t,dh)e	
+the(2)	dh(uw,ax)b	ax(dh,l)e	
+/l	l(ax,ey)e	
+ae	ey(l,ix)s	
+ix(/ix/)	ix	
+n(/n/)	n(ix,sil)e	
+sil	sil	
+t/	t	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

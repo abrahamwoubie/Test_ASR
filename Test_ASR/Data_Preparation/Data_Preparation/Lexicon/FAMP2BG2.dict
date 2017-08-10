@@ -1,0 +1,12 @@
+<s>	silb	
+[noise]	sil	
+sticky	s(sil,t)b	t(s,ih)	ih(t,k)	k	iy(k,jh)e	
+juice	jh(iy,uw)b	uw	s(uw,k)e	
+comes	k(s,ah)b	ah(k,m)	m(ah,z)	z(m,aw)e	
+out	aw(z,td)b	td(aw,ax)e	
+of(2)	ax(td,v)b	v(ax,sil)e	
+sil	sil	
+the(3)	dh(sil,iy)b	iy(dh,k)e	
+caterpillar(2)	k(iy,ae)b	ae(k,dx)	dx(ae,axr)	axr	p	ih	l	axr(l,sil)e	
+[noise](+rustle+)	+rustle+	
+</s>	sile	

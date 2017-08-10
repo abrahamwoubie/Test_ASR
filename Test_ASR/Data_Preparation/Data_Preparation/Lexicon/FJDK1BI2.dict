@@ -1,0 +1,62 @@
+<s>	silb	
+[begin_whisper]	sil	
+okay	ow(sil,k)b	k(ow,ey)	ey(k,sil)e	
+[end_whisper]	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+/dh/	dh	
+[begin_noise]	sil	
+the	dh(sil,ah)b	ah(dh,s)e	
+/s/	s(ah,s)e	
+/s	s	
+ih(/ih/)	ih	
+sil	sil	
+l/	l	
+/s	s(l,sil)e	
+sil	sil	
+ih(/ih/)	ih	
+l(/l/)	l(ih,sil)e	
+sil	sil	
+ix(/ix/)	ix	
+n/	n(ix,sil)e	
+[end_noise]	sil	
+[crosstalk](+smack+)	+smack+	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,s)e	
+/s	s(ah,ay)e	
+ay	ay(s,n)s	
+n(/n/)	n(ay,sil)e	
+sil	sil	
+dd/	dd	
+sil	sil	
+[human_noise]	sil	
+shops	sh(sil,aa)b	aa	p	s(p,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[end_noise]	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+is	ih(sil,z)b	z(ih,sil)e	
+sil	sil	
+made	m(sil,ey)b	ey(m,dd)	dd(ey,sil)e	
+sil	sil	
+from(2)	f(sil,r)b	r(f,ah)	ah(r,m)	m(ah,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+/y	y	
+sil	sil	
+uw/	uw	
+sil	sil	
+under	ah(sil,n)b	n(ah,d)	d(n,axr)	axr(d,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

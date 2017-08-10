@@ -1,0 +1,16 @@
+<s>	silb	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/m	m	
+ow	ow(m,s)s	
+s/	s(ow,sil)e	
+[begin_noise]	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,ix)e	
+in(2)	ix(l,n)b	n(ix,sil)e	
+[end_noise]	sil	
+rwanda(2)	r(sil,uw)b	uw	aa	n	d(n,ax)	ax	
+are	aa(ax,r)b	r(aa,f)e	
+farmers	f(r,aa)b	aa(f,r)	r	m	axr	z(axr,sil)e	
+sil	sil	
+[noise](+smack+)	+smack+	
+</s>	sile	

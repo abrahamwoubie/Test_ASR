@@ -1,0 +1,26 @@
+<s>	silb	
+/b	b	
+sil	sil	
+r(/r/)	r	
+ay	ay(r,t)s	
+t(/t/)	t	
+sil	sil	
+ah(/ah/)	ah	
+l(/l/)	l(ah,iy)e	
+iy/	iy(l,sil)s	
+sil	sil	
+colored	k(sil,ah)b	ah(k,l)	l	axr	dd(axr,sil)e	
+sil	sil	
+fish	f(sil,ih)b	ih(f,sh)	sh(ih,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+[human_noise]	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+[sil]	sil	
+</s>	sile	

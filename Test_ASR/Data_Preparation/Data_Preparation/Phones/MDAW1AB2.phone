@@ -1,0 +1,12 @@
+mdaw1ab2:phone> SILb 0.00 19.00 -3360779
+mdaw1ab2:phone> HH(SIL,AX)b 20.00 22.00 -698843
+mdaw1ab2:phone> AX(HH,L) 23.00 27.00 -827157
+mdaw1ab2:phone> L(AX,OW) 28.00 33.00 -962874
+mdaw1ab2:phone> OW(L,SIL)e 34.00 54.00 -3298023
+mdaw1ab2:phone> SIL 55.00 131.00 -9790538
+mdaw1ab2:phone> SIL 132.00 145.00 -2246342
+mdaw1ab2:phone> SIL 146.00 321.00 -24667870
+mdaw1ab2:phone> SIL 322.00 339.00 -3868022
+mdaw1ab2:phone> +SMACK+ 340.00 349.00 -2042508
+mdaw1ab2:phone> SIL 350.00 377.00 -5780851
+mdaw1ab2:phone> SILe 378.00 420.00 -5488667

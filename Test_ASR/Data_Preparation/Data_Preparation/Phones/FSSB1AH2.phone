@@ -1,0 +1,17 @@
+fssb1ah2:phone> SILb 0.00 10.00 -1513359
+fssb1ah2:phone> SIL 11.00 23.00 -2324076
+fssb1ah2:phone> G(SIL,OW)b 24.00 43.00 -3588098
+fssb1ah2:phone> OW(G,SIL)e 44.00 88.00 -5395049
+fssb1ah2:phone> SIL 89.00 91.00 -497128
+fssb1ah2:phone> +EXHALE+ 92.00 94.00 -496287
+fssb1ah2:phone> SIL 95.00 98.00 -844275
+fssb1ah2:phone> IH 99.00 101.00 -943103
+fssb1ah2:phone> SIL 102.00 141.00 -6229144
+fssb1ah2:phone> EH(SIL,N)b 142.00 156.00 -2252232
+fssb1ah2:phone> N(EH,D)e 157.00 166.00 -1372455
+fssb1ah2:phone> D 167.00 174.00 -1160718
+fssb1ah2:phone> AO(D,R) 175.00 197.00 -3870663
+fssb1ah2:phone> R(AO,S)e 198.00 210.00 -2544648
+fssb1ah2:phone> S(R,SIL)e 211.00 224.00 -2427120
+fssb1ah2:phone> SIL 225.00 268.00 -6225202
+fssb1ah2:phone> SILe 269.00 530.00 -30368327

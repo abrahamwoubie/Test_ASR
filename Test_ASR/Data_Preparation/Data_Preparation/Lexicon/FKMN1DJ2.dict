@@ -1,0 +1,47 @@
+<s>	silb	
+the(3)	dh(sil,iy)b	iy(dh,d)e	
+/d	d	
+ay	ay(d,n)	
+n(/n/)	n(ay,ah)e	
+ah(/ah/)	ah	
+s(/s/)	s(ah,ao)e	
+ao(/ao/)	ao(s,r)e	
+r(/r/)	r(ao,s)e	
+s/	s(r,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+/d	d	
+ay	ay(d,n)	
+n(/n/)	n(ay,ah)e	
+ah(/ah/)	ah	
+s(/s/)	s(ah,aa)e	
+aa(/aa/)	aa	
+r/	r(aa,sil)e	
+sil	sil	
+also	ao(sil,l)b	l(ao,s)	s(l,ow)	ow(s,sil)e	
+[end_noise]	sil	
+had	hh(sil,ae)b	ae(hh,dd)	dd(ae,sh)e	
+sharp	sh(dd,aa)b	aa(sh,r)	r	pd	
+sil	sil	
+spikes	s(sil,p)b	p	ay	k	s(k,ae)e	
+at	ae(s,td)b	td(ae,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,eh)e	
+end	eh(ax,n)b	n(eh,dd)	dd(n,ax)e	
+of(2)	ax(dd,v)b	v(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+its(2)	ix(sil,ts)b	ts(ix,t)e	
+tail	t(ts,ey)b	ey(t,l)	l(ey,f)e	
+for(2)	f(l,axr)b	axr(f,sil)e	
+sil	sil	
+fighting	f(sil,ay)b	ay	dx(ay,ix)	ix(dx,ng)	ng(ix,sil)e	
+[noise](+noise+)	+noise+	
+[noise](+noise+)	+noise+	
+sil	sil	
+</s>	sile	

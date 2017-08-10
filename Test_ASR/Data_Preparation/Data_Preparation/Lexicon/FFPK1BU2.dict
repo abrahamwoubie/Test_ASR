@@ -1,0 +1,49 @@
+<s>	silb	
+sil	sil	
+/s	s	
+ay	ay(s,ax)s	
+ax(/ax/)	ax(ay,n)s	
+n(/n/)	n(ax,t)e	
+t	t(n,iy)b	iy(t,ix)e	
+ix(/ix/)	ix(iy,s)	
+s/	s(ix,sil)e	
+sil	sil	
+are	aa(sil,r)b	r(aa,sil)e	
+sil	sil	
+working	w(sil,er)b	er(w,k)	k(er,ix)	ix(k,ng)	ng(ix,t)e	
+to(3)	t(ng,uw)b	uw(t,sil)e	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+/p	p	
+aa(/aa/)	aa(p,r)	
+r(/r/)	r(aa,sil)e	
+sil	sil	
+t/	t	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+/k	k	
+ay(2)	ey(k,eh)e	
+n	eh(ey,n)b	n(eh,z)e	
+z/	z(n,sil)e	
+[sil]	sil	
+many	m(sil,eh)b	eh(m,n)	n(eh,iy)	iy(n,k)e	
+/k	k	
+ay(2)	ey(k,eh)e	
+n	eh(ey,n)b	n(eh,z)e	
+z/	z(n,ah)e	
+of	ah(z,v)b	v(ah,sil)e	
+sil	sil	
+/ow	ow(sil,eh)s	
+sh	eh(ow,s)b	s	ey	ch(ey,ix)e	
+ix(/ix/)	ix	
+n/	n(ix,ae)e	
+animals	ae(n,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+[begin_noise]	sil	
+[end_noise]	sil	
+</s>	sile	

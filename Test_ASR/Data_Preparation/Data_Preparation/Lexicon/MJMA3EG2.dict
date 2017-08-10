@@ -1,0 +1,69 @@
+<s>	silb	
+for	f(sil,ao)b	ao(f,r)	r(ao,m)e	
+many	m(r,eh)b	eh(m,n)	n(eh,iy)	iy(n,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+years	y(sil,ih)b	ih(y,r)	r(ih,z)	z(r,s)e	
+/s	s	
+ay	ay(s,aa)s	
+ah	aa	
+n(/n/)	n(aa,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,sil)e	
+sil	sil	
+wondered	w(sil,ah)b	ah(w,n)	n(ah,d)	d(n,axr)	axr(d,dd)	dd(axr,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+if	ih(sil,f)b	f(ih,sil)e	
+sil	sil	
+/m/	m	
+/m/	m	
+sil	sil	
+/m	m	
+iy(/iy/)	iy(m,td)	
+td(/td/)	td(iy,iy)e	
+iy(/iy/)	iy	
+dx(/dx/)	dx	
+ih(/ih/)	ih	
+ng/	ng(ih,t)e	
+/t	t	
+r	aa(t,r)	r(aa,ay)e	
+ay	ay(r,ae)s	
+ae(/ae/)	ae	
+n(/n/)	n(ae,aa)e	
+ah	aa	
+s(/s/)	s	
+ao(/ao/)	ao(s,r)e	
+r(/r/)	r(ao,ah)e	
+ah(/ah/)	ah(r,s)	
+s/	s(ah,r)e	
+/r	r	
+sil	sil	
+eh	eh	
+k(/k/)	k(eh,s)	
+s/	s(k,hh)e	
+had	hh(s,ae)b	ae(hh,dd)	dd(ae,iy)e	
+even	iy(dd,v)b	v(iy,ax)	ax(v,n)	n(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+ever	eh(sil,v)b	v(eh,axr)	axr(v,iy)e	
+eaten	iy	t	ax(t,n)	n(ax,sil)e	
+[begin_noise]	sil	
+/t	t	
+r(/r/)	r(t,ey)	
+ay(2)	ey(r,s)s	
+s(/s/)	s(ey,eh)e	
+eh	eh	
+r	aa(eh,r)b	r(aa,ah)e	
+ah(/ah/)	ah	
+t(/t/)	t	
+sil	sil	
+ao(/ao/)	ao	
+p(/p/)	p(ao,s)	
+s/	s(p,sil)e	
+sil	sil	
+[end_noise]	sil	
+</s>	sile	

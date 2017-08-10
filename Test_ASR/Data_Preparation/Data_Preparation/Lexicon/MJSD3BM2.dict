@@ -1,0 +1,21 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+/ch	ch	
+iy(/iy/)	iy(ch,t)e	
+t(/t/)	t	
+ax(/ax/)	ax(t,z)e	
+z/	z(ax,aa)e	
+are	aa(z,r)b	r(aa,dh)e	
+the	dh(r,ah)b	ah(dh,f)e	
+fast	f(ah,ae)b	ae(f,s)	s(ae,td)	td(s,eh)e	
+/eh	eh	
+m(/m/)	m(eh,ey)e	
+ey/	ey(m,sil)s	
+sil	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,ix)e	
+in(2)	ix(z,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,w)e	
+world	w(ax,er)b	er(w,l)	l(er,dd)	dd(l,sil)e	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,17 @@
+fclj1ae2:word>                  <s>    0    2         -670442
+fclj1ae2:word>     [NOISE](+SMACK+)    3    8        -1079146
+fclj1ae2:word>                  SIL    9   38        -4353548
+fclj1ae2:word>                  /IH   39   58        -3689221
+fclj1ae2:word>                    K   59  108        -8170404
+fclj1ae2:word>                  SIL  109  111         -657896
+fclj1ae2:word>                  AE/  112  114         -826352
+fclj1ae2:word>                 </s>  115  430       -34700381
+fclj1ae2:phone>                 SILb    0    2         -670442
+fclj1ae2:phone>              +SMACK+    3    8        -1079146
+fclj1ae2:phone>                  SIL    9   38        -4353548
+fclj1ae2:phone>                   IH   39   58        -3689221
+fclj1ae2:phone>           K(SIL,EY)b   59   76        -3696236
+fclj1ae2:phone>           EY(K,SIL)e   77  108        -4474168
+fclj1ae2:phone>                  SIL  109  111         -657896
+fclj1ae2:phone>                   AE  112  114         -826352
+fclj1ae2:phone>                 SILe  115  430       -34700381

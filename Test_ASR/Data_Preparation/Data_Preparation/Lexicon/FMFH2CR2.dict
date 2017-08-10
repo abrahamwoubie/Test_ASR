@@ -1,0 +1,20 @@
+<s>	silb	
+an(2)	ax(sil,n)b	n(ax,sil)e	
+sil	sil	
+emperor	eh(sil,m)b	m(eh,p)	p	axr	axr(axr,p)e	
+penguins	p(axr,eh)b	eh	ng	g	w	ax(w,n)	n(ax,z)	z(n,m)e	
+mothers	m(z,ah)b	ah(m,dh)	dh(ah,axr)	axr(dh,z)	z(axr,sil)e	
+sil	sil	
+mother	m(sil,ah)b	ah(m,dh)	dh(ah,axr)	axr(dh,sil)e	
+[noise](+rustle+)	+rustle+	
+lay	l(sil,ey)b	ey(l,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+an(2)	ax(sil,n)b	n(ax,eh)e	
+egg	eh	gd(eh,ih)e	
+in	ih(gd,n)b	n(ih,dh)e	
+the(2)	dh(n,ax)b	ax(dh,w)e	
+winter	w(ax,ih)b	ih(w,n)	n(ih,t)	t(n,axr)	axr(t,sil)e	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,40 @@
+<s>	silb	
+[noise]	sil	
+he	hh(sil,iy)b	iy(hh,n)e	
+knew	n(iy,uw)b	uw(n,ih)e	
+it	ih(uw,td)b	td(ih,w)e	
+was(3)	w(td,ao)b	ao(w,z)	z(ao,dh)e	
+the	dh(z,ah)b	ah(dh,sil)e	
+sil	sil	
+/t/	t	
+[human_noise](+noise+)	+noise+	
+/r	r	
+sil	sil	
+eh	eh	
+k/	k	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+because	b(sil,ix)b	ix(b,k)	k(ix,ah)	ah(k,z)	z(ah,sil)e	
+[human_noise]	sil	
+he	hh(sil,iy)b	iy(hh,p)e	
+put	p(iy,uh)b	uh(p,td)	td(uh,ey)e	
+a(2)	ey(td,k)s	
+kind	k(ey,ay)b	ay(k,n)	n(ay,dd)	dd(n,ax)e	
+of(2)	ax(dd,v)b	v(ax,k)e	
+clay	k(v,l)b	l(k,ey)	ey(l,ix)e	
+inside(2)	ix(ey,n)b	n(ix,s)	s(n,ay)	ay(s,dd)	dd(ay,dh)e	
+the	dh(dd,ah)b	ah(dh,t)e	
+tooth	t(ah,uw)b	uw	th	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+holes	hh(sil,ow)b	ow(hh,l)	l	z(l,ih)e	
+in	ih(z,n)b	n(ih,sil)e	
+sil	sil	
+/d	d	
+ax/	ax(d,b)	
+bone	b(ax,ow)b	ow	n(ow,sil)e	
+sil	sil	
+[whisper]	sil	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,13 @@
+<s>	silb	
+today	t(sil,ax)b	ax(t,d)	d(ax,ey)	ey(d,dh)e	
+there	dh(ey,eh)b	eh(dh,r)	r(eh,axr)e	
+are(2)	axr(r,l)e	
+less	l(axr,eh)b	eh(l,s)	s(eh,dh)e	
+than	dh(s,ae)b	ae(dh,n)	n(ae,t)e	
+ten	t(n,eh)b	eh(t,n)	n(eh,sil)e	
+sil	sil	
+thousand	th(sil,aw)b	aw(th,z)	z(aw,ax)	ax(z,n)	n(ax,dd)	dd(n,ax)e	
+of(2)	ax(dd,v)b	v(ax,sil)e	
+sil	sil	
+them	dh(sil,eh)b	eh(dh,m)	m(eh,sil)e	
+</s>	sile	

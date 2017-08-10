@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+stay	s(sil,t)b	t(s,ey)	ey(t,sil)e	
+[begin_noise]	sil	
+away	ax(sil,w)b	w(ax,ey)	ey(w,sil)e	
+[end_noise]	sil	
+from(2)	f(sil,r)b	r(f,ah)	ah(r,m)	m(ah,l)e	
+/l	l	
+ay	ay(l,sil)s	
+sil	sil	
+n(/n/)	n	
+iy/	iy(n,sil)s	
+sil	sil	
+[noise](+noise+)	+noise+	
+</s>	sile	

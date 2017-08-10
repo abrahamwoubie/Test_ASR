@@ -1,0 +1,27 @@
+<s>	silb	
+sil	sil	
+[noise](+noise+)	+noise+	
+not	n	aa	td	
+sil	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,ax)e	
+ago	ax(ng,g)b	g(ax,ow)	ow(g,s)e	
+/s	s(ow,ay)e	
+ay	ay(s,aa)s	
+ah	aa	
+n(/n/)	n(aa,t)e	
+t(/t/)	t(n,ih)	
+ih(/ih/)	ih(t,n)	
+n(/n/)	n(ih,s)e	
+s/	s(n,sil)e	
+sil	sil	
+found	f(sil,aw)b	aw(f,n)	n(aw,dd)	dd(n,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+a(2)	ey(sil,sil)s	
+sil	sil	
+dinosaur	d(sil,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,eh)e	
+egg	eh	gd(eh,sil)e	
+sil	sil	
+[crosstalk](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,17 @@
+<s>	silb	
+/ih	ih	
+s/	s(ih,sil)e	
+sil	sil	
+too	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+deep	d(sil,iy)b	iy	pd(iy,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+[begin_noise]	sil	
+/dh/	dh	
+[end_noise]	sil	
+if(2)	ix(sil,f)b	f(ix,sil)e	
+sil	sil	
+/d	d	
+ah/	ah	
+</s>	sile	

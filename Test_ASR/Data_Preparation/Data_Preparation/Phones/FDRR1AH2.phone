@@ -1,0 +1,16 @@
+fdrr1ah2:phone> SILb 0.00 36.00 -4774355
+fdrr1ah2:phone> SIL 37.00 112.00 -9924820
+fdrr1ah2:phone> SIL 113.00 136.00 -3411356
+fdrr1ah2:phone> SIL 137.00 148.00 -2198933
+fdrr1ah2:phone> G(SIL,OW)b 149.00 166.00 -3134518
+fdrr1ah2:phone> OW(G,SIL)e 167.00 214.00 -7921328
+fdrr1ah2:phone> SIL 215.00 283.00 -9567932
+fdrr1ah2:phone> +NOISE+ 284.00 292.00 -1905153
+fdrr1ah2:phone> L 293.00 300.00 -1832623
+fdrr1ah2:phone> AY(L,SIL)s 301.00 326.00 -4207041
+fdrr1ah2:phone> SIL 327.00 329.00 -841192
+fdrr1ah2:phone> IX 330.00 334.00 -973579
+fdrr1ah2:phone> NG(IX,SIL)e 335.00 365.00 -5992613
+fdrr1ah2:phone> SIL 366.00 454.00 -12280860
+fdrr1ah2:phone> +EXHALE+ 455.00 457.00 -502431
+fdrr1ah2:phone> SILe 458.00 730.00 -39338334

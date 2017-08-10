@@ -1,0 +1,13 @@
+fjtr1aa2:phone> SILb 0.00 2.00 -682730
+fjtr1aa2:phone> SIL 3.00 36.00 -5177782
+fjtr1aa2:phone> S(SIL,T)b 37.00 60.00 -3848720
+fjtr1aa2:phone> T(S,AO) 61.00 72.00 -2508109
+fjtr1aa2:phone> AO(T,R) 73.00 94.00 -3564132
+fjtr1aa2:phone> R(AO,M) 95.00 110.00 -2741365
+fjtr1aa2:phone> M 111.00 118.00 -1735248
+fjtr1aa2:phone> Z(M,SIL)e 119.00 133.00 -2372568
+fjtr1aa2:phone> SIL 134.00 144.00 -1790067
+fjtr1aa2:phone> IX(SIL,Z)b 145.00 183.00 -6144833
+fjtr1aa2:phone> Z(IX,DH)e 184.00 198.00 -2532028
+fjtr1aa2:phone> DH 199.00 212.00 -2331737
+fjtr1aa2:phone> SILe 213.00 220.00 -1484043

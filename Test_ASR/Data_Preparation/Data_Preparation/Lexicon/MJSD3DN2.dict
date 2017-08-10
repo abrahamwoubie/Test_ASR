@@ -1,0 +1,34 @@
+<s>	silb	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+doctors	d(sil,aa)b	aa	kd	t(kd,axr)	axr(t,z)	z(axr,s)e	
+say	s(z,ey)b	ey(s,m)e	
+more	m(ey,ao)b	ao(m,r)	r(ao,dh)e	
+than	dh(r,ae)b	ae(dh,n)	n(ae,sil)e	
+sil	sil	
+ten	t(sil,eh)b	eh(t,n)	n(eh,m)e	
+million	m(n,ih)b	ih(m,l)	l(ih,y)	y(l,ax)	ax(y,n)	n(ax,p)e	
+people	p(n,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,y)e	
+/y	y	
+uw(/uw/)	uw(y,n)e	
+n(/n/)	n(uw,ay)e	
+ay	ay(n,ix)s	
+ix(/ix/)	ix	
+d/	d	
+states	s(sil,t)b	t(s,ey)	ey(t,ts)	ts(ey,sil)e	
+sil	sil	
+have	hh(sil,ae)b	ae(hh,v)	v(ae,hh)e	
+hearing	hh(v,ih)b	ih(hh,r)	r(ih,ix)	ix(r,ng)	ng(ix,p)e	
+problems	p(ng,r)b	r(p,aa)	aa	b	l(b,ax)	ax(l,m)	m(ax,z)	z(m,k)e	
+caused(2)	k(z,ao)b	ao(k,z)	z	dd(z,b)e	
+by	b(dd,ay)b	ay(b,sil)e	
+sil	sil	
+loud	l	aw(l,dd)	dd(aw,n)e	
+noises	n	oy(n,z)	z	ix(z,z)	z(ix,sil)e	
+sil	sil	
+</s>	sile	

@@ -1,0 +1,14 @@
+<s>	silb	
+/p	p	
+uw(/uw/)	uw	
+l/	l(uw,r)e	
+recycle	r(l,iy)b	iy(r,s)	s(iy,ay)	ay	k	ax(k,l)	l(ax,f)e	
+food	f(l,uw)b	uw(f,dd)	dd(uw,sil)e	
+sil	sil	
+/g	g	
+aa(/aa/)	aa(g,r)	
+r/	r(aa,sil)e	
+sil	sil	
+garbage	g	aa(g,r)	r(aa,b)	b	ix	jh(ix,b)e	
+bags	b(jh,ae)b	ae(b,g)	g(ae,z)	z(g,sil)e	
+</s>	sile	

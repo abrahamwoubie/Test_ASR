@@ -1,0 +1,18 @@
+<s>	silb	
+[noise]	sil	
+/d	d	
+ey/	ey(d,p)e	
+play	p(ey,l)b	l(p,ey)	ey(l,sil)e	
+sil	sil	
+/ih	ih	
+n/	n(ih,jh)e	
+jump	jh(n,ah)b	ah(jh,m)	m	pd	
+sil	sil	
+in	ih(sil,n)b	n(ih,dh)e	
+the(2)	dh(n,ax)b	ax(dh,w)e	
+/w	w(ax,aa)	
+aa(/aa/)	aa	
+t(/t/)	t	
+axr/	axr(t,sil)e	
+[noise]	sil	
+</s>	sile	

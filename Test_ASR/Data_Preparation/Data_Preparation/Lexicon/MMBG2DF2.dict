@@ -1,0 +1,24 @@
+<s>	silb	
+[noise]	sil	
+out	aw(sil,td)b	td(aw,ax)e	
+of(2)	ax(td,v)b	v(ax,dh)e	
+the(2)	dh(v,ax)b	ax(dh,w)e	
+water	w(ax,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+sil	sil	
+penguins	p(sil,eh)b	eh	ng	g	w	ax(w,n)	n(ax,z)	z(n,m)e	
+must	m(z,ah)b	ah(m,s)	s(ah,td)	td(s,w)e	
+/w	w	
+ae(/ae/)	ae	
+dx(/dx/)	dx(ae,ix)	
+ix(/ix/)	ix	
+l/	l(ix,ae)e	
+and	ae(l,n)b	n(ae,dd)	dd(n,hh)e	
+hop	hh(dd,aa)b	aa	pd	
+sil	sil	
+across	ax(sil,k)b	k(ax,r)	r(k,ao)	ao(r,s)	s(ao,dh)e	
+the	dh(s,ah)b	ah(dh,sil)e	
+sil	sil	
+ice	ay	s(ay,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

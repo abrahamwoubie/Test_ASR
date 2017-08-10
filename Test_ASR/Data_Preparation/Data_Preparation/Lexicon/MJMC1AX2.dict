@@ -1,0 +1,17 @@
+<s>	silb	
+/p	p	
+ah	aa	
+l/	l(aa,r)e	
+/r	r(l,iy)	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,ay)e	
+ay	ay(s,k)s	
+k(/k/)	k	
+ax(/ax/)	ax(k,l)e	
+l/	l(ax,sil)e	
+sil	sil	
+/t/	t	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

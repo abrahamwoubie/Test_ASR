@@ -1,0 +1,14 @@
+<s>	silb	
+/d	d	
+ae(/ae/)	ae(d,l)	
+l(/l/)	l(ae,f)e	
+f(/f/)	f(l,ix)e	
+ix(/ix/)	ix	
+n(/n/)	n(ix,z)e	
+z/	z(n,l)e	
+live(2)	l(z,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the	dh(n,ah)b	ah(dh,ow)e	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+[noise]	sil	
+</s>	sile	

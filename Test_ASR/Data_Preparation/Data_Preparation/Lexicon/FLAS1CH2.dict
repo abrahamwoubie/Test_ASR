@@ -1,0 +1,17 @@
+<s>	silb	
+/b	b	
+r(/r/)	r(b,ih)	
+ih(/ih/)	ih(r,t)	
+t(/t/)	t	
+sil	sil	
+l(/l/)	l	
+iy/	iy(l,sil)s	
+sil	sil	
+colored	k(sil,ah)b	ah(k,l)	l	axr	dd(axr,f)e	
+fish	f(dd,ih)b	ih(f,sh)	sh(ih,l)e	
+live(2)	l(sh,ih)b	ih(l,v)	v(ih,ix)e	
+in(2)	ix(v,n)b	n(ix,dh)e	
+the(2)	dh(n,ax)b	ax(dh,sil)e	
+sil	sil	
+ocean	ow	sh(ow,ax)	ax(sh,n)	n(ax,sil)e	
+</s>	sile	

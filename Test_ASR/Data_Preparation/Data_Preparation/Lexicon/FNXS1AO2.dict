@@ -1,0 +1,26 @@
+<s>	silb	
+[noise]	sil	
+/d	d	
+eh	eh	
+y/	y	
+/b	b	
+l(/l/)	l	
+sil	sil	
+ow	ow	
+td/	td(ow,sil)e	
+[sil]	sil	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,sil)e	
+sil	sil	
+thin	th(sil,ih)b	ih(th,n)	n(ih,sil)e	
+sil	sil	
+cloud	k(sil,l)b	l	aw(l,dd)	dd(aw,sil)e	
+sil	sil	
+down	d(sil,aw)b	aw(d,n)	n(aw,t)e	
+to(3)	t(n,uw)b	uw(t,d)e	
+/d	d(uw,ax)	
+ax/	ax	
+sil	sil	
+[begin_noise]	sil	
+ground	g(sil,r)b	r(g,aw)	aw(r,n)	n(aw,dd)	dd(n,sil)e	
+[end_noise]	sil	
+</s>	sile	

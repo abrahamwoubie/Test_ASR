@@ -1,0 +1,47 @@
+<s>	silb	
+sil	sil	
+[noise](+rustle+)	+rustle+	
+sil	sil	
+now	n(sil,aw)b	aw(n,sil)e	
+sil	sil	
+/d	d	
+ey/	ey(d,y)e	
+use	y(ey,uw)b	uw(y,s)	s(uw,sil)e	
+sil	sil	
+walk	w(sil,ao)b	ao	kd(ao,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+ways	w(sil,ey)b	ey(w,z)	z(ey,sil)e	
+sil	sil	
+that	dh(sil,ae)b	ae(dh,td)	td(ae,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+/ax/	ax(sil,sil)s	
+sil	sil	
+/hh	hh	
+sil	sil	
+ax/	ax(sil,hh)s	
+hang	hh(ax,ae)b	ae(hh,ng)	ng(ae,sil)e	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+[see_transcript](+inhale+)	+inhale+	
+sil	sil	
+in(2)	ix(sil,n)b	n(ix,sil)e	
+sil	sil	
+tall	t(sil,ao)b	ao	l(ao,sil)e	
+sil	sil	
+/t	t	
+r(/r/)	r(t,iy)	
+iy(/iy/)	iy(r,t)e	
+t(/t/)	t	
+aa(/aa/)	aa(t,sil)e	
+sil	sil	
+p(/p/)	p	
+s/	s(p,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[see_transcript]	sil	
+sil	sil	
+</s>	sile	

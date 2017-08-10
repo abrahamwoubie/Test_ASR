@@ -1,0 +1,36 @@
+<s>	silb	
+sil	sil	
+some	s(sil,ah)b	ah(s,m)	m(ah,f)e	
+/f	f	
+aa(/aa/)	aa	
+w(/w/)	w	
+m(/m/)	m	
+er(/er/)	er	
+z/	z(er,g)e	
+grew	g(z,r)b	r	uw(r,k)e	
+/k	k	
+ao(/ao/)	ao(k,f)	
+f/	f(ao,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+grow	g(sil,r)b	r(g,ow)	ow(r,sil)e	
+[begin_noise]	sil	
+/b	b	
+ih(/ih/)	ih(b,td)	
+td/	td(ih,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+bananas	b(sil,ax)b	ax(b,n)	n(ax,ae)	ae	n(ae,ax)	ax	z(ax,sil)e	
+sil	sil	
+or	ao(sil,r)b	r(ao,r)e	
+raise	r(r,ey)b	ey(r,z)	z(ey,k)e	
+cattle	k(z,ae)b	ae(k,dx)	dx(ae,ax)	ax(dx,l)	l(ax,sil)e	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+[noise]	sil	
+</s>	sile	

@@ -1,0 +1,25 @@
+<s>	silb	
+/ih	ih	
+n/	n(ih,b)e	
+/b	b	
+l(/l/)	l(b,ow)	
+ow	ow(l,z)s	
+z/	z(ow,sil)e	
+sil	sil	
+dirt	d(sil,er)b	er	td	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,sil)e	
+sil	sil	
+[sil]	sil	
+dirt	d(sil,er)b	er	td	
+sil	sil	
+around	axr(sil,aw)b	aw(axr,n)	n(aw,dd)	dd(n,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+[crosstalk](+rustle+)	+rustle+	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+</s>	sile	

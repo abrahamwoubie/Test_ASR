@@ -1,0 +1,20 @@
+<s>	silb	
+[noise]	sil	
+sea	s(sil,iy)b	iy(s,sil)e	
+sil	sil	
+/ax/	ax(sil,sil)s	
+sil	sil	
+/ow	ow	
+dd(/dd/)	dd(ow,axr)e	
+axr(/axr/)	axr	
+s/	s	
+sil	sil	
+live(2)	l(sil,ih)b	ih(l,v)	v(ih,sil)e	
+sil	sil	
+in	ih(sil,n)b	n(ih,dh)e	
+the(3)	dh(n,iy)b	iy(dh,ow)e	
+/ow	ow(iy,sh)s	
+sh(/sh/)	sh	
+ix(/ix/)	ix	
+n/	n(ix,sil)e	
+</s>	sile	

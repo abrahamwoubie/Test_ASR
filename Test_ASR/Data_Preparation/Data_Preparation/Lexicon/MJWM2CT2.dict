@@ -1,0 +1,30 @@
+<s>	silb	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+/hh	hh	
+iy(/iy/)	iy(hh,ah)e	
+ah(/ah/)	ah	
+m/	m(ah,sil)e	
+sil	sil	
+he	hh(sil,iy)b	iy(hh,sil)e	
+sil	sil	
+covers	k(sil,ah)b	ah(k,v)	v(ah,axr)	axr(v,z)	z(axr,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+it(2)	ix(sil,td)b	td(ix,sil)e	
+sil	sil	
+with(4)	w(sil,ix)b	ix(w,th)	th(ix,ax)e	
+a	ax(th,sil)s	
+sil	sil	
+big	b(sil,ih)b	ih(b,gd)	gd(ih,w)e	
+/w	w	
+ow	ow	
+l/	l(ow,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+of	ah(sil,v)b	v(ah,sil)e	
+sil	sil	
+belly	b(sil,eh)b	eh(b,l)	l(eh,iy)	iy(l,f)e	
+fat	f(iy,ae)b	ae	td(ae,sil)e	
+[sil]	sil	
+</s>	sile	

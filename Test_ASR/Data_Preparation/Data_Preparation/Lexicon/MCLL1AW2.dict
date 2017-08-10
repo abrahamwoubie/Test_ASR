@@ -1,0 +1,22 @@
+<s>	silb	
+/r	r	
+ay	ay(r,sil)s	
+sil	sil	
+t/	t	
+/r	r(t,iy)	
+iy(/iy/)	iy(r,s)e	
+s(/s/)	s(iy,ay)e	
+ay	ay(s,k)s	
+k(/k/)	k	
+ah	aa	
+l/	l(aa,sil)e	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+[begin_noise]	sil	
+helping	hh(sil,eh)b	eh(hh,l)	l	p	ix(p,ng)	ng(ix,sil)e	
+[end_noise]	sil	
+our	aa(sil,r)b	r(aa,sil)e	
+sil	sil	
+earth	er	th(er,sil)e	
+[sil]	sil	
+</s>	sile	

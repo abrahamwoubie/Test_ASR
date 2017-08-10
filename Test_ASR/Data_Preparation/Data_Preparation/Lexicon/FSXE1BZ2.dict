@@ -1,0 +1,16 @@
+<s>	silb	
+are	aa(sil,r)b	r(aa,sil)e	
+[begin_noise]	sil	
+/f	f	
+f(/f/)	f	
+r	aa(f,r)b	r(aa,eh)e	
+eh	eh(r,n)	
+n(/n/)	n(eh,d)e	
+d(/d/)	d(n,l)	
+l(/l/)	l(d,iy)	
+iy/	iy(l,sil)s	
+[end_noise]	sil	
+animals	ae(sil,n)b	n(ae,ax)	ax(n,m)	m(ax,ax)	ax(m,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+</s>	sile	

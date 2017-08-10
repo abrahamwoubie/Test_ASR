@@ -1,0 +1,44 @@
+<s>	silb	
+families(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,sil)e	
+sil	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/y/	y	
+sil	sil	
+[noise](+smack+)	+smack+	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+families(2)	f(sil,ae)b	ae(f,m)	m(ae,l)	l(m,iy)	iy(l,z)	z(iy,sil)e	
+sil	sil	
+can(2)	k(sil,ax)b	ax(k,n)	n(ax,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+use(2)	y(sil,uw)b	uw(y,z)	z(uw,sil)e	
+sil	sil	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+computer	k(sil,ax)b	ax(k,m)	m(ax,p)	p(m,y)	y(p,uw)	uw(y,dx)	dx(uw,axr)	axr(dx,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,f)e	
+find	f(uw,ay)b	ay(f,n)	n(ay,dd)	dd(n,w)e	
+what(2)	w(dd,ah)b	ah(w,td)	td(ah,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+homework	hh(sil,ow)b	ow(hh,m)	m	w	er(w,kd)	kd(er,sil)e	
+sil	sil	
+[human_noise]	sil	
+sil	sil	
+their	dh(sil,eh)b	eh(dh,r)	r(eh,sil)e	
+sil	sil	
+kids	k(sil,ih)b	ih(k,d)	d(ih,z)	z(d,hh)e	
+have	hh(z,ae)b	ae(hh,v)	v(ae,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

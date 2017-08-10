@@ -1,0 +1,22 @@
+<s>	silb	
+[noise](+smack+)	+smack+	
+sil	sil	
+[begin_noise]	sil	
+/d	d	
+ao(/ao/)	ao	
+kd(/kd/)	kd(ao,t)e	
+t(/t/)	t(kd,axr)	
+axr(/axr/)	axr(t,z)e	
+z/	z(axr,sil)e	
+[end_noise]	sil	
+say	s(sil,ey)b	ey(s,k)e	
+kids	k(ey,ih)b	ih(k,d)	d(ih,z)	z(d,n)e	
+need	n(z,iy)b	iy(n,dd)	dd(iy,t)e	
+to	t(dd,ax)b	ax(t,g)e	
+get	g(ax,eh)b	eh(g,td)	td(eh,ah)e	
+up	ah(td,pd)b	pd(ah,sil)e	
+sil	sil	
+and(2)	ax(sil,n)b	n(ax,dd)	dd(n,m)e	
+move	m(dd,uw)b	uw(m,v)	v(uw,ax)e	
+about	ax(v,b)b	b(ax,aw)	aw(b,td)	td(aw,sil)e	
+</s>	sile	

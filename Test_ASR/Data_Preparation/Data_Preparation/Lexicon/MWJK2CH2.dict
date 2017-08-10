@@ -1,0 +1,25 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,t)e	
+travel	t(l,r)b	r(t,ae)	ae(r,v)	v(ae,ax)	ax(v,l)	l(ax,sil)e	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,sil)e	
+sil	sil	
+dirt	d(sil,er)b	er	td	
+sil	sil	
+roads	r(sil,ow)b	ow	d(ow,z)	z(d,sil)e	
+sil	sil	
+to	t(sil,ax)b	ax(t,m)e	
+make	m(ax,ey)b	ey(m,kd)	kd(ey,sil)e	
+sil	sil	
+/m	m	
+aa(/aa/)	aa	
+sil	sil	
+t(/t/)	t	
+uw/	uw(t,sil)e	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,ey)e	
+a(2)	ey(uw,m)s	
+marketplace(2)	m(ey,aa)b	aa(m,r)	r(aa,k)	k(r,ix)	ix(k,td)	td	p	l(p,ey)	ey(l,s)	s(ey,sil)e	
+</s>	sile	

@@ -1,0 +1,13 @@
+<s>	silb	
+[begin_noise]	sil	
+scientists(2)	s(sil,ay)b	ay(s,n)	n(ay,t)	t(n,ix)	ix(t,s)	s(ix,ts)	ts(s,l)e	
+let	l(ts,eh)b	eh(l,td)	td(eh,m)e	
+/m	m	
+ow	ow(m,s)s	
+s/	s(ow,sil)e	
+[end_noise]	sil	
+of(2)	ax(sil,v)b	v(ax,dh)e	
+them	dh(v,eh)b	eh(dh,m)	m(eh,f)e	
+fly	f(m,l)b	l(f,ay)	ay(l,ax)e	
+away	ax(ay,w)b	w(ax,ey)	ey(w,sil)e	
+</s>	sile	

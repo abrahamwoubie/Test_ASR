@@ -1,0 +1,11 @@
+mdaw1ah1:phone> SILb 0.00 5.00 -897170
+mdaw1ah1:phone> G(SIL,OW)b 6.00 26.00 -3761924
+mdaw1ah1:phone> OW(G,SIL)e 27.00 65.00 -5905796
+mdaw1ah1:phone> SIL 66.00 113.00 -6521534
+mdaw1ah1:phone> IH(SIL,N)b 114.00 130.00 -3187990
+mdaw1ah1:phone> N(IH,D) 131.00 145.00 -2353744
+mdaw1ah1:phone> D 146.00 150.00 -1026247
+mdaw1ah1:phone> AO(D,R) 151.00 172.00 -4551021
+mdaw1ah1:phone> R(AO,Z) 173.00 186.00 -2001709
+mdaw1ah1:phone> Z(R,SIL)e 187.00 222.00 -6144524
+mdaw1ah1:phone> SILe 223.00 378.00 -17436295

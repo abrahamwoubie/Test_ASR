@@ -1,0 +1,69 @@
+<s>	silb	
+/w	w	
+er(/er/)	er(w,sil)e	
+sil	sil	
+k(/k/)	k	
+s/	s(k,sil)e	
+[sil]	sil	
+workers	w(sil,er)b	er(w,k)	k	axr	z(axr,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+use(2)	y(sil,uw)b	uw(y,z)	z(uw,sil)e	
+[human_noise]	sil	
+[begin_whisper]	sil	
+/p	p	
+er/	er(p,hh)e	
+/hh	hh	
+sil	sil	
+er/	er	
+sil	sil	
+/t/	t	
+[end_whisper]	sil	
+/p	p	
+er(/er/)	er(p,sil)e	
+sil	sil	
+ts/	ts	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+of(2)	ax(sil,v)b	v(ax,dh)e	
+the	dh(v,ah)b	ah(dh,sil)e	
+sil	sil	
+bottles	b	aa	dx(aa,ax)	ax(dx,l)	l(ax,z)	z(l,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+to(3)	t(sil,uw)b	uw(t,sil)e	
+sil	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+[end_noise]	sil	
+/k	k	
+l(/l/)	l(k,ow)	
+ow/	ow(l,sil)s	
+sil	sil	
+/k	k	
+l(/l/)	l(k,ao)	
+ao(/ao/)	ao(l,sil)e	
+sil	sil	
+th(/th/)	th	
+s/	s(th,sil)e	
+sil	sil	
+/k	k	
+l(/l/)	l(k,ao)	
+ao(/ao/)	ao(l,sil)e	
+sil	sil	
+th(/th/)	th	
+sil	sil	
+ih(/ih/)	ih	
+ng/	ng(ih,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+[sil]	sil	
+</s>	sile	

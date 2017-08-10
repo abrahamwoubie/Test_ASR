@@ -1,0 +1,15 @@
+<s>	silb	
+[noise]	sil	
+adults	ax(sil,d)b	d(ax,ah)	ah(d,l)	l(ah,ts)	ts(l,g)e	
+give	g(ts,ih)b	ih(g,v)	v(ih,dh)e	
+the(3)	dh(v,iy)b	iy(dh,k)e	
+kids	k(iy,ih)b	ih(k,d)	d(ih,z)	z(d,m)e	
+money	m(z,ah)b	ah(m,n)	n(ah,iy)	iy(n,f)e	
+for(2)	f(iy,axr)b	axr(f,eh)e	
+every(2)	eh(axr,v)b	v(eh,r)	r(v,iy)	iy(r,m)e	
+minute(3)	m(iy,ih)b	ih(m,n)	n(ih,ax)	ax	td(ax,sil)e	
+sil	sil	
+they	dh(sil,ey)b	ey(dh,jh)e	
+jump	jh(ey,ah)b	ah(jh,m)	m	pd	
+rope	r(pd,ow)b	ow	pd(ow,sil)e	
+</s>	sile	

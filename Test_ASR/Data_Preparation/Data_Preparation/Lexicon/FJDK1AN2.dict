@@ -1,0 +1,65 @@
+<s>	silb	
+the	dh(sil,ah)b	ah(dh,sil)e	
+sil	sil	
+winds(2)	w(sil,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+sil	sil	
+[begin_whisper]	sil	
+/s	s	
+sil	sil	
+p/	p	
+sil	sil	
+/s	s	
+sil	sil	
+p(/p/)	p	
+r	aa(p,r)	r(aa,sil)e	
+sil	sil	
+ih/	ih	
+/s	s(ih,sil)e	
+sil	sil	
+p(/p/)	p	
+r(/r/)	r	
+sil	sil	
+ih(/ih/)	ih	
+n(/n/)	n(ih,sil)e	
+sil	sil	
+s/	s	
+sil	sil	
+/s/	s	
+sil	sil	
+[end_whisper]	sil	
+the	dh(sil,ah)b	ah(dh,w)e	
+winds(2)	w(ah,ih)b	ih(w,n)	n(ih,d)	d(n,z)	z(d,sil)e	
+sil	sil	
+[human_noise](+smack+)	+smack+	
+sil	sil	
+[begin_noise]	sil	
+sil	sil	
+spin	s(sil,p)b	p	ih(p,n)	n(ih,sil)e	
+sil	sil	
+[end_noise]	sil	
+sil	sil	
+[noise](+noise+)	+noise+	
+[begin_whisper]	sil	
+away	ax(sil,w)b	w(ax,ey)	ey(w,sil)e	
+[end_whisper]	sil	
+[begin_noise]	sil	
+/ah	ah	
+r(/r/)	r	
+aw(/aw/)	aw(r,n)e	
+n/	n(aw,sil)e	
+[end_noise]	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+/ah	ah	
+r(/r/)	r	
+aw(/aw/)	aw(r,sil)e	
+sil	sil	
+n/	n	
+sil	sil	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+[noise]	sil	
+sil	sil	
+</s>	sile	

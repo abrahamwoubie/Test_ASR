@@ -1,0 +1,28 @@
+<s>	silb	
+[noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,m)e	
+medicines	m(ax,eh)b	eh	dx(eh,ax)	ax(dx,s)	s	ax(s,n)	n(ax,z)	z(n,k)e	
+could	k(z,uh)b	uh(k,dd)	dd(uh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+/hh	hh	
+eh	eh(hh,l)	
+l(/l/)	l(eh,sil)e	
+sil	sil	
+p	p(sil,iy)b	iy(p,sh)e	
+sh/	sh	
+sil	sil	
+make	m(sil,ey)b	ey(m,kd)	kd(ey,s)e	
+sick	s(kd,ih)b	ih	kd(ih,sil)e	
+sil	sil	
+people	p(sil,iy)b	iy(p,p)	p(iy,ax)	ax(p,l)	l(ax,sil)e	
+[begin_noise]	sil	
+/f	f	
+ih(/ih/)	ih(f,l)	
+l/	l(ih,sil)e	
+[end_noise]	sil	
+better	b(sil,eh)b	eh(b,dx)	dx(eh,axr)	axr(dx,sil)e	
+[human_noise]	sil	
+[sil]	sil	
+</s>	sile	

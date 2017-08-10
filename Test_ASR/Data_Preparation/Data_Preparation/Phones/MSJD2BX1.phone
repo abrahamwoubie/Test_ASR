@@ -1,0 +1,13 @@
+msjd2bx1:phone> SILb 0.00 2.00 -1105285
+msjd2bx1:phone> P(SIL,IY)b 3.00 5.00 -774083
+msjd2bx1:phone> IY(P,P) 6.00 8.00 -1278810
+msjd2bx1:phone> P(IY,AX) 9.00 11.00 -932627
+msjd2bx1:phone> AX(P,L) 12.00 14.00 -460879
+msjd2bx1:phone> L(AX,G)e 15.00 20.00 -814442
+msjd2bx1:phone> G(L,AA) 21.00 25.00 -767399
+msjd2bx1:phone> AA 26.00 36.00 -2080931
+msjd2bx1:phone> TD 37.00 41.00 -1059452
+msjd2bx1:phone> S(TD,IH)b 42.00 51.00 -2012742
+msjd2bx1:phone> IH 52.00 61.00 -1900539
+msjd2bx1:phone> KD(IH,SIL)e 62.00 73.00 -2282714
+msjd2bx1:phone> SILe 74.00 234.00 -18038512

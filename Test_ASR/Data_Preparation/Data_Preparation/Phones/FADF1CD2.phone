@@ -1,0 +1,15 @@
+fadf1cd2:phone> SILb 0.00 9.00 -2331891
+fadf1cd2:phone> IY(SIL,TD)b 10.00 19.00 -2518813
+fadf1cd2:phone> TD(IY,SIL)e 20.00 24.00 -1144142
+fadf1cd2:phone> SIL 25.00 29.00 -792319
+fadf1cd2:phone> +NOISE+ 30.00 32.00 -575076
+fadf1cd2:phone> S(SIL,M)b 33.00 54.00 -3911964
+fadf1cd2:phone> M(S,AO) 55.00 66.00 -2575408
+fadf1cd2:phone> AO(M,L) 67.00 82.00 -2496987
+fadf1cd2:phone> L(AO,F)e 83.00 94.00 -1697001
+fadf1cd2:phone> F(L,IH)b 95.00 116.00 -4498633
+fadf1cd2:phone> IH(F,SH) 117.00 131.00 -2905537
+fadf1cd2:phone> SH(IH,SIL)e 132.00 187.00 -8855044
+fadf1cd2:phone> +INHALE+ 188.00 241.00 -8659628
+fadf1cd2:phone> SIL 242.00 271.00 -4540259
+fadf1cd2:phone> SILe 272.00 510.00 -29045575

@@ -1,0 +1,27 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+heavy	hh(sil,eh)b	eh(hh,v)	v(eh,iy)	iy(v,r)e	
+/r	r	
+ey(/ey/)	ey(r,n)s	
+n(/n/)	n(ey,z)e	
+z/	z(n,f)e	
+fall(2)	f(z,ao)b	ao(f,l)	l(ao,sil)e	
+sil	sil	
+[human_noise]	sil	
+rivers	r(sil,ih)b	ih(r,v)	v(ih,axr)	axr(v,z)	z(axr,sil)e	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+with(4)	w(sil,ix)b	ix(w,th)	th(ix,sil)e	
+sil	sil	
+/r	r	
+eh	eh	
+dh(/dh/)	dh	
+er/	er	
+/w	w	
+eh	eh(w,dh)	
+dh(/dh/)	dh	
+er/	er	
+[human_noise](+rustle+)	+rustle+	
+[noise](+inhale+)	+inhale+	
+</s>	sile	

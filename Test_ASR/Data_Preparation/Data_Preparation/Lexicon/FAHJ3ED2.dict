@@ -1,0 +1,17 @@
+<s>	silb	
+sil	sil	
+you	y(sil,uw)b	uw(y,k)e	
+can	k(uw,ae)b	ae(k,n)	n(ae,p)e	
+protect	p(n,r)b	r(p,ax)	ax	t(ax,eh)	eh	kd(eh,td)	td(kd,y)e	
+your(2)	y(td,uh)b	uh(y,r)	r(uh,ih)e	
+ears	ih	r(ih,z)	z(r,sil)e	
+[begin_noise]	sil	
+from	f(sil,axr)b	axr(f,m)	m	
+[end_noise]	sil	
+[human_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,n)e	
+noise	n(ax,oy)	oy(n,z)	z(oy,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

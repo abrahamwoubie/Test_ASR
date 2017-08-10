@@ -1,0 +1,24 @@
+<s>	silb	
+they	dh(sil,ey)b	ey(dh,sil)e	
+[begin_noise]	sil	
+jump	jh(sil,ah)b	ah(jh,m)	m	pd	
+[end_noise]	sil	
+up	ah(sil,pd)b	pd(ah,sil)e	
+[sil]	sil	
+they	dh(sil,ey)b	ey(dh,jh)e	
+jump	jh(ey,ah)b	ah(jh,m)	m	pd	
+[begin_noise]	sil	
+from(2)	f(sil,r)b	r(f,ah)	ah(r,m)	m(ah,sil)e	
+[end_noise]	sil	
+one	w(sil,ah)b	ah(w,n)	n(ah,sil)e	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+tree	t(sil,r)b	r(t,iy)	iy(r,t)e	
+to(3)	t(iy,uw)b	uw(t,ax)e	
+another	ax(uw,n)b	n(ax,ah)	ah(n,dh)	dh(ah,axr)	axr(dh,l)e	
+looking	l(axr,uh)b	uh(l,k)	k(uh,ix)	ix(k,ng)	ng(ix,f)e	
+for	f(ng,ao)b	ao(f,r)	r(ao,f)e	
+fruit	f(r,r)b	r(f,uw)	uw(r,td)	td(uw,sil)e	
+sil	sil	
+[sil]	sil	
+</s>	sile	

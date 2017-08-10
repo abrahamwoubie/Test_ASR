@@ -1,0 +1,13 @@
+fkmm1ao2:word>                  <s>    0    9        -1429756
+fkmm1ao2:word>                TO(3)   10  100       -14132765
+fkmm1ao2:word>                  SIL  101  187       -11885011
+fkmm1ao2:word>                   /D  188  195        -1623758
+fkmm1ao2:word>                  AX/  196  261       -10887631
+fkmm1ao2:word>                 </s>  262  270        -1630700
+fkmm1ao2:phone>                 SILb    0    9        -1429756
+fkmm1ao2:phone>           T(SIL,UW)b   10   35        -4691523
+fkmm1ao2:phone>           UW(T,SIL)e   36  100        -9441242
+fkmm1ao2:phone>                  SIL  101  187       -11885011
+fkmm1ao2:phone>                    D  188  195        -1623758
+fkmm1ao2:phone>                   AX  196  261       -10887631
+fkmm1ao2:phone>                 SILe  262  270        -1630700

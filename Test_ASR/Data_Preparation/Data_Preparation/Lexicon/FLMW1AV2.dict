@@ -1,0 +1,50 @@
+<s>	silb	
+[noise]	sil	
+when(4)	w(sil,ih)b	ih(w,n)	n(ih,w)e	
+water	w(n,ao)b	ao(w,dx)	dx(ao,axr)	axr(dx,sil)e	
+sil	sil	
+/k	k	
+sil	sil	
+ah(/ah/)	ah	
+hh(/hh/)	hh	
+v(/v/)	v	
+er(/er/)	er	
+sil	sil	
+z/	z	
+[human_noise](+noise+)	+noise+	
+sil	sil	
+streets	s(sil,t)b	t(s,r)	r(t,iy)	iy	ts(iy,sil)e	
+sil	sil	
+[noise](+noise+)	+noise+	
+/ae	ae	
+n/	n(ae,g)e	
+goes	g(n,ow)b	ow(g,z)	z(ow,sil)e	
+sil	sil	
+into	ih(sil,n)b	n(ih,t)	t(n,uw)	uw(t,sil)e	
+sil	sil	
+/hh	hh	
+aw(/aw/)	aw(hh,s)e	
+s/	s(aw,sil)e	
+sil	sil	
+[human_noise](+exhale+)	+exhale+	
+sil	sil	
+/ae	ae	
+n/	n(ae,sil)e	
+sil	sil	
+/ih	ih	
+sil	sil	
+ts/	ts	
+sil	sil	
+is(2)	ix(sil,z)b	z(ix,sil)e	
+sil	sil	
+called	k(sil,ao)b	ao(k,l)	l(ao,dd)	dd(l,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+a	ax	
+/f	f	
+l(/l/)	l(f,ao)	
+ao(/ao/)	ao(l,r)e	
+r/	r(ao,sil)e	
+sil	sil	
+[crosstalk](+noise+)	+noise+	
+</s>	sile	

@@ -1,0 +1,16 @@
+farg1ax2:phone> SILb 0.00 2.00 -824042
+farg1ax2:phone> P(SIL,IY)b 3.00 13.00 -2519446
+farg1ax2:phone> IY(P,P) 14.00 23.00 -1288671
+farg1ax2:phone> P(IY,AX) 24.00 33.00 -1501947
+farg1ax2:phone> AX(P,L) 34.00 38.00 -772953
+farg1ax2:phone> L(AX,R)e 39.00 50.00 -1590837
+farg1ax2:phone> R(L,IY)b 51.00 58.00 -1064519
+farg1ax2:phone> IY(R,S) 59.00 64.00 -1046311
+farg1ax2:phone> S(IY,AY) 65.00 80.00 -2713118
+farg1ax2:phone> AY 81.00 94.00 -2410821
+farg1ax2:phone> K 95.00 113.00 -3719401
+farg1ax2:phone> AX(K,L) 114.00 122.00 -1928288
+farg1ax2:phone> L(AX,DD) 123.00 125.00 -645619
+farg1ax2:phone> DD(L,SIL)e 126.00 128.00 -810862
+farg1ax2:phone> SIL 129.00 141.00 -2248149
+farg1ax2:phone> SILe 142.00 488.00 -41721034

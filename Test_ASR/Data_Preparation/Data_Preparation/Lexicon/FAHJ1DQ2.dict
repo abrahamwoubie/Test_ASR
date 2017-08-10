@@ -1,0 +1,41 @@
+<s>	silb	
+long	l(sil,ao)b	ao(l,ng)	ng(ao,ax)e	
+ago	ax(ng,g)b	g(ax,ow)	ow(g,d)e	
+/d	d	
+ay	ay(d,n)	
+n(/n/)	n(ay,ah)e	
+ah(/ah/)	ah	
+s(/s/)	s(ah,ao)e	
+ao(/ao/)	ao(s,r)e	
+r/	r(ao,sil)e	
+sil	sil	
+[human_noise](+noise+)	+noise+	
+/eh/	eh	
+sil	sil	
+/s	s	
+ay	ay(s,ax)s	
+ax(/ax/)	ax(ay,n)s	
+n(/n/)	n(ax,t)e	
+t(/t/)	t(n,ix)	
+ix(/ix/)	ix(t,s)	
+s/	s(ix,f)e	
+/f	f	
+aw	ao	
+sil	sil	
+n/	n	
+/s	s(n,ay)e	
+ay	ay(s,ax)s	
+ax(/ax/)	ax(ay,n)s	
+n(/n/)	n(ax,t)e	
+t(/t/)	t(n,ix)	
+ix(/ix/)	ix(t,s)	
+s/	s(ix,f)e	
+/f	f	
+aw	ao	
+n/	n(ao,ey)e	
+a(2)	ey(n,d)s	
+dinosaur	d(ey,ay)b	ay(d,n)	n(ay,ax)	ax(n,s)	s	ao(s,r)	r(ao,eh)e	
+egg	eh	gd(eh,sil)e	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+</s>	sile	

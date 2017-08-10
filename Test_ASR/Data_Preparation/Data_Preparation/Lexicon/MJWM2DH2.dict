@@ -1,0 +1,41 @@
+<s>	silb	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+/sh/	sh	
+sil	sil	
+/sh	sh	
+iy(/iy/)	iy(sh,sil)e	
+pd(/pd/)	pd(iy,sil)e	
+sil	sil	
+b(/b/)	b	
+ih(/ih/)	ih(b,l)	
+l(/l/)	l(ih,z)e	
+z/	z(l,l)e	
+/l	l	
+ay/	ay(l,sil)s	
+sil	sil	
+[human_noise](+inhale+)	+inhale+	
+/l	l	
+ey/	ey(l,sil)s	
+sil	sil	
+line	l(sil,ay)b	ay(l,n)	n(ay,sil)e	
+sil	sil	
+on(2)	ao(sil,n)b	n(ao,sil)e	
+sil	sil	
+antarctica(2)	ae(sil,n)b	n(ae,t)	t	aa(t,r)	r(aa,kd)	kd	t(kd,ix)	ix(t,k)	k(ix,ax)	ax(k,d)e	
+/d	d	
+ax(/ax/)	ax	
+w(/w/)	w	
+ih(/ih/)	ih(w,ng)	
+ng/	ng(ih,sil)e	
+sil	sil	
+summer	s(sil,ah)b	ah(s,m)	m(ah,axr)	axr(m,sil)e	
+sil	sil	
+[sil]	sil	
+[noise](+noise+)	+noise+	
+sil	sil	
+[noise]	sil	
+sil	sil	
+[sil]	sil	
+sil	sil	
+</s>	sile	

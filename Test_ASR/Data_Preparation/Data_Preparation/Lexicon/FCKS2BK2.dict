@@ -1,0 +1,35 @@
+<s>	silb	
+sil	sil	
+[noise](+exhale+)	+exhale+	
+sil	sil	
+inside(2)	ix(sil,n)b	n(ix,s)	s(n,ay)	ay(s,dd)	dd(ay,dh)e	
+the(2)	dh(dd,ax)b	ax(dh,sh)e	
+shell	sh	eh	l(eh,dh)e	
+the(2)	dh(l,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,dx)	
+dx(/dx/)	dx	
+ah/	ah	
+sil	sil	
+[end_noise]	sil	
+the(2)	dh(sil,ax)b	ax(dh,sh)e	
+shell	sh	eh	l(eh,sil)e	
+sil	sil	
+the(2)	dh(sil,ax)b	ax(dh,sil)e	
+[begin_noise]	sil	
+/k	k	
+ae(/ae/)	ae(k,dx)	
+dx(/dx/)	dx(ae,axr)	
+axr(/axr/)	axr(dx,p)e	
+p(/p/)	p	
+ih(/ih/)	ih	
+l(/l/)	l(ih,er)e	
+er/	er	
+[end_noise]	sil	
+body	b	aa	dx	iy(dx,ch)e	
+changes	ch(iy,ey)b	ey(ch,n)	n(ey,jh)	jh(n,ax)	ax	z(ax,sil)e	
+sil	sil	
+[noise](+inhale+)	+inhale+	
+sil	sil	
+</s>	sile	

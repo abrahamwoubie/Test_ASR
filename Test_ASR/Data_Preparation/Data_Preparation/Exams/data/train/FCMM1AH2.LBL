@@ -1,0 +1,17 @@
+fcmm1ah2:word>                  <s>    0    2        -1303274
+fcmm1ah2:word>                  /AO    3    5         -752452
+fcmm1ah2:word>                    R    6   21        -3502901
+fcmm1ah2:word>                   S/   22   46        -4490894
+fcmm1ah2:word>    [NOISE](+INHALE+)   47  230       -27055304
+fcmm1ah2:word>    [NOISE](+EXHALE+)  231  233         -588927
+fcmm1ah2:word>    [NOISE](+INHALE+)  234  296        -9622698
+fcmm1ah2:word>                 </s>  297  300         -733403
+fcmm1ah2:phone>                 SILb    0    2        -1303274
+fcmm1ah2:phone>                   AO    3    5         -752452
+fcmm1ah2:phone>            AA(AO,R)b    6   16        -2366451
+fcmm1ah2:phone>             R(AA,S)e   17   21        -1136450
+fcmm1ah2:phone>            S(R,SIL)e   22   46        -4490894
+fcmm1ah2:phone>             +INHALE+   47  230       -27055304
+fcmm1ah2:phone>             +EXHALE+  231  233         -588927
+fcmm1ah2:phone>             +INHALE+  234  296        -9622698
+fcmm1ah2:phone>                 SILe  297  300         -733403

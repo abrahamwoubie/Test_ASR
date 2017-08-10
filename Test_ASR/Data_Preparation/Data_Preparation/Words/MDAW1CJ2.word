@@ -1,0 +1,17 @@
+mdaw1cj2:word> <s> 0.00 6.00 -963883
+mdaw1cj2:word> [NOISE](+INHALE+) 7.00 12.00 -1034618
+mdaw1cj2:word> [BEGIN_NOISE] 13.00 25.00 -2272552
+mdaw1cj2:word> /S 26.00 42.00 -2996304
+mdaw1cj2:word> AH(/AH/) 43.00 56.00 -2299572
+mdaw1cj2:word> M(/M/) 57.00 68.00 -2029867
+mdaw1cj2:word> T(/T/) 69.00 78.00 -2206362
+mdaw1cj2:word> AY 79.00 107.00 -4396521
+mdaw1cj2:word> M/ 108.00 110.00 -555019
+mdaw1cj2:word> SIL 111.00 114.00 -817651
+mdaw1cj2:word> OTHER 115.00 152.00 -6380678
+mdaw1cj2:word> [END_NOISE] 153.00 155.00 -806376
+mdaw1cj2:word> FISH 156.00 225.00 -12076795
+mdaw1cj2:word> SIL 226.00 419.00 -23257279
+mdaw1cj2:word> [HUMAN_NOISE](+NOISE+) 420.00 422.00 -446834
+mdaw1cj2:word> SIL 423.00 495.00 -8854541
+mdaw1cj2:word> </s> 496.00 588.00 -12021252

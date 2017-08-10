@@ -1,0 +1,15 @@
+fcmp1ae2:word> <s> 0.00 27.00 -3411384
+fcmp1ae2:word> IT(2) 28.00 51.00 -3459706
+fcmp1ae2:word> SIL 52.00 99.00 -5982598
+fcmp1ae2:word> [BEGIN_NOISE] 100.00 110.00 -1731380
+fcmp1ae2:word> /K 111.00 121.00 -1970337
+fcmp1ae2:word> AE/ 122.00 132.00 -2373333
+fcmp1ae2:word> [END_NOISE] 133.00 159.00 -3377892
+fcmp1ae2:word> HARM 160.00 232.00 -10747966
+fcmp1ae2:word> TREES 233.00 287.00 -6686877
+fcmp1ae2:word> SIL 288.00 292.00 -997240
+fcmp1ae2:word> /AE 293.00 310.00 -3100738
+fcmp1ae2:word> N/ 311.00 321.00 -1784771
+fcmp1ae2:word> BUILDINGS 322.00 398.00 -12160144
+fcmp1ae2:word> [SIL] 399.00 402.00 -646643
+fcmp1ae2:word> </s> 403.00 618.00 -24561721

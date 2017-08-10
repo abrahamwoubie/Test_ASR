@@ -1,0 +1,16 @@
+fmra1bh2:word> <s> 0.00 2.00 -1131909
+fmra1bh2:word> /P 3.00 6.00 -1017355
+fmra1bh2:word> IH/ 7.00 9.00 -651703
+fmra1bh2:word> SIL 10.00 38.00 -4890910
+fmra1bh2:word> PAPER 39.00 117.00 -11945377
+fmra1bh2:word> SIL 118.00 123.00 -1030574
+fmra1bh2:word> [HUMAN_NOISE] 124.00 138.00 -2131954
+fmra1bh2:word> HAS 139.00 213.00 -9963997
+fmra1bh2:word> SIL 214.00 223.00 -2112053
+fmra1bh2:word> AN(2) 224.00 272.00 -7087902
+fmra1bh2:word> SIL 273.00 275.00 -542184
+fmra1bh2:word> IMPORTANT 276.00 376.00 -16293166
+fmra1bh2:word> [HUMAN_NOISE](+INHALE+) 377.00 380.00 -633084
+fmra1bh2:word> SIL 381.00 398.00 -2656200
+fmra1bh2:word> /S/ 399.00 406.00 -1375066
+fmra1bh2:word> </s> 407.00 410.00 -787675

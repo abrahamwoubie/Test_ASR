@@ -1,0 +1,21 @@
+<s>	silb	
+[begin_noise]	sil	
+/p	p	
+eh	eh	
+g(/g/)	g	
+w(/w/)	w	
+ih(/ih/)	ih(w,n)	
+n(/n/)	n(ih,z)e	
+z/	z(n,sil)e	
+[end_noise]	sil	
+/aa/	aa	
+good	g(aa,uh)b	uh(g,dd)	dd(uh,s)e	
+/s	s	
+w(/w/)	w	
+ih(/ih/)	ih	
+m(/m/)	m(ih,axr)e	
+er	axr(m,s)e	
+s/	s	
+[noise](+rustle+)	+rustle+	
+[sil]	sil	
+</s>	sile	

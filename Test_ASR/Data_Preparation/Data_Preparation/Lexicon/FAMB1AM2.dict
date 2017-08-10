@@ -1,0 +1,23 @@
+<s>	silb	
+tornadoes	t(sil,ao)b	ao(t,r)	r(ao,n)	n	ey(n,dx)	dx(ey,ow)	ow	z(ow,sil)e	
+sil	sil	
+/b	b	
+r(/r/)	r(b,ih)	
+ih(/ih/)	ih(r,ng)	
+ng(/ng/)	ng(ih,sil)e	
+sil	sil	
+z/	z	
+[human_noise](+inhale+)	+inhale+	
+sil	sil	
+rain	r(sil,ey)b	ey(r,n)	n(ey,sil)e	
+sil	sil	
+/ae	ae	
+n/	n(ae,b)e	
+big	b(n,ih)b	ih(b,gd)	gd(ih,sil)e	
+[human_noise](+rustle+)	+rustle+	
+sil	sil	
+[begin_whisper]	sil	
+sil	sil	
+/aa/	aa	
+[end_whisper]	sil	
+</s>	sile	

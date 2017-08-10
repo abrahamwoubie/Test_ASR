@@ -1,0 +1,17 @@
+fjtr1ad2:word> <s> 0.00 26.00 -4871215
+fjtr1ad2:word> SIL 27.00 34.00 -1529930
+fjtr1ad2:word> /L 35.00 42.00 -1755497
+fjtr1ad2:word> AY 43.00 60.00 -2987791
+fjtr1ad2:word> SIL 61.00 63.00 -752104
+fjtr1ad2:word> L(/L/) 64.00 68.00 -1183993
+fjtr1ad2:word> SIL 69.00 71.00 -862696
+fjtr1ad2:word> IY(/IY/) 72.00 91.00 -2281265
+fjtr1ad2:word> NG/ 92.00 111.00 -3190247
+fjtr1ad2:word> [BEGIN_NOISE] 112.00 123.00 -1718773
+fjtr1ad2:word> CAN(2) 124.00 190.00 -12809848
+fjtr1ad2:word> [END_NOISE] 191.00 193.00 -722408
+fjtr1ad2:word> [HUMAN_NOISE](+EXHALE+) 194.00 196.00 -534655
+fjtr1ad2:word> [HUMAN_NOISE](+NOISE+) 197.00 199.00 -510322
+fjtr1ad2:word> [SIL] 200.00 204.00 -852735
+fjtr1ad2:word> /HH/ 205.00 207.00 -629211
+fjtr1ad2:word> </s> 208.00 670.00 -57682662
