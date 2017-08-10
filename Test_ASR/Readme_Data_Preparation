@@ -1,4 +1,4 @@
-# The scripts and outputs of the data preparation are found in Data_Preparation_and_Decoding
+# The scripts and outputs of the data preparation are found in Data_Preparation folder
 
 1. Create a vocabulary list for the training set showing the number of times each word occurs, and sort by frequency of occurrence.
 
