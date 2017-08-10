@@ -9,11 +9,10 @@
 	./score_kaldi.sh ./data/test/ ./exp/DNN/graph/ ./exp/DNN/decode/ # It displays the best WER, details about 
 	the WER (i.e., per utterance and per speaker)
 		
-	We can modify the values of min-lmwt,max-lmwt, stage, decode_mbr and word_ins_penalty values.
+	We can modify the values of min-lmwt, max-lmwt, stage, decode_mbr and word_ins_penalty values.
 
 	The Word error rates for different configuration parameters are found ./exp/DNN/decode/
 	The results breakdown per speaker and per word label are found in ./exp/DNN/decode/scoring_kaldi/
-	The log-likelihood scores for each file is found ./exp/DNN/decode/scoring_kaldi/penalty_0.0/log/
 
 3. I used the following binary to file to get the acoustic likelihood and language model costs.
 	
